@@ -1,0 +1,11310 @@
+{
+ "_source": "LootCollector SavedVariables scannerData, harvested 2026-08-27",
+ "_note": "isWF is LootCollector's own Worldforged flag - an INDEPENDENT check on our feed's `source` string. reqLevel is the item's required level as the client reported it.",
+ "count": 1882,
+ "worldforged": 1845,
+ "items": [
+  {
+   "id": 100369,
+   "name": "Worldforged Scroll: Flameburst",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 131059,
+   "name": "Worldforged Scroll: Faerie Blink",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 132418,
+   "name": "Worldforged Scroll: Saber Slash",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 132422,
+   "name": "Worldforged Scroll: Dual Innervation",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 132426,
+   "name": "Worldforged Scroll: Screams of the Past",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 132626,
+   "name": "Worldforged Scroll: Troll Sweat",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 132636,
+   "name": "Worldforged Scroll: Water Geyser",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 132637,
+   "name": "Worldforged Scroll: Disciple of Arugal",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 132690,
+   "name": "Worldforged Scroll: Veil Of Shadows",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 132693,
+   "name": "Worldforged Scroll: Firefall",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 132698,
+   "name": "Worldforged Scroll: Maggot Trap",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 132701,
+   "name": "Worldforged Scroll: Hydra's Venom",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 132704,
+   "name": "Worldforged Scroll: Silence in the Library",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 132723,
+   "name": "Worldforged Scroll: Corrupted Shiv",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 217842,
+   "name": "Bonechopper",
+   "isWF": false,
+   "reqLevel": 30
+  },
+  {
+   "id": 217860,
+   "name": "Shadow Cowl",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 278843,
+   "name": "Flesh Flayer Hook",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 278844,
+   "name": "Andorhal Manual",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 278845,
+   "name": "Reliever's Burden",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 278846,
+   "name": "Plague Mask",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 278847,
+   "name": "Libram of Remembrance",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 278848,
+   "name": "Blightbloom Talisman",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 278849,
+   "name": "Wraithbone Ring",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 278850,
+   "name": "Lost Scout's Idol",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 278851,
+   "name": "Skeletal Club",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 278852,
+   "name": "Infantry Gauntlets",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 278853,
+   "name": "Manacles of Eternal Shadow",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 354059,
+   "name": "Prodigy's Staff",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 354060,
+   "name": "Tarothae's Vow",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 354064,
+   "name": "Cloak of Owlkin Feathers",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 354066,
+   "name": "Crystalline Crown",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 354069,
+   "name": "Scourgewarped Bow",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 354071,
+   "name": "Faded Ward of the East Sanctum",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 354078,
+   "name": "Principles of Cryomancy - Ultimate Edition, Version 2",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 354079,
+   "name": "Fairbreeze Feast",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 354090,
+   "name": "Stillpine Cloak",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 354097,
+   "name": "Dread Satchel",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 354098,
+   "name": "Sigil of the Unmarked Mausoleum",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 354099,
+   "name": "Obsidian Smithing Hammer",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 354100,
+   "name": "Shield of Fading Light",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 354101,
+   "name": "Silkwrapped Cloak",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 354112,
+   "name": "Web Wrappings",
+   "isWF": true,
+   "reqLevel": 16
+  },
+  {
+   "id": 354126,
+   "name": "Bloodwashed Gloves",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 354127,
+   "name": "Flower of Tranquility",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 354128,
+   "name": "Staff of Talons",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 354130,
+   "name": "Venture Co. Logging Axe",
+   "isWF": true,
+   "reqLevel": 19
+  },
+  {
+   "id": 354131,
+   "name": "Ziz's Alchemy Goggles",
+   "isWF": true,
+   "reqLevel": 19
+  },
+  {
+   "id": 354132,
+   "name": "Light of the Talondeep Path",
+   "isWF": true,
+   "reqLevel": 21
+  },
+  {
+   "id": 354133,
+   "name": "Grim Sorcerer Totem",
+   "isWF": true,
+   "reqLevel": 14
+  },
+  {
+   "id": 354134,
+   "name": "Resonite Band",
+   "isWF": true,
+   "reqLevel": 16
+  },
+  {
+   "id": 354135,
+   "name": "Barrel Smasher",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 354136,
+   "name": "Venture Co. Union Buster",
+   "isWF": true,
+   "reqLevel": 19
+  },
+  {
+   "id": 354137,
+   "name": "Woven Ceremonial Belt",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 354138,
+   "name": "Unclaimed Sack",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 354139,
+   "name": "Fire Strike",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 354140,
+   "name": "Bloodfury Feather Cloak",
+   "isWF": true,
+   "reqLevel": 27
+  },
+  {
+   "id": 354141,
+   "name": "Wind Shearer",
+   "isWF": true,
+   "reqLevel": 19
+  },
+  {
+   "id": 354142,
+   "name": "Breastplate of the Current",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 354143,
+   "name": "Boulder Greaves",
+   "isWF": true,
+   "reqLevel": 16
+  },
+  {
+   "id": 354144,
+   "name": "Vengeful Heart",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 354146,
+   "name": "Crimson Dragonscale",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 354147,
+   "name": "Balgaras's Foul Amulet",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 354148,
+   "name": "Wyrmscale Spaulders",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 354149,
+   "name": "Kixxle's Experimental Potion",
+   "isWF": false,
+   "reqLevel": 18
+  },
+  {
+   "id": 354150,
+   "name": "Recipe: Kixxle's Experimental Potion",
+   "isWF": false,
+   "reqLevel": 20
+  },
+  {
+   "id": 354151,
+   "name": "Cursed Legguards of the Intrepid",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 354152,
+   "name": "Cursed Cape of the Wave Mistress",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 354153,
+   "name": "Mossy Hide Armor",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 354154,
+   "name": "Chewed Wrappings",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 354157,
+   "name": "Frightened Kitten",
+   "isWF": false,
+   "reqLevel": 7
+  },
+  {
+   "id": 354159,
+   "name": "Abandoned Boots",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354160,
+   "name": "Shoulderpads of the Conjuror",
+   "isWF": true,
+   "reqLevel": 31
+  },
+  {
+   "id": 354161,
+   "name": "Flamescoured Bow",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354162,
+   "name": "Burning Gauntlets",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354163,
+   "name": "Ritual Robes",
+   "isWF": true,
+   "reqLevel": 31
+  },
+  {
+   "id": 354164,
+   "name": "Blade of Thunder",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 354165,
+   "name": "Moonglow Bag",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 354166,
+   "name": "Shadowprey Bag",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 354167,
+   "name": "Hatefury Skull Totem",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354168,
+   "name": "Hatefury Wand",
+   "isWF": true,
+   "reqLevel": 31
+  },
+  {
+   "id": 354169,
+   "name": "Spear of Hatred",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 354170,
+   "name": "Circlet of Desolation",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354171,
+   "name": "Blade of Dread",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354172,
+   "name": "Woven Flowers",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 354173,
+   "name": "Caravan Guard Vest",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 354174,
+   "name": "Caravan Guard Pauldrons",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 354175,
+   "name": "Sorrow of the Kodo",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354176,
+   "name": "Bone Splitter",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 354177,
+   "name": "Offering to Azshara",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 354178,
+   "name": "Water Seer's Headdress",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 354179,
+   "name": "Diving Boots",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 354180,
+   "name": "Zelyn'Theris",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354181,
+   "name": "Lost Mariner Leggings",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 354182,
+   "name": "Lost Mariner Bracers",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 354183,
+   "name": "Orb of Dawn",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 354184,
+   "name": "Kodo Hide Cloak",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 354185,
+   "name": "Burning Blade Ritual Knife",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 354186,
+   "name": "Heretical Libram",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 354187,
+   "name": "Doomwarden",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 354188,
+   "name": "Pillaged Legguards",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354189,
+   "name": "Gelkis Cleaver",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 354190,
+   "name": "Shell Cracker",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 354191,
+   "name": "Sunken Ring",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 354192,
+   "name": "Gloves of Patience",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 354193,
+   "name": "The Undying Eye",
+   "isWF": true,
+   "reqLevel": 37
+  },
+  {
+   "id": 354194,
+   "name": "Magram Hatchet",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354195,
+   "name": "Crown of the Great Khan",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354196,
+   "name": "Jairal'Kesh, Staff of Summoning",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 354197,
+   "name": "Shadowbreaker",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 354198,
+   "name": "Kodo Hunter",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 354199,
+   "name": "The Winning Javelin",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 354200,
+   "name": "Bone Harvester",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354201,
+   "name": "Buried Bracers",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354202,
+   "name": "Stormpiercer",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 354203,
+   "name": "Maraudine Breastplate",
+   "isWF": true,
+   "reqLevel": 37
+  },
+  {
+   "id": 354204,
+   "name": "Maraudine Cape",
+   "isWF": true,
+   "reqLevel": 37
+  },
+  {
+   "id": 354205,
+   "name": "Maraudine Gloves",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 354206,
+   "name": "Icon of Khan Maraudos",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354207,
+   "name": "Ambereye Amulet",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354208,
+   "name": "Greataxe of Kolk",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354209,
+   "name": "Shadowshard Shield",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354210,
+   "name": "Ring of Arakosh",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354211,
+   "name": "Ring of Korvaix",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 354212,
+   "name": "Antique Alteraci Skirt",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 354213,
+   "name": "Alteraci Avenger",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 354214,
+   "name": "Embrace of the Fifth",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 354215,
+   "name": "Crushridge Fingerguards",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354216,
+   "name": "Battleplate of Crimson Resolve",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354217,
+   "name": "Syndicate Chopping Axe",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354218,
+   "name": "Libram of the Third Host",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354219,
+   "name": "Sentry Shot",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 354220,
+   "name": "Staff of Argus",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 354221,
+   "name": "Icecracker",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354222,
+   "name": "Ogre Toothpick",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 354223,
+   "name": "Frozen Alterac Banner",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 354224,
+   "name": "Frostwatch Defender",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 354225,
+   "name": "Tempered Syndicate Boots",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 354226,
+   "name": "Dandred's Harvester",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 354228,
+   "name": "Cape of the Mire",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 354229,
+   "name": "Fallow Tunic",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 354230,
+   "name": "Kreil's Gauntlets",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 354231,
+   "name": "Sorrow's Light",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 354232,
+   "name": "Grave Leggings",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 354233,
+   "name": "Holy Atal'ai Band",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 354234,
+   "name": "Spear of Emerald",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354235,
+   "name": "Icon of Blood",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354236,
+   "name": "Defiled Necklace",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 354237,
+   "name": "Dragoncarver",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 354239,
+   "name": "Pauldrons of the Ancient Prophet",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 354240,
+   "name": "Kazkaz's Ceremonial Mask",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 354241,
+   "name": "Atal'ai Alchemy Gloves",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 354242,
+   "name": "Sha-Bane Staff",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354243,
+   "name": "Splinterspear Belt",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 354244,
+   "name": "Itharius's Bracers",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 354245,
+   "name": "Biggs's Spare Legguards",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 354246,
+   "name": "Atal'ai Angler Boots",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 354247,
+   "name": "Emerald Tear",
+   "isWF": true,
+   "reqLevel": 37
+  },
+  {
+   "id": 354248,
+   "name": "Idol to Hakkar",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 354249,
+   "name": "Distant Wanderer Pack",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 354250,
+   "name": "Sawtooth Jaw",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 354251,
+   "name": "Signet of Lire'kes",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 354252,
+   "name": "Bracers of Emerald Will",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 354253,
+   "name": "Swamp Talker's Crossbow",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 354254,
+   "name": "Marsh Bonebreaker",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 354255,
+   "name": "Cartographer's Cape",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 354256,
+   "name": "Exile's Amulet",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354257,
+   "name": "Dusksinger Band",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354258,
+   "name": "Choker of Hakkar",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 354259,
+   "name": "Murloc Crown",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354260,
+   "name": "Rusted Shield",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354261,
+   "name": "Marsh Adventurer Boots",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 354262,
+   "name": "Unusual Emerald Scales",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354263,
+   "name": "Robe of Woven Dreams",
+   "isWF": true,
+   "reqLevel": 37
+  },
+  {
+   "id": 354264,
+   "name": "Scout's Bracers",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 354265,
+   "name": "Giant Ruby Eye",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 354266,
+   "name": "The Wanderer's Stirring Rod",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354268,
+   "name": "Everdark Shard",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 354269,
+   "name": "Woodcleaving Axe",
+   "isWF": true,
+   "reqLevel": 37
+  },
+  {
+   "id": 354271,
+   "name": "Drape of the Lost",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 354273,
+   "name": "Vigilant Glaive",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 354275,
+   "name": "On the Importance of Arcane Foci",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 354276,
+   "name": "Bear's Head Apprentice Robe",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 354277,
+   "name": "Totem of Venc",
+   "isWF": true,
+   "reqLevel": 49
+  },
+  {
+   "id": 354278,
+   "name": "Legashi Hellmail",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 354279,
+   "name": "Kim'Jael's \\\"Trustworthy\\\" Boots",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 354280,
+   "name": "Pattern: Blue Dragonscale Armor Kit",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 354283,
+   "name": "Vuna'thell",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 354286,
+   "name": "Recipe: Miru Berry Strudel",
+   "isWF": false,
+   "reqLevel": 48
+  },
+  {
+   "id": 354289,
+   "name": "Mushroom Growth Formula",
+   "isWF": false,
+   "reqLevel": 48
+  },
+  {
+   "id": 354292,
+   "name": "Recipe: Freshly Brewed Firewater",
+   "isWF": false,
+   "reqLevel": 50
+  },
+  {
+   "id": 354293,
+   "name": "Pattern: Flameweave Armor Patch",
+   "isWF": false,
+   "reqLevel": 43
+  },
+  {
+   "id": 354295,
+   "name": "Cardinal Power Crystal",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 354300,
+   "name": "Hexed Staff",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 354312,
+   "name": "Leyline Research",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 354325,
+   "name": "Torn Cloak",
+   "isWF": true,
+   "reqLevel": 59
+  },
+  {
+   "id": 354326,
+   "name": "Hive Regal Claw",
+   "isWF": true,
+   "reqLevel": 59
+  },
+  {
+   "id": 354327,
+   "name": "Hercular's Unstable Orb",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 354328,
+   "name": "Burning Vanguard Hauberk",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 354446,
+   "name": "Bastion of the Fallen",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 354447,
+   "name": "Faded Promise Ring",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 354448,
+   "name": "Veneration to the Ancient Ones",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 354449,
+   "name": "Axe of Slaughter",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 354450,
+   "name": "Bloodied Gauntlets",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 354451,
+   "name": "Vulture Hide Leggings",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 354452,
+   "name": "Betrayal's Edge",
+   "isWF": true,
+   "reqLevel": 27
+  },
+  {
+   "id": 354453,
+   "name": "Banner of the Dark Riders",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 354454,
+   "name": "Reverence of the Ancient Ones",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 354455,
+   "name": "Kire, Exaltation of the Ancient Ones",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 354456,
+   "name": "Girdle of the Shadowslayer",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 354457,
+   "name": "Ariden's Circlet",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 354458,
+   "name": "Branch of Mourning",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 354459,
+   "name": "Aion of Desolation",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 354460,
+   "name": "Pauldrons of Shadow",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 354461,
+   "name": "Celsalia's Luxorious Robes",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 354462,
+   "name": "Shorean's Ironwood Longbow",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 354463,
+   "name": "Ashen Boots",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 354464,
+   "name": "Volkmar's Enchanting Rod",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 354465,
+   "name": "The Master's Bottle",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 354466,
+   "name": "Vintner's Wristguards",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 354467,
+   "name": "Recipe: Miru Berry Wine",
+   "isWF": false,
+   "reqLevel": 58
+  },
+  {
+   "id": 354468,
+   "name": "Bag of Folding",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 354469,
+   "name": "Fragment of K'aresh",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 354472,
+   "name": "Watcher of Tomes",
+   "isWF": false,
+   "reqLevel": null
+  },
+  {
+   "id": 354473,
+   "name": "Slayer's Claymore",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 354474,
+   "name": "Cord of Reverence",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 354475,
+   "name": "Aloof Tauren's Herbs",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 354476,
+   "name": "Bones to Munch",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 354477,
+   "name": "Lookout Scope",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 354478,
+   "name": "Goldenmist Waterblade",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 354479,
+   "name": "Earth Reverent's Sash",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354480,
+   "name": "Staff of the Wind Sisters",
+   "isWF": true,
+   "reqLevel": 29
+  },
+  {
+   "id": 354481,
+   "name": "Needlewind Crossbow",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354482,
+   "name": "Engine Safety Belt",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354483,
+   "name": "Freewind Gloves",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354485,
+   "name": "Warcaster Slippers",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354486,
+   "name": "Dustscour Courier Belt",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354487,
+   "name": "Alteraci Band",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354488,
+   "name": "Shredder's Medallion",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354489,
+   "name": "Syndicate Crossbow",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354490,
+   "name": "Tombbound Warhammer",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354491,
+   "name": "Bloodscalp Cord",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354492,
+   "name": "Tinkering Belt",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354493,
+   "name": "Sky Shot Cloak",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354494,
+   "name": "Bloodsail Longbow",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354495,
+   "name": "Grom'gol Hunting Rifle",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354497,
+   "name": "Wind Ritual Staff",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 354498,
+   "name": "Axe of the Lost",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 354499,
+   "name": "Nightmare's Edge",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354500,
+   "name": "Khazno's Shotgun",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354501,
+   "name": "Crocolisk Hunter's Bow",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 354502,
+   "name": "Wand of the Ancients",
+   "isWF": true,
+   "reqLevel": 37
+  },
+  {
+   "id": 354503,
+   "name": "Sandworn Arcanist Staff",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354504,
+   "name": "Duststorm Sash",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354505,
+   "name": "Cracked Earth Vest",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354506,
+   "name": "Planned Strike Cord",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354507,
+   "name": "Quel'Danil Amulet",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354509,
+   "name": "Sash of Contemplation",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354510,
+   "name": "Ancient Vilebranch Gloves",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354511,
+   "name": "Nightmarish Bracers",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354512,
+   "name": "Fractured Shoulderpads",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354513,
+   "name": "Wand of the Sands",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 354515,
+   "name": "Beezil's Pants",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 354516,
+   "name": "Drywallow Gloves",
+   "isWF": true,
+   "reqLevel": 37
+  },
+  {
+   "id": 354517,
+   "name": "Inscribed Sash",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354518,
+   "name": "Theramore Girdle",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 354519,
+   "name": "Burnt Spaulders",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354521,
+   "name": "Old Theramore Guard Plate",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 354522,
+   "name": "Draenic Longbow",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 354523,
+   "name": "Felshot",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 410010,
+   "name": "Phylactery Shard",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410011,
+   "name": "Wagon Sack",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 410012,
+   "name": "Shimmering Scarlet Cane",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 410013,
+   "name": "Scarlet Overalls",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410014,
+   "name": "Scarlet Slicer",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410015,
+   "name": "Radley's Special Scope",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410016,
+   "name": "Northridge Hatchet",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 410017,
+   "name": "Bloodied Pants",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410018,
+   "name": "Tracker's Plagued Spike",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410019,
+   "name": "Sentinel Sharpshooter",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410020,
+   "name": "Ebonblight Slippers",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 410021,
+   "name": "Burning Judgement",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410022,
+   "name": "Scarlet Band",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410023,
+   "name": "Scarlet Shield",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410024,
+   "name": "Brightflame Codex",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410025,
+   "name": "Scarlet Robe",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410026,
+   "name": "Scarlet Pauldrons",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410027,
+   "name": "Charred Slicer",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410028,
+   "name": "Staff of the Twisted Spirit",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410029,
+   "name": "Scourgestalker's Girdle",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410030,
+   "name": "Bonescourge Dagger",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410031,
+   "name": "Ghoul-Stitched Shoulders",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 410032,
+   "name": "Fetid Mace",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410033,
+   "name": "Graveyard Striker",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410034,
+   "name": "Decayed Grippers",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410035,
+   "name": "Plagued Cloak",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 410036,
+   "name": "Apothecary Cowl",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410038,
+   "name": "Bravecrest Chain",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410039,
+   "name": "Dustsworn Sash",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410040,
+   "name": "Excavator's Pick",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410041,
+   "name": "The Eternal's Journal",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 410042,
+   "name": "Wand of Twilight",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 410043,
+   "name": "Twilight Talisman",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 410044,
+   "name": "Shadow Slinger Pants",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 410045,
+   "name": "Infested Pauldrons",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410046,
+   "name": "Trigdy's Pistol",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410047,
+   "name": "Standard Cenarion Spear",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410048,
+   "name": "Ancient Sentinel Headdress",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410049,
+   "name": "Southwind Defender",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410050,
+   "name": "Runaway's Tunic",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410051,
+   "name": "Darnell's Blade",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410052,
+   "name": "Scarab Smasher",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410055,
+   "name": "Twilight's Presence",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410056,
+   "name": "Geo Band",
+   "isWF": true,
+   "reqLevel": 59
+  },
+  {
+   "id": 410057,
+   "name": "Cursed Ritual Carver",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410058,
+   "name": "Wind Pendant",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410059,
+   "name": "Qiraji Scale Greaves",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410060,
+   "name": "Chitin Thread Wraps",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410061,
+   "name": "Silithic Scale Hauberk",
+   "isWF": true,
+   "reqLevel": 59
+  },
+  {
+   "id": 410062,
+   "name": "Hardened Scarab Gauntlets",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410063,
+   "name": "Soldier's Bulwark",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410064,
+   "name": "Rockstalker Silk Robe",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410065,
+   "name": "Idol of Shifting Sands",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410066,
+   "name": "Sandreaver Longbow",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410067,
+   "name": "Twilight Prophet Staff",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410068,
+   "name": "Scorpionscale Mantle",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410069,
+   "name": "Carapace Clasps",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410070,
+   "name": "Lost Cenarion Bolter",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410071,
+   "name": "Sandstone Sniper",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410072,
+   "name": "Bracers of the Bound Storm",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410073,
+   "name": "Old God Carving",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 410074,
+   "name": "Sandstorm Shaper",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410075,
+   "name": "Brigade Blunderbuss",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 410076,
+   "name": "Purple Steppers",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410077,
+   "name": "Chitinsunder Greataxe",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410079,
+   "name": "Timbermaw Idol",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410080,
+   "name": "Thermal Pendant",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410081,
+   "name": "Researcher's Dish",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410082,
+   "name": "Chillbane Cleaver",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410083,
+   "name": "Winter Band",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410085,
+   "name": "Winter's Last Embrace",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410086,
+   "name": "Fur-Lined Vest",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410087,
+   "name": "Excavator's Buckler",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410088,
+   "name": "Windsong Totem",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410089,
+   "name": "Glacierpaw Bindings",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410090,
+   "name": "Flattened Shoulderpad",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410091,
+   "name": "Snowtalon Crossbow",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410092,
+   "name": "Icemaw Greatmaul",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410093,
+   "name": "Aurorawhirl Pick",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410094,
+   "name": "Frostglade Saber",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410095,
+   "name": "Wailing Talisman",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410096,
+   "name": "Lonely Gauntlets",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410097,
+   "name": "Wintergale Cloak",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410098,
+   "name": "Snowstalker Rifle",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410099,
+   "name": "Frostsaber Halberd",
+   "isWF": true,
+   "reqLevel": 59
+  },
+  {
+   "id": 410100,
+   "name": "Coldsnap Girdle",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410101,
+   "name": "Owlbeast Pantaloons",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410102,
+   "name": "Owlbeast Talon",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410103,
+   "name": "Horror Horns",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410104,
+   "name": "Non-Slip Winter Boots",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410105,
+   "name": "Winterbite Legguards",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410106,
+   "name": "Winterfall Dagger",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410107,
+   "name": "Cold Wristguards",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410108,
+   "name": "Chillhammer",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 410109,
+   "name": "Ice Thistle Cape",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410110,
+   "name": "Hunter's Knife",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410111,
+   "name": "Aurora Orb",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410112,
+   "name": "Stormchill Spaulders",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410113,
+   "name": "Azure Focusing Staff",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410114,
+   "name": "Maddening Signet",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410115,
+   "name": "Eversleet Handguards",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410116,
+   "name": "Frostweave Vestment",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410117,
+   "name": "Starfall Longbow",
+   "isWF": true,
+   "reqLevel": 59
+  },
+  {
+   "id": 410118,
+   "name": "Ice Shaver",
+   "isWF": true,
+   "reqLevel": 59
+  },
+  {
+   "id": 410119,
+   "name": "The Leaping Arc",
+   "isWF": true,
+   "reqLevel": 59
+  },
+  {
+   "id": 410121,
+   "name": "Darkwhisper Spear",
+   "isWF": true,
+   "reqLevel": 59
+  },
+  {
+   "id": 410123,
+   "name": "Hyjal Protector's Knuckleduster",
+   "isWF": true,
+   "reqLevel": 59
+  },
+  {
+   "id": 410124,
+   "name": "Libram of Amphibious Devotion",
+   "isWF": true,
+   "reqLevel": 59
+  },
+  {
+   "id": 410125,
+   "name": "Snowpeak Claymore",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410127,
+   "name": "Cryptfiend Fang",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410128,
+   "name": "Revival Garments",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410129,
+   "name": "Argent Sentry Pauldrons",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410130,
+   "name": "Fungal Cleaver",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410131,
+   "name": "Forbidden Fruit",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410133,
+   "name": "Tainted Wasteblade",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410134,
+   "name": "Resilient Stompers",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410135,
+   "name": "Idol of Breathing Life",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410136,
+   "name": "Deadcapitator",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410137,
+   "name": "Scarlet Doctrine",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410138,
+   "name": "Scarlet Crossbow",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410139,
+   "name": "Scarlet Cauterizer",
+   "isWF": true,
+   "reqLevel": 59
+  },
+  {
+   "id": 410140,
+   "name": "Scorched Runeblade",
+   "isWF": true,
+   "reqLevel": 59
+  },
+  {
+   "id": 410141,
+   "name": "Malleus Haereticorum",
+   "isWF": true,
+   "reqLevel": 59
+  },
+  {
+   "id": 410142,
+   "name": "Ghoulbane Gauntlets",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410143,
+   "name": "The Silver Blade",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410144,
+   "name": "Plague Purger",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410147,
+   "name": "Bubbling Blood of Heroes",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410148,
+   "name": "Ring of Memorial",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410149,
+   "name": "Deathguard Vambraces",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410150,
+   "name": "Cryptsilk Cuffs",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410151,
+   "name": "Adon's Second Blade",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410152,
+   "name": "Watchman Helm",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410153,
+   "name": "Quel'thalas Commander Aegis",
+   "isWF": true,
+   "reqLevel": 59
+  },
+  {
+   "id": 410154,
+   "name": "Plaguebloom Spear",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410155,
+   "name": "Ghost-thread Shroud",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410156,
+   "name": "Red Metal Pauldrons",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410157,
+   "name": "Spiritwoven Vestments",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410158,
+   "name": "Blight Bomber",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410159,
+   "name": "Mushroom Pickin' Bag",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 410160,
+   "name": "Ghost Buster",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410161,
+   "name": "Assisting Hand",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 410162,
+   "name": "Junior Mallet",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410163,
+   "name": "Sorrow Leggings",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 410164,
+   "name": "Gravewood Belt",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410165,
+   "name": "Plague Fiend Chain",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410166,
+   "name": "Wailing Spirit Amulet",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410169,
+   "name": "Havenfire Crown",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410170,
+   "name": "Ravenridge Shotgun",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410171,
+   "name": "Bleakfang Handwraps",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410172,
+   "name": "Gravecall Staff",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410173,
+   "name": "Eboncrypt Band",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410174,
+   "name": "Scourge Cloak",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410175,
+   "name": "Deathwhisper Wand",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410176,
+   "name": "Plagued Pitchfork",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410177,
+   "name": "Shadowgrasp Sash",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410178,
+   "name": "Borelgore's Chewtoy",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410179,
+   "name": "Flamefist Claw",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410180,
+   "name": "Darkflight Totem",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 410181,
+   "name": "Cinderstrike Mace",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410182,
+   "name": "Ashfall Vambraces",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410183,
+   "name": "Dark Iron Handwraps",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410184,
+   "name": "Magmaweave Pantaloons",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410185,
+   "name": "Flamescale Spire",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410186,
+   "name": "Charfall Mantle",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 410187,
+   "name": "Firestorm Cloak",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410188,
+   "name": "Red Chain Belt",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410189,
+   "name": "Ancient Whetstone",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410190,
+   "name": "Volcanic Aegis",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410191,
+   "name": "Inferno Gavel",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410192,
+   "name": "Smolderwing Decapitator",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410193,
+   "name": "Madness Crown",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410194,
+   "name": "Ashenpeak Band",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410195,
+   "name": "Blackrock Side Blade",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410196,
+   "name": "Blackrock Hatchet",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410197,
+   "name": "Blackrock Pike",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410198,
+   "name": "Emberstep Sabatons",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410199,
+   "name": "Charblaze Rifle",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410200,
+   "name": "Spiked Maul",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410201,
+   "name": "Obsidian Boltthrower",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410202,
+   "name": "The Final Strike",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410203,
+   "name": "Grave Offering",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410204,
+   "name": "Burnscorch Wand",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410205,
+   "name": "Wyrmkin Shiv",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410206,
+   "name": "Empty Ogre Loot Sack",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 410207,
+   "name": "Blisterhide Headguard",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410208,
+   "name": "Ashendawn Bow",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 410209,
+   "name": "Lava Absorbing Blade",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410210,
+   "name": "Firegut Emblem",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 410211,
+   "name": "Ashen Cape",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410212,
+   "name": "Moltenflow Tome",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 410213,
+   "name": "Charred Signet",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410214,
+   "name": "Embershard Choker",
+   "isWF": true,
+   "reqLevel": 49
+  },
+  {
+   "id": 410215,
+   "name": "Flamescale Leggings",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410216,
+   "name": "Blazing Ember",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410217,
+   "name": "Smokeshell Gauntlets",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410218,
+   "name": "Cinderthread Sash",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410219,
+   "name": "Bloodspire Staff",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410220,
+   "name": "Infernal Fang",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410221,
+   "name": "Ashstone Robes",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 410222,
+   "name": "Moltengore Spaulders",
+   "isWF": true,
+   "reqLevel": 49
+  },
+  {
+   "id": 410223,
+   "name": "Searsteel Claymore",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 410224,
+   "name": "Charbite Mace",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410225,
+   "name": "Embercarve Greataxe",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410226,
+   "name": "Blackbreach Handaxe",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 410227,
+   "name": "Lavasilk Footpads",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410228,
+   "name": "Magma Poker",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410229,
+   "name": "Firebrand Libram",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 410230,
+   "name": "Searwind Wand",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 410231,
+   "name": "Flayer's Helmet",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 410232,
+   "name": "Sticky Sabatons",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 410233,
+   "name": "Scarlet Blunderbuss",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 410234,
+   "name": "Skippy's Bone",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 410235,
+   "name": "Spiced Rum",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 410238,
+   "name": "Flame-Kissed Wraps",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 415001,
+   "name": "Stromgarde Spell Tome",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415002,
+   "name": "Stromgarde Buckler",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415003,
+   "name": "Caretaker's Burden",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 415004,
+   "name": "Peace of the Dead",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 415005,
+   "name": "Syndicate Shanker",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415006,
+   "name": "Blade of the Syndicate Lord",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415007,
+   "name": "Muffled Boots",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 415008,
+   "name": "Onestone's One Stone",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 415009,
+   "name": "Water Drawing Cap",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 415010,
+   "name": "Musty Horse Blanket",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 415011,
+   "name": "Syndiclap",
+   "isWF": true,
+   "reqLevel": 31
+  },
+  {
+   "id": 415012,
+   "name": "Commode Cleaver",
+   "isWF": true,
+   "reqLevel": 31
+  },
+  {
+   "id": 415013,
+   "name": "Witherbark Headsmasher",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 415014,
+   "name": "The Withered Totem",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 415015,
+   "name": "Rough Weathered Ring",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 415016,
+   "name": "Skullknocker",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415017,
+   "name": "Heavy Tempered Blade",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 415018,
+   "name": "Withered Trollkin Shoulders",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 415019,
+   "name": "Poacher's Bow",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 415020,
+   "name": "Dark Iron Blaster",
+   "isWF": true,
+   "reqLevel": 31
+  },
+  {
+   "id": 415021,
+   "name": "Ancient Dark Iron Mace",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415022,
+   "name": "Stolen War Pendant",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 415023,
+   "name": "Forgotten Fitted Pants",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415024,
+   "name": "Abandonded Wristguard",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 415025,
+   "name": "Interlinked Fingerguards",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415026,
+   "name": "Watchguard's Prized Plate",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415027,
+   "name": "Thunder Infused Offering",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 415028,
+   "name": "Suprisingly Sturdy Helm",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415029,
+   "name": "Ancient Wavepiercer",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 415030,
+   "name": "Boarder's Axe",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 415031,
+   "name": "Circle of Waves Idol",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 415032,
+   "name": "Hammerfall Wristguards",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 415033,
+   "name": "Brumn's Unfinished Project",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415034,
+   "name": "Deadweight Pauldrons",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 415035,
+   "name": "Versatile Fishing Blanket",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 415036,
+   "name": "Offering Pendant",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 415037,
+   "name": "Mountain Climbers",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415038,
+   "name": "Plains Bolter",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415039,
+   "name": "Earth Infused Offering",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 415040,
+   "name": "Loose Treasure Pants",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415041,
+   "name": "Grave Spite",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415042,
+   "name": "Arcane Impaler",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 415043,
+   "name": "Silken Travel Gloves",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 415044,
+   "name": "Flame Infused Offering Band",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 415045,
+   "name": "Mok'rash's Circlet",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 415046,
+   "name": "Hull Breaker",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 415047,
+   "name": "Keelhaul's Saber",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 415048,
+   "name": "Cannon Loaders",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 415049,
+   "name": "Tamas's Black Powder Pouch",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 415050,
+   "name": "Bloodsail Decksweeper",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 415051,
+   "name": "Gorilla Pelt",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 415052,
+   "name": "Blackwater Booty Band",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 415053,
+   "name": "Gorlash's Seaweed Salad",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 415054,
+   "name": "Premium Banana",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 415055,
+   "name": "Pilfered Plate Pants",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415058,
+   "name": "Sea Cleaver",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 415059,
+   "name": "Special Seashell",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 415060,
+   "name": "Buccaneer Shiv",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 415061,
+   "name": "Naga Throwing Trident",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415062,
+   "name": "Jose's Best Slacks",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415063,
+   "name": "Mangled Wraps",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415064,
+   "name": "Sharpened Raptor Tooth",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415065,
+   "name": "A Guide to a Succubus' Darkest Secrets",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 415066,
+   "name": "Pristine Tethis Feather",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415067,
+   "name": "Ancient Sea-dweller Charm",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 415068,
+   "name": "Voodoo Bonemaker",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 415069,
+   "name": "South Sea Dress",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 415070,
+   "name": "Jungle Stalker Pauldrons",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 415072,
+   "name": "Mosh'Ogg Stave",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 415073,
+   "name": "Kal'ai Jewel",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415074,
+   "name": "Ravaged Shoulderpads",
+   "isWF": true,
+   "reqLevel": 37
+  },
+  {
+   "id": 415075,
+   "name": "Bloodscalper",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415076,
+   "name": "Panther Shredders",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415077,
+   "name": "Zul'Kunda Tribe Trophy",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415078,
+   "name": "Wizard Cuffs",
+   "isWF": true,
+   "reqLevel": 37
+  },
+  {
+   "id": 415079,
+   "name": "Yojamba Hex Skull",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415080,
+   "name": "Depleted Elemental Lodestone",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 415081,
+   "name": "Zul'Kunda Blood Ring",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 415082,
+   "name": "Bloodscalp Beastmastery Amulet",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415083,
+   "name": "Zul'Kunda Scout Vest",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 415084,
+   "name": "Bloodscalp Skullpiercer",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 415085,
+   "name": "Jungle Defender",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415087,
+   "name": "Nesingwary Tracking Boots",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 415088,
+   "name": "Riverheart Crest",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415089,
+   "name": "Last Guardian",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 415090,
+   "name": "Jungle Medicine Compendium",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415091,
+   "name": "Jungle Broadblade",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415092,
+   "name": "The Wrangler",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415093,
+   "name": "Shiv of Warm Greetings",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415094,
+   "name": "Witchdoctor Mixing Gloves",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415095,
+   "name": "Kurzen Eviscerator",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415096,
+   "name": "Kurzen Madness Blade",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415097,
+   "name": "Crystallized Shield",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415098,
+   "name": "Gurubashi Trainee Hatchet",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 415099,
+   "name": "Rebel Runners",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 415100,
+   "name": "Axe Swingers",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 415101,
+   "name": "Splinter Guard",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 415102,
+   "name": "Cogwheel Band",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 415103,
+   "name": "Mosh'Ogg Totem",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415104,
+   "name": "Mind's Eye Fragment",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 415105,
+   "name": "Fifth Staff of Mosh'Ogg Magic Circle",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415106,
+   "name": "Thunder Fur Cloak",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 415107,
+   "name": "Skullsplitter Crossbow",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 415108,
+   "name": "Martyr Cross Book",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 415109,
+   "name": "Mystic Druid Idol",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 415110,
+   "name": "Traveler's Lost Bag",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 415111,
+   "name": "Crystallized Amulet",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 415112,
+   "name": "Crystallized Wristguards",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 415113,
+   "name": "The Ironjaw",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 415114,
+   "name": "Stonesplitter",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 415115,
+   "name": "Fallen Gladiator's Shield",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 415116,
+   "name": "Nature's Defiance",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 415117,
+   "name": "Lazy Hat",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 415118,
+   "name": "Jubuwal Witchdoctor Amulet",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415119,
+   "name": "Ring of Accurate Endeavors",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 415120,
+   "name": "Muckrake's Soup Bowl",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 415121,
+   "name": "Coldridge Crusher",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 415122,
+   "name": "Polished Alteraci Breastplate",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 415123,
+   "name": "Blood Soaked Spike",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 415124,
+   "name": "Syndicate Slicer",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 415125,
+   "name": "Feline's Grasp",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415126,
+   "name": "Forgotten Warrior's Pauldrons",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 415127,
+   "name": "Ice-Forged Gauntlets",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 415128,
+   "name": "Tracker's Scope",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 415129,
+   "name": "Totem of the Flowing River",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 415130,
+   "name": "Tribal Pads",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 415131,
+   "name": "Safety Gloves",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 415132,
+   "name": "The Rock Binder",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 415133,
+   "name": "Spark of Infernus",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415134,
+   "name": "Shadowforge Shotgun",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 415135,
+   "name": "Shadowforged Deflector",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 415136,
+   "name": "Toe Hammer",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 415137,
+   "name": "Bloodstained Pendant",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 415138,
+   "name": "Staff of the Earth Guardian",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 415139,
+   "name": "Real Big Bone",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415140,
+   "name": "Garek's Comfortable Robe",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 415141,
+   "name": "Thorkaf's Prototype",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415142,
+   "name": "Deflector's Wargreaves",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415143,
+   "name": "Tomb Seeker",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 415144,
+   "name": "Tombscarred Guardian",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 415145,
+   "name": "Rock Runners",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 415146,
+   "name": "Stonewalker's Totem",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 415147,
+   "name": "Spellpiercing Cloak",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 415148,
+   "name": "Earth Bindings",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415149,
+   "name": "Ogre Fire Poker",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 415150,
+   "name": "Stonebloom Idol",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 415151,
+   "name": "Ogre Cloth",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 415152,
+   "name": "Duelist Gloves",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 415153,
+   "name": "Dustbringer",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 415154,
+   "name": "Focusing Spirit Band",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415155,
+   "name": "Bone Carver",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 415156,
+   "name": "Sunscorched Thrower",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 415157,
+   "name": "Ragescorn Circlet",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 415158,
+   "name": "Unearthed Pauldrons",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415159,
+   "name": "Wind-Worn Longbow",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 415160,
+   "name": "Cowl of the Stone Summoner",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 415161,
+   "name": "Bloodstained Helm",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 450238,
+   "name": "Frostwalker Boots",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450239,
+   "name": "Spicy Candle",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450240,
+   "name": "Lost Adventurer's Ring",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450241,
+   "name": "Forgotten Knapsack",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 450242,
+   "name": "Glinting Necklace",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450243,
+   "name": "Snow Shovel",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450244,
+   "name": "Lumber Axe",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450245,
+   "name": "Lost Mountaineer's Bow",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450246,
+   "name": "Magnus' Mug",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450247,
+   "name": "Chilly Pickaxe",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 450248,
+   "name": "Bone Needle",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450249,
+   "name": "Gnomeregan Spanner",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 450250,
+   "name": "Sailor's Ring",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 450251,
+   "name": "Wendigo Fur Cloak",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 450252,
+   "name": "Frostmane Axe",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450253,
+   "name": "Frozen Finger",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 450254,
+   "name": "Arctic Imbued Stick",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450256,
+   "name": "Claw of Vagash",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450257,
+   "name": "Heavy Ogre Axe",
+   "isWF": true,
+   "reqLevel": 19
+  },
+  {
+   "id": 450258,
+   "name": "Grizlak's Candle",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 450259,
+   "name": "Large Buzzard Talon",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 450260,
+   "name": "Tunnel Rat Pike",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450261,
+   "name": "Miner's League Vest",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 450262,
+   "name": "Sword of Stone",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450263,
+   "name": "Galgosh's Other Bone",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 450264,
+   "name": "Brother's Special Gift",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 450265,
+   "name": "Ol' Blunderbuss",
+   "isWF": true,
+   "reqLevel": 14
+  },
+  {
+   "id": 450266,
+   "name": "Dark Iron Collar",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 450267,
+   "name": "Ogre Loincloth",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 450268,
+   "name": "Frenzy Fin",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450269,
+   "name": "Scrap Shield",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 450270,
+   "name": "Lost Traveler's Ring",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450271,
+   "name": "Frayed Backwrap",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 450272,
+   "name": "Enchanted Scribe's Feather",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 450273,
+   "name": "Crater's Silk Drape",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 450274,
+   "name": "Runed Pantaloons",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 450275,
+   "name": "Charred Greaves",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 450276,
+   "name": "Dusty Sorcerer Hat",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 450277,
+   "name": "Chain of the Forgotten Prisoner",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 450500,
+   "name": "Worn Grunt Axe",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450501,
+   "name": "Abandoned Peon's Sack",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 450502,
+   "name": "Wristguards of the Elements",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450503,
+   "name": "Sturdy Peon Blanket",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450504,
+   "name": "Large Kodo Bone",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450505,
+   "name": "Stolen Tauren Cloak",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450506,
+   "name": "Ancestor's Axe",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450508,
+   "name": "Burning Blade Ring",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450509,
+   "name": "Bloodied Torn Bracers",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 450510,
+   "name": "Travel Sack",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 450511,
+   "name": "Gem of Fortitude",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450512,
+   "name": "Defias Special Bucket",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450513,
+   "name": "Wax Stained Bag",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 450514,
+   "name": "Deadman Walkers",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450515,
+   "name": "Mother's Loose Fang",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450517,
+   "name": "Bones to Gnaw",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450519,
+   "name": "Stormwind Memento",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 450521,
+   "name": "Deadtooth",
+   "isWF": false,
+   "reqLevel": 11
+  },
+  {
+   "id": 450522,
+   "name": "Murloc Voodoo Doll",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450523,
+   "name": "Enchanted Straw Appendage",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 450524,
+   "name": "Lexicon Ring",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450525,
+   "name": "Thunderfall Wand",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 450526,
+   "name": "Thunderfall Hunting Gun",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 450527,
+   "name": "Loop of the Sly Rogue",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450528,
+   "name": "The Candle",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 450529,
+   "name": "Gnoll Subjugator",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450530,
+   "name": "Rot Hide Mantle",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450531,
+   "name": "Ravenous Eye",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450532,
+   "name": "Alchemy Research Notes",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450533,
+   "name": "Rot Hide Harness",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450534,
+   "name": "Stolen Rot Hide Circlet",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450535,
+   "name": "Thule's Curse Parchment",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450536,
+   "name": "Grandpa's Scarlet Blade",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 450537,
+   "name": "Arcane Glinting Shard",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450538,
+   "name": "Ancient Lordaeron Jewel",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450539,
+   "name": "Sack of Pine Seeds",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 450540,
+   "name": "Ivar's Femur",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 450541,
+   "name": "Nightlash Gown",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 450542,
+   "name": "Small Claw of the Meat Wagon",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 450543,
+   "name": "Poison Unguent Extract",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 450544,
+   "name": "Gilnean Monocle",
+   "isWF": true,
+   "reqLevel": 16
+  },
+  {
+   "id": 450545,
+   "name": "Grimson Cloak",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 450546,
+   "name": "Fenris Ring",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 450547,
+   "name": "Ravenclaw Bone Necklace",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 450548,
+   "name": "Corroded Quel'thalas Ring ",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 450549,
+   "name": "Worn Quel'thalas Heirloom",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 450550,
+   "name": "Old Quel'thalas Brooch",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 450551,
+   "name": "Fisherman's Last Wish",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 450552,
+   "name": "Peculiar Gold Nugget",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450553,
+   "name": "Mrlrgrl Pitchfork",
+   "isWF": false,
+   "reqLevel": 13
+  },
+  {
+   "id": 450554,
+   "name": "Rusty Quel'thalas Circlet",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 450555,
+   "name": "Murky Quel'thalas Drape",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450556,
+   "name": "People's Militia Crossbow",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450557,
+   "name": "Stolen Thunderbrew Flask",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450558,
+   "name": "Terrible Defias Mixture",
+   "isWF": false,
+   "reqLevel": 13
+  },
+  {
+   "id": 450559,
+   "name": "Madness Cursed Notes",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450560,
+   "name": "Harvest Golem Scythe",
+   "isWF": false,
+   "reqLevel": 13
+  },
+  {
+   "id": 450561,
+   "name": "People's Militia Badge",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 450562,
+   "name": "Defias Honorcode Memento",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450563,
+   "name": "Defias Sprig",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450564,
+   "name": "Old Defias Gun",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450565,
+   "name": "Defias Assassin Cloak",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450566,
+   "name": "Ring of the Lexicon",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 450567,
+   "name": "Dirtpaw Trousers",
+   "isWF": true,
+   "reqLevel": 19
+  },
+  {
+   "id": 450568,
+   "name": "Yowler's Howl",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 450569,
+   "name": "Dragon Matriarch Cloak",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450570,
+   "name": "Stolen Ilgalar Neckpiece",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 450571,
+   "name": "Blackrock Summoner's Garb",
+   "isWF": true,
+   "reqLevel": 22
+  },
+  {
+   "id": 450572,
+   "name": "Shadowhide Claw",
+   "isWF": true,
+   "reqLevel": 22
+  },
+  {
+   "id": 450573,
+   "name": "Blackrock Render",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 450574,
+   "name": "Three Corner Coil",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450575,
+   "name": "Three Corner Carp",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 450576,
+   "name": "Three Corner Cape",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 450577,
+   "name": "Mrrrllrl Stick",
+   "isWF": true,
+   "reqLevel": 22
+  },
+  {
+   "id": 450578,
+   "name": "Aqualon's Bolt",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 450579,
+   "name": "Thresher's Tooth",
+   "isWF": false,
+   "reqLevel": 16
+  },
+  {
+   "id": 450580,
+   "name": "Ribchaser's Loop",
+   "isWF": false,
+   "reqLevel": 18
+  },
+  {
+   "id": 450581,
+   "name": "Eliza's Pendant",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 450584,
+   "name": "Haunted Bouquet",
+   "isWF": false,
+   "reqLevel": 21
+  },
+  {
+   "id": 450585,
+   "name": "Gutspill Cloak",
+   "isWF": false,
+   "reqLevel": 24
+  },
+  {
+   "id": 450586,
+   "name": "Sack of Regenerating Provisions",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 450587,
+   "name": "Nightwatch Circlet",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 450588,
+   "name": "Dusty Priest Cloak",
+   "isWF": true,
+   "reqLevel": 22
+  },
+  {
+   "id": 450589,
+   "name": "Pack Lead Bone Ring",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 450590,
+   "name": "Defias Night Blade",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 450591,
+   "name": "Vul'Gol Torch",
+   "isWF": true,
+   "reqLevel": 25
+  },
+  {
+   "id": 450592,
+   "name": "Venom Sample",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 450593,
+   "name": "Cursed Toy",
+   "isWF": true,
+   "reqLevel": 25
+  },
+  {
+   "id": 450594,
+   "name": "The Jitters",
+   "isWF": true,
+   "reqLevel": 25
+  },
+  {
+   "id": 450595,
+   "name": "Raven Hill Backscratcher",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 450597,
+   "name": "Casket Will",
+   "isWF": true,
+   "reqLevel": 25
+  },
+  {
+   "id": 450598,
+   "name": "Catacombs Torch",
+   "isWF": true,
+   "reqLevel": 25
+  },
+  {
+   "id": 450599,
+   "name": "Alchemy Visceral Juice",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 450600,
+   "name": "Ruby Skeletal Ring",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 450601,
+   "name": "Poisoned Pendant",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 450602,
+   "name": "Hazard Mantle",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 450603,
+   "name": "Peculiar Root",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 450604,
+   "name": "Darkest Night Loop",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 450605,
+   "name": "Munitions Delivery Package",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 450606,
+   "name": "Emerald Glinting Scale",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 450607,
+   "name": "Hope for Atonement",
+   "isWF": false,
+   "reqLevel": 25
+  },
+  {
+   "id": 450609,
+   "name": "Bristleback Staff",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450610,
+   "name": "Thornmantle Quills",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450611,
+   "name": "Bristleback Quill",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450612,
+   "name": "Brambleblade",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450614,
+   "name": "Venture Co. Unique Concoction",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450615,
+   "name": "Fallen Hardwood Plank",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450616,
+   "name": "Snaggle's Engage Whistle",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450617,
+   "name": "Long Fishing Spear",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 450618,
+   "name": "Windfury Harpy Claw",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 450619,
+   "name": "Galak Smasher",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450620,
+   "name": "Venture Co. Ring",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 450621,
+   "name": "Discarded Wagon Wheel",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 450622,
+   "name": "Interloper's Loop",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 450623,
+   "name": "Lyrath's Pan Flute",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450625,
+   "name": "Sin'dorei Battle Staff",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 450627,
+   "name": "Scourge Blight Staff",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 450631,
+   "name": "Blackpaw Scavenger Pick",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450633,
+   "name": "Fallen Eye Jewel",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 450635,
+   "name": "Second War Axe",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 450639,
+   "name": "Loded Ring",
+   "isWF": true,
+   "reqLevel": 14
+  },
+  {
+   "id": 450640,
+   "name": "Vial of Dread Water",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 450641,
+   "name": "Honor Blade",
+   "isWF": true,
+   "reqLevel": 16
+  },
+  {
+   "id": 450642,
+   "name": "Wailing Sapphire Gem",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450643,
+   "name": "Stylish Cloak",
+   "isWF": true,
+   "reqLevel": 14
+  },
+  {
+   "id": 450644,
+   "name": "Bloody Wedding Ring",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 450645,
+   "name": "Northwatch Hand Cannon",
+   "isWF": true,
+   "reqLevel": 16
+  },
+  {
+   "id": 450646,
+   "name": "Affray Cuirras",
+   "isWF": true,
+   "reqLevel": 14
+  },
+  {
+   "id": 450647,
+   "name": "Captain's Spyglass",
+   "isWF": true,
+   "reqLevel": 14
+  },
+  {
+   "id": 450648,
+   "name": "Overwatch Bow",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 450649,
+   "name": "Special Excavation Lantern",
+   "isWF": true,
+   "reqLevel": 22
+  },
+  {
+   "id": 450650,
+   "name": "Burial Wraps",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450652,
+   "name": "Grave Restoration Mixture",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450653,
+   "name": "All Natural Herbal Potion",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450654,
+   "name": "Recruit's Life Saving Potion",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450657,
+   "name": "Water Wraps",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450658,
+   "name": "Worn Shovel",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450659,
+   "name": "Patrolman's Sword",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450670,
+   "name": "Drumstick",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450671,
+   "name": "Fire Poker",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450672,
+   "name": "Mossy Bag",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 450673,
+   "name": "Moonbathed Necklace",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450674,
+   "name": "Glen Guardian",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450675,
+   "name": "Lily Corsage",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450676,
+   "name": "Tracker's Dagger",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450677,
+   "name": "Webbed Cloak",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450678,
+   "name": "Dripping Fang",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450681,
+   "name": "Rabbit's Paw",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450682,
+   "name": "Spine Hammer",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450683,
+   "name": "Edan's Stripe",
+   "isWF": false,
+   "reqLevel": 7
+  },
+  {
+   "id": 450684,
+   "name": "Salvaged Cannon",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450685,
+   "name": "Dark Iron Vest",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 450686,
+   "name": "Thawed Boots",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450687,
+   "name": "Voodoo Kilt",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 450689,
+   "name": "Centaur Axe",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 450691,
+   "name": "Treasured Cutlass",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 450692,
+   "name": "Logsplitter",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 450694,
+   "name": "Skull Sword",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450696,
+   "name": "Quilbow",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450697,
+   "name": "Raptorscale Cloak",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450700,
+   "name": "Gardening Gloves",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450701,
+   "name": "Defias Cowl",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450703,
+   "name": "Silky Spaulders",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 450705,
+   "name": "Dustrunner Bindings",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450706,
+   "name": "Field Rations",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 450707,
+   "name": "Assassin's Crossbow",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 450709,
+   "name": "Harpy Hunter",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450711,
+   "name": "Sailor's Gambeson",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 450712,
+   "name": "Margoz' Spare Stompers",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450713,
+   "name": "Farm Hands",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 450717,
+   "name": "Conscript's Wraps",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 450718,
+   "name": "Sailor's Cuffs",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 450720,
+   "name": "Retired Grunt's Chainmail",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450721,
+   "name": "Heavy Boots",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450724,
+   "name": "Grunt's Chain Leggings",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450729,
+   "name": "Enchanted Kobold Lantern",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450740,
+   "name": "Skull Ring",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 450741,
+   "name": "Bramble Shield",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450744,
+   "name": "Throwing Rock",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 450745,
+   "name": "Southfury Totem",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 450746,
+   "name": "Burning Blade Mark",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 450748,
+   "name": "Defias Handshake",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450750,
+   "name": "Totem Charged Mace",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 450751,
+   "name": "Retired Shadow Blade",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 450752,
+   "name": "Warsong Timbercleaver",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 450753,
+   "name": "Orcish Fishing Device",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 450755,
+   "name": "Scalper's Sack",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 450756,
+   "name": "Maestra's Training Longbow",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 450757,
+   "name": "Thistlefur Fur Shroud",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 450758,
+   "name": "Old Arcanus Robe",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450762,
+   "name": "Warm Whoolies",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 450767,
+   "name": "Poacher's Crossbow",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450768,
+   "name": "Thunder Hide Tailspike",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 450771,
+   "name": "Padded Vest",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450773,
+   "name": "Flexible Gloves",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 450775,
+   "name": "Field Trousers",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 450780,
+   "name": "Claw Scarred Mail",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450782,
+   "name": "Miner Handwraps",
+   "isWF": true,
+   "reqLevel": 28
+  },
+  {
+   "id": 450788,
+   "name": "String of Ears",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450789,
+   "name": "Firestarter",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 450799,
+   "name": "Apprentice's Harpoon",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450803,
+   "name": "Stormwitch Staff",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 450805,
+   "name": "Furbolg War Drum",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 450806,
+   "name": "Jar of Spiders",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450807,
+   "name": "Bathran's Cursed Twig",
+   "isWF": true,
+   "reqLevel": 19
+  },
+  {
+   "id": 450809,
+   "name": "Jack's Toothpicker",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450812,
+   "name": "Ironbeard's Axe",
+   "isWF": true,
+   "reqLevel": 25
+  },
+  {
+   "id": 450815,
+   "name": "Ravine Sack",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 450816,
+   "name": "Silverwing Grovekeeper's Bow",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 450822,
+   "name": "Party Pants",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450825,
+   "name": "Wizard Wraps",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 450827,
+   "name": "Bristlebow",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 450829,
+   "name": "Nightshot",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 450835,
+   "name": "Suspiciously Brown Trousers",
+   "isWF": true,
+   "reqLevel": 22
+  },
+  {
+   "id": 450838,
+   "name": "Adventurer Gloves",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 450840,
+   "name": "Soldier's Mail",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450850,
+   "name": "Guide to Elven Restoration - Vol. I",
+   "isWF": true,
+   "reqLevel": 21
+  },
+  {
+   "id": 450860,
+   "name": "Rosebud Ring",
+   "isWF": true,
+   "reqLevel": 21
+  },
+  {
+   "id": 450865,
+   "name": "Frostmane Totem",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 450869,
+   "name": "Ulag's Cleaver",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 450870,
+   "name": "Heavy Iron Pan",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450871,
+   "name": "Murder Machete",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450872,
+   "name": "Heavy Logsplitter",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450873,
+   "name": "Woodbreaker Mallet",
+   "isWF": true,
+   "reqLevel": 25
+  },
+  {
+   "id": 450874,
+   "name": "Butchery Blade",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 450877,
+   "name": "Riding Cloak",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450882,
+   "name": "Forgotten Trunks",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 450886,
+   "name": "The \\\"Kodo Egg\\\"",
+   "isWF": false,
+   "reqLevel": 5
+  },
+  {
+   "id": 450909,
+   "name": "Liquid Arcane",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 450910,
+   "name": "Tiloa's Flowers",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 450919,
+   "name": "Officer's Pike",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 450920,
+   "name": "Fel Infused Band",
+   "isWF": true,
+   "reqLevel": 28
+  },
+  {
+   "id": 450923,
+   "name": "Mystral Staff",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 450930,
+   "name": "Haren's Tankard",
+   "isWF": false,
+   "reqLevel": 16
+  },
+  {
+   "id": 450931,
+   "name": "Burial Blade",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450932,
+   "name": "Sharpened Chopper",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 450934,
+   "name": "Sentinel's Blade",
+   "isWF": true,
+   "reqLevel": 14
+  },
+  {
+   "id": 450946,
+   "name": "Untouched Cactus Fruit",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450948,
+   "name": "Bleakheart Piercer",
+   "isWF": true,
+   "reqLevel": 27
+  },
+  {
+   "id": 450979,
+   "name": "Boar Harvester",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 450980,
+   "name": "Rider's Ring",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 450981,
+   "name": "Intact Wagon Wheel",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 450983,
+   "name": "Apprentice Staff",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 450988,
+   "name": "Sturdy Fishing Pole",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 450993,
+   "name": "Delicious Dried Corn",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 451023,
+   "name": "Cursed Fire Scar Pendant",
+   "isWF": true,
+   "reqLevel": 22
+  },
+  {
+   "id": 451024,
+   "name": "Elune Tear Fragment",
+   "isWF": true,
+   "reqLevel": 21
+  },
+  {
+   "id": 451025,
+   "name": "Bloodtooth Neck",
+   "isWF": true,
+   "reqLevel": 25
+  },
+  {
+   "id": 451026,
+   "name": "Repelling Necklace",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 451027,
+   "name": "Swashbuckler's Chain",
+   "isWF": true,
+   "reqLevel": 14
+  },
+  {
+   "id": 451046,
+   "name": "Felforged Meteor Fragment",
+   "isWF": true,
+   "reqLevel": 21
+  },
+  {
+   "id": 451047,
+   "name": "Echo of Aessina",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 451048,
+   "name": "Ursangous' Claw",
+   "isWF": true,
+   "reqLevel": 21
+  },
+  {
+   "id": 451049,
+   "name": "Endless Moonwell Chalice",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 451052,
+   "name": "Etched Tablet",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 451084,
+   "name": "Heavy Bone",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 451085,
+   "name": "Stump Biter",
+   "isWF": true,
+   "reqLevel": 19
+  },
+  {
+   "id": 451088,
+   "name": "The Dark Soul",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 451096,
+   "name": "Garren's Pitchfork",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 451097,
+   "name": "Haunted Ring",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 451098,
+   "name": "Captain's Shield",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 451099,
+   "name": "Murloc Ritual Staff",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 451102,
+   "name": "Peon Motivator",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 451105,
+   "name": "Waterlogged Musket",
+   "isWF": true,
+   "reqLevel": 21
+  },
+  {
+   "id": 451107,
+   "name": "Travel Sack",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 451111,
+   "name": "Defias Shanker",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 451114,
+   "name": "Sharpened Pike",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 451117,
+   "name": "Defias Magus Staff",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 451123,
+   "name": "Drudger Smash",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 451125,
+   "name": "Lohgan's Best Bag",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 451129,
+   "name": "Defias Toe Knife",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 451401,
+   "name": "Billy Bag",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 451993,
+   "name": "Arcane-Tinged Flower",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 460000,
+   "name": "Dwarven Demolition Kit",
+   "isWF": true,
+   "reqLevel": 29
+  },
+  {
+   "id": 500658,
+   "name": "Shockzip's Saw Blade",
+   "isWF": false,
+   "reqLevel": 30
+  },
+  {
+   "id": 500659,
+   "name": "Ironhew's Spare Chopper",
+   "isWF": false,
+   "reqLevel": 5
+  },
+  {
+   "id": 500662,
+   "name": "Kargan's Mask",
+   "isWF": false,
+   "reqLevel": 8
+  },
+  {
+   "id": 500663,
+   "name": "Icehide Cloak",
+   "isWF": false,
+   "reqLevel": 8
+  },
+  {
+   "id": 500813,
+   "name": "Melika's Ring",
+   "isWF": false,
+   "reqLevel": 5
+  },
+  {
+   "id": 500814,
+   "name": "Goldshire Traveler's Boots",
+   "isWF": false,
+   "reqLevel": 5
+  },
+  {
+   "id": 500815,
+   "name": "Defias Turncoat's Jerkin",
+   "isWF": false,
+   "reqLevel": 3
+  },
+  {
+   "id": 500816,
+   "name": "Supply Runner's Pants",
+   "isWF": false,
+   "reqLevel": 5
+  },
+  {
+   "id": 500817,
+   "name": "Scholar's Ring of Enlightenment",
+   "isWF": false,
+   "reqLevel": 15
+  },
+  {
+   "id": 500818,
+   "name": "Minervia's Pendant of Atonement",
+   "isWF": false,
+   "reqLevel": 15
+  },
+  {
+   "id": 500819,
+   "name": "Tome of Second Chances",
+   "isWF": false,
+   "reqLevel": 15
+  },
+  {
+   "id": 500823,
+   "name": "Verdant Ember Loop",
+   "isWF": false,
+   "reqLevel": 55
+  },
+  {
+   "id": 515003,
+   "name": "Tarantula Hunter Rifle",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515004,
+   "name": "Solliden Family Broom",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 515005,
+   "name": "Misplaced Pitchfork",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 515006,
+   "name": "Washed Ashore Bottle",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 515007,
+   "name": "Old Wagon Wheel",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 515008,
+   "name": "Puddle-jumper Dagger",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 515009,
+   "name": "Dalaran Mage Garb",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 515010,
+   "name": "Evil-Infused Cuffs",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 515011,
+   "name": "Deathstalker Cloak",
+   "isWF": true,
+   "reqLevel": 21
+  },
+  {
+   "id": 515012,
+   "name": "Forsaken Stone Braid",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 515013,
+   "name": "Gravedigger's Delight",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 515014,
+   "name": "Agamand Farmer Trousers",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 515015,
+   "name": "Apothecary's Lantern",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 515016,
+   "name": "Haunted Mace",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 515017,
+   "name": "Faulty Stone Golem",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 515018,
+   "name": "Dwarven Explosive Barrel",
+   "isWF": true,
+   "reqLevel": 28
+  },
+  {
+   "id": 515019,
+   "name": "Leftover Mining Trousers",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515020,
+   "name": "Scarlet Insignia",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 515021,
+   "name": "Windshaper Wraps",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 515022,
+   "name": "Old Snapjaw Shell",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 515023,
+   "name": "Timelost Captain Shield",
+   "isWF": true,
+   "reqLevel": 25
+  },
+  {
+   "id": 515024,
+   "name": "Hillsbrad Shovel",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 515025,
+   "name": "Mudsnout Effigy",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515026,
+   "name": "Deadman's Dagger",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 515027,
+   "name": "Eroded Pit Fighter Knuckles",
+   "isWF": true,
+   "reqLevel": 22
+  },
+  {
+   "id": 515028,
+   "name": "Twilight Bands",
+   "isWF": true,
+   "reqLevel": 19
+  },
+  {
+   "id": 515029,
+   "name": "Furbolg War-drum",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 515030,
+   "name": "Empty Satchel",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 515031,
+   "name": "Suspicious Deathcap",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 515032,
+   "name": "Agamand Walking Stick",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 515034,
+   "name": "Moon-gnawed Bone Spire",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 515035,
+   "name": "Blackwood Torch",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 515036,
+   "name": "Hunk of Darkshore Driftwood",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 515037,
+   "name": "Fanatic's Cursed Blade",
+   "isWF": true,
+   "reqLevel": 19
+  },
+  {
+   "id": 515038,
+   "name": "Ancient Highborne Tome",
+   "isWF": true,
+   "reqLevel": 19
+  },
+  {
+   "id": 515039,
+   "name": "Ancient Family Heirloom",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 515040,
+   "name": "Uncovered Highborne Scroll",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 515041,
+   "name": "Foreman's Lightcap",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515042,
+   "name": "Shipwrecked Crate",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 515043,
+   "name": "Waterlogged Sparkler",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 515044,
+   "name": "Docile Night Web Hatchling",
+   "isWF": false,
+   "reqLevel": 7
+  },
+  {
+   "id": 515045,
+   "name": "Tide Turner",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 515046,
+   "name": "Enchanted Flora Waist",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 515047,
+   "name": "Unpleasant Ring",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 515143,
+   "name": "Moonlight Infused Band",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 515144,
+   "name": "Wild Tracker Bindings",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 515145,
+   "name": "Seamstress Scissors",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515146,
+   "name": "Heartwood Cleaver",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 515147,
+   "name": "Lakebottom Treads",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 515148,
+   "name": "Shen'dralar Staff",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515149,
+   "name": "Stolen Highborne Spaulders",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 515150,
+   "name": "Grasping Claw",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 515151,
+   "name": "Tome of the Valiant",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 515152,
+   "name": "Ogre Cleaver",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515153,
+   "name": "Gordunni Thumbtack",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 515154,
+   "name": "Gnoll-Gnawed Bone Bat",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 515155,
+   "name": "Grim Totem",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515156,
+   "name": "Grimtotem Outrider's Vest",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515157,
+   "name": "Grimtotem Relic",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515158,
+   "name": "Worn Angler Cord",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515159,
+   "name": "Savage Crossbow",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 515160,
+   "name": "Gnoll Stompers",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515161,
+   "name": "Bench Breaker",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515162,
+   "name": "Secluded Soothsayer's Pipes",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515163,
+   "name": "Ambercoil Pendant",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515164,
+   "name": "Silithid Husk Shield",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515165,
+   "name": "Shimmering Silithid Carapace",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515166,
+   "name": "Bug Catchers",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515167,
+   "name": "Beastpile Drape",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515168,
+   "name": "Long-Clawed Gnoll Paw",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515169,
+   "name": "Nightfallen Longbow",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515170,
+   "name": "Denrunner Tomahawk",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515171,
+   "name": "Torn Hide Spaulders",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515172,
+   "name": "Woodpaw Greatblade",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515173,
+   "name": "Orb of Isildien Echoes",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515174,
+   "name": "Shattered Highborne Blade",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515175,
+   "name": "Isildien Tender's Wand",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515176,
+   "name": "Runestone Figurine",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515177,
+   "name": "Ogre Kneepad",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515178,
+   "name": "Necklace of the Sunken Empire",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515179,
+   "name": "Rotted Yolk",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515180,
+   "name": "Moonwell Drops",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515181,
+   "name": "Yeti Napkin",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515182,
+   "name": "Shen'dralar Slicer",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515183,
+   "name": "Moon-Infused Breeches",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515184,
+   "name": "Sentinel Wrap",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515185,
+   "name": "Zapping Rod",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515186,
+   "name": "Strider Shot",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515187,
+   "name": "Strider Waist Piece",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515188,
+   "name": "Band of Scales",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515189,
+   "name": "Solarsal Pendant",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 515190,
+   "name": "Tidebaron's Sigil",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515191,
+   "name": "Hatestrike",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515192,
+   "name": "Tanner Gloves",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515193,
+   "name": "Thunderfur Cloak",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515194,
+   "name": "Crown of Stone",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515195,
+   "name": "Dormant Dreamscale",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515196,
+   "name": "Ravenwind Fangblade",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515197,
+   "name": "Gilded Stone Bulwark",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515198,
+   "name": "Ancient Elvish Bag",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 515199,
+   "name": "Ravenwind Codex",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515200,
+   "name": "Zaetar's Lost Heirloom",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515201,
+   "name": "Staff of Twin Blossoms",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515202,
+   "name": "Forgotten Wristguards",
+   "isWF": true,
+   "reqLevel": 49
+  },
+  {
+   "id": 515203,
+   "name": "Night Sentinel's Aim",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515204,
+   "name": "Bloodscorn Ritual Kris",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515205,
+   "name": "Accursed Yeti Horn",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515206,
+   "name": "Buccaneer's Barrier",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515207,
+   "name": "Durn's Loot Bag",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 515208,
+   "name": "Scorched Bindings",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 515209,
+   "name": "Corrupted Dragon Eye",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 515210,
+   "name": "Greedy Fool's Potion",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 515211,
+   "name": "Blackhoof Warmaul",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 515212,
+   "name": "Missing Apprentice Wand",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 515213,
+   "name": "Venomsilk Spellblade",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 515214,
+   "name": "Mudcrush Shoulders",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 515215,
+   "name": "Singed Flintlock",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 515216,
+   "name": "Deserter's Last Resort",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 515217,
+   "name": "Bloodfen Prowler Vest",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 515218,
+   "name": "Bloodfen Talon",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 515219,
+   "name": "Emberstring Drakebow",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 515220,
+   "name": "Denflame Channeler",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 515221,
+   "name": "Enchanted Dragon Bone",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 515222,
+   "name": "Scalebane Pendant",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515223,
+   "name": "Emberscale Greatsword",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515224,
+   "name": "Emberheart Talisman",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515225,
+   "name": "Wheel of Misfortune",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 515226,
+   "name": "Tidefury Cutlass",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 515227,
+   "name": "Buzzcoil Tongs",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 515228,
+   "name": "Cylla's Endless Potion",
+   "isWF": true,
+   "reqLevel": 38
+  },
+  {
+   "id": 515229,
+   "name": "Stonemaul Crusher's Girdle",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 515230,
+   "name": "Marshfall Mantle",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 515231,
+   "name": "Salt Scoured Boarding Axe",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 515232,
+   "name": "Spotter's Rifle",
+   "isWF": true,
+   "reqLevel": 39
+  },
+  {
+   "id": 515233,
+   "name": "Crokolisk Hunter",
+   "isWF": true,
+   "reqLevel": 37
+  },
+  {
+   "id": 515234,
+   "name": "Primitive Murloc Skewer",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 515235,
+   "name": "Muck Trudgers",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 515236,
+   "name": "Northpoint Helmet",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 515237,
+   "name": "Brackish Spellweave Robe",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 515238,
+   "name": "Sturdy Coffin Lid",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 515239,
+   "name": "Swamplight Concoction",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 515240,
+   "name": "Bogcaller Totem",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 515241,
+   "name": "Idol of the Brooding Shadow",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515242,
+   "name": "Tome of Sundered Souls",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515243,
+   "name": "Shadowsilk Seared Cuirass",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515244,
+   "name": "Golem Chunk",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515245,
+   "name": "Shoulderpads of Deep Thinking",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515246,
+   "name": "Glassweb Ward Shroud",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515247,
+   "name": "Caravan Crossbow",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515248,
+   "name": "Dorius' Shield",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515249,
+   "name": "Stomped Diary",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515251,
+   "name": "Magma Petting Mittens",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515252,
+   "name": "Dark Iron Leatherpads",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515253,
+   "name": "Scorching Lodepebble",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515254,
+   "name": "Scorched Greatblade",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515255,
+   "name": "Dark Iron Slippers",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515256,
+   "name": "Fire Poker",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515257,
+   "name": "Steam Pressure Totem",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515258,
+   "name": "Eye of Twilight",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515259,
+   "name": "Disciplinary Rifle",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515260,
+   "name": "Contraband Magician Rod",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515261,
+   "name": "Zamael's Corrupted Twilight",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515262,
+   "name": "Slave Band",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515263,
+   "name": "Dark Iron Scorcher",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515264,
+   "name": "Heavy War Golem Rune",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515265,
+   "name": "Freedom Falchion",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515266,
+   "name": "Slave Worker Pantaloons",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515267,
+   "name": "Break-time Gloves",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515268,
+   "name": "Dark Iron Loop",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515269,
+   "name": "Incendosaur Bone String",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515270,
+   "name": "Dark Iron Legplates",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515271,
+   "name": "Dark Iron Wristbands",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515272,
+   "name": "Elder Pipe",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515273,
+   "name": "Overseer's Mystic Wrench",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515274,
+   "name": "Molten Fang Tooth",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515275,
+   "name": "Scorched Mail Tunic",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515276,
+   "name": "Cogbolt's Special",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515277,
+   "name": "Burned Blade Shiv",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515278,
+   "name": "Dark Iron Hood",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515279,
+   "name": "Sharp Chain Belt",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515281,
+   "name": "Nethergarde Mining Cap",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515282,
+   "name": "Mo'arg Saw Shield",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515283,
+   "name": "Nethergarde Foreman Chest",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515284,
+   "name": "Runed Ogre Wrap",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515285,
+   "name": "Ogre Finger Sleeve",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515286,
+   "name": "Old War Wraps",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515287,
+   "name": "Orcish Demon Slayer",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515288,
+   "name": "Elvish Demon Reaver",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515289,
+   "name": "Demon Claw",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515290,
+   "name": "Evoker's Twisted Coil",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515291,
+   "name": "Shadowsworn Reaper",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515292,
+   "name": "Collector's Junk",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515293,
+   "name": "Dreadweaver",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515294,
+   "name": "Dreadmaul Head Smasher",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515295,
+   "name": "Charred Slicer",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515296,
+   "name": "Demon Kickers",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515297,
+   "name": "Crude Voodoo Doll",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 515298,
+   "name": "Doomlord Slasher",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 515299,
+   "name": "Pauldron of the First War",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515300,
+   "name": "Cursed Drape",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515301,
+   "name": "Ancient Dragonmaw Token",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515302,
+   "name": "Fallen Soldier's Shank",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515303,
+   "name": "Doom Pendant",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 515304,
+   "name": "Bloodmage Coil",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515305,
+   "name": "Lost Faith",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515306,
+   "name": "Portal Fragment",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515312,
+   "name": "Ror's Wrecker",
+   "isWF": true,
+   "reqLevel": 49
+  },
+  {
+   "id": 515313,
+   "name": "Timelost Vestments",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515314,
+   "name": "Emerald Circle Charm",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515315,
+   "name": "Jadefire Bone Breaker",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515316,
+   "name": "Lost Shipment Wristguards",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515317,
+   "name": "Jadefire Piercer",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515318,
+   "name": "Felhound Tendril",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515319,
+   "name": "Bubbling Fel Mixture",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515320,
+   "name": "Silverhand Spaulders",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515321,
+   "name": "Xorothian Slippers",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 515322,
+   "name": "Jaednar Spire",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515323,
+   "name": "Bottled Oozeling",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 515324,
+   "name": "Infernal Tender",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515325,
+   "name": "Highborne Carver",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515326,
+   "name": "Niby's Training Collar",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515327,
+   "name": "Umbral Stalker's Tarp",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515328,
+   "name": "Fallen Sentinel's Leggings",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515329,
+   "name": "Ironwood Cap",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515330,
+   "name": "Sindelle's Fuzzy Cuffs",
+   "isWF": true,
+   "reqLevel": 49
+  },
+  {
+   "id": 515331,
+   "name": "Heart of the Warpwood",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515333,
+   "name": "Crystal of Cruel Corruption",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515334,
+   "name": "Talonbranch Sweeper",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515336,
+   "name": "Timbermaw Defender",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515337,
+   "name": "Timbermaw Girdle",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515338,
+   "name": "Ring of Purity",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515339,
+   "name": "Necklace of Purity",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515340,
+   "name": "Acid Bolter",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515341,
+   "name": "Fel Cleaver",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515342,
+   "name": "Bitterbranch Claymore",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515343,
+   "name": "Rotwood Sabre",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515354,
+   "name": "Dinosaur Tranquilizer",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515355,
+   "name": "Boom-Bling Choker",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515356,
+   "name": "Cenarion Dreamcatcher",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515357,
+   "name": "Marsh Shooter",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515358,
+   "name": "Mystic Geode",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515360,
+   "name": "Bug Repellant",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515361,
+   "name": "Bonechipper Dagger",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515362,
+   "name": "Jane's Lucky Hat",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515363,
+   "name": "Silverback Cape",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515364,
+   "name": "Tongs of Miscalibration",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515365,
+   "name": "Pylon Charged Staff",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515366,
+   "name": "Lost Fighter's Crossbow",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515367,
+   "name": "Talon Ripper",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515368,
+   "name": "Brand New Bikini",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515369,
+   "name": "Idol of the Terror Claw",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515370,
+   "name": "Dino Wacker",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515371,
+   "name": "Wrangler's Cord",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515372,
+   "name": "Thunderstomp Scale",
+   "isWF": true,
+   "reqLevel": 57
+  },
+  {
+   "id": 515373,
+   "name": "Doomfall Spark",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515374,
+   "name": "Retired Hero's Helm",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515375,
+   "name": "Pterrodax Scale Cloak",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515376,
+   "name": "Shifting Form",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515377,
+   "name": "Serpent Spine Pauldrons",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515378,
+   "name": "Sparkshard Necklace",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515379,
+   "name": "Egg Thief's Handwraps",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515380,
+   "name": "Qiraji Stinger",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515381,
+   "name": "Cindersguard Saber",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515382,
+   "name": "Ringo's Star",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515383,
+   "name": "One Ring to Flame Them All",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 515384,
+   "name": "Ember Crown",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 515385,
+   "name": "Blaze Runners",
+   "isWF": true,
+   "reqLevel": 56
+  },
+  {
+   "id": 515386,
+   "name": "Totem of Scorching Sparks",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515387,
+   "name": "Molten Fang",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515388,
+   "name": "Slightly Sticky Cloak",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515389,
+   "name": "Golakka Scoured Legguards",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515390,
+   "name": "Ballast Laden Pauldrons",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515391,
+   "name": "Campsite Shrapnel",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515392,
+   "name": "Carapace Plated Chest",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515393,
+   "name": "Carapace Cracker",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515394,
+   "name": "Crystal Fused Carapace",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515395,
+   "name": "Gorishi Antenna",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515396,
+   "name": "Cord of Living Vines",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515397,
+   "name": "Elegantly Designed Cuffs",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515398,
+   "name": "Silithid Ritual Robe",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515399,
+   "name": "Ravasaur Talon",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515400,
+   "name": "Tawana's Spare Axe",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515401,
+   "name": "Caravaneer's Machete",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515402,
+   "name": "Marsh Treaders",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515403,
+   "name": "Caravan Utility Hammer",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515404,
+   "name": "Jungle String Bow",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515405,
+   "name": "Lucky Fisherman's Breeches",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515406,
+   "name": "Water Dredger's Wrap",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515407,
+   "name": "Expedition Bracers",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515408,
+   "name": "Hidden Stash",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 515409,
+   "name": "Hexweave Gloves",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515410,
+   "name": "Fossilized Smasher",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515411,
+   "name": "Goblin Plant Slicer",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515413,
+   "name": "Spring Shard",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515414,
+   "name": "Libram of Ancient Warding",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 515415,
+   "name": "Prancefin Ring",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 515425,
+   "name": "Nightsong Waraxe",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515426,
+   "name": "Mystral Compass",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 515427,
+   "name": "Fine Silk Wraps",
+   "isWF": true,
+   "reqLevel": 27
+  },
+  {
+   "id": 515428,
+   "name": "Teldrassil Begonias",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 515429,
+   "name": "Torn Spellbook Page",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 515430,
+   "name": "Arlithrien Moon Orb",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 515431,
+   "name": "Lunar Tome",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 515432,
+   "name": "Whisperwind Boots",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 515433,
+   "name": "Timberling Dagger",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 515434,
+   "name": "Starfall Edge",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 515435,
+   "name": "Blade of the Submerged Moon",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 515436,
+   "name": "Whisperwind Heirloom",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 515437,
+   "name": "Timberbane Axe",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 515438,
+   "name": "Lifesap Blade",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 515439,
+   "name": "Spirited Cane",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 515440,
+   "name": "Blade of Severed Souls",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 515441,
+   "name": "Abandoned Fishing Rod",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 515442,
+   "name": "Rock Smasher",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 515444,
+   "name": "Dirge of the Dead",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 515466,
+   "name": "Alchemist's Ladel",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515502,
+   "name": "Failed Parachute",
+   "isWF": true,
+   "reqLevel": 25
+  },
+  {
+   "id": 515503,
+   "name": "Forgotten Pauldron",
+   "isWF": true,
+   "reqLevel": 28
+  },
+  {
+   "id": 515504,
+   "name": "Grimtotem Darkblade",
+   "isWF": true,
+   "reqLevel": 28
+  },
+  {
+   "id": 515505,
+   "name": "Centaur Mining Axe",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515506,
+   "name": "Galak Chicken Smasher",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515507,
+   "name": "Wyvern Trapper Spear",
+   "isWF": true,
+   "reqLevel": 28
+  },
+  {
+   "id": 515508,
+   "name": "Highperch Necklace",
+   "isWF": true,
+   "reqLevel": 28
+  },
+  {
+   "id": 515509,
+   "name": "Darkcloud Braid",
+   "isWF": true,
+   "reqLevel": 28
+  },
+  {
+   "id": 515510,
+   "name": "Deadman's Signet",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515511,
+   "name": "Drowned Diver's Ring",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515512,
+   "name": "Grimtotem Jaw Smasher",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515513,
+   "name": "Galak Shortbow",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515514,
+   "name": "Cursed Elemental Scepter",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515515,
+   "name": "Slightly Magical Kodo Bone",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515516,
+   "name": "Darkcloud Totem",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515517,
+   "name": "Highlands Vest",
+   "isWF": true,
+   "reqLevel": 29
+  },
+  {
+   "id": 515518,
+   "name": "Caravaner's Bracers",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515519,
+   "name": "Pack Kodo Satchel",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 515520,
+   "name": "Cloud Serpent Feather",
+   "isWF": true,
+   "reqLevel": 27
+  },
+  {
+   "id": 515524,
+   "name": "Scuba Slayer's Blade",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515525,
+   "name": "Drowned Diver's Helm",
+   "isWF": true,
+   "reqLevel": 26
+  },
+  {
+   "id": 515528,
+   "name": "Tahonda Gauntlets",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 515529,
+   "name": "Pirate's Mail",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 515530,
+   "name": "Abandoned Moonshine",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 515531,
+   "name": "Pip's Rad Stone",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 515532,
+   "name": "Survivor's Trousers",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 515533,
+   "name": "Kodo War Drum",
+   "isWF": true,
+   "reqLevel": 35
+  },
+  {
+   "id": 515534,
+   "name": "Silithid Bug Blaster",
+   "isWF": true,
+   "reqLevel": 34
+  },
+  {
+   "id": 515535,
+   "name": "Isolated Inventor's Bulk",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 515536,
+   "name": "Runway Scraper",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 515537,
+   "name": "U.L.T.R.A Racing Goggles",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 515539,
+   "name": "Ancient Jeweler's Staff",
+   "isWF": true,
+   "reqLevel": 33
+  },
+  {
+   "id": 515540,
+   "name": "Goblin Racing Boots",
+   "isWF": true,
+   "reqLevel": 32
+  },
+  {
+   "id": 515541,
+   "name": "The Tickler",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 515542,
+   "name": "Sizzling Potion",
+   "isWF": true,
+   "reqLevel": 30
+  },
+  {
+   "id": 515599,
+   "name": "Sacrificial Carver",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515600,
+   "name": "Legashi Bracers",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515601,
+   "name": "Eldara's Stargazer",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515602,
+   "name": "Gauntlets of the Overlook",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515603,
+   "name": "Cliffwalker Legplates",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515604,
+   "name": "Lyre of the Grand Scribe",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515605,
+   "name": "The Wrath of Arkkoroc",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515606,
+   "name": "Idol of the Ocean's Depths",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515607,
+   "name": "Hydraxian Staff",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515608,
+   "name": "Ravencrest Signet",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515609,
+   "name": "Spitelash Waistguards",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515610,
+   "name": "Vanessa's Eyepatch",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515611,
+   "name": "Hydra Hide Belt",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515612,
+   "name": "Cilkeck's Gloves",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515613,
+   "name": "Necklace of Unbroken Waves",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515614,
+   "name": "Shahiar's Lost Horn",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515615,
+   "name": "Deep Hydra's Scales",
+   "isWF": true,
+   "reqLevel": 54
+  },
+  {
+   "id": 515616,
+   "name": "Scalebeard's Old Shell",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515617,
+   "name": "Stormslicer",
+   "isWF": true,
+   "reqLevel": 53
+  },
+  {
+   "id": 515618,
+   "name": "Thalassian Circlet",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515619,
+   "name": "Azure Will",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515620,
+   "name": "Crystalized Shield",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515621,
+   "name": "Imitation of Zin-Eldari",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515622,
+   "name": "Claws of the Lion",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515623,
+   "name": "Might of Azshara",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515624,
+   "name": "Beth'Amara Shard",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515625,
+   "name": "Markri Turret",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515626,
+   "name": "Shoulderguards of Zin-Malor",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515627,
+   "name": "Claws of the Bear",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515628,
+   "name": "The Bear Feet",
+   "isWF": true,
+   "reqLevel": 49
+  },
+  {
+   "id": 515629,
+   "name": "Spitelash Warbanner",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515630,
+   "name": "Burning Band",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515631,
+   "name": "Ruinbreaker",
+   "isWF": true,
+   "reqLevel": 49
+  },
+  {
+   "id": 515632,
+   "name": "Hand of the Cliffs",
+   "isWF": true,
+   "reqLevel": 52
+  },
+  {
+   "id": 515633,
+   "name": "Elune's Glow",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 515634,
+   "name": "Ish'thel Falesh, Gaze of Eldara",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515676,
+   "name": "The Compliance Crusher",
+   "isWF": true,
+   "reqLevel": 36
+  },
+  {
+   "id": 515677,
+   "name": "Salma's Summer Dress",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 515678,
+   "name": "Field Boots",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 515679,
+   "name": "Pumpkin Smashers",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 515680,
+   "name": "Gnoll Cleaver",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 515681,
+   "name": "Harvester's Aegis",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 515682,
+   "name": "Defias Throwing Knife",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 515683,
+   "name": "Blessed Mail Wraps",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 515684,
+   "name": "Defias Apothecary Pants",
+   "isWF": true,
+   "reqLevel": 14
+  },
+  {
+   "id": 515685,
+   "name": "Quarry Sledge",
+   "isWF": true,
+   "reqLevel": 14
+  },
+  {
+   "id": 515686,
+   "name": "Harvest Scythe",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 515687,
+   "name": "Rower's Jerkin",
+   "isWF": true,
+   "reqLevel": 14
+  },
+  {
+   "id": 515688,
+   "name": "Featherbeard's Bulwark Blaster",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 515689,
+   "name": "Zun'watha Cleaver",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 515690,
+   "name": "Overwatch Longrifle",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 515691,
+   "name": "Dwarven Drinking Pants",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 515692,
+   "name": "Anchorfoot Greaves",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515693,
+   "name": "Highvale Wellband",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515694,
+   "name": "Highvale Ranger Bow",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515695,
+   "name": "Zipcoil's Zapper Cap",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515696,
+   "name": "Hide Piercer",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515697,
+   "name": "Hexweave Robes",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515698,
+   "name": "Idol of the Broodmother",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515699,
+   "name": "Brood Caller's Raiment",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515700,
+   "name": "Broodsilk Gloves",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515701,
+   "name": "Floodworn Shoulderguards",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515702,
+   "name": "Aerie Faith Vambraces",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515703,
+   "name": "Ooze Cleansed Shoulderpads",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515704,
+   "name": "Drowned Link Belt",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515705,
+   "name": "Soothsayer Shroud",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515706,
+   "name": "Elder Highpeak's Keepsake",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515707,
+   "name": "Hexcall Gavel",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515708,
+   "name": "Blood Keeper's Staff",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515709,
+   "name": "Zul Warder's Cloak",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515710,
+   "name": "Ring of the Sunken Courier",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515711,
+   "name": "Slime Coated Cloak",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515712,
+   "name": "Sludge Hammer",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515713,
+   "name": "Fort Defender Band",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515714,
+   "name": "Vilebranch Beastlance",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515715,
+   "name": "Shadowpounce Cowl",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515716,
+   "name": "Terrapine Carapace",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515717,
+   "name": "Idol of the Aerie",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515718,
+   "name": "Revantusk Hide Steppers",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515719,
+   "name": "Seabreeze Hauberk",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515720,
+   "name": "Trapper's Lone Band",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515721,
+   "name": "Bloodthread Leggings",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515722,
+   "name": "Oozling Thoughtcore",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515723,
+   "name": "Treads of the Verdant Threshold",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515724,
+   "name": "Vilebranch Warthrower",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515725,
+   "name": "Fleshcarver Athame",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515726,
+   "name": "The Blood Talon",
+   "isWF": true,
+   "reqLevel": 55
+  },
+  {
+   "id": 515727,
+   "name": "Shellsplitter Girdle",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515728,
+   "name": "Flayer's Edge",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515729,
+   "name": "Highnest Repeater",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515730,
+   "name": "Blood Drinker",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515731,
+   "name": "Vilebranch Ritual Dagger",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515732,
+   "name": "Libram of Resolute Light",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515733,
+   "name": "Wand of the Broodbound",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515734,
+   "name": "High Cascade Cord",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515735,
+   "name": "Desperate Defense",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515736,
+   "name": "Tiki Shield",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515737,
+   "name": "Dive's Instruction Manual",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 515738,
+   "name": "Inventor's Sand Band",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515739,
+   "name": "Sandfury Blade",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515740,
+   "name": "Time Stream Slasher",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515741,
+   "name": "Ancestral Warblade",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515742,
+   "name": "Wastewander Alchemist's Robe",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515743,
+   "name": "Betrayer's Blade",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 515744,
+   "name": "Sandswept Binding",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515745,
+   "name": "Deadman Gauntlets",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 515747,
+   "name": "Dustwhisper Legguards",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515748,
+   "name": "Sand Cover",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515749,
+   "name": "Notice of Urgent Delivery",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515750,
+   "name": "Watcher's Mantle",
+   "isWF": true,
+   "reqLevel": 49
+  },
+  {
+   "id": 515755,
+   "name": "Explorer's Last Wish",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515764,
+   "name": "Tender's Hat",
+   "isWF": true,
+   "reqLevel": 49
+  },
+  {
+   "id": 515765,
+   "name": "Sky Guard's Cuirass",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515767,
+   "name": "Hivebreakers' Ward",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515769,
+   "name": "Venom-Infused Screwdriver",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515770,
+   "name": "Lid of the Dead",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515771,
+   "name": "Cyclok's Sanity",
+   "isWF": true,
+   "reqLevel": 50
+  },
+  {
+   "id": 515772,
+   "name": "Dunemaul Warbelt",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515773,
+   "name": "Treasure Seeker's Gloves",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515775,
+   "name": "Carapace Carver",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515781,
+   "name": "Hazzali Antenna",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515782,
+   "name": "Last Stand",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515783,
+   "name": "Chitinous Chest",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515791,
+   "name": "Ancient Wagon Wheel",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 515797,
+   "name": "Blister Chain",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515798,
+   "name": "Desert Trader's Pants",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515800,
+   "name": "Treasure Seeking Lodestone",
+   "isWF": true,
+   "reqLevel": 49
+  },
+  {
+   "id": 515801,
+   "name": "The Wingman",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515822,
+   "name": "Sun Cover",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515823,
+   "name": "Winkey's Misplaced Wrench",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 515824,
+   "name": "Water Binder",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515825,
+   "name": "Diving Boots",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515826,
+   "name": "Sea Legs",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515827,
+   "name": "Hull Wood Hunk",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515828,
+   "name": "Captain's Compass",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515829,
+   "name": "Southsea Raider Gloves",
+   "isWF": true,
+   "reqLevel": 44
+  },
+  {
+   "id": 515830,
+   "name": "Wave Wraps",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515834,
+   "name": "Fisher's Misfortune",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515835,
+   "name": "Lens of Questionable Visions",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515836,
+   "name": "Noon's Shade Relic",
+   "isWF": true,
+   "reqLevel": 42
+  },
+  {
+   "id": 515837,
+   "name": "Desert Gambeson",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 515838,
+   "name": "Dunemaul Crusher",
+   "isWF": true,
+   "reqLevel": 49
+  },
+  {
+   "id": 515839,
+   "name": "Stylish Racing Hat",
+   "isWF": true,
+   "reqLevel": 40
+  },
+  {
+   "id": 515840,
+   "name": "Sandfury Ritual Mace",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515841,
+   "name": "Sandfury Boomerang",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515842,
+   "name": "Sorrow Bolter",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515843,
+   "name": "Southmoon Amulet",
+   "isWF": true,
+   "reqLevel": 46
+  },
+  {
+   "id": 515844,
+   "name": "Seed of Overgrowth",
+   "isWF": true,
+   "reqLevel": 37
+  },
+  {
+   "id": 515900,
+   "name": "Sand Stompers",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 515901,
+   "name": "Sandstalker",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 515902,
+   "name": "Duneshot Armguards",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515903,
+   "name": "High Seas Axe",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 515904,
+   "name": "Sand Polished Pauldrons",
+   "isWF": true,
+   "reqLevel": 43
+  },
+  {
+   "id": 515906,
+   "name": "Executioner's Axe",
+   "isWF": true,
+   "reqLevel": 41
+  },
+  {
+   "id": 515909,
+   "name": "Dunecaller's Spire",
+   "isWF": true,
+   "reqLevel": 48
+  },
+  {
+   "id": 515954,
+   "name": "Minstrel's Magic",
+   "isWF": true,
+   "reqLevel": 47
+  },
+  {
+   "id": 516037,
+   "name": "Sturdy Spectral Ring",
+   "isWF": true,
+   "reqLevel": 45
+  },
+  {
+   "id": 521000,
+   "name": "Rootbark Girdle",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 521001,
+   "name": "Patched Verdant Cloak",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 521002,
+   "name": "Moonwell Cane",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 521003,
+   "name": "Timber Maul",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 521004,
+   "name": "Saplingweave Handwraps",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 521005,
+   "name": "Thornpaw Trousers",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 521007,
+   "name": "Gnarlpine Jerkin",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 521008,
+   "name": "Nightbreeze Armguards",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 521009,
+   "name": "Groveprowler Gloves",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521010,
+   "name": "Chipped Sentinel Blade",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 521011,
+   "name": "Dewleaf Piercer",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 521012,
+   "name": "Bloodfeather Wand",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 521013,
+   "name": "Harpy Feather Drape",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 521014,
+   "name": "Trickster's Signet",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 521026,
+   "name": "Wildwood Shortbow",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521027,
+   "name": "Faded Gravecloth Cuffs",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 521028,
+   "name": "Old Waterlogged Boots",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 521029,
+   "name": "Agamand Sharpshooter",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 521030,
+   "name": "Nightfallen Jerkin",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 521031,
+   "name": "Rattlecage Warplate",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 521033,
+   "name": "Maggot Eye Musket",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521034,
+   "name": "Ghostmoor Cloak",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 521036,
+   "name": "Coastline Vest",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 521040,
+   "name": "Wailing Sash",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521042,
+   "name": "Farstrider's Grips",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521044,
+   "name": "Decayed Cape",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521047,
+   "name": "Spellribbon Wand",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521049,
+   "name": "Rusty Falchion",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521050,
+   "name": "Duskwither Hatchet",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521059,
+   "name": "Dakota Steppe Greaves",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 521060,
+   "name": "Windstamp Gloves",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 521063,
+   "name": "Palemane Threads",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 521064,
+   "name": "Thunderwalk Breastplate",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 521065,
+   "name": "Cloudchaser Pendant",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 521066,
+   "name": "Bael'dun Waraxe",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 521067,
+   "name": "Pilfered Bloodhoof Bow",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 521068,
+   "name": "Golden Plains Crossbow",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 521069,
+   "name": "Kodo Beast Idol",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 521071,
+   "name": "Plainsblade",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 521072,
+   "name": "Skychaser Wand",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 521073,
+   "name": "Sunchaser Blade",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 521074,
+   "name": "Swiftfoot Slippers",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 521075,
+   "name": "Hawkrunner Bracers",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 521076,
+   "name": "Steppereaver Hatchet",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 521078,
+   "name": "Windhoof Totem",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 521079,
+   "name": "Bloodtalon Vestments",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 521080,
+   "name": "Kul Tiras Handwraps",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 521081,
+   "name": "Redrock Sash",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 521082,
+   "name": "Kul Tiras Armplates",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 521083,
+   "name": "Charred Battlegreaves",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 521084,
+   "name": "Grunt's Old Knife",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 521089,
+   "name": "Earthshatterer Gavel",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 521092,
+   "name": "Champion's Band",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521094,
+   "name": "Rusty Greaves",
+   "isWF": true,
+   "reqLevel": 6
+  },
+  {
+   "id": 521096,
+   "name": "Feathered Pants",
+   "isWF": true,
+   "reqLevel": 8
+  },
+  {
+   "id": 521101,
+   "name": "Darnassus Longbow",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521104,
+   "name": "Fish Gutter",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 521106,
+   "name": "Stillpine Gavel",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521115,
+   "name": "Eastvale Buckler",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521116,
+   "name": "Mauled Armplates",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 521118,
+   "name": "Plundered Goldshire Vanguard",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 521121,
+   "name": "Decayed Breeches",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 521122,
+   "name": "Traveler's Forest Cloak",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 521123,
+   "name": "Smuggled Stormwind Choker",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521127,
+   "name": "The Vanishing Strap",
+   "isWF": true,
+   "reqLevel": 5
+  },
+  {
+   "id": 521128,
+   "name": "Fisherman's Jerkin",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521130,
+   "name": "Old Valgan Slippers",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521131,
+   "name": "Darkstrand Kilt",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 521132,
+   "name": "Chain Belt of the Elements",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521133,
+   "name": "Lordamere Cuffs",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 521139,
+   "name": "Gilnean Lance",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521140,
+   "name": "Gilnean Bolter",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521142,
+   "name": "Mountaineer Hatchet",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521143,
+   "name": "Dwarven Sandals",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 521144,
+   "name": "Tattered Shoulders",
+   "isWF": true,
+   "reqLevel": 13
+  },
+  {
+   "id": 521145,
+   "name": "Stolen Mountaineer Chest",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 521146,
+   "name": "Old Stitched Bindings",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521147,
+   "name": "Vermin Staff",
+   "isWF": true,
+   "reqLevel": 10
+  },
+  {
+   "id": 521150,
+   "name": "Dwarven Mail Gauntlets",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521151,
+   "name": "Abandoned Greatsword",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521153,
+   "name": "Earthenwind Band",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521154,
+   "name": "Drowned Pendant",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521155,
+   "name": "Spider Silk Vestments",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521156,
+   "name": "Sinter Wive's Rope",
+   "isWF": true,
+   "reqLevel": 14
+  },
+  {
+   "id": 521157,
+   "name": "Stoneflow Handwraps",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521158,
+   "name": "Twilight Vale",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 521159,
+   "name": "Blackwood Jerkin",
+   "isWF": true,
+   "reqLevel": 19
+  },
+  {
+   "id": 521160,
+   "name": "Shorebreeze Sabatons",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 521161,
+   "name": "Highborne Trousers",
+   "isWF": true,
+   "reqLevel": 11
+  },
+  {
+   "id": 521162,
+   "name": "Auberdine Scimitar",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521163,
+   "name": "Wild Longbow",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521164,
+   "name": "Relicseeker Staff",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521165,
+   "name": "Stormscale Guard",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521166,
+   "name": "Moonrest Slippers",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521169,
+   "name": "Mystwood Glaive",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521178,
+   "name": "Ghostclaw Vest",
+   "isWF": true,
+   "reqLevel": 9
+  },
+  {
+   "id": 521179,
+   "name": "Blight Infused Mantle",
+   "isWF": true,
+   "reqLevel": 19
+  },
+  {
+   "id": 521182,
+   "name": "Kel'gash's War Breeches",
+   "isWF": true,
+   "reqLevel": 18
+  },
+  {
+   "id": 521188,
+   "name": "Venture Co. Spaulders",
+   "isWF": true,
+   "reqLevel": 14
+  },
+  {
+   "id": 521189,
+   "name": "Waterlogged Gloves",
+   "isWF": true,
+   "reqLevel": 15
+  },
+  {
+   "id": 521190,
+   "name": "Venture Co. Boots",
+   "isWF": true,
+   "reqLevel": 17
+  },
+  {
+   "id": 521191,
+   "name": "Steelrider Girdle",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521192,
+   "name": "Bramblestaff",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521193,
+   "name": "Stormcall Totem",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521194,
+   "name": "Venture Co. Dirk",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521195,
+   "name": "Giant Qiraji Scale",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521196,
+   "name": "Malgin's Barback",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521197,
+   "name": "Takar's Old Wand",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521198,
+   "name": "Bristleback Thorn",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521199,
+   "name": "Blackthorn Splitter",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521200,
+   "name": "Razorthorn Claymore",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521201,
+   "name": "Thornweaver Mace",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521203,
+   "name": "Plainstalker Vest",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521204,
+   "name": "Venture Co. Sabatons",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521205,
+   "name": "Savannah Cowl",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521206,
+   "name": "Kodo Stompers",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521208,
+   "name": "Gnoll Crafted Spaulder",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521209,
+   "name": "Gnoll Cap",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521210,
+   "name": "Alther's Chain Wrap",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521211,
+   "name": "Stonewatch Handwraps",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521212,
+   "name": "Tharil'zun's Trek Boots",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521213,
+   "name": "Old Redridge Buckler",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521214,
+   "name": "Mongrel Blade",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521215,
+   "name": "Everstill Claymore",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521216,
+   "name": "Blackrock Waraxe",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521217,
+   "name": "Rusty Redridge Rifle",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521218,
+   "name": "Adventurer's Crossbow",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521219,
+   "name": "Tidecaller's Hammer",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521220,
+   "name": "Old War Tome",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521222,
+   "name": "Red Mage Wand",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521223,
+   "name": "Charred Spaulders",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521224,
+   "name": "Cliffwalker Cuffs",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521226,
+   "name": "Huntress Threads",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521227,
+   "name": "Deepmoss Fang",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521228,
+   "name": "Windsong Shortbow",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521230,
+   "name": "Talon Idol",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521231,
+   "name": "Grimtotem Striker",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521233,
+   "name": "Wyvern Vest",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521234,
+   "name": "Helcular's Pendant",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521235,
+   "name": "Darrow Silverband",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521237,
+   "name": "Camouflaged Bow",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521238,
+   "name": "Oracle's Fishy Staff",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521239,
+   "name": "Ray's Farmhand",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521240,
+   "name": "Daggerspine Rod",
+   "isWF": true,
+   "reqLevel": 31
+  },
+  {
+   "id": 521241,
+   "name": "Bear Decapitator",
+   "isWF": true,
+   "reqLevel": 25
+  },
+  {
+   "id": 521243,
+   "name": "Syndicate Treads",
+   "isWF": true,
+   "reqLevel": 22
+  },
+  {
+   "id": 521244,
+   "name": "Ancient Durnholde Girdle",
+   "isWF": true,
+   "reqLevel": 21
+  },
+  {
+   "id": 521245,
+   "name": "Mismatched Shoulderpads",
+   "isWF": true,
+   "reqLevel": 25
+  },
+  {
+   "id": 521246,
+   "name": "Heisen's Loop",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521248,
+   "name": "Old Dragonmaw Cleaver",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 521249,
+   "name": "Borrowed Dark Iron Signet",
+   "isWF": true,
+   "reqLevel": 21
+  },
+  {
+   "id": 521250,
+   "name": "Crude Bluegill Totem",
+   "isWF": true,
+   "reqLevel": 21
+  },
+  {
+   "id": 521251,
+   "name": "Dragonmaw Ritual Staff",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 521252,
+   "name": "Dark Iron Harvester",
+   "isWF": true,
+   "reqLevel": 21
+  },
+  {
+   "id": 521253,
+   "name": "Pilfered Stormpike Polearm",
+   "isWF": true,
+   "reqLevel": 22
+  },
+  {
+   "id": 521254,
+   "name": "Swiftgear Sniper",
+   "isWF": true,
+   "reqLevel": 23
+  },
+  {
+   "id": 521255,
+   "name": "Thelsamar Bow",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521256,
+   "name": "Old Dragon Bone",
+   "isWF": true,
+   "reqLevel": 21
+  },
+  {
+   "id": 521257,
+   "name": "Arakor Mace",
+   "isWF": true,
+   "reqLevel": 21
+  },
+  {
+   "id": 521258,
+   "name": "Mirefin Belt",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521259,
+   "name": "Raptor-Gnawed Cap",
+   "isWF": true,
+   "reqLevel": 24
+  },
+  {
+   "id": 521260,
+   "name": "Vestments of the Unbound",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521261,
+   "name": "Stubborn Dwarf Slippers",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521264,
+   "name": "Hunter's Tunic",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521265,
+   "name": "Malorne's Girdle",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521266,
+   "name": "Rehomed Belt",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521267,
+   "name": "Leyline Channeling Rod",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521268,
+   "name": "Coldhewn Tanning Gloves",
+   "isWF": true,
+   "reqLevel": 7
+  },
+  {
+   "id": 521318,
+   "name": "Roland's Striker",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521319,
+   "name": "Infiltrator's Shield",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521320,
+   "name": "Stardust Scoured Helmet",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521321,
+   "name": "Honed Steel Axe",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 521323,
+   "name": "Brightwood Gloves",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 650028,
+   "name": "Terrified Braids",
+   "isWF": true,
+   "reqLevel": 12
+  },
+  {
+   "id": 650038,
+   "name": "Highlands Kitchen Knife",
+   "isWF": true,
+   "reqLevel": 25
+  },
+  {
+   "id": 650039,
+   "name": "Dwarven Bucket",
+   "isWF": true,
+   "reqLevel": 20
+  },
+  {
+   "id": 824378,
+   "name": "Ancient Femur",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824379,
+   "name": "Voodoo Guardian",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824380,
+   "name": "Triad's Spear",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824381,
+   "name": "Sinister Garb",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824382,
+   "name": "Old Northshire Bolter",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824383,
+   "name": "Old Gardening Gloves",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824384,
+   "name": "Shadewell Stabber",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824385,
+   "name": "Forsaken Tome",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824386,
+   "name": "Grimtotem Bow",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824387,
+   "name": "Traitor's Last Kiss",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824388,
+   "name": "Sun Touched Club",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824389,
+   "name": "Ceremonial Gloves",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824390,
+   "name": "Decayed Sharpshot",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824391,
+   "name": "Sturdy Arrow",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824392,
+   "name": "Cain's Oathblade",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824393,
+   "name": "Deadman's Cover",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824394,
+   "name": "Radiant Rifle",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824395,
+   "name": "Ancient Battleaxe",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824396,
+   "name": "Radiant Fanatic Helmet",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824397,
+   "name": "Rocket Shrapnel",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824398,
+   "name": "Vulture Cult Idol",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824399,
+   "name": "Disciple String",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824400,
+   "name": "Nest Thorn",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 824401,
+   "name": "Carrion Eye",
+   "isWF": true,
+   "reqLevel": 3
+  },
+  {
+   "id": 903016,
+   "name": "Fel Dust",
+   "isWF": true,
+   "reqLevel": 51
+  },
+  {
+   "id": 1234941,
+   "name": "Worldforged Scroll: Thermal Void",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 1262811,
+   "name": "Abomination Hook",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 1378063,
+   "name": "Andorhal Manual",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378065,
+   "name": "Plague Mask",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378068,
+   "name": "Wraithbone Ring",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378069,
+   "name": "Lost Scout's Idol",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378153,
+   "name": "Crimson Dragonscale",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378250,
+   "name": "Atal'ai Angler Boots",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378372,
+   "name": "Radley's Special Scope",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378378,
+   "name": "Burning Judgement",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378403,
+   "name": "Standard Cenarion Spear",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378517,
+   "name": "Junior Mallet",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378586,
+   "name": "Flayer's Helmet",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378588,
+   "name": "Scarlet Blunderbuss",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378589,
+   "name": "Skippy's Bone",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378606,
+   "name": "Rough Weathered Ring",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378627,
+   "name": "Versatile Fishing Blanket",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378646,
+   "name": "Premium Banana",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1378951,
+   "name": "Moonbathed Necklace",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379103,
+   "name": "Apothecary's Lantern",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379108,
+   "name": "Scarlet Insignia",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379135,
+   "name": "Unpleasant Ring",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379233,
+   "name": "Bogcaller Totem",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379239,
+   "name": "Glassweb Ward Shroud",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379308,
+   "name": "Jaednar Spire",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379324,
+   "name": "Acid Bolter",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379340,
+   "name": "Talon Ripper",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379356,
+   "name": "One Ring to Flame Them All",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379518,
+   "name": "Sludge Hammer",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379520,
+   "name": "Vilebranch Beastlance",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379523,
+   "name": "Idol of the Aerie",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379534,
+   "name": "Flayer's Edge",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379535,
+   "name": "Highnest Repeater",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379540,
+   "name": "High Cascade Cord",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379541,
+   "name": "Desperate Defense",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379542,
+   "name": "Tiki Shield",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379557,
+   "name": "Tender's Hat",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379565,
+   "name": "Carapace Carver",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379567,
+   "name": "Last Stand",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379569,
+   "name": "Ancient Wagon Wheel",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379573,
+   "name": "The Wingman",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1379584,
+   "name": "Lens of Questionable Visions",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1380878,
+   "name": "Nightwatch Circlet",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388069,
+   "name": "Crystalline Crown",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388124,
+   "name": "Flower of Tranquility",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388142,
+   "name": "Wyrmscale Spaulders",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388151,
+   "name": "Abandoned Boots",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388153,
+   "name": "Flamescoured Bow",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388158,
+   "name": "Shadowprey Bag",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 1388162,
+   "name": "Circlet of Desolation",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388163,
+   "name": "Blade of Dread",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388167,
+   "name": "Sorrow of the Kodo",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388178,
+   "name": "Heretical Libram",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388179,
+   "name": "Doomwarden",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388182,
+   "name": "Shell Cracker",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388183,
+   "name": "Sunken Ring",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388185,
+   "name": "The Undying Eye",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388186,
+   "name": "Magram Hatchet",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388198,
+   "name": "Icon of Khan Maraudos",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388199,
+   "name": "Ambereye Amulet",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388200,
+   "name": "Greataxe of Kolk",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388201,
+   "name": "Shadowshard Shield",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388205,
+   "name": "Alteraci Avenger",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388209,
+   "name": "Syndicate Chopping Axe",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388216,
+   "name": "Frostwatch Defender",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388218,
+   "name": "Dandred's Harvester",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388226,
+   "name": "Icon of Blood",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388235,
+   "name": "Atal'ai Angler Boots",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388266,
+   "name": "Hercular's Unstable Orb",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388269,
+   "name": "Bag of Folding",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 1388272,
+   "name": "Cord of Reverence",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388273,
+   "name": "Aloof Tauren's Herbs",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388275,
+   "name": "Lookout Scope",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388286,
+   "name": "Syndicate Crossbow",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388291,
+   "name": "Bloodsail Longbow",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388332,
+   "name": "Witherbark Headsmasher",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388347,
+   "name": "Thunder Infused Offering",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388355,
+   "name": "Versatile Fishing Blanket",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388366,
+   "name": "Hull Breaker",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388374,
+   "name": "Premium Banana",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388375,
+   "name": "Pilfered Plate Pants",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388390,
+   "name": "Jungle Stalker Pauldrons",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388399,
+   "name": "Yojamba Hex Skull",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388401,
+   "name": "Zul'Kunda Blood Ring",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388405,
+   "name": "Jungle Defender",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388407,
+   "name": "Riverheart Crest",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388420,
+   "name": "Splinter Guard",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388424,
+   "name": "Fifth Staff of Mosh'Ogg Magic Circle",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388433,
+   "name": "Stonesplitter",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388435,
+   "name": "Nature's Defiance",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388436,
+   "name": "Lazy Hat",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388440,
+   "name": "Coldridge Crusher",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388442,
+   "name": "Blood Soaked Spike",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388443,
+   "name": "Syndicate Slicer",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388482,
+   "name": "Spicy Candle",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388483,
+   "name": "Lost Adventurer's Ring",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388484,
+   "name": "Forgotten Knapsack",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 1388485,
+   "name": "Glinting Necklace",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388488,
+   "name": "Lost Mountaineer's Bow",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388499,
+   "name": "Heavy Ogre Axe",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388500,
+   "name": "Grizlak's Candle",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388521,
+   "name": "Abandoned Peon's Sack",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 1388524,
+   "name": "Large Kodo Bone",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388525,
+   "name": "Stolen Tauren Cloak",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388526,
+   "name": "Ancestor's Axe",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388528,
+   "name": "Burning Blade Ring",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388530,
+   "name": "Travel Sack",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 1388532,
+   "name": "Defias Special Bucket",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388533,
+   "name": "Wax Stained Bag",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 1388567,
+   "name": "Corroded Quel'thalas Ring",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388570,
+   "name": "Fisherman's Last Wish",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388571,
+   "name": "Peculiar Gold Nugget",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388578,
+   "name": "Madness Cursed Notes",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388605,
+   "name": "Sack of Regenerating Provisions",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388606,
+   "name": "Nightwatch Circlet",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388610,
+   "name": "Vul'Gol Torch",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388613,
+   "name": "The Jitters",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388617,
+   "name": "Alchemy Visceral Juice",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388627,
+   "name": "Thornmantle Quills",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388631,
+   "name": "Venture Co. Unique Concoction",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388632,
+   "name": "Fallen Hardwood Plank",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388634,
+   "name": "Long Fishing Spear",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388637,
+   "name": "Venture Co. Ring",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388638,
+   "name": "Discarded Wagon Wheel",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388661,
+   "name": "Bloody Wedding Ring",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388674,
+   "name": "Worn Shovel",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388677,
+   "name": "Fire Poker",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388679,
+   "name": "Moonbathed Necklace",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388698,
+   "name": "Quilbow",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388705,
+   "name": "Assassin's Crossbow",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388706,
+   "name": "Harpy Hunter",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388713,
+   "name": "Heavy Boots",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388715,
+   "name": "Enchanted Kobold Lantern",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388718,
+   "name": "Throwing Rock",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388720,
+   "name": "Burning Blade Mark",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388740,
+   "name": "Apprentice's Harpoon",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388743,
+   "name": "Jar of Spiders",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388745,
+   "name": "Jack's Toothpicker",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388757,
+   "name": "Guide to Elven Restoration - Vol. I",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388771,
+   "name": "Liquid Arcane",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388781,
+   "name": "Untouched Cactus Fruit",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388786,
+   "name": "Apprentice Staff",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388789,
+   "name": "Cursed Fire Scar Pendant",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388790,
+   "name": "Elune Tear Fragment",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388793,
+   "name": "Swashbuckler's Chain",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388795,
+   "name": "Echo of Aessina",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388808,
+   "name": "Waterlogged Musket",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388810,
+   "name": "Defias Shanker",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388811,
+   "name": "Sharpened Pike",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388821,
+   "name": "Misplaced Pitchfork",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388831,
+   "name": "Apothecary's Lantern",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388843,
+   "name": "Eroded Pit Fighter Knuckles",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388850,
+   "name": "Blackwood Torch",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388868,
+   "name": "Shen'dralar Staff",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388874,
+   "name": "Gnoll-Gnawed Bone Bat",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388888,
+   "name": "Nightfallen Longbow",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388895,
+   "name": "Runestone Figurine",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388911,
+   "name": "Durn's Loot Bag",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 1388927,
+   "name": "Emberscale Greatsword",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388928,
+   "name": "Emberheart Talisman",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388932,
+   "name": "Cylla's Endless Potion",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388938,
+   "name": "Primitive Murloc Skewer",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388942,
+   "name": "Sturdy Coffin Lid",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388957,
+   "name": "Slave Band",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388966,
+   "name": "Bloodmage Coil",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1388987,
+   "name": "Hidden Stash",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 1388998,
+   "name": "Lunar Tome",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389009,
+   "name": "Rock Smasher",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389020,
+   "name": "Deadman's Signet",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389023,
+   "name": "Galak Shortbow",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389026,
+   "name": "Darkcloud Totem",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389030,
+   "name": "Cloud Serpent Feather",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389054,
+   "name": "Harvester's Aegis",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389055,
+   "name": "Defias Throwing Knife",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389058,
+   "name": "Quarry Sledge",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389063,
+   "name": "Overwatch Longrifle",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389072,
+   "name": "Floodworn Shoulderguards",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389073,
+   "name": "Hexcall Gavel",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389074,
+   "name": "Terrapine Carapace",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389081,
+   "name": "Betrayer's Blade",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389083,
+   "name": "Deadman Gauntlets",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389086,
+   "name": "Notice of Urgent Delivery",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389093,
+   "name": "Winkey's Misplaced Wrench",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389094,
+   "name": "Water Binder",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389098,
+   "name": "Captain's Compass",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389101,
+   "name": "Fisher's Misfortune",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389103,
+   "name": "Noon's Shade Relic",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389105,
+   "name": "Stylish Racing Hat",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389106,
+   "name": "Sandfury Ritual Mace",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389108,
+   "name": "Sorrow Bolter",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389115,
+   "name": "Executioner's Axe",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389120,
+   "name": "Moonwell Cane",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389354,
+   "name": "Dark Iron Harvester",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389358,
+   "name": "Old Dragon Bone",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389361,
+   "name": "Raptor-Gnawed Cap",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389379,
+   "name": "Elven Militia Crown",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389380,
+   "name": "Pristine Tortoise Carapace",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1389903,
+   "name": "Traitor's Last Kiss",
+   "isWF": true,
+   "reqLevel": 58
+  },
+  {
+   "id": 1392159,
+   "name": "Cursed Cape of the Wave Mistress",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1392565,
+   "name": "Firegut Emblem",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1392878,
+   "name": "Nightwatch Circlet",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1393584,
+   "name": "Lens of Questionable Visions",
+   "isWF": true,
+   "reqLevel": 60
+  },
+  {
+   "id": 1450513,
+   "name": "Adventurer's Lost Sack",
+   "isWF": true,
+   "reqLevel": null
+  },
+  {
+   "id": 1703112,
+   "name": "Prophecy of the Arcanist",
+   "isWF": false,
+   "reqLevel": null
+  },
+  {
+   "id": 3595662,
+   "name": "Dwarven Crossbow",
+   "isWF": false,
+   "reqLevel": 38
+  },
+  {
+   "id": 4050651,
+   "name": "Sunken Zoram Spear",
+   "isWF": true,
+   "reqLevel": 19
+  },
+  {
+   "id": 4050652,
+   "name": "Elven Militia Crown",
+   "isWF": true,
+   "reqLevel": 19
+  },
+  {
+   "id": 4050653,
+   "name": "Pristine Tortoise Carapace",
+   "isWF": true,
+   "reqLevel": 16
+  }
+ ],
+ "_crossCheck": {
+  "date": "2026-08-27",
+  "method": "name-matched LootCollector isWF items against our catalog source field",
+  "lootCollectorWorldforged": 1845,
+  "matchedByNameInCatalog": 1769,
+  "contradictions": 0,
+  "note": "Not one item LootCollector calls Worldforged is classified otherwise in our catalog. The 76 unmatched are scrolls, mats and quest items; only 6 are plausible level-50+ gear and those are scopes/materials, not equippable slots. Our Worldforged classification is INDEPENDENTLY CONFIRMED and effectively complete.",
+  "idsDoNotMatchDirectly": "LootCollector stores BASE item ids; our catalog stores one id per upgrade tier (e.g. Ancient Dark Iron Mace is 7 ids for ilvl 60/64/70/73/77/81/88). Direct id intersection is only 189 - match by NAME, not id.",
+  "whatItDoesNotHave": "No stat data of any kind: no PvE Power, no PvP Power, no per-tier stats. scannerData carries only isCollected, reqLevel and isWF. It is a discovery, location and vendor tracker, so it CANNOT fill the PvE/PvP Power gap. The addon export remains the only source for those."
+ }
+}

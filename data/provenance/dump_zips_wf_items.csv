@@ -1,0 +1,1756 @@
+item_id,item_name,item_level,req_level,quality,class,subclass,inv_type,n_pins,n_pins_go_within_5yd,server_maps,zones,in_our_55454_cache,in_harvest_itemcache
+100369,Worldforged Scroll: Flameburst,,,,,,,1,0,389,Ragefire,1,0
+131059,Worldforged Scroll: Faerie Blink,,,,,,,1,0,43,WailingCaverns,1,0
+132418,Worldforged Scroll: Saber Slash,,,,,,,1,0,47,RazorfenKraul,1,0
+132426,Worldforged Scroll: Screams of the Past,,,,,,,7,0,33|129|329|349|545|552|585,MagistersTerrace|Maraudon|RazorfenDowns|ShadowfangKeep|Stratholme|TheArcatraz|TheSteamvault,1,0
+132599,Worldforged Scroll: Earthborer Acid,,,,,,,1,0,36,TheDeadmines,0,0
+132626,Worldforged Scroll: Troll Sweat,,,,,,,1,0,209,ZulFarrak,1,0
+132636,Worldforged Scroll: Water Geyser,,,,,,,1,0,48,BlackfathomDeeps,1,0
+132637,Worldforged Scroll: Disciple of Arugal,,,,,,,1,0,33,ShadowfangKeep,1,0
+132690,Worldforged Scroll: Veil Of Shadows,,,,,,,1,0,189,ScarletMonastery,1,0
+132693,Worldforged Scroll: Firefall,,,,,,,1,0,409,MoltenCore,1,0
+132698,Worldforged Scroll: Maggot Trap,,,,,,,1,0,329,Stratholme,1,0
+132704,Worldforged Scroll: Silence in the Library,,,,,,,1,0,189,ScarletMonastery,1,0
+132723,Worldforged Scroll: Corrupted Shiv,,,,,,,2,0,349|547,Maraudon|TheSlavePens,1,0
+134869,Worldforged Scroll: Primal Tide,,,,,,,1,0,1,Dustwallow,0,0
+201537,Mystic Scroll: Crusader's Judgement,,,,,,,1,1,0,Arathi,1,0
+217842,Bonechopper,35,30,3,2,1,17,1,0,0,Stranglethorn,1,1
+217860,Shadow Cowl,20,15,2,4,1,1,2,0,1,Darkshore,1,1
+278843,Flesh Flayer Hook,59,54,3,2,0,13,3,3,0,WesternPlaguelands,1,1
+278844,Andorhal Manual,60,55,3,4,0,23,3,3,0,WesternPlaguelands,1,1
+278845,Reliever's Burden,59,54,3,2,1,17,2,0,0,WesternPlaguelands,1,1
+278846,Plague Mask,57,52,3,4,1,1,1,0,0,EasternPlaguelands,1,1
+278847,Libram of Remembrance,55,50,3,4,7,28,1,0,0,WesternPlaguelands,1,1
+278848,Blightbloom Talisman,60,55,3,4,0,2,2,1,0,WesternPlaguelands,1,1
+278849,Wraithbone Ring,57,52,3,4,0,11,2,2,0,WesternPlaguelands,1,1
+278850,Lost Scout's Idol,57,52,3,4,8,28,1,0,0,WesternPlaguelands,1,1
+278851,Skeletal Club,63,58,3,2,4,13,3,0,0,WesternPlaguelands,1,1
+278852,Infantry Gauntlets,62,57,3,4,3,10,2,2,0,WesternPlaguelands,1,1
+278853,Manacles of Eternal Shadow,63,58,3,4,1,9,2,0,0,WesternPlaguelands,1,1
+354059,Prodigy's Staff,8,3,2,2,10,17,1,0,530,sunstriderislestart,1,1
+354064,Cloak of Owlkin Feathers,8,3,2,4,1,16,1,0,530,ammenvalestart,1,1
+354066,Crystalline Crown,12,7,2,4,1,1,1,0,530,AzuremystIsle,1,1
+354068,Totem of the Vale,10,5,2,4,9,28,1,0,530,ammenvalestart,0,1
+354069,Scourgewarped Bow,12,7,2,2,2,15,1,0,530,EversongWoods,1,1
+354071,Faded Ward of the East Sanctum,12,7,2,4,6,14,1,0,530,EversongWoods,1,1
+354077,Everyday Applications of Pyromancy,10,5,2,4,0,23,1,0,530,EversongWoods,0,1
+354078,"Principles of Cryomancy - Ultimate Edition, Version 2",11,6,2,4,0,23,1,0,530,EversongWoods,1,1
+354079,Fairbreeze Feast,10,6,2,0,5,0,2,0,0|530,Arathi|EversongWoods,1,1
+354090,Stillpine Cloak,12,7,2,4,1,16,1,0,1,stillpinehold,1,1
+354096,Light of the Highborne,12,7,2,4,0,12,1,0,530,AzuremystIsle,0,1
+354097,Dread Satchel,10,1,2,1,0,18,4,4,0,Tirisfal|deathknellstart,1,1
+354098,Sigil of the Unmarked Mausoleum,8,3,2,4,0,12,4,4,0,Tirisfal|deathknellstart,1,1
+354099,Obsidian Smithing Hammer,8,3,2,2,4,13,3,2,0,Tirisfal|deathknellstart,1,1
+354100,Shield of Fading Light,8,3,2,4,6,14,5,2,0,Tirisfal|deathknellstart,1,1
+354101,Silkwrapped Cloak,8,3,2,4,1,16,9,4,0,Badlands|BurningSteppes|Hinterlands|Tirisfal|deathknellstart|nightwebshollow,1,1
+354112,Web Wrappings,21,16,2,4,1,9,1,0,530,BloodmystIsle,1,1
+354126,Bloodwashed Gloves,20,15,2,4,3,10,1,0,530,BloodmystIsle,1,1
+354127,Flower of Tranquility,28,23,3,4,0,23,2,1,1,StonetalonMountains,1,1
+354128,Staff of Talons,28,23,3,2,10,17,3,3,1,StonetalonMountains,1,1
+354130,Venture Co. Logging Axe,24,19,2,2,0,13,3,1,1,StonetalonMountains,1,1
+354131,Ziz's Alchemy Goggles,24,19,3,4,1,1,3,3,1,StonetalonMountains,1,1
+354132,Light of the Talondeep Path,26,21,4,4,0,2,3,0,1,StonetalonMountains,1,1
+354133,Grim Sorcerer Totem,19,14,3,4,9,28,2,0,1,StonetalonMountains,1,1
+354134,Resonite Band,21,16,2,4,0,11,3,2,1,StonetalonMountains,1,1
+354135,Barrel Smasher,28,23,3,2,5,17,4,2,1,StonetalonMountains|Tanaris,1,1
+354136,Venture Co. Union Buster,24,19,2,2,3,26,3,0,1,StonetalonMountains,1,1
+354137,Woven Ceremonial Belt,20,15,2,4,2,6,3,0,1,StonetalonMountains,1,1
+354138,Unclaimed Sack,10,1,2,1,0,18,3,1,1,StonetalonMountains,1,1
+354139,Fire Strike,22,17,3,2,6,17,3,2,1,Barrens|StonetalonMountains,1,1
+354140,Bloodfury Feather Cloak,32,27,2,4,1,16,3,2,1,Barrens|StonetalonMountains,1,1
+354141,Wind Shearer,24,19,3,2,8,17,2,0,1,StonetalonMountains,1,1
+354142,Breastplate of the Current,25,20,3,4,3,5,3,0,1,StonetalonMountains,1,1
+354143,Boulder Greaves,21,16,3,4,3,8,3,0,1,Barrens|StonetalonMountains,1,1
+354144,Vengeful Heart,25,20,3,4,0,12,3,2,1,Barrens|StonetalonMountains,1,1
+354146,Crimson Dragonscale,65,60,4,4,6,14,1,0,0,Wetlands,1,1
+354147,Balgaras's Foul Amulet,31,26,3,4,0,2,2,0,0,Wetlands,1,1
+354148,Wyrmscale Spaulders,25,20,3,4,3,3,3,0,0,Westfall|Wetlands,1,1
+354149,Kixxle's Experimental Potion,25,20,2,0,1,0,3,0,0,LochModan|Stranglethorn|Wetlands,1,1
+354150,Recipe: Kixxle's Experimental Potion,24,20,2,9,6,0,2,0,0,Wetlands,1,1
+354151,Cursed Legguards of the Intrepid,31,26,3,4,3,7,2,0,0,Wetlands,1,1
+354152,Cursed Cape of the Wave Mistress,31,26,3,4,1,16,3,2,0,Wetlands,1,1
+354153,Mossy Hide Armor,28,23,2,4,2,5,2,0,0,Wetlands,1,1
+354154,Chewed Wrappings,28,23,2,4,2,9,2,0,0,Wetlands,1,1
+354157,Frightened Kitten,20,7,6,0,0,0,1,1,0,Elwynn,1,1
+354158,Arkonite Orb,6,1,2,4,0,23,5,0,0|530,AzuremystIsle|DunMorogh|Elwynn|ammenvalestart|coldridgepass,0,1
+354159,Abandoned Boots,35,30,2,4,2,8,5,2,1,Barrens|Desolace|Durotar,1,1
+354160,Shoulderpads of the Conjuror,36,31,2,4,1,3,3,0,1,Barrens|Desolace,1,1
+354161,Flamescoured Bow,35,30,2,2,2,15,2,0,1,Desolace,1,1
+354162,Burning Gauntlets,35,30,2,4,4,10,4,3,1,Desolace|Dustwallow,1,1
+354163,Ritual Robes,36,31,3,4,1,20,3,3,1,Desolace,1,1
+354164,Blade of Thunder,37,32,3,2,8,17,2,0,1,Desolace,1,1
+354165,Moonglow Bag,10,1,2,1,0,18,2,0,1,Desolace|Dustwallow,1,1
+354166,Shadowprey Bag,10,1,2,1,0,18,3,2,1,Barrens|Desolace,1,1
+354167,Hatefury Skull Totem,35,30,3,4,9,28,2,1,1,Desolace,1,1
+354168,Hatefury Wand,36,31,3,2,19,26,4,0,1,Desolace|Dustwallow,1,1
+354169,Spear of Hatred,37,32,3,2,6,17,4,0,1,Desolace|Durotar,1,1
+354170,Circlet of Desolation,35,30,2,4,3,1,3,1,1,Desolace|Durotar,1,1
+354171,Blade of Dread,35,30,3,2,7,13,2,2,1,Desolace,1,1
+354172,Woven Flowers,37,32,3,4,0,2,2,1,1,Desolace|Dustwallow,1,1
+354173,Caravan Guard Vest,37,32,2,4,2,5,3,0,1,Barrens|Desolace|Durotar,1,1
+354174,Caravan Guard Pauldrons,37,32,2,4,2,3,4,2,1,Barrens|Desolace|dustwindcave,1,1
+354175,Sorrow of the Kodo,40,35,3,4,6,14,2,0,1,Desolace|Durotar,1,1
+354176,Bone Splitter,39,34,2,2,5,17,2,0,1,Desolace,1,1
+354177,Offering to Azshara,38,33,3,4,0,11,4,0,1,Barrens|Desolace,1,1
+354178,Water Seer's Headdress,39,34,3,4,1,1,3,2,1,Desolace,1,1
+354179,Diving Boots,39,34,3,4,4,8,4,3,1,Barrens|Desolace,1,1
+354180,Zelyn'Theris,40,35,3,2,7,21,3,3,1,Desolace,1,1
+354181,Lost Mariner Leggings,38,33,3,4,3,7,2,0,1,Barrens|Desolace,1,1
+354182,Lost Mariner Bracers,38,33,3,4,3,9,3,2,1,Desolace,1,1
+354183,Orb of Dawn,37,32,3,4,0,23,3,1,1,Desolace,1,1
+354184,Kodo Hide Cloak,39,34,2,4,1,16,4,0,1,Barrens|Desolace|dustwindcave,1,1
+354185,Burning Blade Ritual Knife,41,36,3,2,15,21,2,1,1,Desolace,1,1
+354186,Heretical Libram,43,38,3,4,7,28,2,1,1,Barrens|Desolace,1,1
+354187,Doomwarden,43,38,3,2,8,17,1,0,1,Desolace,1,1
+354188,Pillaged Legguards,40,35,2,4,3,7,2,0,1,Desolace,1,1
+354189,Gelkis Cleaver,38,33,2,2,0,13,1,0,1,Desolace,1,1
+354190,Shell Cracker,39,34,2,2,4,13,2,1,1,Desolace,1,1
+354191,Sunken Ring,37,32,3,4,0,11,3,2,1,Desolace,1,1
+354192,Gloves of Patience,43,38,2,4,2,10,4,0,1,Barrens|Desolace,1,1
+354193,The Undying Eye,42,37,3,4,0,12,3,3,1,Desolace,1,1
+354194,Magram Hatchet,40,35,2,2,0,13,4,2,1,Desolace|Dustwallow,1,1
+354195,Crown of the Great Khan,40,35,3,4,3,1,4,1,1,Desolace|Dustwallow,1,1
+354196,"Jairal'Kesh, Staff of Summoning",43,38,3,2,10,17,1,0,1,Desolace,1,1
+354197,Shadowbreaker,43,38,3,2,4,13,1,0,1,Desolace,1,1
+354198,Kodo Hunter,37,32,2,2,3,26,2,2,1,Desolace,1,1
+354199,The Winning Javelin,39,34,3,2,16,25,3,0,1,Barrens|Desolace,1,1
+354200,Bone Harvester,40,35,3,2,1,17,3,2,1,Desolace,1,1
+354201,Buried Bracers,40,35,2,4,1,9,1,1,1,Desolace,1,1
+354202,Stormpiercer,44,39,3,2,18,26,3,0,1,Barrens|Desolace|Durotar,1,1
+354203,Maraudine Breastplate,42,37,2,4,3,5,2,0,1,Desolace,1,1
+354204,Maraudine Cape,42,37,2,4,1,16,3,2,1,Barrens|Desolace,1,1
+354205,Maraudine Gloves,43,38,2,4,1,10,2,0,1,Barrens|Desolace,1,1
+354206,Icon of Khan Maraudos,45,40,2,4,0,12,4,2,1|349,Maraudon|maraudonorange,1,1
+354207,Ambereye Amulet,45,40,3,4,0,2,3,3,1,maraudonorange,1,1
+354208,Greataxe of Kolk,45,40,3,2,1,17,2,0,1,maraudonorange|maraudonpurple,1,1
+354209,Shadowshard Shield,45,40,3,4,6,14,2,0,1,maraudonpurple,1,1
+354210,Ring of Arakosh,35,30,3,4,0,11,2,0,1,Desolace,1,1
+354211,Ring of Korvaix,37,32,3,4,0,11,2,0,1,Desolace,1,1
+354212,Antique Alteraci Skirt,44,39,3,4,1,7,2,0,0,Alterac,1,1
+354213,Alteraci Avenger,44,39,2,2,1,17,1,0,0,Alterac,1,1
+354214,Embrace of the Fifth,44,39,4,2,19,26,2,2,0,Alterac,1,1
+354215,Crushridge Fingerguards,40,35,3,4,2,9,2,1,0,Alterac,1,1
+354216,Battleplate of Crimson Resolve,40,35,3,4,3,5,2,2,0,Alterac,1,1
+354217,Syndicate Chopping Axe,40,35,2,2,0,13,3,3,0,Alterac,1,1
+354218,Libram of the Third Host,40,35,3,4,7,28,2,2,0,Alterac,1,1
+354219,Sentry Shot,41,36,2,2,2,15,1,0,0,Alterac,1,1
+354220,Staff of Argus,41,36,3,2,10,17,3,1,0,Alterac,1,1
+354221,Icecracker,40,35,3,2,4,13,3,2,0,Alterac|Duskwood,1,1
+354222,Ogre Toothpick,43,38,3,2,8,17,4,3,0,Alterac|Duskwood,1,1
+354223,Frozen Alterac Banner,39,34,3,4,1,16,3,2,0,Alterac,1,1
+354224,Frostwatch Defender,44,39,3,2,3,26,3,0,0,Alterac,1,1
+354225,Tempered Syndicate Boots,43,38,2,4,3,8,1,0,0,Alterac,1,1
+354226,Dandred's Harvester,44,39,3,2,6,17,3,2,0,Alterac|Duskwood,1,1
+354228,Cape of the Mire,43,38,3,4,1,16,3,2,0,SwampOfSorrows|Westfall,1,1
+354229,Fallow Tunic,41,36,2,4,2,5,1,0,0,SwampOfSorrows,1,1
+354230,Kreil's Gauntlets,41,36,3,4,4,10,1,0,0,SwampOfSorrows,1,1
+354231,Sorrow's Light,48,43,3,4,0,23,2,0,0,SwampOfSorrows,1,1
+354232,Grave Leggings,48,43,3,4,1,7,2,1,0,Hinterlands|SwampOfSorrows,1,1
+354233,Holy Atal'ai Band,47,42,3,4,0,11,4,2,0,Arathi|SwampOfSorrows|Westfall,1,1
+354234,Spear of Emerald,45,40,3,2,6,17,3,1,0|530,SwampOfSorrows|sunstriderislestart,1,1
+354235,Icon of Blood,45,40,2,4,0,12,2,2,0,SwampOfSorrows,1,1
+354236,Defiled Necklace,50,45,3,4,0,2,1,0,109,thetempleofatalhakkar,1,1
+354237,Dragoncarver,50,45,3,2,1,17,1,0,109,thetempleofatalhakkar,1,1
+354239,Pauldrons of the Ancient Prophet,50,45,3,4,3,3,2,0,0|109,echoridgemine|thetempleofatalhakkar,1,1
+354240,Kazkaz's Ceremonial Mask,53,48,3,4,1,1,1,0,109,thetempleofatalhakkar,1,1
+354241,Atal'ai Alchemy Gloves,51,46,3,4,2,10,1,0,109,thetempleofatalhakkar,1,1
+354242,Sha-Bane Staff,40,35,3,2,10,17,3,3,0,SwampOfSorrows,1,1
+354243,Splinterspear Belt,41,36,2,4,4,6,2,2,0,SwampOfSorrows,1,1
+354244,Itharius's Bracers,41,36,3,4,3,9,3,2,0,SwampOfSorrows,1,1
+354245,Biggs's Spare Legguards,41,36,2,4,4,7,2,0,0,Hinterlands|SwampOfSorrows,1,1
+354246,Atal'ai Angler Boots,41,36,2,4,3,8,2,2,0,SwampOfSorrows,1,1
+354247,Emerald Tear,42,37,2,4,0,12,2,2,0,SwampOfSorrows,1,1
+354248,Idol to Hakkar,43,38,2,4,8,28,1,0,0,SwampOfSorrows,1,1
+354249,Distant Wanderer Pack,10,1,3,1,0,18,4,2,0,Arathi|SwampOfSorrows|Westfall,1,1
+354250,Sawtooth Jaw,46,41,3,2,13,21,2,0,0,SwampOfSorrows,1,1
+354251,Signet of Lire'kes,48,43,3,4,0,11,1,1,0,SwampOfSorrows,1,1
+354252,Bracers of Emerald Will,55,50,2,4,2,9,2,1,0|530,SwampOfSorrows|sunstriderislestart,1,1
+354253,Swamp Talker's Crossbow,48,43,3,2,18,26,2,0,0,SwampOfSorrows|Westfall,1,1
+354254,Marsh Bonebreaker,48,43,3,2,4,13,2,0,0,SwampOfSorrows,1,1
+354255,Cartographer's Cape,55,50,2,4,1,16,3,3,0,SwampOfSorrows,1,1
+354256,Exile's Amulet,40,35,2,4,0,2,3,2,0,Hinterlands|SwampOfSorrows,1,1
+354257,Dusksinger Band,40,35,2,4,0,11,1,0,0,SwampOfSorrows,1,1
+354258,Choker of Hakkar,48,43,3,4,0,2,1,1,0,SwampOfSorrows,1,1
+354259,Murloc Crown,45,40,3,4,2,1,2,2,0,SwampOfSorrows,1,1
+354260,Rusted Shield,40,35,3,4,6,14,2,0,0,SwampOfSorrows,1,1
+354261,Marsh Adventurer Boots,41,36,2,4,1,8,2,2,0,SwampOfSorrows,1,1
+354262,Unusual Emerald Scales,45,40,3,4,4,3,1,1,0,SwampOfSorrows,1,1
+354263,Robe of Woven Dreams,42,37,3,4,1,20,3,2,0,SwampOfSorrows|Westfall,1,1
+354264,Scout's Bracers,41,36,3,4,3,9,2,0,0,SwampOfSorrows,1,1
+354265,Giant Ruby Eye,47,42,3,4,0,12,4,3,0,SwampOfSorrows|Westfall,1,1
+354266,The Wanderer's Stirring Rod,45,40,3,2,19,26,3,3,0,SwampOfSorrows,1,1
+354268,Everdark Shard,40,36,2,12,0,0,3,1,1,Dustwallow,1,1
+354269,Woodcleaving Axe,42,37,2,2,1,17,3,1,1,Dustwallow|stillpinehold,1,1
+354271,Drape of the Lost,50,45,3,4,1,16,1,0,1,Aszhara,1,1
+354273,Vigilant Glaive,50,45,3,2,7,21,2,0,1,Aszhara,1,1
+354275,On the Importance of Arcane Foci,51,46,3,4,0,23,1,0,1,Aszhara,1,1
+354276,Bear's Head Apprentice Robe,51,46,3,4,1,20,2,2,1,Aszhara,1,1
+354277,Totem of Venc,54,49,3,4,9,28,2,2,1,Aszhara,1,1
+354278,Legashi Hellmail,56,51,3,4,3,5,2,2,1,Aszhara,1,1
+354279,"Kim'Jael's ""Trustworthy"" Boots",56,51,3,4,3,8,2,2,1,Aszhara,1,1
+354283,Vuna'thell,57,52,3,2,7,13,1,1,1,Aszhara,1,1
+354295,Cardinal Power Crystal,53,48,3,0,0,0,3,2,1,UngoroCrater,1,1
+354300,Hexed Staff,56,51,2,2,10,17,4,1,1,Ashenvale|UngoroCrater,1,1
+354312,Leyline Research,60,58,3,0,0,0,3,2,0,Badlands|DeadwindPass,1,1
+354325,Torn Cloak,64,59,3,4,1,16,1,1,1,Silithus,1,1
+354326,Hive Regal Claw,64,59,3,2,15,21,2,0,1,Silithus,1,1
+354327,Hercular's Unstable Orb,39,34,3,4,0,23,2,2,0,Alterac,1,1
+354328,Burning Vanguard Hauberk,56,51,3,4,3,5,2,2,0,BurningSteppes,1,1
+354446,Bastion of the Fallen,63,58,3,4,6,14,1,1,0,DeadwindPass,1,1
+354447,Faded Promise Ring,60,55,3,4,0,11,3,2,0,Badlands|DeadwindPass,1,1
+354448,Veneration to the Ancient Ones,60,55,3,4,0,2,2,1,0,DeadwindPass|Redridge,1,1
+354449,Axe of Slaughter,60,55,3,2,1,17,1,1,0,DeadwindPass,1,1
+354450,Bloodied Gauntlets,61,56,3,4,4,10,3,2,0,DeadwindPass|SwampOfSorrows,1,1
+354451,Vulture Hide Leggings,60,55,3,4,2,7,3,1,0,Badlands|DeadwindPass|SwampOfSorrows,1,1
+354452,Betrayal's Edge,32,27,3,2,6,17,4,1,0,Badlands|DeadwindPass,1,1
+354453,Banner of the Dark Riders,60,55,3,4,1,16,1,1,0,DeadwindPass,1,1
+354454,Reverence of the Ancient Ones,60,55,3,4,0,11,2,1,0,DeadwindPass|Redridge,1,1
+354455,"Kire, Exaltation of the Ancient Ones",60,55,4,2,7,13,2,2,0,DeadwindPass,1,1
+354456,Girdle of the Shadowslayer,63,58,3,4,3,6,3,0,0,Badlands|DeadwindPass,1,1
+354457,Ariden's Circlet,60,55,3,4,1,1,2,2,0,DeadwindPass,1,1
+354458,Branch of Mourning,60,55,3,2,10,17,1,1,0,DeadwindPass,1,1
+354459,Aion of Desolation,60,55,3,4,0,12,4,2,0,Badlands|DeadwindPass|SwampOfSorrows,1,1
+354460,Pauldrons of Shadow,63,58,3,4,3,3,3,1,0,Badlands|DeadwindPass|SwampOfSorrows,1,1
+354461,Celsalia's Luxorious Robes,63,58,3,4,1,20,2,0,0,DeadwindPass,1,1
+354462,Shorean's Ironwood Longbow,63,58,3,2,2,15,2,0,0,DeadwindPass,1,1
+354463,Ashen Boots,63,58,3,4,2,8,2,1,0,Badlands|DeadwindPass,1,1
+354464,Volkmar's Enchanting Rod,63,58,3,2,19,26,1,1,0,DeadwindPass,1,1
+354465,The Master's Bottle,63,58,3,2,4,21,2,2,0,DeadwindPass,1,1
+354466,Vintner's Wristguards,63,58,3,4,4,9,1,0,0,DeadwindPass,1,1
+354468,Bag of Folding,58,1,2,1,0,18,1,1,0,DeadwindPass,1,1
+354469,Fragment of K'aresh,65,60,3,4,0,12,2,2,0,DeadwindPass,1,1
+354473,Slayer's Claymore,6,1,2,2,8,17,3,2,1,valleyoftrialsstart,1,1
+354474,Cord of Reverence,8,3,2,4,2,6,2,2,1,campnarachestart,1,1
+354475,Aloof Tauren's Herbs,8,3,2,4,0,23,1,0,1,campnarachestart,1,1
+354476,Bones to Munch,10,5,2,4,0,23,5,2,0,Arathi|Elwynn|Upperfargodeepmine,1,1
+354477,Lookout Scope,12,7,2,4,0,12,4,1,0,Alterac|Elwynn,1,1
+354479,Earth Reverent's Sash,35,30,3,4,1,6,2,1,0,Arathi,1,1
+354480,Staff of the Wind Sisters,34,29,2,2,10,17,3,2,1,ThousandNeedles,1,1
+354481,Needlewind Crossbow,35,30,2,2,18,26,3,1,1,ThousandNeedles,1,1
+354482,Engine Safety Belt,35,30,2,4,3,6,3,2,1,Darkshore|ThousandNeedles,1,1
+354483,Freewind Gloves,35,30,2,4,2,10,4,1,1,Darkshore|ThousandNeedles|twilightsrun,1,1
+354485,Warcaster Slippers,35,30,2,4,1,8,4,0,1,Desolace|Dustwallow,1,1
+354486,Dustscour Courier Belt,35,30,2,4,2,6,1,0,1,Desolace,1,1
+354487,Alteraci Band,35,30,2,4,0,11,3,3,0,Alterac,1,1
+354488,Shredder's Medallion,35,30,2,4,0,2,4,1,0,Alterac|deathknellstart,1,1
+354489,Syndicate Crossbow,35,30,2,2,18,26,2,2,0,Alterac,1,1
+354490,Tombbound Warhammer,35,30,2,2,5,17,3,2,0,Alterac|Duskwood,1,1
+354491,Bloodscalp Cord,35,30,2,4,1,6,5,3,0,DeadwindPass|Stranglethorn|Wetlands,1,1
+354492,Tinkering Belt,35,30,2,4,2,6,1,0,0,Stranglethorn,1,1
+354493,Sky Shot Cloak,35,30,2,4,1,16,5,1,0,SecretInquisitorialDungeon|Stranglethorn|Wetlands,1,1
+354494,Bloodsail Longbow,35,30,2,2,2,15,1,0,0,Stranglethorn,1,1
+354495,Grom'gol Hunting Rifle,35,30,2,2,3,26,5,0,0|36,Stranglethorn|TheDeadmines|Wetlands,1,1
+354497,Wind Ritual Staff,35,30,2,2,10,17,3,0,1,Desolace|dustwindcave,1,1
+354498,Axe of the Lost,39,34,2,2,0,13,3,2,0,SwampOfSorrows|Westfall,1,1
+354499,Nightmare's Edge,45,40,3,2,8,17,2,2,0,SwampOfSorrows,1,1
+354500,Khazno's Shotgun,45,40,2,2,3,26,3,0,0,Hinterlands|SwampOfSorrows,1,1
+354501,Crocolisk Hunter's Bow,43,38,2,2,2,15,2,0,0,SwampOfSorrows,1,1
+354502,Wand of the Ancients,42,37,2,2,19,26,2,2,0,Badlands,1,1
+354503,Sandworn Arcanist Staff,45,40,2,2,10,17,2,2,0,Badlands,1,1
+354504,Duststorm Sash,45,40,2,4,1,6,4,1,0,Badlands|SearingGorge,1,1
+354505,Cracked Earth Vest,45,40,2,4,2,5,3,2,0,Badlands,1,1
+354506,Planned Strike Cord,45,40,2,4,2,6,2,1,0,SwampOfSorrows|Westfall,1,1
+354507,Quel'Danil Amulet,45,40,2,4,0,2,3,0,0,Hinterlands|Tirisfal|Westfall,1,1
+354509,Sash of Contemplation,45,40,2,4,1,6,2,0,0,Hinterlands,1,1
+354510,Ancient Vilebranch Gloves,45,40,2,4,2,10,1,0,0,Hinterlands,1,1
+354511,Nightmarish Bracers,45,40,2,4,4,9,2,0,0,Hinterlands,1,1
+354512,Fractured Shoulderpads,45,40,2,4,2,3,2,0,0,Hinterlands,1,1
+354513,Wand of the Sands,50,45,3,2,19,26,2,2,1,Tanaris,1,1
+354515,Beezil's Pants,44,39,2,4,1,7,1,0,1,Dustwallow,1,1
+354516,Drywallow Gloves,42,37,2,4,2,10,4,0,1,Dustwallow|felrock,1,1
+354517,Inscribed Sash,45,40,2,4,1,6,4,0,1,Dustwallow|dustwindcave,1,1
+354518,Theramore Girdle,40,35,2,4,3,6,4,1,1,Dustwallow|felrock,1,1
+354519,Burnt Spaulders,45,40,3,4,2,3,3,0,1,Dustwallow,1,1
+354521,Old Theramore Guard Plate,45,40,2,4,4,5,3,3,1,Dustwallow,1,1
+354522,Draenic Longbow,55,50,2,2,2,15,1,0,0,BlastedLands,1,1
+354523,Felshot,55,50,3,2,3,26,2,0,0,BlastedLands|Stranglethorn,1,1
+410010,Phylactery Shard,58,53,3,4,0,12,4,1,0,Duskwood|WesternPlaguelands,1,1
+410011,Wagon Sack,56,1,3,1,0,18,2,1,0,WesternPlaguelands,1,1
+410012,Shimmering Scarlet Cane,57,52,3,2,10,17,1,0,0,WesternPlaguelands,1,1
+410013,Scarlet Overalls,59,54,3,4,2,5,3,2,0,WesternPlaguelands,1,1
+410014,Scarlet Slicer,60,55,3,2,7,21,2,2,0,WesternPlaguelands,1,1
+410016,Northridge Hatchet,56,51,2,2,0,13,3,0,0,Duskwood|WesternPlaguelands,1,1
+410017,Bloodied Pants,61,56,3,4,3,7,2,1,0,WesternPlaguelands,1,1
+410018,Tracker's Plagued Spike,61,56,3,2,6,17,1,0,0,WesternPlaguelands,1,1
+410019,Sentinel Sharpshooter,60,55,3,2,18,26,1,0,0,WesternPlaguelands,1,1
+410020,Ebonblight Slippers,56,51,2,4,1,8,3,3,0,WesternPlaguelands,1,1
+410021,Burning Judgement,60,55,3,2,19,26,2,0,0,WesternPlaguelands,1,1
+410022,Scarlet Band,60,55,3,4,0,11,2,2,0,WesternPlaguelands,1,1
+410023,Scarlet Shield,60,55,3,4,6,14,1,0,0,WesternPlaguelands,1,1
+410024,Brightflame Codex,60,55,3,4,0,23,1,0,0,WesternPlaguelands,1,1
+410025,Scarlet Robe,61,56,3,4,1,20,2,1,0,WesternPlaguelands,1,1
+410026,Scarlet Pauldrons,58,53,3,4,3,3,1,0,0,WesternPlaguelands,1,1
+410027,Charred Slicer,60,55,3,2,8,17,3,3,0,WesternPlaguelands,1,1
+410028,Staff of the Twisted Spirit,63,58,4,2,10,17,2,0,0,WesternPlaguelands,1,1
+410029,Scourgestalker’s Girdle,60,55,3,4,3,6,2,0,0,WesternPlaguelands,1,1
+410030,Bonescourge Dagger,59,54,3,2,15,21,2,0,0,WesternPlaguelands,1,1
+410031,Ghoul-Stitched Shoulders,55,50,3,4,2,3,2,0,0,WesternPlaguelands,1,1
+410032,Fetid Mace,62,57,3,2,4,21,2,2,0,WesternPlaguelands,1,1
+410033,Graveyard Striker,60,55,3,2,15,13,2,0,0,WesternPlaguelands,1,1
+410034,Decayed Grippers,60,55,3,4,1,10,1,0,0,WesternPlaguelands,1,1
+410035,Plagued Cloak,55,50,3,4,1,16,3,0,0,Duskwood|WesternPlaguelands,1,1
+410036,Apothecary Cowl,63,58,3,4,1,1,1,0,0,WesternPlaguelands,1,1
+410038,Bravecrest Chain,60,55,3,4,0,2,1,0,1,Silithus,1,1
+410039,Dustsworn Sash,60,55,3,4,1,6,2,2,1,Silithus,1,1
+410040,Excavator's Pick,60,55,3,2,0,13,1,0,1,Silithus,1,1
+410041,The Eternal's Journal,65,60,3,4,0,23,1,1,1,Silithus,1,1
+410042,Wand of Twilight,65,60,3,2,19,26,3,0,1,Silithus|SinisterLair,1,1
+410043,Twilight Talisman,65,60,3,4,0,12,1,1,1,twilightsrun,1,1
+410044,Shadow Slinger Pants,65,60,3,4,1,7,1,1,1,twilightsrun,1,1
+410045,Infested Pauldrons,60,55,3,4,3,3,1,1,1,Silithus,1,1
+410046,Trigdy's Pistol,60,55,4,2,3,26,1,1,1,Silithus,1,1
+410047,Standard Cenarion Spear,60,55,3,2,6,17,1,1,1,Silithus,1,1
+410048,Ancient Sentinel Headdress,61,56,3,4,3,1,1,0,1,Silithus,1,1
+410049,Southwind Defender,61,56,3,2,7,21,1,0,1,Silithus,1,1
+410050,Runaway's Tunic,63,58,3,4,2,5,1,1,1,Silithus,1,1
+410051,Darnell's Blade,61,56,3,2,8,17,1,1,1,Silithus,1,1
+410052,Scarab Smasher,63,58,3,2,5,17,1,1,1,Silithus,1,1
+410055,Twilight's Presence,63,58,3,2,4,13,1,1,1,Silithus,1,1
+410056,Geo Band,64,59,3,4,0,11,2,1,1,Silithus,1,1
+410057,Cursed Ritual Carver,63,58,3,2,15,13,1,0,1,Silithus,1,1
+410058,Wind Pendant,63,58,3,4,0,2,2,1,1,Silithus|SinisterLair,1,1
+410059,Qiraji Scale Greaves,62,57,3,4,3,7,2,2,1,Silithus,1,1
+410060,Chitin Thread Wraps,62,57,3,4,1,9,1,1,1,Silithus,1,1
+410061,Silithic Scale Hauberk,64,59,3,4,3,5,2,0,1,Silithus|SinisterLair,1,1
+410062,Hardened Scarab Gauntlets,63,58,3,4,2,10,1,1,1,Silithus,1,1
+410063,Soldier's Bulwark,62,57,3,4,6,14,2,1,1,Silithus,1,1
+410064,Rockstalker Silk Robe,62,57,3,4,1,20,1,1,1,Silithus,1,1
+410065,Idol of Shifting Sands,61,56,3,4,8,28,1,1,1,Silithus,1,1
+410066,Sandreaver Longbow,62,57,3,2,2,15,3,3,1,Silithus,1,1
+410067,Twilight Prophet Staff,60,55,3,2,10,17,3,3,1,Silithus,1,1
+410068,Scorpionscale Mantle,62,57,3,4,2,3,2,0,1,Silithus|SinisterLair,1,1
+410069,Carapace Clasps,62,57,3,4,4,10,1,1,1,Silithus,1,1
+410070,Lost Cenarion Bolter,63,58,3,2,18,26,1,1,1,Silithus,1,1
+410071,Sandstone Sniper,59,54,3,2,2,15,2,1,1,Silithus|SinisterLair,1,1
+410072,Bracers of the Bound Storm,61,56,3,4,3,9,1,0,1,Silithus,1,1
+410073,Old God Carving,65,60,3,4,9,28,1,1,1,Silithus,1,1
+410074,Sandstorm Shaper,61,56,4,2,7,13,2,1,1,Silithus,1,1
+410075,Brigade Blunderbuss,56,51,2,2,3,26,1,1,1,Silithus,1,1
+410076,Purple Steppers,63,58,3,4,4,8,2,0,1,Silithus,1,1
+410077,Chitinsunder Greataxe,62,57,3,2,1,17,1,1,1,Silithus,1,1
+410079,Timbermaw Idol,58,53,3,4,8,28,1,0,1,Winterspring,1,1
+410080,Thermal Pendant,60,55,3,4,0,2,2,1,1,Winterspring,1,1
+410081,Researcher's Dish,58,53,3,4,1,1,3,0,1,Barrens|Winterspring,1,1
+410082,Chillbane Cleaver,58,53,3,2,1,17,2,0,1,Winterspring,1,1
+410083,Winter Band,63,58,3,4,0,11,1,1,1,Winterspring,1,1
+410085,Winter's Last Embrace,60,55,3,4,0,12,3,0,1,Winterspring,1,1
+410086,Fur-Lined Vest,58,53,3,4,2,5,1,0,1,Winterspring,1,1
+410087,Excavator's Buckler,60,55,3,4,6,14,2,2,1,Winterspring,1,1
+410088,Windsong Totem,58,53,3,4,9,28,2,1,1,Winterspring,1,1
+410089,Glacierpaw Bindings,58,53,3,4,2,9,1,0,1,Winterspring,1,1
+410090,Flattened Shoulderpad,58,53,3,4,2,3,1,0,1,Winterspring,1,1
+410091,Snowtalon Crossbow,59,54,3,2,18,26,2,1,1,Winterspring,1,1
+410092,Icemaw Greatmaul,59,54,3,2,5,17,1,0,1,Winterspring,1,1
+410093,Aurorawhirl Pick,60,55,3,2,0,13,2,0,1,Winterspring,1,1
+410094,Frostglade Saber,60,55,3,2,7,21,2,0,1,Winterspring,1,1
+410095,Wailing Talisman,59,54,3,4,0,12,2,0,1,Winterspring,1,1
+410096,Lonely Gauntlets,62,57,3,4,3,10,1,1,1,Winterspring,1,1
+410097,Wintergale Cloak,60,55,3,4,1,16,1,0,1,Winterspring,1,1
+410098,Snowstalker Rifle,63,58,3,2,3,26,2,1,1,Winterspring,1,1
+410099,Frostsaber Halberd,64,59,3,2,6,17,2,0,1,Winterspring,1,1
+410100,Coldsnap Girdle,62,57,3,4,4,6,1,1,1,Winterspring,1,1
+410101,Owlbeast Pantaloons,61,56,3,4,2,7,1,0,1,Winterspring,1,1
+410102,Owlbeast Talon,63,58,3,4,0,12,1,0,1,Winterspring,1,1
+410103,Horror Horns,59,54,3,4,2,1,1,0,1,Winterspring,1,1
+410104,Non-Slip Winter Boots,62,57,3,4,1,8,2,0,1,Winterspring,1,1
+410105,Winterbite Legguards,63,58,3,4,3,7,1,1,1,Winterspring,1,1
+410106,Winterfall Dagger,62,57,3,2,15,13,2,0,1,Barrens|Winterspring,1,1
+410107,Cold Wristguards,62,57,3,4,3,9,2,1,1,Winterspring,1,1
+410108,Chillhammer,56,51,3,2,4,13,2,2,1,Winterspring,1,1
+410109,Ice Thistle Cape,61,56,3,4,1,16,1,1,1,Winterspring,1,1
+410110,Hunter's Knife,60,55,3,2,15,13,2,2,1,Winterspring,1,1
+410111,Aurora Orb,62,57,3,4,0,23,1,1,1,Winterspring,1,1
+410112,Stormchill Spaulders,63,58,3,4,3,3,1,0,1,Winterspring,1,1
+410113,Azure Focusing Staff,62,57,3,2,10,17,1,1,1,Winterspring,1,1
+410114,Maddening Signet,58,53,3,4,0,11,3,0,0|1,WesternPlaguelands|Winterspring,1,1
+410115,Eversleet Handguards,62,57,3,4,4,10,1,0,1,Winterspring,1,1
+410116,Frostweave Vestment,61,56,3,4,1,20,1,0,1,Winterspring,1,1
+410117,Starfall Longbow,64,59,3,2,2,15,1,1,1,Winterspring,1,1
+410118,Ice Shaver,64,59,3,2,7,13,2,1,1,Winterspring,1,1
+410119,The Leaping Arc,64,59,3,2,19,26,1,0,1,Winterspring,1,1
+410121,Darkwhisper Spear,64,59,3,2,6,17,1,0,1,Winterspring,1,1
+410123,Hyjal Protector's Knuckleduster,64,59,3,2,13,13,1,0,1,Winterspring,1,1
+410125,Snowpeak Claymore,60,55,3,2,8,17,1,0,1,Winterspring,1,1
+410127,Cryptfiend Fang,62,57,3,2,15,13,2,0,0,BurningSteppes|EasternPlaguelands,1,1
+410128,Revival Garments,60,55,3,4,2,5,1,0,0,EasternPlaguelands,1,1
+410129,Argent Sentry Pauldrons,59,54,3,4,4,3,4,3,0,Alterac|EasternPlaguelands,1,1
+410130,Fungal Cleaver,62,57,3,2,0,13,3,0,0,BurningSteppes|EasternPlaguelands,1,1
+410131,Forbidden Fruit,58,53,3,4,0,12,3,0,0|1,Alterac|EasternPlaguelands|Tanaris,1,1
+410133,Tainted Wasteblade,60,55,3,2,7,21,3,0,0,EasternPlaguelands|Wetlands,1,1
+410134,Resilient Stompers,59,54,3,4,3,8,1,0,0,EasternPlaguelands,1,1
+410135,Idol of Breathing Life,59,54,3,4,8,28,1,0,0,EasternPlaguelands,1,1
+410136,Deadcapitator,62,57,3,2,1,17,1,0,0,EasternPlaguelands,1,1
+410137,Scarlet Doctrine,59,54,3,4,7,28,1,0,0,EasternPlaguelands,1,1
+410138,Scarlet Crossbow,58,53,3,2,18,26,4,1,0,BurningSteppes|EasternPlaguelands|Elwynn,1,1
+410139,Scarlet Cauterizer,64,59,3,2,15,21,2,0,0,EasternPlaguelands|Elwynn,1,1
+410140,Scorched Runeblade,64,59,3,2,8,17,2,1,0,EasternPlaguelands|Wetlands,1,1
+410141,Malleus Haereticorum,64,59,3,2,4,21,2,0,0,Alterac|EasternPlaguelands,1,1
+410142,Ghoulbane Gauntlets,61,56,3,4,3,10,2,0,0,DeadwindPass|EasternPlaguelands,1,1
+410143,The Silver Blade,62,57,3,2,7,21,3,1,0,Alterac|EasternPlaguelands|Wetlands,1,1
+410144,Plague Purger,63,58,3,4,0,23,4,0,0,Alterac|EasternPlaguelands|Wetlands,1,1
+410147,Bubbling Blood of Heroes,63,58,3,4,0,12,3,1,0,Alterac|EasternPlaguelands,1,1
+410148,Ring of Memorial,58,53,3,4,0,11,3,2,0,EasternPlaguelands|Wetlands,1,1
+410149,Deathguard Vambraces,61,56,3,4,3,9,2,1,0,EasternPlaguelands,1,1
+410150,Cryptsilk Cuffs,63,58,3,4,1,9,1,0,0,EasternPlaguelands,1,1
+410151,Adon's Second Blade,62,57,3,2,7,13,1,1,0,EasternPlaguelands,1,1
+410152,Watchman Helm,58,53,3,4,4,1,3,0,0,EasternPlaguelands,1,1
+410153,Quel'thalas Commander Aegis,64,59,3,4,6,14,3,2,0,Alterac|EasternPlaguelands,1,1
+410154,Plaguebloom Spear,59,54,3,2,6,17,1,0,0,EasternPlaguelands,1,1
+410155,Ghost-thread Shroud,58,53,3,4,1,16,3,2,0,EasternPlaguelands,1,1
+410156,Red Metal Pauldrons,61,56,3,4,3,3,2,1,0,Alterac|EasternPlaguelands,1,1
+410157,Spiritwoven Vestments,63,58,3,4,1,20,2,2,0,EasternPlaguelands,1,1
+410158,Blight Bomber,63,58,4,2,2,15,6,2,0|1,Alterac|BurningSteppes|EasternPlaguelands|Elwynn|palemanerock,1,1
+410159,Mushroom Pickin' Bag,53,1,3,1,0,18,4,0,0,Alterac|EasternPlaguelands|Elwynn,1,1
+410160,Ghost Buster,60,55,3,2,5,17,3,0,0,BurningSteppes|EasternPlaguelands,1,1
+410161,Assisting Hand,63,58,3,2,4,13,3,2,0,EasternPlaguelands|Wetlands,1,1
+410162,Junior Mallet,59,54,3,2,5,17,3,0,0,EasternPlaguelands|Wetlands,1,1
+410163,Sorrow Leggings,56,51,2,4,1,7,3,0,0,BurningSteppes|EasternPlaguelands,1,1
+410164,Gravewood Belt,60,55,3,4,2,6,1,0,0,EasternPlaguelands,1,1
+410165,Plague Fiend Chain,59,54,3,4,3,6,3,2,0,EasternPlaguelands|Wetlands,1,1
+410166,Wailing Spirit Amulet,59,54,3,4,0,2,1,0,0,EasternPlaguelands,1,1
+410169,Havenfire Crown,61,56,3,4,1,1,3,0,0,EasternPlaguelands|Wetlands,1,1
+410170,Ravenridge Shotgun,59,54,3,2,3,26,3,2,0,Alterac|EasternPlaguelands,1,1
+410171,Bleakfang Handwraps,62,57,3,4,2,10,3,2,0,EasternPlaguelands|Wetlands,1,1
+410172,Gravecall Staff,59,54,3,2,10,17,3,2,0,EasternPlaguelands|Wetlands,1,1
+410173,Eboncrypt Band,59,54,3,4,0,11,4,1,0,Alterac|EasternPlaguelands|Wetlands,1,1
+410174,Scourge Cloak,58,53,3,4,1,16,3,0,0,Alterac|EasternPlaguelands,1,1
+410175,Deathwhisper Wand,61,56,3,2,19,26,4,2,0,Alterac|EasternPlaguelands|Redridge,1,1
+410176,Plagued Pitchfork,59,54,3,2,6,17,4,2,0,Alterac|EasternPlaguelands|Wetlands,1,1
+410177,Shadowgrasp Sash,61,56,3,4,1,6,3,1,0,Alterac|EasternPlaguelands|Wetlands,1,1
+410178,Borelgore's Chewtoy,62,57,3,2,13,13,1,0,0,EasternPlaguelands,1,1
+410179,Flamefist Claw,58,53,3,2,13,13,1,0,0,BurningSteppes,1,1
+410180,Darkflight Totem,57,52,3,4,9,28,2,2,0,BurningSteppes,1,1
+410181,Cinderstrike Mace,58,53,3,2,4,13,2,2,0,BurningSteppes,1,1
+410182,Ashfall Vambraces,58,53,3,4,4,9,1,1,0,BurningSteppes,1,1
+410183,Dark Iron Handwraps,62,57,3,4,2,10,1,0,0,BurningSteppes,1,1
+410184,Magmaweave Pantaloons,62,57,3,4,1,7,1,1,0,BurningSteppes,1,1
+410185,Flamescale Spire,62,57,3,2,10,17,3,1,0,BurningSteppes|Silverpine,1,1
+410186,Charfall Mantle,57,52,3,4,1,3,1,0,0,BurningSteppes,1,1
+410187,Firestorm Cloak,59,54,3,4,1,16,1,0,0,BurningSteppes,1,1
+410188,Red Chain Belt,59,54,3,4,3,6,2,1,0,BurningSteppes,1,1
+410189,Ancient Whetstone,58,53,3,4,0,12,2,1,0,BurningSteppes|Silverpine,1,1
+410190,Volcanic Aegis,58,53,3,4,6,14,1,0,0,BurningSteppes,1,1
+410191,Inferno Gavel,58,53,3,2,4,21,3,3,0,BurningSteppes,1,1
+410192,Smolderwing Decapitator,61,56,3,2,1,17,1,1,0,BurningSteppes,1,1
+410193,Madness Crown,60,55,3,4,1,1,1,0,0,BurningSteppes,1,1
+410194,Ashenpeak Band,60,55,3,4,0,11,1,1,0,BurningSteppes,1,1
+410195,Blackrock Side Blade,61,56,3,2,7,13,2,2,0,BurningSteppes,1,1
+410196,Blackrock Hatchet,60,55,3,2,0,13,1,0,0,BurningSteppes,1,1
+410197,Blackrock Pike,61,56,3,2,6,17,1,0,0,BurningSteppes,1,1
+410198,Emberstep Sabatons,60,55,3,4,3,8,3,0,0,BurningSteppes,1,1
+410199,Charblaze Rifle,60,55,3,2,3,26,2,2,0,BurningSteppes,1,1
+410200,Spiked Maul,61,56,3,2,5,17,1,1,0,BurningSteppes,1,1
+410201,Obsidian Boltthrower,60,55,3,2,18,26,1,1,0,BurningSteppes,1,1
+410202,The Final Strike,60,55,3,2,8,17,1,0,0,BurningSteppes,1,1
+410203,Grave Offering,59,54,3,4,0,2,1,0,0,BurningSteppes,1,1
+410204,Burnscorch Wand,58,53,3,2,19,26,2,1,0,BurningSteppes|Silverpine,1,1
+410205,Wyrmkin Shiv,61,56,3,2,15,13,3,3,0,BurningSteppes,1,1
+410206,Empty Ogre Loot Sack,51,1,3,1,0,18,3,1,0,Alterac|BurningSteppes,1,1
+410207,Blisterhide Headguard,59,54,3,4,2,1,1,0,0,BurningSteppes,1,1
+410208,Ashendawn Bow,57,52,3,2,2,15,1,1,0,BurningSteppes,1,1
+410209,Lava Absorbing Blade,60,55,3,2,7,21,2,2,0,BurningSteppes,1,1
+410210,Firegut Emblem,57,52,3,4,0,12,3,0,0,BurningSteppes,1,1
+410211,Ashen Cape,60,55,3,4,1,16,1,0,0,BurningSteppes,1,1
+410212,Moltenflow Tome,59,54,3,4,0,23,2,2,0,BurningSteppes,1,1
+410213,Charred Signet,61,56,3,4,0,11,2,0,0,BurningSteppes,1,1
+410214,Embershard Choker,54,49,3,4,0,2,3,0,0,BurningSteppes,1,1
+410215,Flamescale Leggings,62,57,3,4,3,7,1,0,0,BurningSteppes,1,1
+410216,Blazing Ember,60,55,3,4,0,12,1,1,0,BurningSteppes,1,1
+410217,Smokeshell Gauntlets,60,55,3,4,4,10,1,0,0,BurningSteppes,1,1
+410218,Cinderthread Sash,60,55,3,4,1,6,1,0,0,BurningSteppes,1,1
+410219,Bloodspire Staff,62,57,3,2,10,17,3,0,0,BurningSteppes|Silverpine,1,1
+410220,Infernal Fang,61,56,3,2,15,21,1,0,0,BurningSteppes,1,1
+410221,Ashstone Robes,61,56,3,4,1,20,2,0,0,BurningSteppes,1,1
+410222,Moltengore Spaulders,54,49,3,4,2,3,2,2,0,lowerblackrockmountain,1,1
+410223,Searsteel Claymore,53,48,3,2,8,17,3,1,0,blackrockmountain|lowerblackrockmountain,1,1
+410224,Charbite Mace,58,53,3,2,4,13,4,2,0,BurningSteppes|blackrockmountain|lowerblackrockmountain,1,1
+410225,Embercarve Greataxe,60,55,3,2,1,17,1,1,0,blackrockmountain,1,1
+410226,Blackbreach Handaxe,58,53,3,2,0,13,3,1,0,blackrockmountain|upperblackrockmountain,1,1
+410227,Lavasilk Footpads,60,55,3,4,2,8,1,0,0,BurningSteppes,1,1
+410228,Magma Poker,60,55,3,2,15,13,2,1,0,BurningSteppes,1,1
+410229,Firebrand Libram,62,57,3,4,7,28,1,1,0,BurningSteppes,1,1
+410230,Searwind Wand,56,51,3,2,19,26,2,2,0,BurningSteppes,1,1
+410231,Flayer's Helmet,55,50,3,4,4,1,3,3,0,WesternPlaguelands,1,1
+410232,Sticky Sabatons,55,50,3,4,3,8,1,0,0,WesternPlaguelands,1,1
+410233,Scarlet Blunderbuss,57,52,3,2,3,26,2,2,0,WesternPlaguelands,1,1
+410234,Skippy's Bone,56,51,3,4,0,2,1,0,0,WesternPlaguelands,1,1
+410235,Spiced Rum,60,55,3,4,0,12,2,0,0,WesternPlaguelands,1,1
+410238,Flame-Kissed Wraps,60,55,4,4,1,9,2,2,0,BurningSteppes,1,1
+415001,Stromgarde Spell Tome,40,35,3,4,0,23,3,3,0,Arathi,1,1
+415002,Stromgarde Buckler,40,35,3,4,6,14,3,0,0,Arathi,1,1
+415003,Caretaker's Burden,38,33,3,2,10,17,2,2,0,Arathi,1,1
+415004,Peace of the Dead,38,33,3,2,19,26,3,1,0,Arathi,1,1
+415005,Syndicate Shanker,40,35,3,2,15,13,2,2,0,Arathi,1,1
+415006,Blade of the Syndicate Lord,40,35,3,2,7,21,3,3,0,Arathi,1,1
+415007,Muffled Boots,38,33,3,4,2,8,2,0,0,Arathi,1,1
+415008,Onestone's One Stone,43,38,3,4,0,11,1,0,0,Arathi,1,1
+415009,Water Drawing Cap,38,33,2,4,2,1,3,0,0,Alterac|Arathi,1,1
+415010,Musty Horse Blanket,38,33,2,4,1,16,2,2,0,Arathi,1,1
+415011,Syndiclap,36,31,3,2,13,13,2,1,0,Arathi,1,1
+415012,Commode Cleaver,36,31,2,2,0,13,2,1,0,Arathi,1,1
+415013,Witherbark Headsmasher,38,33,3,2,4,21,2,0,0,Arathi,1,1
+415014,The Withered Totem,39,34,3,4,9,28,2,1,0,Arathi|Westfall,1,1
+415015,Rough Weathered Ring,43,38,2,4,0,11,1,0,0,Arathi,1,1
+415016,Skullknocker,37,32,2,2,4,21,3,1,0,Arathi|Westfall,1,1
+415017,Heavy Tempered Blade,38,33,3,2,8,17,3,2,0,Arathi,1,1
+415018,Withered Trollkin Shoulders,38,33,3,4,1,3,3,0,0,Arathi|Westfall,1,1
+415019,Poacher's Bow,35,30,3,2,2,15,3,3,0,Arathi,1,1
+415020,Dark Iron Blaster,36,31,2,2,3,26,2,1,0,Arathi,1,1
+415021,Ancient Dark Iron Mace,40,35,3,2,4,13,4,4,0,Arathi|Wetlands,1,1
+415022,Stolen War Pendant,41,36,3,4,0,2,4,3,0,Arathi|Stranglethorn,1,1
+415023,Forgotten Fitted Pants,37,32,2,4,1,7,2,2,0,Arathi,1,1
+415024,Abandonded Wristguard,35,30,2,4,3,9,3,0,0,Alterac|Arathi,1,1
+415025,Interlinked Fingerguards,37,32,3,4,3,10,2,0,0,Arathi,1,1
+415026,Watchguard's Prized Plate,40,35,3,4,3,5,2,1,0,Arathi,1,1
+415027,Thunder Infused Offering,43,38,3,4,0,12,3,3,0,Arathi,1,1
+415028,Suprisingly Sturdy Helm,37,32,2,4,4,1,2,1,0,Arathi,1,1
+415029,Ancient Wavepiercer,43,38,4,2,6,17,3,3,0,Arathi,1,1
+415030,Boarder's Axe,43,38,3,2,1,17,3,3,0,Arathi,1,1
+415031,Circle of Waves Idol,43,38,3,4,8,28,2,2,0,Arathi,1,1
+415032,Hammerfall Wristguards,38,33,2,4,3,9,3,0,0,Arathi,1,1
+415033,Brumn's Unfinished Project,37,32,2,4,2,5,1,1,0,Arathi,1,1
+415034,Deadweight Pauldrons,39,34,3,4,3,3,2,0,0,Arathi,1,1
+415035,Versatile Fishing Blanket,38,33,2,4,1,16,2,1,0,Arathi,1,1
+415036,Offering Pendant,35,30,3,4,0,2,3,0,0,Arathi,1,1
+415037,Mountain Climbers,40,35,3,4,2,8,2,0,0,Arathi,1,1
+415038,Plains Bolter,40,35,3,2,18,26,2,0,0,Arathi|DunMorogh,1,1
+415039,Earth Infused Offering,43,38,2,4,0,12,2,1,0,Arathi,1,1
+415040,Loose Treasure Pants,37,32,3,4,1,7,4,2,0,Arathi|Westfall,1,1
+415041,Grave Spite,37,32,3,2,16,25,3,2,0,Arathi,1,1
+415042,Arcane Impaler,35,30,3,2,7,21,3,1,0,Arathi,1,1
+415043,Silken Travel Gloves,38,33,3,4,1,10,2,2,0,Arathi,1,1
+415044,Flame Infused Offering Band,43,38,3,4,0,11,4,3,0,Arathi|Westfall,1,1
+415045,Mok'rash's Circlet,50,45,3,4,2,1,2,0,0,Stranglethorn,1,1
+415046,Hull Breaker,45,40,3,2,4,13,2,0,0,Stranglethorn,1,1
+415047,Keelhaul's Saber,47,42,3,2,7,13,3,1,0,Stranglethorn,1,1
+415048,Cannon Loaders,46,41,3,4,3,10,3,1,0,Stranglethorn|Wetlands,1,1
+415049,Tamas's Black Powder Pouch,46,41,3,4,0,12,2,1,0,Stranglethorn,1,1
+415050,Bloodsail Decksweeper,45,40,3,2,3,26,3,1,0,Hinterlands|Stranglethorn,1,1
+415051,Gorilla Pelt,47,42,3,4,1,16,2,0,0,Stranglethorn,1,1
+415052,Blackwater Booty Band,45,40,3,4,0,11,4,0,0,Stranglethorn|Wetlands,1,1
+415053,Gorlash's Seaweed Salad,0,42,2,0,5,0,4,2,0,Hinterlands|Stranglethorn,1,1
+415054,Premium Banana,47,42,2,4,0,12,4,2,0,Hinterlands|Stranglethorn|Wetlands,1,1
+415055,Pilfered Plate Pants,48,43,3,4,4,7,2,0,0,Stranglethorn,1,1
+415058,Sea Cleaver,45,40,3,2,0,13,3,0,0,Stranglethorn,1,1
+415059,Special Seashell,45,40,3,4,0,12,2,0,0,Stranglethorn,1,1
+415060,Buccaneer Shiv,45,40,2,2,15,13,3,1,0,Stranglethorn|Wetlands,1,1
+415061,Naga Throwing Trident,48,43,3,2,6,17,4,3,0,Stranglethorn|Wetlands,1,1
+415062,Jose's Best Slacks,48,43,3,4,1,7,2,0,0,Stranglethorn,1,1
+415063,Mangled Wraps,48,43,3,4,2,9,3,0,0,Stranglethorn|Wetlands,1,1
+415064,Sharpened Raptor Tooth,48,43,2,4,0,12,3,0,0,Stranglethorn,1,1
+415065,A Guide to a Succubus' Darkest Secrets,45,40,3,4,0,23,3,0,0,Stranglethorn|Wetlands,1,1
+415066,Pristine Tethis Feather,48,43,3,4,0,12,3,1,0,DeadwindPass|Stranglethorn,1,1
+415067,Ancient Sea-dweller Charm,44,39,2,4,0,12,1,1,0,Stranglethorn,1,1
+415068,Voodoo Bonemaker,43,38,2,2,5,17,4,0,0,Stranglethorn|Wetlands,1,1
+415069,South Sea Dress,46,41,3,4,1,20,2,0,0,Stranglethorn,1,1
+415070,Jungle Stalker Pauldrons,45,40,2,4,2,3,2,1,0,Stranglethorn,1,1
+415072,Mosh'Ogg Stave,41,36,2,2,10,17,2,1,0,Stranglethorn|Wetlands,1,1
+415073,Kal'ai Jewel,40,35,3,4,0,2,4,0,0,SecretInquisitorialDungeon|Stranglethorn|Wetlands,1,1
+415074,Ravaged Shoulderpads,42,37,2,4,2,3,3,0,0,Stranglethorn,1,1
+415075,Bloodscalper,40,35,2,2,15,13,4,1,0,Stranglethorn|Wetlands,1,1
+415076,Panther Shredders,40,35,2,2,13,21,4,2,0,DeadwindPass|Stranglethorn,1,1
+415077,Zul'Kunda Tribe Trophy,40,35,3,4,3,1,3,0,0,Stranglethorn,1,1
+415078,Wizard Cuffs,42,37,2,4,1,9,2,0,0,Stranglethorn,1,1
+415079,Yojamba Hex Skull,40,35,3,4,0,23,4,3,0,Silverpine|Stranglethorn,1,1
+415080,Depleted Elemental Lodestone,41,36,2,4,0,12,1,0,0,Stranglethorn,1,1
+415081,Zul'Kunda Blood Ring,45,40,3,4,0,11,3,2,0,Stranglethorn|Wetlands,1,1
+415082,Bloodscalp Beastmastery Amulet,40,35,3,4,0,2,3,3,0,Stranglethorn,1,1
+415083,Zul'Kunda Scout Vest,39,34,2,4,2,5,4,0,0|36,Stranglethorn|TheDeadmines|Wetlands,1,1
+415084,Bloodscalp Skullpiercer,41,36,2,2,2,15,4,0,0,Hinterlands|Stranglethorn|Wetlands,1,1
+415085,Jungle Defender,40,35,2,2,8,17,2,2,0,Stranglethorn,1,1
+415087,Nesingwary Tracking Boots,39,34,2,4,2,8,4,0,0|36,Stranglethorn|TheDeadmines,1,1
+415088,Riverheart Crest,40,35,3,4,6,14,2,0,0,Stranglethorn,1,1
+415089,Last Guardian,41,36,2,4,9,28,2,2,1,Dustwallow,1,1
+415090,Jungle Medicine Compendium,37,32,3,4,0,23,5,0,0|36,Stranglethorn|TheDeadmines|Wetlands,1,1
+415091,Jungle Broadblade,37,32,2,2,1,17,4,0,0|36,Stranglethorn|TheDeadmines|Wetlands,1,1
+415092,The Wrangler,37,32,3,2,6,17,3,0,0,DeadwindPass|Stranglethorn,1,1
+415093,Shiv of Warm Greetings,37,32,3,2,15,13,4,1,0|36,Stranglethorn|TheDeadmines|Wetlands,1,1
+415094,Witchdoctor Mixing Gloves,37,32,3,4,1,10,3,0,0,Stranglethorn,1,1
+415095,Kurzen Eviscerator,40,35,3,2,7,13,3,2,0|36,Stranglethorn|TheDeadmines,1,1
+415096,Kurzen Madness Blade,37,32,3,2,8,17,5,3,0|36,Stranglethorn|TheDeadmines|Wetlands,1,1
+415097,Crystallized Shield,37,32,2,4,6,14,3,2,0,Stranglethorn,1,1
+415098,Gurubashi Trainee Hatchet,40,35,2,2,16,25,3,0,0,Stranglethorn|Wetlands,1,1
+415099,Rebel Runners,38,33,2,4,2,8,4,0,0|36,Stranglethorn|TheDeadmines|Wetlands,1,1
+415100,Axe Swingers,39,34,2,4,3,10,4,1,0|36,DeadwindPass|Stranglethorn|TheDeadmines,1,1
+415101,Splinter Guard,39,34,3,4,3,5,4,3,0,Stranglethorn|Wetlands,1,1
+415102,Cogwheel Band,41,36,3,4,0,11,2,1,0,Stranglethorn,1,1
+415103,Mosh'Ogg Totem,48,43,2,4,9,28,2,0,0,Stranglethorn,1,1
+415104,Mind's Eye Fragment,50,45,4,2,19,26,2,0,0,Stranglethorn,1,1
+415105,Fifth Staff of Mosh'Ogg Magic Circle,48,43,3,2,10,17,2,0,0,Stranglethorn,1,1
+415106,Thunder Fur Cloak,43,38,3,4,1,16,3,2,0,Stranglethorn|Wetlands,1,1
+415107,Skullsplitter Crossbow,44,39,3,2,18,26,2,1,0,Stranglethorn,1,1
+415108,Martyr Cross Book,49,44,3,4,7,28,1,0,0,Stranglethorn,1,1
+415109,Mystic Druid Idol,44,39,2,4,8,28,1,0,0,Stranglethorn,1,1
+415110,Traveler's Lost Bag,0,1,2,1,0,18,3,0,0,Stranglethorn|Wetlands,1,1
+415111,Crystallized Amulet,46,41,2,4,0,2,1,0,0,Stranglethorn,1,1
+415112,Crystallized Wristguards,46,41,2,4,3,9,1,0,0,Stranglethorn,1,1
+415113,The Ironjaw,46,41,3,4,3,1,3,1,0,Stranglethorn,1,1
+415114,Stonesplitter,49,44,3,2,0,13,2,0,0,Stranglethorn,1,1
+415115,Fallen Gladiator's Shield,45,40,3,4,6,14,1,0,0,Stranglethorn,1,1
+415116,Nature's Defiance,43,38,3,4,0,11,3,1,0,DeadwindPass|Stranglethorn,1,1
+415117,Lazy Hat,43,38,2,4,1,1,2,0,0,Stranglethorn,1,1
+415118,Jubuwal Witchdoctor Amulet,48,43,2,4,0,2,3,1,0,Hinterlands|Stranglethorn,1,1
+415119,Ring of Accurate Endeavors,43,38,2,4,0,11,3,2,0,Stranglethorn|Wetlands,1,1
+415120,Muckrake's Soup Bowl,45,40,3,4,2,1,3,3,0,Alterac,1,1
+415121,Coldridge Crusher,41,36,3,2,4,13,2,0,0,Alterac,1,1
+415122,Polished Alteraci Breastplate,45,40,3,4,3,5,3,0,0,Alterac,1,1
+415123,Blood Soaked Spike,39,34,3,2,15,21,3,2,0,Alterac|Duskwood,1,1
+415124,Syndicate Slicer,38,33,3,2,7,13,4,3,0,Alterac|EasternPlaguelands,1,1
+415125,Feline's Grasp,37,32,2,4,2,10,2,1,0,Alterac,1,1
+415126,Forgotten Warrior's Pauldrons,41,36,2,4,3,3,2,2,0,Alterac,1,1
+415127,Ice-Forged Gauntlets,38,33,2,4,4,10,2,0,0,Alterac,1,1
+415128,Tracker's Scope,37,32,2,4,0,12,2,1,0,Alterac,1,1
+415129,Totem of the Flowing River,35,30,2,4,9,28,3,0,0,Alterac|Duskwood,1,1
+415130,Tribal Pads,39,34,2,4,2,8,4,1,0,Stranglethorn|Wetlands,1,1
+415131,Safety Gloves,44,39,2,4,1,10,3,2,0,Badlands,1,1
+415132,The Rock Binder,47,42,3,2,4,21,2,1,0,Badlands,1,1
+415133,Spark of Infernus,48,43,3,4,0,12,1,0,0,Badlands,1,1
+415134,Shadowforge Shotgun,45,40,2,2,3,26,1,1,0,Badlands,1,1
+415135,Shadowforged Deflector,45,40,2,4,6,14,2,1,0,Badlands,1,1
+415136,Toe Hammer,46,41,2,2,4,13,2,2,0,Badlands,1,1
+415137,Bloodstained Pendant,47,42,2,4,0,2,1,0,0,Badlands,1,1
+415138,Staff of the Earth Guardian,49,44,3,2,10,17,3,1,0,Badlands,1,1
+415139,Real Big Bone,48,43,3,2,5,17,2,2,0,Badlands,1,1
+415140,Garek's Comfortable Robe,47,42,3,4,1,20,2,1,0,Badlands,1,1
+415141,Thorkaf's Prototype,48,43,2,4,3,3,2,1,0,Badlands,1,1
+415142,Deflector's Wargreaves,48,43,3,4,4,7,3,3,0,Badlands,1,1
+415143,Tomb Seeker,47,42,2,4,0,23,3,2,0,Badlands,1,1
+415144,Tombscarred Guardian,49,44,3,2,7,13,1,0,0,Badlands,1,1
+415145,Rock Runners,47,42,3,4,2,8,2,2,0,Badlands,1,1
+415146,Stonewalker's Totem,47,42,2,4,9,28,3,0,0,Badlands|Upperfargodeepmine,1,1
+415147,Spellpiercing Cloak,47,42,2,4,1,16,2,2,0,Badlands,1,1
+415148,Earth Bindings,48,43,3,4,3,9,2,2,0,Badlands,1,1
+415149,Ogre Fire Poker,47,42,3,2,6,17,3,3,0,Badlands,1,1
+415150,Stonebloom Idol,50,45,3,4,8,28,1,1,0,Badlands,1,1
+415151,Ogre Cloth,47,42,2,4,1,16,2,0,0,Badlands,1,1
+415152,Duelist Gloves,45,40,3,4,2,10,3,1,0,Badlands,1,1
+415153,Dustbringer,49,44,3,2,1,17,1,0,0,Badlands,1,1
+415154,Focusing Spirit Band,48,43,3,4,0,11,1,1,0,Badlands,1,1
+415155,Bone Carver,47,42,3,2,15,13,5,3,0|530,Badlands|Duskwood|SilvermoonCity,1,1
+415156,Sunscorched Thrower,46,41,3,2,16,25,1,0,0,Badlands,1,1
+415157,Ragescorn Circlet,50,45,4,4,3,1,2,1,0,Badlands,1,1
+415158,Unearthed Pauldrons,48,43,3,4,2,3,2,2,0,Badlands,1,1
+415159,Wind-Worn Longbow,46,41,2,2,2,15,1,0,0,Badlands,1,1
+415160,Cowl of the Stone Summoner,48,43,4,4,1,1,2,2,0,Badlands,1,1
+415161,Bloodstained Helm,47,42,2,4,4,1,3,3,0,Badlands,1,1
+450238,Frostwalker Boots,8,3,2,4,1,8,4,2,0,Arathi|coldridgevalley,1,1
+450239,Spicy Candle,8,3,2,4,0,23,3,2,0,coldridgevalley,1,1
+450240,Lost Adventurer's Ring,8,3,3,4,0,11,2,2,0,coldridgevalley,1,1
+450241,Forgotten Knapsack,10,1,2,1,0,18,3,3,0,coldridgevalley,1,1
+450242,Glinting Necklace,12,7,2,4,0,2,4,3,0,DunMorogh|coldridgepass,1,1
+450243,Snow Shovel,12,7,2,2,1,17,2,1,0,DunMorogh,1,1
+450244,Lumber Axe,12,7,2,2,0,13,3,1,0,DunMorogh,1,1
+450245,Lost Mountaineer's Bow,12,7,2,2,2,15,2,0,0,DunMorogh,1,1
+450246,Magnus' Mug,8,3,2,4,0,23,2,0,0,DunMorogh,1,1
+450247,Chilly Pickaxe,13,8,2,2,1,17,6,2,0,BlastedLands|DunMorogh|Hilsbrad|Tirisfal|golbolarquarry,1,1
+450248,Bone Needle,12,7,2,2,15,13,2,0,0,DunMorogh,1,1
+450249,Gnomeregan Spanner,13,8,2,4,0,12,2,0,0,DunMorogh,1,1
+450250,Sailor's Ring,14,9,2,4,0,11,4,1,0,DunMorogh|EasternPlaguelands,1,1
+450251,Wendigo Fur Cloak,11,6,2,4,1,16,3,0,0|70,Uldaman|thegrizzledden,1,1
+450252,Frostmane Axe,12,7,2,2,0,13,3,1,0,DunMorogh,1,1
+450253,Frozen Finger,11,6,2,4,0,11,2,1,0,DunMorogh,1,1
+450254,Arctic Imbued Stick,12,7,2,2,10,17,2,0,0,DunMorogh,1,1
+450256,Claw of Vagash,12,7,2,2,13,21,2,0,0,DunMorogh,1,1
+450257,Heavy Ogre Axe,24,19,2,2,1,17,5,3,0,LochModan|SearingGorge|northshire,1,1
+450258,Grizlak's Candle,16,11,2,4,0,12,5,2,0,BurningSteppes|EasternPlaguelands|LochModan,1,1
+450259,Large Buzzard Talon,15,10,3,2,15,13,4,2,0,LochModan|SearingGorge|northshire,1,1
+450260,Tunnel Rat Pike,18,13,2,2,6,17,4,2,0,EasternPlaguelands|LochModan|SearingGorge,1,1
+450261,Miner's League Vest,16,11,2,4,2,5,6,1,0,DunMorogh|Hinterlands|LochModan|northshire,1,1
+450262,Sword of Stone,22,17,2,2,7,13,5,0,0,DunMorogh|LochModan|SearingGorge,1,1
+450263,Galgosh's Other Bone,25,20,3,2,19,26,4,3,0,DunMorogh|LochModan,1,1
+450264,Brother's Special Gift,17,12,2,4,0,12,4,1,0,LochModan|northshire,1,1
+450265,Ol' Blunderbuss,19,14,2,2,3,26,4,1,0,LochModan|SearingGorge,1,1
+450266,Dark Iron Collar,23,18,3,4,0,2,3,0,0,LochModan,1,1
+450267,Ogre Loincloth,25,20,3,4,2,7,6,0,0,DunMorogh|EasternPlaguelands|LochModan|SearingGorge|northshire,1,1
+450268,Frenzy Fin,18,13,2,4,0,12,4,1,0,EasternPlaguelands|LochModan,1,1
+450269,Scrap Shield,15,10,2,4,6,14,6,0,0,Hinterlands|LochModan|SearingGorge|northshire,1,1
+450270,Lost Traveler's Ring,18,13,2,4,0,11,3,1,0,LochModan|northshire,1,1
+450271,Frayed Backwrap,17,12,2,4,1,16,5,1,0,LochModan|SearingGorge|nightwebshollow,1,1
+450272,Enchanted Scribe's Feather,40,35,3,2,15,21,3,1,0,Alterac,1,1
+450273,Crater's Silk Drape,37,32,3,4,1,16,2,1,0,Alterac,1,1
+450274,Runed Pantaloons,38,33,3,4,1,7,2,0,0,Alterac,1,1
+450275,Charred Greaves,38,33,3,4,3,8,3,3,0,Alterac,1,1
+450276,Dusty Sorcerer Hat,37,32,2,4,1,1,3,3,0,Alterac,1,1
+450277,Chain of the Forgotten Prisoner,38,33,3,4,0,2,5,2,0|585,Alterac|EasternPlaguelands|MagistersTerrace,1,1
+450500,Worn Grunt Axe,8,3,2,2,0,13,4,3,1,Durotar|valleyoftrialsstart,1,1
+450501,Abandoned Peon's Sack,10,1,2,1,0,18,4,3,1|43,WailingCaverns|valleyoftrialsstart,1,1
+450502,Wristguards of the Elements,8,3,2,4,1,9,3,1,1,Barrens|Durotar,1,1
+450503,Sturdy Peon Blanket,8,3,2,4,1,16,5,5,1,Durotar|valleyoftrialsstart,1,1
+450504,Large Kodo Bone,8,3,2,2,5,17,3,2,1,campnarachestart,1,1
+450505,Stolen Tauren Cloak,8,3,2,4,1,16,2,2,1,campnarachestart,1,1
+450506,Ancestor's Axe,8,3,2,2,0,13,1,0,1,campnarachestart,1,1
+450508,Burning Blade Ring,12,7,2,4,0,11,3,1,1,burningbladecoven,1,1
+450509,Bloodied Torn Bracers,11,6,2,4,1,9,2,0,1,Mulgore,1,1
+450510,Travel Sack,10,1,2,1,0,18,3,3,1,campnarachestart,1,1
+450511,Gem of Fortitude,8,3,2,4,0,2,6,2,0,DunMorogh|Elwynn|SearingGorge|northshire,1,1
+450512,Defias Special Bucket,8,3,2,4,0,23,3,2,0,Elwynn|northshire,1,1
+450513,Wax Stained Bag,10,1,2,1,0,18,6,3,0|189,BurningSteppes|Elwynn|ScarletMonastery|northshire,1,1
+450514,Deadman Walkers,8,3,2,4,1,8,2,1,0,northshire,1,1
+450515,Mother's Loose Fang,12,7,2,2,15,13,6,3,0,DunMorogh|Hilsbrad|jasperlodemine|nightwebshollow,1,1
+450517,Bones to Gnaw,12,7,2,4,0,12,5,0,0,Arathi|Elwynn|Upperfargodeepmine|scarletmonasteryentrance,1,1
+450519,Stormwind Memento,10,5,2,4,0,2,5,1,0,Arathi|BlastedLands|Elwynn|Upperfargodeepmine,1,1
+450522,Murloc Voodoo Doll,12,7,2,4,0,12,4,0,0,Badlands|Elwynn,1,1
+450523,Enchanted Straw Appendage,13,8,2,2,19,26,3,1,0,Badlands|Elwynn,1,1
+450524,Lexicon Ring,12,7,2,4,0,11,3,1,0,BlastedLands|Elwynn,1,1
+450525,Thunderfall Wand,11,6,3,2,19,26,3,1,0,Alterac|Elwynn,1,1
+450526,Thunderfall Hunting Gun,11,6,2,2,3,26,2,0,0,Elwynn,1,1
+450527,Loop of the Sly Rogue,12,7,2,4,0,11,4,0,0,Elwynn|Upperfargodeepmine,1,1
+450528,The Candle,13,8,2,4,0,12,7,2,0,BlastedLands|DunMorogh|Lowerfargodeepmine|Upperfargodeepmine,1,1
+450529,Gnoll Subjugator,22,17,3,2,19,26,3,2,0,Silverpine|SwampOfSorrows,1,1
+450530,Rot Hide Mantle,22,17,2,4,1,16,4,2,0|530,LochModan|Silverpine|sunstriderislestart,1,1
+450531,Ravenous Eye,22,17,3,4,0,2,4,3,0,Silverpine|SwampOfSorrows,1,1
+450532,Alchemy Research Notes,22,17,2,4,0,23,3,0,0,Silverpine|SwampOfSorrows,1,1
+450533,Rot Hide Harness,22,17,2,4,2,5,4,2,0,Silverpine|SwampOfSorrows,1,1
+450534,Stolen Rot Hide Circlet,22,17,2,4,0,11,2,1,0,Silverpine,1,1
+450535,Thule's Curse Parchment,22,17,2,4,0,12,3,2,0,Silverpine|SwampOfSorrows,1,1
+450536,Grandpa's Scarlet Blade,35,30,2,2,7,13,3,1,0,Alterac|Duskwood,1,1
+450537,Arcane Glinting Shard,22,17,2,4,0,12,3,1,0,Silverpine,1,1
+450538,Ancient Lordaeron Jewel,22,17,3,4,0,2,2,1,0,Silverpine,1,1
+450539,Sack of Pine Seeds,15,10,1,4,0,12,3,1,0,Silverpine|SwampOfSorrows,1,1
+450540,Ivar's Femur,16,11,2,4,0,23,4,2,0,Silverpine|SwampOfSorrows,1,1
+450541,Nightlash Gown,16,11,2,4,1,16,3,1,0,Silverpine,1,1
+450542,Small Claw of the Meat Wagon,17,12,2,2,16,25,3,2,0,Silverpine|SwampOfSorrows,1,1
+450543,Poison Unguent Extract,16,11,2,4,0,12,5,1,0,LochModan|Silverpine|SwampOfSorrows,1,1
+450544,Gilnean Monocle,21,16,3,4,1,1,3,2,0,Silverpine,1,1
+450545,Grimson Cloak,17,12,3,4,1,16,4,0,0,Silverpine|SwampOfSorrows,1,1
+450546,Fenris Ring,16,11,2,4,0,11,1,0,0,Silverpine,1,1
+450547,Ravenclaw Bone Necklace,16,11,2,4,0,2,3,1,0,Silverpine,1,1
+450548,Corroded Quel'thalas Ring ,20,15,2,4,0,11,3,1,0,Westfall,1,1
+450549,Worn Quel'thalas Heirloom,20,15,3,4,0,2,3,0,0,Westfall,1,1
+450550,Old Quel'thalas Brooch,20,15,2,4,0,12,3,0,0,Westfall,1,1
+450551,Fisherman's Last Wish,20,15,2,4,0,12,3,1,0,Westfall,1,1
+450552,Peculiar Gold Nugget,18,13,2,4,0,2,6,4,0,Tirisfal|Westfall|goldcoastquarry,1,1
+450553,Mrlrgrl Pitchfork,18,13,3,2,6,17,1,0,0,Westfall,1,1
+450554,Rusty Quel'thalas Circlet,20,15,2,4,0,11,2,0,0,LochModan|Westfall,1,1
+450555,Murky Quel'thalas Drape,22,17,2,4,1,16,4,0,0,Stranglethorn|Westfall,1,1
+450556,People's Militia Crossbow,22,17,3,2,18,26,2,0,0,Westfall,1,1
+450557,Stolen Thunderbrew Flask,22,17,2,4,0,12,3,1,0,Stranglethorn|Westfall,1,1
+450558,Terrible Defias Mixture,18,13,3,4,0,12,2,0,0,Westfall,1,1
+450559,Madness Cursed Notes,18,13,2,4,0,12,2,0,0,Stranglethorn|Westfall,1,1
+450560,Harvest Golem Scythe,18,13,3,2,8,17,1,0,0,Westfall,1,1
+450561,People's Militia Badge,17,12,2,4,0,2,4,2,0,Hilsbrad|Hinterlands|jangolodemine,1,1
+450562,Defias Honorcode Memento,18,13,2,4,0,11,3,3,0,Westfall,1,1
+450563,Defias Sprig,22,17,3,2,19,26,1,0,0,Westfall,1,1
+450564,Old Defias Gun,18,13,2,2,3,26,3,1,0,Stranglethorn|Westfall,1,1
+450565,Defias Assassin Cloak,18,13,3,4,1,16,3,3,0,Westfall,1,1
+450566,Ring of the Lexicon,29,24,3,4,0,11,3,1,0,DeadwindPass|Redridge,1,1
+450567,Dirtpaw Trousers,24,19,3,4,1,7,4,1,0,DeadwindPass|Redridge,1,1
+450568,Yowler's Howl,23,18,2,4,0,12,3,1,0,Redridge|SecretInquisitorialDungeon,1,1
+450569,Dragon Matriarch Cloak,22,17,3,4,1,16,2,0,0,DeadwindPass|Redridge,1,1
+450570,Stolen Ilgalar Neckpiece,23,18,3,4,0,2,3,0,0,BurningSteppes|DeadwindPass|Redridge,1,1
+450571,Blackrock Summoner's Garb,27,22,2,4,1,20,5,3,0,DeadwindPass|Redridge|SecretInquisitorialDungeon,1,1
+450572,Shadowhide Claw,27,22,2,4,0,12,3,1,0,DeadwindPass|Redridge,1,1
+450573,Blackrock Render,25,20,3,2,0,13,4,2,0,DeadwindPass|Redridge,1,1
+450574,Three Corner Coil,22,17,3,4,0,11,2,1,0,Redridge,1,1
+450575,Three Corner Carp,20,15,3,4,0,12,5,2,0,DeadwindPass|Redridge|SecretInquisitorialDungeon,1,1
+450576,Three Corner Cape,20,15,3,4,1,16,4,3,0,Redridge|SecretInquisitorialDungeon,1,1
+450577,Mrrrllrl Stick,27,22,2,2,10,17,3,0,0,Redridge,1,1
+450578,Aqualon's Bolt,23,18,2,4,0,12,4,2,0,DeadwindPass|Redridge|SecretInquisitorialDungeon,1,1
+450579,Thresher's Tooth,23,18,3,4,0,2,2,0,0,BurningSteppes|Redridge,1,1
+450580,Ribchaser's Loop,23,18,2,4,0,11,2,0,0,Redridge,1,1
+450581,Eliza's Pendant,29,24,3,4,0,2,4,2,0,Duskwood|echoridgemine,1,1
+450582,Fullmoon Howl,25,20,3,4,0,12,1,0,0,Duskwood,1,1
+450584,Haunted Bouquet,29,24,3,4,0,23,1,0,0,Duskwood,1,1
+450585,Gutspill Cloak,29,24,3,4,1,16,1,0,0,Duskwood,1,1
+450586,Sack of Regenerating Provisions,28,23,2,4,0,12,3,1,0,Duskwood|echoridgemine,1,1
+450587,Nightwatch Circlet,29,24,3,4,0,11,4,1,0,Duskwood|echoridgemine,1,1
+450588,Dusty Priest Cloak,27,22,3,4,1,16,4,1,0,Duskwood|echoridgemine,1,1
+450589,Pack Lead Bone Ring,35,30,2,4,0,11,2,0,0,Duskwood|echoridgemine,1,1
+450590,Defias Night Blade,29,24,3,2,15,13,4,0,0,Duskwood|echoridgemine,1,1
+450591,Vul'Gol Torch,30,25,3,2,4,21,4,1,0,Duskwood|echoridgemine,1,1
+450592,Venom Sample,29,24,3,4,0,23,3,2,0,Duskwood,1,1
+450593,Cursed Toy,30,25,2,4,0,12,2,0,0,Duskwood|echoridgemine,1,1
+450594,The Jitters,30,25,3,4,0,11,3,1,0,Duskwood|echoridgemine,1,1
+450595,Raven Hill Backscratcher,29,24,2,2,4,13,4,3,0,Duskwood|echoridgemine,1,1
+450597,Casket Will,30,25,2,4,0,12,2,1,0,Duskwood,1,1
+450598,Catacombs Torch,30,25,3,4,0,23,3,1,0,Duskwood,1,1
+450599,Alchemy Visceral Juice,14,9,2,4,0,12,3,2,0,Duskwood|echoridgemine,1,1
+450600,Ruby Skeletal Ring,29,24,3,4,0,11,3,1,0,Duskwood|echoridgemine,1,1
+450601,Poisoned Pendant,29,24,3,4,0,2,3,1,0,Duskwood|echoridgemine,1,1
+450602,Hazard Mantle,29,24,3,4,1,16,4,1,0,Duskwood|echoridgemine,1,1
+450603,Peculiar Root,23,18,3,2,10,17,2,2,0,Duskwood,1,1
+450604,Darkest Night Loop,29,24,3,4,0,11,4,2,0,Duskwood|blackrockmountain,1,1
+450605,Munitions Delivery Package,29,24,2,4,0,12,4,3,0,Duskwood|echoridgemine,1,1
+450606,Emerald Glinting Scale,29,24,3,4,0,2,2,0,0,Duskwood|echoridgemine,1,1
+450607,Hope for Atonement,30,25,4,4,7,28,2,0,0,Duskwood,1,1
+450609,Bristleback Staff,12,7,2,2,10,17,3,3,1,Mulgore,1,1
+450610,Thornmantle Quills,8,3,2,4,0,12,2,2,1,campnarachestart,1,1
+450611,Bristleback Quill,12,7,2,2,15,13,1,0,1,Mulgore,1,1
+450612,Brambleblade,8,3,2,2,7,13,4,1,1,Silithus|campnarachestart,1,1
+450614,Venture Co. Unique Concoction,12,7,2,4,0,23,4,3,1,Mulgore|campnarachestart,1,1
+450615,Fallen Hardwood Plank,12,7,2,2,4,13,4,2,1,Mulgore|campnarachestart,1,1
+450616,Snaggle's Engage Whistle,12,7,2,4,0,12,4,3,1,Mulgore|Teldrassil,1,1
+450617,Long Fishing Spear,11,6,2,2,6,17,2,2,1,Mulgore,1,1
+450618,Windfury Harpy Claw,13,8,2,4,0,12,3,1,1,Mulgore,1,1
+450619,Galak Smasher,12,7,2,2,5,17,2,0,1,Mulgore,1,1
+450620,Venture Co. Ring,13,8,3,4,0,11,6,3,1,Mulgore|theventurecomine,1,1
+450621,Discarded Wagon Wheel,13,8,3,4,6,14,2,0,1,theventurecomine,1,1
+450622,Interloper's Loop,14,9,2,4,0,11,3,0,1,Mulgore,1,1
+450623,Lyrath's Pan Flute,18,13,2,4,0,12,1,0,530,Ghostlands,1,1
+450625,Sin'dorei Battle Staff,14,9,2,2,10,17,1,0,530,Ghostlands,1,1
+450626,Blight Potion,23,18,2,4,0,23,1,0,530,Ghostlands,0,1
+450627,Scourge Blight Staff,23,18,3,2,10,17,1,0,530,Ghostlands,1,1
+450631,Blackpaw Scavenger Pick,18,13,3,2,0,13,1,0,530,Ghostlands,1,1
+450633,Fallen Eye Jewel,16,11,2,4,0,12,1,0,530,Ghostlands,1,1
+450635,Second War Axe,22,17,2,2,0,13,1,0,530,Ghostlands,1,1
+450639,Loded Ring,19,14,2,4,0,11,2,2,1,Barrens,1,1
+450640,Vial of Dread Water,16,11,2,4,0,12,3,1,1,Barrens,1,1
+450641,Honor Blade,21,16,3,2,7,13,3,3,1,Barrens,1,1
+450642,Wailing Sapphire Gem,18,13,2,4,8,28,1,1,1,wailingcavernsbarrens,1,1
+450643,Stylish Cloak,19,14,3,4,1,16,1,0,1,Barrens,1,1
+450644,Bloody Wedding Ring,25,20,3,4,0,11,4,0,1,Barrens|thenoxiouslair,1,1
+450645,Northwatch Hand Cannon,21,16,3,2,3,26,3,1,1,Barrens,1,1
+450646,Affray Cuirras,19,14,3,4,1,20,2,0,1,Barrens,1,1
+450647,Captain's Spyglass,19,14,2,4,0,12,3,1,1,Barrens,1,1
+450648,Overwatch Bow,28,23,3,2,2,15,4,0,1|530,Barrens|TheExodar,1,1
+450649,Special Excavation Lantern,27,22,2,4,0,12,1,0,1,Barrens,1,1
+450650,Burial Wraps,8,3,2,4,1,9,2,1,0,deathknellstart,1,1
+450652,Grave Restoration Mixture,15,3,2,0,1,0,5,3,0,Tirisfal|deathknellstart,1,1
+450653,All Natural Herbal Potion,15,3,1,0,1,0,2,0,1,campnarachestart,1,1
+450654,Recruit's Life Saving Potion,15,3,2,0,1,0,3,3,1,valleyoftrialsstart,1,1
+450657,Water Wraps,8,3,2,4,1,9,4,2,0,Stranglethorn|northshire,1,1
+450658,Worn Shovel,8,3,2,2,1,17,7,1,0|530,Alterac|EversongWoods|echoridgemine|northshire,1,1
+450659,Patrolman's Sword,8,3,2,2,7,13,4,2,0,Elwynn|northshire,1,1
+450670,Drumstick,8,3,2,2,4,13,3,1,0,Arathi|coldridgevalley,1,1
+450671,Fire Poker,8,3,2,2,10,17,2,2,0,coldridgevalley,1,1
+450672,Mossy Bag,10,1,2,1,0,18,3,0,1,shadowglenstart,1,1
+450673,Moonbathed Necklace,8,3,2,4,0,2,5,3,1,SinisterLair|shadowglenstart,1,1
+450674,Glen Guardian,8,3,2,2,8,17,3,3,1,shadowglenstart,1,1
+450675,Lily Corsage,8,3,2,4,1,9,6,3,1,SinisterLair|Teldrassil|shadowglenstart|shadowthreadcave,1,1
+450676,Tracker's Dagger,8,3,2,2,15,13,3,3,1,shadowglenstart,1,1
+450677,Webbed Cloak,8,3,2,4,1,16,2,2,1,shadowthreadcave,1,1
+450678,Dripping Fang,8,3,2,4,0,12,3,0,1,shadowthreadcave,1,1
+450681,Rabbit's Paw,12,7,2,4,0,12,2,0,0,DunMorogh,1,1
+450682,Spine Hammer,12,7,3,2,4,13,5,2,0,BlastedLands|Hilsbrad|Silverpine|golbolarquarry,1,1
+450683,Edan's Stripe,12,7,2,4,2,6,2,0,0,thegrizzledden,1,1
+450684,Salvaged Cannon,8,3,2,2,3,26,3,1,0,DunMorogh|EasternPlaguelands,1,1
+450685,Dark Iron Vest,14,9,2,4,2,5,2,0,0,DunMorogh,1,1
+450686,Thawed Boots,12,7,2,4,3,8,3,1,0,DunMorogh,1,1
+450687,Voodoo Kilt,11,6,2,4,1,7,2,0,1,Durotar,1,1
+450689,Centaur Axe,11,6,2,2,0,13,3,2,1,Durotar,1,1
+450691,Treasured Cutlass,11,6,3,2,7,13,4,1,1,Barrens|Durotar,1,1
+450692,Logsplitter,14,9,2,2,1,17,4,3,1,Durotar|Dustwallow,1,1
+450694,Skull Sword,12,7,2,2,8,17,3,3,1,skullrock,1,1
+450696,Quilbow,12,7,2,2,2,15,3,1,1,Durotar,1,1
+450697,Raptorscale Cloak,12,7,2,4,1,16,2,0,1,Durotar,1,1
+450700,Gardening Gloves,12,7,2,4,1,10,3,1,0,Badlands|Elwynn,1,1
+450701,Defias Cowl,12,7,2,4,2,1,4,1,0,Arathi|Elwynn|Upperfargodeepmine,1,1
+450703,Silky Spaulders,29,24,2,4,1,3,3,0,0,Duskwood,1,1
+450705,Dustrunner Bindings,12,7,2,4,1,9,3,0,1,Durotar,1,1
+450706,Field Rations,15,6,2,0,1,0,4,3,0,Alterac|Elwynn,1,1
+450707,Assassin's Crossbow,15,10,3,2,18,26,2,0,1,Aszhara,1,1
+450709,Harpy Hunter,12,7,3,2,3,26,5,2,1,Barrens|Durotar|dustwindcave,1,1
+450711,Sailor's Gambeson,10,5,2,4,2,5,4,2,1,Durotar|Dustwallow,1,1
+450712,Margoz' Spare Stompers,12,7,2,4,2,8,5,0,1,Barrens|Durotar|dustwindcave,1,1
+450713,Farm Hands,13,8,2,4,2,10,1,0,1,Durotar,1,1
+450717,Conscript's Wraps,16,11,2,4,2,9,4,2,1,Barrens|shadowglenstart,1,1
+450718,Sailor's Cuffs,11,6,2,4,2,9,3,2,1,Durotar|Kalimdor,1,1
+450720,Retired Grunt's Chainmail,12,7,2,4,3,5,2,1,1,Durotar,1,1
+450721,Heavy Boots,18,13,2,4,3,8,3,1,0,Westfall,1,1
+450724,Grunt's Chain Leggings,18,13,2,4,3,7,2,0,1,Barrens,1,1
+450729,Enchanted Kobold Lantern,12,7,2,4,0,23,4,1,0,Badlands|Elwynn,1,1
+450740,Skull Ring,14,9,3,4,0,11,5,3,1,Durotar|skullrock|stillpinehold,1,1
+450741,Bramble Shield,12,7,2,4,6,14,2,1,1,Durotar,1,1
+450744,Throwing Rock,13,8,2,2,16,25,3,1,0,DunMorogh,1,1
+450745,Southfury Totem,14,9,2,4,9,28,2,0,1,Durotar,1,1
+450746,Burning Blade Mark,14,9,2,4,0,12,3,1,1,Felwood|dustwindcave,1,1
+450748,Defias Handshake,18,13,2,2,13,13,3,1,0,Westfall,1,1
+450750,Totem Charged Mace,17,12,2,2,4,13,5,1,1,Durotar|dustwindcave|valleyoftrialsstart,1,1
+450751,Retired Shadow Blade,6,1,2,2,7,13,3,1,1,Durotar,1,1
+450752,Warsong Timbercleaver,20,15,2,2,1,17,2,0,1,Barrens,1,1
+450753,Orcish Fishing Device,14,9,2,2,5,17,3,1,1,Durotar,1,1
+450755,Scalper's Sack,10,1,2,1,0,18,2,1,1,Durotar,1,1
+450756,Maestra's Training Longbow,23,18,2,2,2,15,3,0,1,Ashenvale,1,1
+450757,Thistlefur Fur Shroud,28,23,2,4,1,16,3,1,0|1,Ashenvale|amanicatacombs,1,1
+450758,Old Arcanus Robe,12,7,2,4,1,20,3,2,0,Badlands|Tirisfal,1,1
+450762,Warm Whoolies,11,6,2,4,1,7,4,2,0,DunMorogh|EasternPlaguelands,1,1
+450767,Poacher's Crossbow,12,7,2,2,18,26,5,0,0,Alterac|Badlands|Elwynn,1,1
+450768,Thunder Hide Tailspike,14,9,2,2,15,13,2,1,1,Durotar,1,1
+450771,Padded Vest,8,3,2,4,2,5,6,2,0|1,SwampOfSorrows|deathknellstart|valleyoftrialsstart,1,1
+450773,Flexible Gloves,17,12,2,4,2,10,2,2,0,Westfall,1,1
+450775,Field Trousers,17,12,2,4,2,7,3,0,0,Westfall,1,1
+450780,Claw Scarred Mail,12,7,2,4,3,5,3,0,0,DunMorogh,1,1
+450782,Miner Handwraps,33,28,2,4,3,10,3,0,0,Wetlands,1,1
+450788,String of Ears,12,7,2,4,0,2,3,2,1,Durotar,1,1
+450789,Firestarter,6,1,2,4,0,23,3,0,1,Barrens|Durotar|Upperbanethilbarrowden,1,1
+450799,Apprentice's Harpoon,12,7,2,2,6,17,2,2,1,Durotar,1,1
+450803,Stormwitch Staff,14,9,2,2,10,17,3,3,1,Durotar,1,1
+450805,Furbolg War Drum,10,5,2,4,8,28,2,1,1,Teldrassil,1,1
+450806,Jar of Spiders,9,3,2,4,0,12,4,3,1,Moonglade|shadowthreadcave,1,1
+450807,Bathran's Cursed Twig,24,19,3,2,19,26,3,1,1,Ashenvale,1,1
+450809,Jack's Toothpicker,12,7,2,2,0,13,3,1,0,Arathi|Elwynn,1,1
+450812,Ironbeard's Axe,30,25,3,2,1,17,4,3,0,Westfall|Wetlands,1,1
+450815,Ravine Sack,10,1,2,1,0,18,4,1,1,Barrens|Durotar,1,1
+450816,Silverwing Grovekeeper's Bow,23,18,2,2,2,15,1,0,1,Ashenvale,1,1
+450822,Party Pants,12,7,2,4,1,7,5,2,0,Arathi|Badlands|Elwynn,1,1
+450825,Wizard Wraps,17,12,2,4,1,9,3,0,0,Westfall,1,1
+450827,Bristlebow,23,18,3,2,18,26,2,2,1,Barrens,1,1
+450829,Nightshot,29,24,3,2,3,26,3,1,0,Duskwood,1,1
+450835,Suspiciously Brown Trousers,27,22,2,4,2,7,3,1,0,Duskwood|echoridgemine,1,1
+450838,Adventurer Gloves,13,8,2,4,2,10,3,0,0,Tirisfal,1,1
+450840,Soldier's Mail,18,13,2,4,3,5,4,1,0,Stranglethorn|Westfall,1,1
+450850,Guide to Elven Restoration - Vol. I,26,21,3,4,0,23,3,0,1,Ashenvale,1,1
+450860,Rosebud Ring,26,21,3,4,0,11,2,0,1,Ashenvale,1,1
+450865,Frostmane Totem,13,8,2,4,9,28,2,2,0,DunMorogh,1,1
+450869,Ulag's Cleaver,16,11,2,2,0,13,4,2,0,Tirisfal|thegrizzledden,1,1
+450870,Heavy Iron Pan,12,7,2,2,4,21,6,0,0|530,Alterac|Arathi|Elwynn|EversongWoods,1,1
+450871,Murder Machete,12,7,2,2,7,13,4,2,0|530,Elwynn|EversongWoods,1,1
+450872,Heavy Logsplitter,12,7,2,2,1,17,4,2,0,Badlands|Elwynn,1,1
+450873,Woodbreaker Mallet,30,25,3,2,5,17,2,1,1,Ashenvale,1,1
+450874,Butchery Blade,14,9,2,2,8,17,3,0,0,Tirisfal,1,1
+450877,Riding Cloak,12,7,2,4,1,16,4,0,0,Badlands|Elwynn|Upperfargodeepmine,1,1
+450882,Forgotten Trunks,17,12,2,4,1,7,2,2,1,Barrens,1,1
+450909,Liquid Arcane,17,12,2,4,0,23,4,2,0,Duskwood|Westfall,1,1
+450910,Tiloa's Flowers,25,20,2,4,0,23,3,0,0,Duskwood|echoridgemine,1,1
+450919,Officer's Pike,14,9,2,2,6,17,3,2,0,DunMorogh,1,1
+450920,Fel Infused Band,33,28,3,4,0,11,3,1,1,Ashenvale,1,1
+450923,Mystral Staff,28,23,3,2,10,17,3,1,1,Ashenvale,1,1
+450930,Haren's Tankard,21,16,3,2,4,13,1,0,0,Hinterlands,1,1
+450931,Burial Blade,18,13,2,2,7,21,2,0,0,Westfall,1,1
+450932,Sharpened Chopper,18,13,2,2,1,17,3,3,0,Westfall,1,1
+450934,Sentinel's Blade,19,14,2,2,8,17,2,0,0,Westfall,1,1
+450946,Untouched Cactus Fruit,15,7,2,0,1,0,2,0,1,Durotar|dustwindcave,1,1
+450948,Bleakheart Piercer,32,27,3,2,15,13,4,2,0|1,Ashenvale|Stranglethorn,1,1
+450979,Boar Harvester,12,7,2,2,6,17,5,1,0,Arathi|Badlands|Elwynn,1,1
+450980,Rider's Ring,14,9,2,4,0,11,2,1,0,DunMorogh,1,1
+450981,Intact Wagon Wheel,13,8,2,4,6,14,2,1,0,DunMorogh,1,1
+450983,Apprentice Staff,8,3,2,2,10,17,12,7,0|1,Durotar|Elwynn|campnarachestart|deathknellstart|nightwebshollow|northshire|valleyoftrialsstart,1,1
+450988,Sturdy Fishing Pole,13,8,2,2,20,17,1,0,1,Durotar,1,1
+450993,Delicious Dried Corn,15,3,2,0,1,0,4,0,1,SinisterLair|shadowglenstart,1,1
+451023,Cursed Fire Scar Pendant,27,22,3,4,0,2,2,2,1,Ashenvale,1,1
+451024,Elune Tear Fragment,26,21,3,4,0,2,2,0,1,Ashenvale,1,1
+451025,Bloodtooth Neck,30,25,3,4,0,2,4,1,0|1,Ashenvale|Stranglethorn,1,1
+451026,Repelling Necklace,13,8,2,4,0,2,3,0,0,DunMorogh|EasternPlaguelands,1,1
+451027,Swashbuckler's Chain,19,14,3,4,0,2,3,0,1,Barrens,1,1
+451046,Felforged Meteor Fragment,26,21,2,4,0,12,3,0,1,Ashenvale,1,1
+451047,Echo of Aessina,25,20,2,4,0,12,2,2,1,Ashenvale,1,1
+451048,Ursangous' Claw,26,21,2,4,0,12,3,0,1,Ashenvale,1,1
+451049,Endless Moonwell Chalice,28,23,2,4,0,12,2,2,1,Ashenvale,1,1
+451052,Etched Tablet,31,26,2,4,0,12,4,1,0,Westfall|Wetlands,1,1
+451084,Heavy Bone,18,13,2,2,4,13,3,0,0,Westfall,1,1
+451085,Stump Biter,24,19,2,2,0,13,2,0,1,Barrens,1,1
+451088,The Dark Soul,31,26,3,2,8,17,4,1,0,Duskwood|echoridgemine,1,1
+451096,Garren's Pitchfork,12,7,2,2,6,17,2,1,0,Tirisfal,1,1
+451097,Haunted Ring,12,7,2,4,0,11,3,2,0,Tirisfal,1,1
+451098,Captain's Shield,15,10,3,4,6,14,2,2,0,Tirisfal,1,1
+451099,Murloc Ritual Staff,12,7,2,2,10,17,3,1,0,Elwynn,1,1
+451102,Peon Motivator,17,12,3,2,4,13,3,1,1,Barrens,1,1
+451105,Waterlogged Musket,26,21,3,2,5,17,3,0,0,Wetlands,1,1
+451107,Travel Sack,4,1,1,1,0,18,5,3,0|1,Duskwood|Mulgore|Westfall,1,1
+451111,Defias Shanker,12,7,2,2,15,13,6,2,0,Alterac|BlastedLands|Elwynn|Upperfargodeepmine,1,1
+451114,Sharpened Pike,23,18,2,2,6,17,2,2,1,Barrens|Durotar,1,1
+451117,Defias Magus Staff,18,13,2,2,10,17,4,0,0,Stranglethorn|Westfall,1,1
+451123,Drudger Smash,20,15,2,2,5,17,2,1,1,Barrens,1,1
+451125,Lohgan's Best Bag,4,1,1,1,0,18,2,1,0,Duskwood,1,1
+451129,Defias Toe Knife,17,12,2,2,15,13,2,1,0,Westfall,1,1
+451401,Billy Bag,1,1,2,1,0,18,4,1,0,Alterac|Elwynn|Upperfargodeepmine,1,1
+451993,Arcane-Tinged Flower,15,30,2,0,1,0,1,1,0,Alterac,1,1
+460000,Dwarven Demolition Kit,34,29,3,2,16,25,2,0,0,Wetlands,1,1
+500659,Ironhew's Spare Chopper,10,5,2,2,1,17,1,0,0,DunMorogh,1,1
+500662,Kargan's Mask,13,8,3,4,2,1,1,1,0,Stranglethorn,1,1
+500816,Supply Runner's Pants,10,5,2,4,3,7,2,0,0,Elwynn|Westfall,1,1
+515003,Tarantula Hunter Rifle,31,26,3,2,3,26,5,2,0|585,EasternPlaguelands|Hilsbrad|MagistersTerrace,1,1
+515004,Solliden Family Broom,12,7,2,2,10,17,3,0,0,Tirisfal,1,1
+515005,Misplaced Pitchfork,22,17,2,2,6,17,1,0,0,Hilsbrad,1,1
+515006,Washed Ashore Bottle,20,15,2,4,0,23,2,0,1,Darkshore,1,1
+515007,Old Wagon Wheel,11,6,2,4,6,14,5,1,0,Tirisfal|Wetlands|thegrizzledden,1,1
+515008,Puddle-jumper Dagger,14,9,2,2,15,13,3,0,0,Tirisfal,1,1
+515009,Dalaran Mage Garb,35,30,3,4,1,20,1,0,0,Alterac,1,1
+515010,Evil-Infused Cuffs,16,11,2,4,2,9,2,0,1,Darkshore,1,1
+515011,Deathstalker Cloak,26,21,3,4,1,16,5,2,0|585,EasternPlaguelands|Hilsbrad|MagistersTerrace,1,1
+515012,Forsaken Stone Braid,16,11,3,4,0,2,3,1,1,Darkshore,1,1
+515013,Gravedigger's Delight,12,7,2,2,0,13,3,2,0,Tirisfal,1,1
+515014,Agamand Farmer Trousers,13,8,2,4,1,7,4,0,0,Tirisfal|thegrizzledden,1,1
+515015,Apothecary's Lantern,12,7,3,4,0,23,3,0,0,Tirisfal,1,1
+515016,Haunted Mace,12,7,3,2,5,17,4,0,0,Badlands|Tirisfal,1,1
+515017,Faulty Stone Golem,23,18,2,4,0,12,3,0,1,Darkshore,1,1
+515018,Dwarven Explosive Barrel,33,28,3,4,0,12,4,3,0,EasternPlaguelands|Hilsbrad,1,1
+515019,Leftover Mining Trousers,31,26,3,4,2,7,4,0,0|585,EasternPlaguelands|Hilsbrad|MagistersTerrace|Tirisfal,1,1
+515020,Scarlet Insignia,13,8,3,4,0,2,3,2,0,Tirisfal,1,1
+515021,Windshaper Wraps,23,18,2,4,2,10,2,1,1,Darkshore,1,1
+515022,Old Snapjaw Shell,28,23,3,4,6,14,3,0,0,Hilsbrad,1,1
+515023,Timelost Captain Shield,30,25,2,4,6,14,3,2,0,Hilsbrad,1,1
+515024,Hillsbrad Shovel,28,23,2,2,5,17,2,0,0,Hilsbrad,1,1
+515025,Mudsnout Effigy,31,26,3,2,5,17,4,1,0,EasternPlaguelands|Hilsbrad|Tirisfal,1,1
+515026,Deadman's Dagger,28,23,3,2,15,21,5,1,0|585,EasternPlaguelands|Hilsbrad|MagistersTerrace,1,1
+515027,Eroded Pit Fighter Knuckles,27,22,3,2,13,13,4,0,0,EasternPlaguelands|Hilsbrad,1,1
+515028,Twilight Bands,24,19,2,4,3,9,3,2,1,Darkshore,1,1
+515029,Furbolg War-drum,20,15,2,4,0,12,3,1,1,Darkshore,1,1
+515030,Empty Satchel,4,1,1,1,0,18,2,0,0,Tirisfal,1,1
+515031,Suspicious Deathcap,2,18,2,0,1,0,3,0,1,Darkshore,1,1
+515032,Agamand Walking Stick,13,8,2,2,10,17,4,0,0,Tirisfal|Wetlands,1,1
+515034,Moon-gnawed Bone Spire,20,15,3,2,5,17,2,1,1,Darkshore,1,1
+515035,Blackwood Torch,23,18,2,2,4,21,3,1,1,Darkshore,1,1
+515036,Hunk of Darkshore Driftwood,20,15,2,2,5,17,2,1,1,Darkshore,1,1
+515037,Fanatic's Cursed Blade,24,19,3,2,15,13,3,1,1,Darkshore,1,1
+515038,Ancient Highborne Tome,24,19,2,4,8,28,1,0,1,Darkshore,1,1
+515039,Ancient Family Heirloom,15,10,2,2,8,17,1,0,1,Darkshore,1,1
+515040,Uncovered Highborne Scroll,2,9,2,0,4,0,2,1,1,Darkshore,1,1
+515041,Foreman's Lightcap,31,26,3,4,1,1,4,1,0|585,Hilsbrad|MagistersTerrace,1,1
+515042,Shipwrecked Crate,2,1,2,1,0,18,2,0,1,Darkshore,1,1
+515043,Waterlogged Sparkler,11,6,2,2,19,26,5,2,0,Tirisfal|Wetlands|thegrizzledden,1,1
+515044,Docile Night Web Hatchling,2,7,6,0,0,0,1,1,0,Tirisfal,1,1
+515045,Tide Turner,20,15,3,4,6,14,3,0,1,Darkshore,1,1
+515046,Enchanted Flora Waist,23,18,2,4,2,6,3,1,1,Darkshore,1,1
+515047,Unpleasant Ring,23,18,2,4,0,11,1,0,1,Darkshore,1,1
+515143,Moonlight Infused Band,45,40,3,4,0,11,2,0,1,Feralas,1,1
+515144,Wild Tracker Bindings,45,40,2,4,2,9,1,0,1,Feralas,1,1
+515145,Seamstress Scissors,50,45,4,2,15,13,2,0,1,Feralas,1,1
+515146,Heartwood Cleaver,46,41,3,2,0,13,3,1,1,Feralas,1,1
+515147,Lakebottom Treads,45,40,3,4,2,8,3,0,1,Feralas,1,1
+515148,Shen'dralar Staff,47,42,3,2,10,17,1,0,1,Feralas,1,1
+515149,Stolen Highborne Spaulders,45,40,3,4,1,3,1,1,1,Feralas,1,1
+515150,Grasping Claw,46,41,2,2,4,21,2,1,1,Feralas,1,1
+515151,Tome of the Valiant,46,41,2,4,7,28,2,0,1,Feralas,1,1
+515152,Ogre Cleaver,48,43,3,2,1,17,1,0,1,Feralas,1,1
+515153,Gordunni Thumbtack,46,41,3,4,3,1,1,0,1,Feralas,1,1
+515154,Gnoll-Gnawed Bone Bat,46,41,3,2,5,17,1,0,1,Feralas,1,1
+515155,Grim Totem,48,43,2,4,9,28,1,0,1,Feralas,1,1
+515156,Grimtotem Outrider's Vest,47,42,2,4,2,5,2,0,1,Feralas|Moonglade,1,1
+515157,Grimtotem Relic,48,43,2,4,8,28,2,0,1,Feralas,1,1
+515158,Worn Angler Cord,47,42,3,4,1,6,2,0,1,Feralas,1,1
+515159,Savage Crossbow,46,41,3,2,18,26,1,0,1,Feralas,1,1
+515160,Gnoll Stompers,47,42,2,4,2,8,3,2,1,Feralas,1,1
+515161,Bench Breaker,47,42,3,2,0,13,3,0,1,Feralas,1,1
+515162,Secluded Soothsayer's Pipes,49,44,4,4,0,23,1,1,1,Feralas,1,1
+515163,Ambercoil Pendant,50,45,3,4,0,2,3,1,1|349,Feralas|Maraudon,1,1
+515164,Silithid Husk Shield,50,45,3,4,6,14,2,0,1|349,Feralas|Maraudon,1,1
+515165,Shimmering Silithid Carapace,51,46,3,4,4,7,2,0,1,Feralas,1,1
+515166,Bug Catchers,50,45,3,4,2,10,2,0,1,Feralas,1,1
+515167,Beastpile Drape,50,45,2,4,1,16,3,1,1|349,Feralas|Maraudon,1,1
+515168,Long-Clawed Gnoll Paw,50,45,3,2,13,21,1,0,1,Feralas,1,1
+515169,Nightfallen Longbow,48,43,3,2,2,15,2,2,1,Feralas,1,1
+515170,Denrunner Tomahawk,47,42,3,2,16,25,1,0,1,Feralas,1,1
+515171,Torn Hide Spaulders,47,42,3,4,2,3,2,2,1,Feralas,1,1
+515172,Woodpaw Greatblade,48,43,2,2,8,17,1,0,1,Feralas,1,1
+515173,Orb of Isildien Echoes,49,44,3,4,0,23,1,0,1,Feralas,1,1
+515174,Shattered Highborne Blade,49,44,3,2,7,21,2,0,1,Feralas,1,1
+515175,Isildien Tender's Wand,49,44,3,2,19,26,1,1,1,Feralas,1,1
+515176,Runestone Figurine,50,45,3,4,0,12,2,0,1,Feralas,1,1
+515177,Ogre Kneepad,49,44,3,4,3,5,4,3,1|349,Feralas|Maraudon,1,1
+515178,Necklace of the Sunken Empire,50,45,4,4,0,2,2,2,1,Feralas,1,1
+515179,Rotted Yolk,45,45,2,0,0,0,2,0,1,Feralas,1,1
+515180,Moonwell Drops,1,45,3,0,0,0,2,0,1|349,Feralas|Maraudon,1,1
+515181,Yeti Napkin,50,45,3,4,1,16,2,1,1,Feralas,1,1
+515182,Shen'dralar Slicer,51,46,3,2,7,13,2,0,1,Feralas,1,1
+515183,Moon-Infused Breeches,58,53,3,4,1,7,3,1,1|349,Feralas|Maraudon,1,1
+515184,Sentinel Wrap,52,47,2,4,3,6,3,0,1|349,Feralas|Maraudon,1,1
+515185,Zapping Rod,50,45,3,2,4,21,2,0,1,Feralas,1,1
+515186,Strider Shot,50,45,3,2,3,26,2,1,1|349,Feralas|Maraudon,1,1
+515187,Strider Waist Piece,52,47,3,4,6,14,4,0,1|349,Feralas|Maraudon,1,1
+515188,Band of Scales,47,42,3,4,0,11,2,0,1,Feralas,1,1
+515189,Solarsal Pendant,46,41,3,4,0,2,5,1,1|349,Feralas|Maraudon|Moonglade,1,1
+515190,Tidebaron's Sigil,48,43,3,4,0,12,2,0,1,Feralas,1,1
+515191,Hatestrike,50,45,3,2,6,17,2,0,1|349,Feralas|Maraudon,1,1
+515192,Tanner Gloves,52,47,3,4,2,10,2,0,1,Feralas,1,1
+515193,Thunderfur Cloak,51,46,2,4,1,16,2,0,1|349,Feralas|Maraudon,1,1
+515194,Crown of Stone,53,48,3,4,3,1,1,0,1,Feralas,1,1
+515195,Dormant Dreamscale,53,48,3,4,0,12,2,0,1,Feralas,1,1
+515196,Ravenwind Fangblade,53,48,3,2,15,13,2,0,1|349,Feralas|Maraudon,1,1
+515197,Gilded Stone Bulwark,53,48,3,4,6,14,2,0,1,Feralas,1,1
+515198,Ancient Elvish Bag,1,1,3,1,0,18,2,0,1,Feralas,1,1
+515199,Ravenwind Codex,53,48,3,4,0,23,2,0,1,Feralas,1,1
+515200,Zaetar's Lost Heirloom,52,47,3,4,0,2,4,2,1|349,Feralas|Maraudon,1,1
+515201,Staff of Twin Blossoms,53,48,3,2,10,17,2,2,1,Feralas,1,1
+515202,Forgotten Wristguards,54,49,2,4,2,9,1,0,1,Feralas,1,1
+515203,Night Sentinel's Aim,52,47,3,2,2,15,2,1,1,Feralas,1,1
+515204,Bloodscorn Ritual Kris,51,46,3,2,15,21,1,0,1,Feralas,1,1
+515205,Accursed Yeti Horn,51,46,3,4,0,12,2,0,1,Feralas,1,1
+515206,Buccaneer's Barrier,52,47,3,4,6,14,3,0,1|349,Feralas|Maraudon,1,1
+515207,Durn's Loot Bag,35,1,3,1,0,18,2,0,1,Dustwallow,1,1
+515208,Scorched Bindings,45,40,3,4,1,9,3,2,1,Dustwallow,1,1
+515209,Corrupted Dragon Eye,44,39,3,4,8,28,1,0,1,Dustwallow,1,1
+515210,Greedy Fool's Potion,41,36,2,0,0,0,2,0,1,Dustwallow,1,1
+515211,Blackhoof Warmaul,41,36,3,2,5,17,3,2,1,Dustwallow,1,1
+515212,Missing Apprentice Wand,41,36,2,2,19,26,1,1,1,Dustwallow,1,1
+515213,Venomsilk Spellblade,41,36,3,2,7,21,1,0,1,Dustwallow,1,1
+515214,Mudcrush Shoulders,41,36,2,4,3,3,3,0,1,Dustwallow|felrock,1,1
+515215,Singed Flintlock,40,35,3,2,3,26,3,0,1,Dustwallow,1,1
+515216,Deserter's Last Resort,43,38,4,4,0,11,3,1,1,Dustwallow,1,1
+515217,Bloodfen Prowler Vest,44,39,2,4,2,5,3,3,1,Dustwallow,1,1
+515218,Bloodfen Talon,44,39,3,2,15,13,4,0,1,Dustwallow|felrock,1,1
+515219,Emberstring Drakebow,45,40,3,2,2,15,2,1,1,Dustwallow,1,1
+515220,Denflame Channeler,45,40,3,2,10,17,1,0,1,Dustwallow,1,1
+515221,Enchanted Dragon Bone,44,39,3,2,19,26,2,2,1,Dustwallow,1,1
+515222,Scalebane Pendant,47,42,3,4,0,2,3,2,1,Dustwallow,1,1
+515223,Emberscale Greatsword,47,42,4,2,8,17,3,2,1,Dustwallow,1,1
+515224,Emberheart Talisman,47,42,3,4,0,12,3,0,1,Dustwallow|dustwindcave,1,1
+515225,Wheel of Misfortune,40,35,3,4,6,14,1,1,1,Dustwallow,1,1
+515226,Tidefury Cutlass,40,35,3,2,7,13,2,0,1,Dustwallow,1,1
+515227,Buzzcoil Tongs,43,38,3,2,4,21,3,0,1,Dustwallow,1,1
+515228,Cylla's Endless Potion,43,38,3,4,0,23,3,0,1,Dustwallow,1,1
+515229,Stonemaul Crusher’s Girdle,45,40,2,4,4,6,3,0,1,Dustwallow|stillpinehold,1,1
+515230,Marshfall Mantle,41,36,2,4,1,16,2,2,1,Dustwallow,1,1
+515231,Salt Scoured Boarding Axe,40,35,3,2,0,13,2,2,1,Dustwallow,1,1
+515232,Spotter's Rifle,44,39,3,2,3,26,1,1,1,Dustwallow,1,1
+515233,Crokolisk Hunter,42,37,3,2,6,17,3,3,1,Dustwallow,1,1
+515234,Primitive Murloc Skewer,41,36,3,2,15,13,3,0,1,Dustwallow|felrock,1,1
+515235,Muck Trudgers,40,35,3,4,2,8,2,1,1,Barrens,1,1
+515236,Northpoint Helmet,41,36,2,4,3,1,2,0,1,Dustwallow|skullrock,1,1
+515237,Brackish Spellweave Robe,41,36,2,4,1,20,2,0,1,Dustwallow|felrock,1,1
+515238,Sturdy Coffin Lid,40,35,3,4,6,14,3,3,1,Dustwallow,1,1
+515239,Swamplight Concoction,41,36,3,4,0,23,4,0,1,Dustwallow|skullrock,1,1
+515240,Bogcaller Totem,41,36,2,4,9,28,2,1,1,Dustwallow,1,1
+515241,Idol of the Brooding Shadow,55,50,3,4,0,12,3,1,0,Hinterlands,1,1
+515242,Tome of Sundered Souls,55,50,3,4,0,23,1,0,0,Hinterlands,1,1
+515243,Shadowsilk Seared Cuirass,51,46,3,4,2,5,2,1,0,Duskwood|SearingGorge,1,1
+515244,Golem Chunk,49,44,3,2,5,17,3,0,0,Duskwood|SearingGorge,1,1
+515245,Shoulderpads of Deep Thinking,48,43,2,4,1,3,1,1,0,SearingGorge,1,1
+515246,Glassweb Ward Shroud,48,43,3,4,1,16,3,2,0,SearingGorge,1,1
+515247,Caravan Crossbow,48,43,2,2,18,26,5,3,0|530,BlastedLands|SearingGorge|SilvermoonCity,1,1
+515248,Dorius' Shield,48,43,3,4,6,14,3,1,0,BlastedLands|SearingGorge,1,1
+515249,Stomped Diary,48,43,3,4,0,23,3,1,0|530,Duskwood|SearingGorge|SilvermoonCity,1,1
+515251,Magma Petting Mittens,50,45,3,4,3,10,2,0,0,SearingGorge,1,1
+515252,Dark Iron Leatherpads,50,45,2,4,2,3,3,1,0,SearingGorge,1,1
+515253,Scorching Lodepebble,51,46,2,4,0,12,2,2,0,SearingGorge,1,1
+515254,Scorched Greatblade,51,46,3,2,8,17,2,1,0,SearingGorge,1,1
+515255,Dark Iron Slippers,52,47,3,4,1,8,2,0,0,SearingGorge,1,1
+515256,Fire Poker,51,46,3,2,15,21,3,3,0,SearingGorge,1,1
+515257,Steam Pressure Totem,52,47,3,4,9,28,1,1,0,SearingGorge,1,1
+515258,Eye of Twilight,49,44,3,4,0,12,2,2,0,SearingGorge,1,1
+515259,Disciplinary Rifle,52,47,3,2,3,26,4,3,0,Duskwood|SearingGorge,1,1
+515260,Contraband Magician Rod,50,45,3,2,10,17,3,2,0,Duskwood|SearingGorge,1,1
+515261,Zamael's Corrupted Twilight,50,45,3,2,1,17,1,0,0,SearingGorge,1,1
+515262,Slave Band,52,47,2,4,0,11,1,0,0,SearingGorge,1,1
+515263,Dark Iron Scorcher,51,46,3,2,19,26,3,1,0,BlastedLands|Duskwood|SearingGorge,1,1
+515264,Heavy War Golem Rune,52,47,3,4,0,2,3,0,0,BlastedLands|SearingGorge,1,1
+515265,Freedom Falchion,51,46,3,2,7,13,5,3,0,BlastedLands|Duskwood|SearingGorge,1,1
+515266,Slave Worker Pantaloons,52,47,2,4,1,7,2,1,0,Duskwood|SearingGorge,1,1
+515267,Break-time Gloves,51,46,3,4,2,10,2,0,0,SearingGorge,1,1
+515268,Dark Iron Loop,52,47,3,4,0,11,3,0,0,BlastedLands|Duskwood|SearingGorge,1,1
+515269,Incendosaur Bone String,52,47,4,4,0,2,3,2,0,Duskwood|SearingGorge,1,1
+515270,Dark Iron Legplates,52,47,3,4,4,7,3,2,0,Hinterlands|SearingGorge,1,1
+515271,Dark Iron Wristbands,52,47,3,4,4,9,2,2,0,SearingGorge,1,1
+515272,Elder Pipe,52,47,3,4,0,12,3,3,0,SearingGorge,1,1
+515273,Overseer's Mystic Wrench,55,50,3,2,4,21,3,2,0,Duskwood|SearingGorge,1,1
+515274,Molten Fang Tooth,52,47,3,2,15,13,2,0,0,BlastedLands|SearingGorge,1,1
+515275,Scorched Mail Tunic,52,47,3,4,3,5,2,1,0,Duskwood|SearingGorge,1,1
+515276,Cogbolt's Special,53,48,3,2,1,17,3,2,0,Duskwood|SearingGorge,1,1
+515277,Burned Blade Shiv,52,47,3,2,15,13,3,2,0,Duskwood|SearingGorge,1,1
+515278,Dark Iron Hood,51,46,3,4,2,1,2,1,0,BlastedLands|SearingGorge,1,1
+515279,Sharp Chain Belt,52,47,2,4,3,6,5,2,0,BlastedLands|Duskwood|SearingGorge,1,1
+515281,Nethergarde Mining Cap,52,47,3,4,1,1,1,0,0,BlastedLands,1,1
+515282,Mo'arg Saw Shield,52,47,3,4,6,14,1,1,0,BlastedLands,1,1
+515283,Nethergarde Foreman Chest,51,46,2,4,2,5,2,2,0,BlastedLands,1,1
+515284,Runed Ogre Wrap,50,45,3,4,1,6,2,1,0,BlastedLands|EasternPlaguelands,1,1
+515285,Ogre Finger Sleeve,51,46,3,4,4,7,2,1,0,BlastedLands,1,1
+515286,Old War Wraps,53,48,2,4,2,9,2,0,0,BlastedLands,1,1
+515287,Orcish Demon Slayer,59,54,3,2,1,17,2,0,0,BlastedLands,1,1
+515288,Elvish Demon Reaver,59,54,3,2,10,17,2,0,0,BlastedLands,1,1
+515289,Demon Claw,59,54,2,2,4,21,2,0,0,BlastedLands,1,1
+515290,Evoker's Twisted Coil,57,52,4,2,10,17,1,1,0,BlastedLands,1,1
+515291,Shadowsworn Reaper,57,52,3,2,6,17,1,0,0,BlastedLands,1,1
+515292,Collector's Junk,55,50,3,4,1,10,2,2,0,BlastedLands,1,1
+515293,Dreadweaver,58,53,3,2,15,21,1,1,0,BlastedLands,1,1
+515294,Dreadmaul Head Smasher,58,53,2,2,5,17,2,0,0,BlastedLands|EasternPlaguelands,1,1
+515295,Charred Slicer,55,50,3,2,7,13,2,0,0,BlastedLands,1,1
+515296,Demon Kickers,56,51,3,4,3,8,2,0,0,BlastedLands|Stranglethorn,1,1
+515297,Crude Voodoo Doll,65,60,3,4,0,12,2,1,0,BlastedLands|EasternPlaguelands,1,1
+515298,Doomlord Slasher,65,60,3,2,8,17,4,2,0,BlastedLands|EasternPlaguelands|Stranglethorn,1,1
+515299,Pauldron of the First War,55,50,3,4,3,3,1,0,0,BlastedLands,1,1
+515300,Cursed Drape,58,53,3,4,1,16,1,1,0,BlastedLands,1,1
+515301,Ancient Dragonmaw Token,57,52,3,4,9,28,1,0,0,BlastedLands,1,1
+515302,Fallen Soldier's Shank,57,52,2,2,15,13,2,0,0,BlastedLands,1,1
+515303,Doom Pendant,65,60,3,4,0,2,2,2,0,BlastedLands,1,1
+515304,Bloodmage Coil,51,46,2,4,0,6,2,0,0,BlastedLands|EasternPlaguelands,1,1
+515305,Lost Faith,51,46,3,4,7,28,2,0,0,BlastedLands,1,1
+515306,Portal Fragment,57,52,2,4,0,12,3,1,0,BlastedLands|EasternPlaguelands,1,1
+515312,Ror's Wrecker,54,49,3,2,1,17,2,0,1,Felwood,1,1
+515313,Timelost Vestments,52,47,3,4,1,20,2,0,1,Felwood|Feralas,1,1
+515314,Emerald Circle Charm,52,47,2,4,8,28,2,1,1,Felwood,1,1
+515315,Jadefire Bone Breaker,55,50,3,2,0,13,1,0,1,Felwood,1,1
+515316,Lost Shipment Wristguards,53,48,3,4,2,10,2,0,1,Felwood,1,1
+515317,Jadefire Piercer,57,52,3,2,6,17,3,1,1,Felwood,1,1
+515318,Felhound Tendril,56,51,2,4,0,12,1,0,1,Felwood,1,1
+515319,Bubbling Fel Mixture,56,51,3,4,0,23,2,2,1,Felwood,1,1
+515320,Silverhand Spaulders,56,51,3,4,4,3,1,0,1,Felwood,1,1
+515321,Xorothian Slippers,60,55,3,4,1,8,1,1,1,Felwood,1,1
+515322,Jaednar Spire,58,53,3,2,10,17,2,2,1,Felwood,1,1
+515323,Bottled Oozeling,20,1,6,0,0,0,1,1,1,Felwood,1,1
+515324,Infernal Tender,56,51,3,2,19,26,1,0,1,Felwood,1,1
+515325,Highborne Carver,55,50,3,2,15,13,2,2,1,Felwood,1,1
+515326,Niby's Training Collar,55,50,3,4,0,2,2,2,1,Felwood,1,1
+515327,Umbral Stalker's Tarp,56,51,3,4,1,16,2,0,1,Felwood,1,1
+515328,Fallen Sentinel's Leggings,59,54,3,4,3,7,1,0,1,Felwood,1,1
+515329,Ironwood Cap,58,53,3,4,2,1,2,1,1,Felwood,1,1
+515330,Sindelle's Fuzzy Cuffs,54,49,3,4,3,9,1,0,1,Felwood,1,1
+515331,Heart of the Warpwood,57,52,2,4,0,12,1,0,1,Felwood,1,1
+515333,Crystal of Cruel Corruption,57,52,3,4,0,23,1,0,1,Felwood,1,1
+515334,Talonbranch Sweeper,58,53,3,2,5,17,1,0,1,Felwood,1,1
+515336,Timbermaw Defender,59,54,3,4,6,14,3,0,1,Felwood,1,1
+515337,Timbermaw Girdle,59,54,3,4,2,6,1,0,1,Felwood,1,1
+515338,Ring of Purity,56,51,3,4,0,11,1,1,1,Felwood,1,1
+515339,Necklace of Purity,56,51,3,4,0,2,2,1,1,Felwood,1,1
+515340,Acid Bolter,52,47,3,2,18,26,1,0,1,Felwood,1,1
+515341,Fel Cleaver,55,50,3,2,1,17,1,1,1,Felwood,1,1
+515342,Bitterbranch Claymore,55,50,3,2,8,17,2,2,1,Felwood,1,1
+515343,Rotwood Sabre,57,52,3,2,7,13,2,2,1,Felwood,1,1
+515354,Dinosaur Tranquilizer,53,48,3,2,3,26,4,2,1,Ashenvale|UngoroCrater,1,1
+515355,Boom-Bling Choker,53,48,3,4,0,2,1,1,1,UngoroCrater,1,1
+515356,Cenarion Dreamcatcher,56,51,2,4,0,12,2,0,1,UngoroCrater,1,1
+515357,Marsh Shooter,53,48,2,2,2,15,3,2,1,UngoroCrater,1,1
+515358,Mystic Geode,53,48,2,4,0,23,2,1,1,UngoroCrater,1,1
+515360,Bug Repellant,55,50,3,4,0,23,5,2,1,Barrens|UngoroCrater|valleyoftrialsstart,1,1
+515361,Bonechipper Dagger,55,50,3,2,15,13,3,2,1,UngoroCrater,1,1
+515362,Jane's Lucky Hat,57,52,3,4,2,1,1,0,1,UngoroCrater,1,1
+515363,Silverback Cape,57,52,2,4,1,16,2,2,1,UngoroCrater,1,1
+515364,Tongs of Miscalibration,57,52,3,2,4,21,2,2,1,UngoroCrater,1,1
+515365,Pylon Charged Staff,56,51,3,2,10,17,2,0,1,UngoroCrater,1,1
+515366,Lost Fighter's Crossbow,56,51,2,2,18,26,5,1,1,Ashenvale|Barrens|UngoroCrater,1,1
+515367,Talon Ripper,57,52,4,2,6,17,3,2,1,Ashenvale|UngoroCrater,1,1
+515368,Brand New Bikini,57,52,3,4,2,5,2,1,1,UngoroCrater,1,1
+515369,Idol of the Terror Claw,57,52,2,4,8,28,1,1,1,UngoroCrater,1,1
+515370,Dino Wacker,59,54,3,2,4,21,2,1,1,Ashenvale|UngoroCrater,1,1
+515371,Wrangler's Cord,59,54,3,4,2,6,2,2,1,UngoroCrater,1,1
+515372,Thunderstomp Scale,62,57,3,4,6,14,2,0,1,UngoroCrater,1,1
+515373,Doomfall Spark,57,52,2,4,0,12,1,1,1,UngoroCrater,1,1
+515374,Retired Hero's Helm,57,52,3,4,4,1,1,0,1,UngoroCrater,1,1
+515375,Pterrodax Scale Cloak,57,52,3,4,1,16,3,0,1,Ashenvale|UngoroCrater,1,1
+515376,Shifting Form,55,50,3,4,0,12,4,3,0|1,Stranglethorn|UngoroCrater,1,1
+515377,Serpent Spine Pauldrons,56,51,3,4,2,3,4,2,1,Ashenvale|UngoroCrater|valleyoftrialsstart,1,1
+515378,Sparkshard Necklace,56,51,3,4,0,2,2,2,1,UngoroCrater,1,1
+515379,Egg Thief's Handwraps,56,51,3,4,1,10,1,0,1,UngoroCrater,1,1
+515380,Qiraji Stinger,57,52,3,2,15,21,3,0,1,UngoroCrater|valleyoftrialsstart,1,1
+515381,Cindersguard Saber,59,54,3,2,7,21,1,1,1,UngoroCrater,1,1
+515382,Ringo's Star,59,54,3,2,16,25,2,1,1,Barrens|UngoroCrater,1,1
+515383,One Ring to Flame Them All,60,55,4,4,0,11,1,0,1,UngoroCrater,1,1
+515384,Ember Crown,61,56,3,4,1,1,3,3,1,UngoroCrater,1,1
+515385,Blaze Runners,61,56,4,4,1,8,3,0,1,Ashenvale|UngoroCrater,1,1
+515386,Totem of Scorching Sparks,59,54,2,4,9,28,1,0,1,UngoroCrater,1,1
+515387,Molten Fang,59,54,3,2,15,13,2,2,1,UngoroCrater,1,1
+515388,Slightly Sticky Cloak,57,52,3,4,1,16,3,1,1,UngoroCrater,1,1
+515389,Golakka Scoured Legguards,59,54,2,4,3,7,4,1,1,Ashenvale|UngoroCrater,1,1
+515390,Ballast Laden Pauldrons,59,54,3,4,4,3,1,0,1,UngoroCrater,1,1
+515391,Campsite Shrapnel,59,54,3,4,6,14,2,2,1,UngoroCrater,1,1
+515392,Carapace Plated Chest,57,52,3,4,4,5,2,2,1,UngoroCrater,1,1
+515393,Carapace Cracker,58,53,3,2,1,17,3,2,1,shadowglenstart|theslitheringscar,1,1
+515394,Crystal Fused Carapace,58,53,3,4,3,5,2,0,1,UngoroCrater|theslitheringscar,1,1
+515395,Gorishi Antenna,58,53,3,2,19,26,1,1,1,theslitheringscar,1,1
+515396,Cord of Living Vines,59,54,3,4,0,2,2,0,1,UngoroCrater,1,1
+515397,Elegantly Designed Cuffs,58,53,3,4,3,9,3,2,1,Barrens|UngoroCrater,1,1
+515398,Silithid Ritual Robe,56,51,3,4,1,20,3,2,1,Ashenvale|UngoroCrater,1,1
+515399,Ravasaur Talon,55,50,2,4,0,12,5,3,0|1,Ashenvale|SwampOfSorrows|UngoroCrater,1,1
+515400,Tawana's Spare Axe,56,51,3,2,0,13,2,2,1,UngoroCrater,1,1
+515401,Caravaneer's Machete,56,51,2,2,7,13,1,1,1,UngoroCrater,1,1
+515402,Marsh Treaders,55,50,2,4,4,8,3,2,1,UngoroCrater|valleyoftrialsstart,1,1
+515403,Caravan Utility Hammer,56,51,2,2,5,17,2,0,1,UngoroCrater|valleyoftrialsstart,1,1
+515404,Jungle String Bow,57,52,3,2,2,15,2,2,1,UngoroCrater,1,1
+515405,Lucky Fisherman's Breeches,57,52,3,4,2,7,1,1,1,UngoroCrater,1,1
+515406,Water Dredger's Wrap,58,53,2,4,1,16,2,0,1,Ashenvale|UngoroCrater,1,1
+515407,Expedition Bracers,59,54,2,4,3,9,1,0,1,UngoroCrater,1,1
+515408,Hidden Stash,51,1,2,1,0,18,1,1,1,UngoroCrater,1,1
+515409,Hexweave Gloves,56,51,2,4,1,10,3,0,1,UngoroCrater|valleyoftrialsstart,1,1
+515410,Fossilized Smasher,55,50,3,2,4,13,2,1,1,UngoroCrater,1,1
+515411,Goblin Plant Slicer,56,51,2,2,8,17,1,1,1,UngoroCrater,1,1
+515413,Spring Shard,59,54,2,2,15,13,3,0,1,UngoroCrater,1,1
+515414,Libram of Ancient Warding,60,55,3,4,7,28,1,0,1,UngoroCrater,1,1
+515415,Prancefin Ring,60,55,4,4,0,11,1,0,1,UngoroCrater,1,1
+515425,Nightsong Waraxe,31,26,2,2,0,13,3,1,1,Ashenvale,1,1
+515426,Mystral Compass,28,23,2,4,0,12,3,0,1,Ashenvale,1,1
+515427,Fine Silk Wraps,32,27,2,4,1,9,2,0,1,Ashenvale,1,1
+515428,Teldrassil Begonias,12,7,2,4,0,23,2,0,1,Teldrassil,1,1
+515429,Torn Spellbook Page,8,3,2,4,0,12,1,0,1,Teldrassil,1,1
+515430,Arlithrien Moon Orb,11,6,2,4,0,11,2,2,1,Teldrassil,1,1
+515431,Lunar Tome,11,6,2,4,0,23,3,0,1,Teldrassil,1,1
+515432,Whisperwind Boots,10,5,2,4,1,8,2,1,1,Teldrassil,1,1
+515433,Timberling Dagger,10,5,2,2,15,13,3,2,1,Teldrassil,1,1
+515434,Starfall Edge,13,8,2,2,7,21,1,0,1,Teldrassil,1,1
+515435,Blade of the Submerged Moon,10,5,2,2,6,17,2,0,1,Teldrassil,1,1
+515436,Whisperwind Heirloom,15,10,2,4,0,2,3,1,1,Teldrassil,1,1
+515437,Timberbane Axe,14,9,2,2,0,13,3,1,1,Darkshore|Teldrassil,1,1
+515438,Lifesap Blade,14,9,2,2,15,21,4,1,1,Ashenvale|Teldrassil,1,1
+515439,Spirited Cane,10,5,2,4,0,23,3,1,1,shadowglenstart,1,1
+515440,Blade of Severed Souls,23,18,2,2,8,17,1,0,1,Ashenvale,1,1
+515441,Abandoned Fishing Rod,29,24,2,2,20,17,2,2,1,Ashenvale,1,1
+515442,Rock Smasher,29,24,2,2,5,17,3,1,1,Ashenvale,1,1
+515444,Dirge of the Dead,25,20,2,2,7,13,3,2,1,Ashenvale,1,1
+515466,Alchemist's Ladel,47,42,3,2,4,21,3,1,0,Hinterlands|Stranglethorn,1,1
+515502,Failed Parachute,30,25,2,4,1,16,3,3,1,ThousandNeedles,1,1
+515503,Forgotten Pauldron,33,28,3,4,3,3,3,1,1,ThousandNeedles,1,1
+515504,Grimtotem Darkblade,33,28,3,2,8,17,4,2,1,Darkshore|ThousandNeedles,1,1
+515505,Centaur Mining Axe,31,26,3,2,1,17,4,1,1,Darkshore|ThousandNeedles|twilightsrun,1,1
+515506,Galak Chicken Smasher,31,26,3,2,5,17,4,1,1,Darkshore|ThousandNeedles,1,1
+515507,Wyvern Trapper Spear,33,28,3,2,6,17,2,0,1,ThousandNeedles,1,1
+515508,Highperch Necklace,33,28,2,4,0,2,3,1,1,ThousandNeedles,1,1
+515509,Darkcloud Braid,33,28,3,4,0,2,5,1,1,Darkshore|Teldrassil|ThousandNeedles,1,1
+515510,Deadman's Signet,31,26,3,4,0,11,3,1,1,ThousandNeedles,1,1
+515511,Drowned Diver's Ring,31,26,4,4,0,11,4,1,1,Darkshore|ThousandNeedles|twilightsrun,1,1
+515512,Grimtotem Jaw Smasher,31,26,3,2,4,13,4,1,1,Darkshore|ThousandNeedles,1,1
+515513,Galak Shortbow,31,26,2,2,2,15,4,2,1,ThousandNeedles|twilightsrun,1,1
+515514,Cursed Elemental Scepter,31,26,3,2,19,26,2,1,1,ThousandNeedles,1,1
+515515,Slightly Magical Kodo Bone,31,26,2,2,4,21,4,1,1,Aszhara|Darkshore|ThousandNeedles,1,1
+515516,Darkcloud Totem,31,26,2,4,9,28,1,0,1,ThousandNeedles,1,1
+515517,Highlands Vest,34,29,2,4,1,20,6,1,1,Darkshore|Teldrassil|ThousandNeedles|twilightsrun,1,1
+515518,Caravaner's Bracers,31,26,2,4,2,9,3,1,1,ThousandNeedles|twilightsrun,1,1
+515519,Pack Kodo Satchel,0,1,2,1,0,18,2,0,1,Darkshore|ThousandNeedles,1,1
+515520,Cloud Serpent Feather,32,27,2,4,0,12,5,0,1,Darkshore|Teldrassil|ThousandNeedles|twilightsrun,1,1
+515524,Scuba Slayer's Blade,31,26,3,2,7,13,2,0,1,ThousandNeedles,1,1
+515525,Drowned Diver's Helm,31,26,3,4,1,1,4,2,1,Darkshore|ThousandNeedles,1,1
+515528,Tahonda Gauntlets,37,32,2,4,2,10,4,0,1,Teldrassil|ThousandNeedles|twilightsrun,1,1
+515529,Pirate's Mail,39,34,3,4,3,5,3,1,1,ThousandNeedles,1,1
+515530,Abandoned Moonshine,37,32,3,4,0,23,3,2,1,ThousandNeedles,1,1
+515531,Pip's Rad Stone,35,30,2,4,0,12,4,3,0|1,Stranglethorn|ThousandNeedles,1,1
+515532,Survivor's Trousers,35,30,2,4,1,7,3,1,1,ThousandNeedles,1,1
+515533,Kodo War Drum,40,35,3,4,0,12,2,1,1,ThousandNeedles,1,1
+515534,Silithid Bug Blaster,39,34,3,2,3,26,3,0,1,ThousandNeedles,1,1
+515535,Isolated Inventor's Bulk,37,32,3,4,6,14,3,1,1,Darkshore|ThousandNeedles,1,1
+515536,Runway Scraper,37,32,3,2,7,21,4,0,1,Teldrassil|ThousandNeedles,1,1
+515537,U.L.T.R.A Racing Goggles,35,30,3,4,2,1,5,1,1,Darkshore|Teldrassil|ThousandNeedles,1,1
+515539,Ancient Jeweler's Staff,38,33,3,2,10,17,4,0,1,Darkshore|ThousandNeedles|twilightsrun,1,1
+515540,Goblin Racing Boots,37,32,2,4,1,8,3,3,1,ThousandNeedles,1,1
+515541,The Tickler,35,30,3,2,15,13,3,1,1,ThousandNeedles,1,1
+515542,Sizzling Potion,18,30,2,0,1,0,4,1,1,Teldrassil|ThousandNeedles,1,1
+515599,Sacrificial Carver,56,51,3,2,7,21,2,0,1,Aszhara,1,1
+515600,Legashi Bracers,56,51,3,4,2,9,2,0,1,Aszhara,1,1
+515601,Eldara's Stargazer,55,50,3,4,0,12,1,0,1,Aszhara,1,1
+515602,Gauntlets of the Overlook,57,52,3,4,4,10,1,0,1,Aszhara,1,1
+515603,Cliffwalker Legplates,57,52,3,4,4,7,2,1,1,Aszhara,1,1
+515604,Lyre of the Grand Scribe,56,51,3,4,0,12,1,1,1,Aszhara,1,1
+515605,The Wrath of Arkkoroc,58,53,4,2,6,17,3,0,1,Aszhara,1,1
+515606,Idol of the Ocean's Depths,58,53,3,4,8,28,2,0,1,Aszhara,1,1
+515607,Hydraxian Staff,58,53,3,2,10,17,2,2,1,Aszhara,1,1
+515608,Ravencrest Signet,59,54,3,4,0,11,1,0,1,Aszhara,1,1
+515609,Spitelash Waistguards,58,53,3,4,4,6,2,0,1,Aszhara,1,1
+515610,Vanessa's Eyepatch,55,50,3,4,2,1,2,2,1,Aszhara,1,1
+515611,Hydra Hide Belt,59,54,3,4,2,6,2,2,1,Aszhara,1,1
+515612,Cilkeck's Gloves,58,53,3,4,1,10,2,2,1,Aszhara,1,1
+515613,Necklace of Unbroken Waves,58,53,3,4,0,2,1,1,1,Aszhara,1,1
+515614,Shahiar's Lost Horn,59,54,3,2,15,13,1,0,1,Aszhara,1,1
+515615,Deep Hydra's Scales,59,54,3,4,3,3,1,0,1,Aszhara,1,1
+515616,Scalebeard's Old Shell,57,52,3,4,6,14,2,0,1,Aszhara,1,1
+515617,Stormslicer,58,53,3,2,8,17,1,0,1,Aszhara,1,1
+515618,Thalassian Circlet,56,51,3,4,1,1,1,0,1,Aszhara,1,1
+515619,Azure Will,56,51,3,2,19,26,2,2,1,Aszhara,1,1
+515620,Crystalized Shield,57,52,3,4,6,14,1,1,1,Aszhara,1,1
+515621,Imitation of Zin-Eldari,55,50,3,4,0,11,2,2,1,Aszhara,1,1
+515622,Claws of the Lion,53,48,3,2,13,21,2,2,1,Aszhara,1,1
+515623,Might of Azshara,51,46,3,4,0,2,2,0,1,Aszhara,1,1
+515624,Beth'Amara Shard,53,48,2,4,0,12,1,0,1,Aszhara,1,1
+515625,Markri Turret,53,48,3,2,18,26,2,0,1,Aszhara,1,1
+515626,Shoulderguards of Zin-Malor,53,48,3,4,3,3,1,1,1,Aszhara,1,1
+515627,Claws of the Bear,52,47,3,2,13,22,1,0,1,Aszhara,1,1
+515628,The Bear Feet,54,49,3,4,2,8,1,1,1,Aszhara,1,1
+515629,Spitelash Warbanner,55,50,3,4,1,16,3,2,0|1,Aszhara|EasternPlaguelands,1,1
+515630,Burning Band,55,50,3,4,0,11,2,2,1,Aszhara,1,1
+515631,Ruinbreaker,54,49,3,2,0,13,1,1,1,Aszhara,1,1
+515632,Hand of the Cliffs,57,52,3,2,4,13,2,1,1,Aszhara,1,1
+515633,Elune's Glow,56,51,3,2,2,15,1,1,1,Aszhara,1,1
+515634,"Ish'thel Falesh, Gaze of Eldara",53,48,4,2,10,17,1,0,1,Aszhara,1,1
+515676,The Compliance Crusher,41,36,3,2,5,17,2,0,0,Stranglethorn,1,1
+515677,Salma's Summer Dress,17,12,2,4,1,20,3,2,0,Westfall,1,1
+515678,Field Boots,16,11,2,4,2,8,1,0,0,Westfall,1,1
+515679,Pumpkin Smashers,16,11,2,4,3,10,3,0,0,Duskwood|Stranglethorn|Westfall,1,1
+515680,Gnoll Cleaver,17,12,2,2,0,13,3,1,0,Westfall,1,1
+515681,Harvester's Aegis,18,13,2,4,6,14,3,0,0,Westfall,1,1
+515682,Defias Throwing Knife,18,13,2,2,16,25,2,2,0,Westfall,1,1
+515683,Blessed Mail Wraps,18,13,2,4,3,9,3,3,0,Westfall,1,1
+515684,Defias Apothecary Pants,19,14,2,4,1,7,3,1,0,SwampOfSorrows|Westfall,1,1
+515685,Quarry Sledge,19,14,2,2,5,17,6,3,0,Tirisfal|Westfall|goldcoastquarry,1,1
+515686,Harvest Scythe,18,13,2,2,6,17,3,0,0,Westfall,1,1
+515687,Rower's Jerkin,19,14,2,4,2,5,4,1,0,Stranglethorn|Westfall,1,1
+515688,Featherbeard's Bulwark Blaster,45,40,2,2,3,26,2,0,0,Hinterlands,1,1
+515689,Zun'watha Cleaver,45,40,3,2,0,13,2,1,0,Hinterlands,1,1
+515690,Overwatch Longrifle,45,40,3,2,3,26,2,1,0,Hinterlands,1,1
+515691,Dwarven Drinking Pants,45,40,2,4,2,7,2,0,0,Hinterlands,1,1
+515692,Anchorfoot Greaves,47,42,2,4,4,8,2,0,0,Hinterlands,1,1
+515693,Highvale Wellband,47,42,2,4,0,11,3,1,0,Hinterlands|Tirisfal,1,1
+515694,Highvale Ranger Bow,47,42,3,2,2,15,3,1,0,Hinterlands,1,1
+515695,Zipcoil’s Zapper Cap,48,43,3,4,3,1,3,1,0,Hinterlands,1,1
+515696,Hide Piercer,47,42,2,2,15,21,4,0,0,Hinterlands|Westfall,1,1
+515697,Hexweave Robes,51,46,3,4,1,20,2,0,0,Hinterlands,1,1
+515698,Idol of the Broodmother,49,44,3,4,9,28,1,0,0,Hinterlands,1,1
+515699,Brood Caller's Raiment,51,46,3,4,2,5,2,2,0,Hinterlands,1,1
+515700,Broodsilk Gloves,49,44,3,4,1,10,2,1,0,Hinterlands,1,1
+515701,Floodworn Shoulderguards,49,44,3,4,3,3,4,1,0,Hinterlands|LochModan,1,1
+515702,Aerie Faith Vambraces,52,47,3,4,3,9,3,3,0,Hinterlands,1,1
+515703,Ooze Cleansed Shoulderpads,52,47,3,4,1,3,2,1,0,Hinterlands,1,1
+515704,Drowned Link Belt,52,47,3,4,3,6,2,0,0,Hinterlands,1,1
+515705,Soothsayer Shroud,51,46,3,4,1,16,2,0,0,Hinterlands,1,1
+515706,Elder Highpeak's Keepsake,51,46,3,4,0,2,3,2,0,Hinterlands|Westfall,1,1
+515707,Hexcall Gavel,51,46,2,2,4,13,2,1,0,Hinterlands,1,1
+515708,Blood Keeper's Staff,55,50,3,2,10,17,2,0,0,Hinterlands,1,1
+515709,Zul Warder's Cloak,51,46,3,4,1,16,2,0,0,Hinterlands|LochModan,1,1
+515710,Ring of the Sunken Courier,52,47,3,4,0,11,2,2,0,Hinterlands,1,1
+515711,Slime Coated Cloak,53,48,3,4,1,16,1,0,0,Hinterlands,1,1
+515712,Sludge Hammer,53,48,3,2,4,13,1,0,0,Hinterlands,1,1
+515713,Fort Defender Band,52,47,3,4,0,11,2,1,0,Hinterlands,1,1
+515714,Vilebranch Beastlance,52,47,3,2,6,17,2,0,0,Hinterlands,1,1
+515715,Shadowpounce Cowl,52,47,3,4,2,1,2,0,0,Hinterlands,1,1
+515716,Terrapine Carapace,50,45,2,4,6,14,2,2,0,Hinterlands,1,1
+515717,Idol of the Aerie,51,46,3,4,8,28,1,0,0,Hinterlands,1,1
+515718,Revantusk Hide Steppers,49,44,2,4,2,8,1,0,0,Hinterlands,1,1
+515719,Seabreeze Hauberk,50,45,2,4,3,5,2,0,0,Hinterlands|LochModan,1,1
+515720,Trapper’s Lone Band,52,47,3,4,0,11,3,1,0,Hinterlands,1,1
+515721,Bloodthread Leggings,52,47,2,4,1,7,1,0,0,Hinterlands,1,1
+515722,Oozling Thoughtcore,53,48,3,4,0,12,2,2,0,Hinterlands,1,1
+515723,Treads of the Verdant Threshold,52,47,3,4,2,8,1,0,1,Tanaris,1,1
+515724,Vilebranch Warthrower,55,50,3,2,16,25,2,0,0,Hinterlands,1,1
+515725,Fleshcarver Athame,55,50,3,2,15,21,2,1,0,Hinterlands,1,1
+515726,The Blood Talon,60,55,3,2,7,13,1,0,0,Hinterlands,1,1
+515727,Shellsplitter Girdle,53,48,3,4,3,6,2,0,1,Tanaris,1,1
+515728,Flayer's Edge,55,50,3,2,8,17,3,3,0,Hinterlands,1,1
+515729,Highnest Repeater,55,50,3,2,18,26,3,3,0,Hinterlands,1,1
+515730,Blood Drinker,55,50,3,2,1,17,1,1,0,Hinterlands,1,1
+515731,Vilebranch Ritual Dagger,55,50,3,2,15,13,1,0,0,Hinterlands,1,1
+515732,Libram of Resolute Light,55,50,3,4,7,28,2,0,0,Hinterlands,1,1
+515733,Wand of the Broodbound,55,50,4,2,19,26,1,0,0,Hinterlands,1,1
+515734,High Cascade Cord,55,50,3,4,0,2,2,2,0,Hinterlands,1,1
+515735,Desperate Defense,53,48,3,2,6,17,4,2,0,Arathi|Westfall,1,1
+515736,Tiki Shield,51,46,3,4,6,14,1,0,0,Hinterlands,1,1
+515737,Dive's Instruction Manual,46,41,3,4,0,12,2,1,1,Dustwallow,1,1
+515738,Inventor's Sand Band,53,48,3,4,0,11,3,0,1,Tanaris,1,1
+515739,Sandfury Blade,48,43,3,2,7,13,3,0,1,Tanaris,1,1
+515740,Time Stream Slasher,55,50,3,2,15,21,1,0,1,Tanaris,1,1
+515741,Ancestral Warblade,55,50,3,2,8,17,2,1,1,Darkshore|Tanaris,1,1
+515742,Wastewander Alchemist’s Robe,48,43,2,4,1,20,2,0,1,Tanaris,1,1
+515743,Betrayer's Blade,46,41,3,2,8,17,2,2,1,Tanaris,1,1
+515744,Sandswept Binding,48,43,2,4,2,6,1,0,1,Tanaris,1,1
+515745,Deadman Gauntlets,46,41,3,4,3,10,3,1,1,Silithus|Tanaris,1,1
+515747,Dustwhisper Legguards,52,47,2,4,3,7,2,0,1,Tanaris,1,1
+515748,Sand Cover,52,47,2,4,1,16,1,0,1,Tanaris,1,1
+515750,Watcher's Mantle,54,49,3,4,1,3,1,1,1,Tanaris,1,1
+515755,Explorer's Last Wish,55,50,4,4,0,11,2,0,1,Tanaris,1,1
+515764,Tender's Hat,54,49,3,4,2,1,3,1,1,Tanaris,1,1
+515765,Sky Guard's Cuirass,52,47,2,4,4,5,2,0,1,Tanaris|Teldrassil,1,1
+515767,Hivebreakers' Ward,53,48,3,4,9,28,1,0,1,Tanaris,1,1
+515769,Venom-Infused Screwdriver,53,48,3,2,15,13,1,1,1,thenoxiouslair,1,1
+515770,Lid of the Dead,50,45,3,4,6,14,3,0,1,Darkshore|Tanaris,1,1
+515771,Cyclok's Sanity,55,50,3,4,0,11,2,0,1,Tanaris,1,1
+515772,Dunemaul Warbelt,52,47,2,4,4,6,2,0,1,Tanaris,1,1
+515773,Treasure Seeker's Gloves,51,46,2,4,1,10,3,2,1,Tanaris,1,1
+515775,Carapace Carver,51,46,3,2,15,13,5,1,1,Darkshore|Tanaris|Teldrassil,1,1
+515781,Hazzali Antenna,52,47,3,2,19,26,2,2,1,thegapingchasm,1,1
+515782,Last Stand,52,47,3,2,6,17,2,2,1,thegapingchasm,1,1
+515783,Chitinous Chest,52,47,3,4,3,5,2,2,1,Tanaris,1,1
+515791,Ancient Wagon Wheel,52,47,3,4,6,14,4,0,1,Darkshore|Tanaris|Teldrassil,1,1
+515797,Blister Chain,48,43,3,4,0,2,2,0,1,Tanaris,1,1
+515798,Desert Trader's Pants,50,45,2,4,2,7,2,0,1,Tanaris|Teldrassil,1,1
+515800,Treasure Seeking Lodestone,54,49,3,4,0,12,2,0,1,Tanaris,1,1
+515801,The Wingman,53,48,3,2,3,26,2,0,1,Tanaris,1,1
+515822,Sun Cover,53,48,3,4,1,16,2,0,1,Tanaris,1,1
+515823,Winkey's Misplaced Wrench,50,45,3,2,4,13,1,0,1,Tanaris,1,1
+515824,Water Binder,49,44,3,2,10,17,3,2,1,Tanaris,1,1
+515825,Diving Boots,49,44,2,4,4,8,4,0,1,Darkshore|Tanaris|Teldrassil,1,1
+515826,Sea Legs,49,44,3,4,1,7,2,0,1,Tanaris,1,1
+515827,Hull Wood Hunk,48,43,3,2,5,17,1,0,1,Tanaris,1,1
+515828,Captain's Compass,49,44,3,4,0,12,4,0,1,Tanaris|Teldrassil,1,1
+515829,Southsea Raider Gloves,49,44,2,4,2,10,2,0,1,Tanaris|twilightsrun,1,1
+515830,Wave Wraps,48,43,2,4,3,9,2,0,1,Tanaris,1,1
+515834,Fisher's Misfortune,48,43,2,4,0,11,2,0,1,Tanaris,1,1
+515835,Lens of Questionable Visions,47,42,3,4,0,23,3,0,1,Tanaris|Teldrassil,1,1
+515836,Noon's Shade Relic,47,42,2,4,8,28,1,0,1,Tanaris,1,1
+515837,Desert Gambeson,45,40,2,4,2,5,2,0,1,Tanaris,1,1
+515838,Dunemaul Crusher,54,49,3,2,5,17,3,3,1,Tanaris,1,1
+515839,Stylish Racing Hat,45,40,2,4,2,1,1,0,1,Tanaris,1,1
+515840,Sandfury Ritual Mace,48,43,3,2,4,21,4,1,1,Tanaris|Teldrassil,1,1
+515841,Sandfury Boomerang,48,43,3,2,16,25,2,0,1,Tanaris,1,1
+515842,Sorrow Bolter,48,43,3,2,18,26,2,0,1,Tanaris,1,1
+515843,Southmoon Amulet,51,46,3,4,0,2,3,0,1,Darkshore|Tanaris,1,1
+515844,Seed of Overgrowth,42,37,2,4,0,12,3,0,1,Dustwallow,1,1
+515900,Sand Stompers,46,41,2,4,3,8,1,0,1,Tanaris,1,1
+515901,Sandstalker,46,41,3,2,2,15,3,0,1,Tanaris|Teldrassil,1,1
+515902,Duneshot Armguards,48,43,2,4,2,9,2,1,1,Darkshore|Tanaris,1,1
+515903,High Seas Axe,46,41,3,2,0,13,2,1,1,Tanaris,1,1
+515904,Sand Polished Pauldrons,48,43,2,4,4,3,1,0,1,Tanaris,1,1
+515906,Executioner's Axe,46,41,3,2,1,17,4,1,1,Darkshore|Tanaris,1,1
+515909,Dunecaller's Spire,53,48,4,2,10,17,1,0,1,Tanaris,1,1
+515954,Minstrel's Magic,52,47,3,2,4,21,1,0,1,Felwood,1,1
+516037,Sturdy Spectral Ring,50,45,3,4,0,11,3,1,0,BlastedLands|EasternPlaguelands,1,1
+521000,Rootbark Girdle,11,6,2,4,3,6,2,0,1,Teldrassil,1,1
+521001,Patched Verdant Cloak,11,6,2,4,1,16,4,0,1,Ashenvale|Teldrassil,1,1
+521002,Moonwell Cane,10,5,2,2,10,17,2,0,1,Teldrassil,1,1
+521003,Timber Maul,12,7,2,2,5,17,2,1,1,Teldrassil,1,1
+521004,Saplingweave Handwraps,14,9,2,4,1,10,2,0,1,Teldrassil,1,1
+521005,Thornpaw Trousers,14,9,2,4,2,7,2,0,1,Teldrassil,1,1
+521007,Gnarlpine Jerkin,12,7,2,4,2,5,3,1,1,Teldrassil,1,1
+521008,Nightbreeze Armguards,12,7,2,4,3,9,2,0,1,Durotar|Lowerbanethilbarrowden,1,1
+521009,Groveprowler Gloves,15,10,2,4,2,10,2,0,1,Teldrassil,1,1
+521010,Chipped Sentinel Blade,16,11,2,2,7,13,2,0,1,Teldrassil,1,1
+521011,Dewleaf Piercer,13,8,2,2,18,26,3,1,1,Teldrassil,1,1
+521012,Bloodfeather Wand,13,8,2,2,19,26,3,1,1,Ashenvale|Teldrassil,1,1
+521013,Harpy Feather Drape,13,8,2,4,1,16,2,0,1,Teldrassil,1,1
+521014,Trickster's Signet,11,6,2,4,0,11,4,4,1,Teldrassil|felrock,1,1
+521026,Wildwood Shortbow,15,10,3,2,2,15,3,2,1,Teldrassil,1,1
+521027,Faded Gravecloth Cuffs,13,8,2,4,1,9,2,1,0,Tirisfal,1,1
+521028,Old Waterlogged Boots,13,8,2,4,2,8,3,2,0,Tirisfal,1,1
+521029,Agamand Sharpshooter,12,7,2,2,18,26,4,2,0,Tirisfal|thegrizzledden,1,1
+521030,Nightfallen Jerkin,11,6,2,4,2,5,4,2,0,Tirisfal|thegrizzledden,1,1
+521031,Rattlecage Warplate,11,6,2,4,3,5,2,1,0,Tirisfal,1,1
+521033,Maggot Eye Musket,15,10,2,2,3,26,4,1,0,Tirisfal|thegrizzledden,1,1
+521034,Ghostmoor Cloak,10,5,2,4,1,16,4,1,0,Tirisfal|thegrizzledden,1,1
+521036,Coastline Vest,13,8,2,4,1,20,3,0,0,Tirisfal,1,1
+521040,Wailing Sash,15,10,3,4,1,6,2,0,0,Tirisfal,1,1
+521042,Farstrider's Grips,15,10,2,4,3,10,2,0,0|530,Arathi|EversongWoods,1,1
+521044,Decayed Cape,15,10,2,4,1,16,1,0,530,EversongWoods,1,1
+521047,Spellribbon Wand,15,10,2,2,19,26,1,0,0,Arathi,1,1
+521049,Rusty Falchion,15,10,2,2,7,21,1,0,0,Arathi,1,1
+521050,Duskwither Hatchet,15,10,2,2,0,13,1,0,0,Arathi,1,1
+521059,Dakota Steppe Greaves,13,8,2,4,3,7,3,2,1,Mulgore,1,1
+521060,Windstamp Gloves,12,7,2,4,2,10,3,3,1,Mulgore,1,1
+521063,Palemane Threads,12,7,2,4,1,16,2,1,1,palemanerock,1,1
+521064,Thunderwalk Breastplate,13,8,2,4,3,5,2,0,1,Mulgore,1,1
+521065,Cloudchaser Pendant,14,9,2,4,0,2,1,0,1,Ashenvale,1,1
+521066,Bael'dun Waraxe,13,8,2,2,1,17,3,3,1,Mulgore,1,1
+521067,Pilfered Bloodhoof Bow,13,8,2,2,2,15,3,0,1,Mulgore,1,1
+521068,Golden Plains Crossbow,14,9,2,2,18,26,2,0,1,Mulgore,1,1
+521069,Kodo Beast Idol,12,7,2,4,8,28,2,1,1,Mulgore,1,1
+521071,Plainsblade,10,5,2,2,8,17,3,3,1,Mulgore,1,1
+521072,Skychaser Wand,14,9,2,2,19,26,1,1,1,Mulgore,1,1
+521073,Sunchaser Blade,12,7,2,2,7,21,3,0,1,Mulgore|campnarachestart,1,1
+521074,Swiftfoot Slippers,14,9,2,4,1,8,2,0,1,Mulgore,1,1
+521075,Hawkrunner Bracers,13,8,2,4,2,9,3,1,1,Mulgore,1,1
+521076,Steppereaver Hatchet,13,8,2,2,0,13,3,0,1,Mulgore,1,1
+521078,Windhoof Totem,10,5,2,4,9,28,2,0,1,Mulgore,1,1
+521079,Bloodtalon Vestments,12,7,2,4,1,20,3,2,1,Durotar,1,1
+521080,Kul Tiras Handwraps,12,7,2,4,1,10,2,0,1,Durotar,1,1
+521081,Redrock Sash,8,3,2,4,1,6,3,2,1,Durotar,1,1
+521082,Kul Tiras Armplates,10,5,2,4,3,9,3,2,1,Barrens|Durotar,1,1
+521083,Charred Battlegreaves,10,5,2,4,3,7,3,0,1,Durotar,1,1
+521084,Grunt's Old Knife,10,5,2,2,15,21,2,2,1,Durotar,1,1
+521089,Earthshatterer Gavel,12,7,2,2,4,21,5,3,1,Durotar|dustwindcave|felrock,1,1
+521092,Champion's Band,15,10,3,4,0,11,6,1,1,Barrens|Durotar|Dustwallow|Kalimdor,1,1
+521094,Rusty Greaves,11,6,2,4,3,7,1,0,530,AzuremystIsle,1,1
+521096,Feathered Pants,13,8,2,4,2,7,1,0,530,AzuremystIsle,1,1
+521101,Darnassus Longbow,15,10,2,2,2,15,1,0,530,AzuremystIsle,1,1
+521104,Fish Gutter,10,5,2,2,15,21,1,0,530,AzuremystIsle,1,1
+521106,Stillpine Gavel,15,10,2,2,4,21,1,0,530,AzuremystIsle,1,1
+521109,Alliance Cord,15,10,2,4,1,6,1,0,530,AzuremystIsle,0,1
+521112,Silt Shore Hammer,15,10,2,2,4,13,1,0,530,AzuremystIsle,0,1
+521115,Eastvale Buckler,15,10,2,4,6,14,4,0,0,Arathi|Elwynn|Upperfargodeepmine,1,1
+521116,Mauled Armplates,14,9,2,4,3,9,4,2,0,Badlands|Elwynn,1,1
+521118,Plundered Goldshire Vanguard,10,5,2,4,3,5,5,0,0,Alterac|Badlands|Elwynn|Upperfargodeepmine,1,1
+521121,Decayed Breeches,10,5,2,4,1,7,4,1,0,Badlands|Elwynn|Upperfargodeepmine,1,1
+521122,Traveler's Forest Cloak,12,7,2,4,1,16,4,2,0|530,Elwynn|EversongWoods,1,1
+521123,Smuggled Stormwind Choker,15,10,2,4,0,2,6,2,0|530,Badlands|BlastedLands|Elwynn|EversongWoods,1,1
+521127,The Vanishing Strap,10,5,2,4,2,6,3,0,0,Elwynn,1,1
+521128,Fisherman's Jerkin,15,10,2,4,1,20,4,2,0,Elwynn,1,1
+521130,Old Valgan Slippers,15,10,2,4,1,8,2,0,0,Silverpine|SwampOfSorrows,1,1
+521131,Darkstrand Kilt,17,12,2,4,2,7,3,0,0,Silverpine,1,1
+521132,Chain Belt of the Elements,15,10,2,4,3,6,3,0,0,Silverpine|SwampOfSorrows,1,1
+521133,Lordamere Cuffs,20,15,2,4,1,9,2,0,0,Silverpine,1,1
+521139,Gilnean Lance,25,20,3,2,6,17,6,1,0|530,LochModan|Silverpine|SwampOfSorrows|sunstriderislestart,1,1
+521140,Gilnean Bolter,25,20,2,2,18,26,4,0,0|530,LochModan|Silverpine|SwampOfSorrows|sunstriderislestart,1,1
+521142,Mountaineer Hatchet,15,10,2,2,0,13,4,1,0,LochModan|northshire,1,1
+521143,Dwarven Sandals,16,11,2,4,1,8,2,2,0,LochModan,1,1
+521144,Tattered Shoulders,18,13,2,4,1,3,5,2,0,LochModan|SearingGorge|northshire,1,1
+521145,Stolen Mountaineer Chest,16,11,2,4,3,5,5,2,0,DunMorogh|LochModan|SearingGorge,1,1
+521146,Old Stitched Bindings,15,10,2,4,1,9,5,0,0,Hinterlands|LochModan|SearingGorge|northshire,1,1
+521147,Vermin Staff,15,10,2,2,10,17,3,0,0,DunMorogh|LochModan|SearingGorge,1,1
+521150,Dwarven Mail Gauntlets,25,20,2,4,3,10,4,1,0,LochModan|SearingGorge,1,1
+521151,Abandoned Greatsword,25,20,2,2,8,17,4,1,0,LochModan|SearingGorge,1,1
+521153,Earthenwind Band,25,20,2,4,0,11,5,1,0,Hinterlands|LochModan|northshire,1,1
+521154,Drowned Pendant,25,20,2,4,0,2,3,1,0,LochModan|SearingGorge,1,1
+521155,Spider Silk Vestments,25,20,3,4,1,20,4,1,0,Hinterlands|LochModan|northshire,1,1
+521156,Sinter Wive's Rope,19,14,2,4,2,6,3,0,0,LochModan|northshire,1,1
+521157,Stoneflow Handwraps,25,20,3,4,1,10,5,2,0,EasternPlaguelands|LochModan|SearingGorge,1,1
+521158,Twilight Vale,22,17,2,4,1,16,2,0,1,Darkshore,1,1
+521159,Blackwood Jerkin,24,19,2,4,2,5,3,0,0|1,Darkshore|coldridgevalley,1,1
+521160,Shorebreeze Sabatons,22,17,2,4,3,8,2,0,1,Darkshore,1,1
+521161,Highborne Trousers,16,11,2,4,1,7,3,2,1,Darkshore,1,1
+521162,Auberdine Scimitar,25,20,2,2,7,13,3,0,1,Darkshore,1,1
+521163,Wild Longbow,25,20,2,2,2,15,3,0,1,Darkshore,1,1
+521164,Relicseeker Staff,25,20,2,2,10,17,2,1,1,Darkshore,1,1
+521165,Stormscale Guard,25,20,2,4,1,20,2,1,1,Darkshore,1,1
+521166,Moonrest Slippers,25,20,2,4,1,8,3,0,1,Darkshore,1,1
+521169,Mystwood Glaive,25,20,2,2,6,17,1,0,530,BloodmystIsle,1,1
+521172,Bloodmyst Totem,25,20,2,4,9,28,1,0,530,BloodmystIsle,0,1
+521178,Ghostclaw Vest,14,9,2,4,2,5,1,0,530,Ghostlands,1,1
+521179,Blight Infused Mantle,24,19,2,4,1,3,1,0,530,Ghostlands,1,1
+521180,Dreadscar Girdle,21,16,2,4,3,6,1,0,530,Ghostlands,1,1
+521182,Kel'gash's War Breeches,23,18,2,4,3,7,1,0,530,Ghostlands,1,1
+521188,Venture Co. Spaulders,19,14,2,4,2,3,3,0,1,Barrens,1,1
+521189,Waterlogged Gloves,20,15,2,4,2,10,2,1,1,Barrens,1,1
+521190,Venture Co. Boots,22,17,2,4,1,8,3,0,1,Barrens,1,1
+521191,Steelrider Girdle,25,20,2,4,3,6,2,0,1,Barrens,1,1
+521192,Bramblestaff,25,20,2,2,10,17,3,0,1,Barrens,1,1
+521193,Stormcall Totem,25,20,2,4,9,28,2,0,1|530,Barrens|TheExodar,1,1
+521194,Venture Co. Dirk,25,20,2,2,15,13,3,0,1|530,Barrens|TheExodar,1,1
+521195,Giant Qiraji Scale,25,20,2,4,6,14,4,0,1,Barrens|thenoxiouslair,1,1
+521196,Malgin's Barback,25,20,3,2,13,13,3,0,1,Barrens|thenoxiouslair,1,1
+521197,Takar's Old Wand,25,20,2,2,19,26,3,0,1,Barrens,1,1
+521198,Bristleback Thorn,25,20,2,2,16,25,2,0,1,Barrens,1,1
+521199,Blackthorn Splitter,25,20,2,2,1,17,2,1,1,Barrens,1,1
+521200,Razorthorn Claymore,25,20,2,2,8,17,1,1,1,Barrens,1,1
+521201,Thornweaver Mace,25,20,2,2,4,21,3,0,1,Barrens,1,1
+521203,Plainstalker Vest,25,20,2,4,2,5,3,2,1,Barrens,1,1
+521204,Venture Co. Sabatons,25,20,2,4,3,8,3,0,1,Barrens|thenoxiouslair,1,1
+521205,Savannah Cowl,25,20,2,4,1,1,4,1,1,Barrens|thenoxiouslair,1,1
+521206,Kodo Stompers,25,20,2,4,2,8,3,0,1|530,Barrens|sunstriderislestart,1,1
+521208,Gnoll Crafted Spaulder,25,20,2,4,3,3,3,2,0,DeadwindPass|Redridge,1,1
+521209,Gnoll Cap,25,20,2,4,2,1,4,0,0,BurningSteppes|Redridge|SecretInquisitorialDungeon,1,1
+521210,Alther's Chain Wrap,25,20,2,4,3,6,4,1,0,Hinterlands|Redridge|SecretInquisitorialDungeon,1,1
+521211,Stonewatch Handwraps,25,20,2,4,1,10,4,2,0,BurningSteppes|DeadwindPass|Redridge,1,1
+521212,Tharil'zun's Trek Boots,25,20,2,4,2,8,5,1,0,DeadwindPass|Redridge|SecretInquisitorialDungeon,1,1
+521213,Old Redridge Buckler,25,20,2,4,6,14,6,1,0,BurningSteppes|Redridge|SecretInquisitorialDungeon,1,1
+521214,Mongrel Blade,25,20,2,2,7,13,4,1,0,DeadwindPass|Redridge,1,1
+521215,Everstill Claymore,25,20,2,2,8,17,7,3,0,BurningSteppes|DeadwindPass|Hinterlands|Redridge|SwampOfSorrows,1,1
+521216,Blackrock Waraxe,25,20,2,2,1,17,4,2,0,DeadwindPass|Redridge|SecretInquisitorialDungeon,1,1
+521217,Rusty Redridge Rifle,25,20,2,2,3,26,5,3,0,Hinterlands|Redridge|SecretInquisitorialDungeon,1,1
+521218,Adventurer's Crossbow,25,20,2,2,18,26,4,2,0,Redridge|SecretInquisitorialDungeon,1,1
+521219,Tidecaller's Hammer,25,20,2,2,4,21,2,2,0,Redridge,1,1
+521220,Old War Tome,25,20,2,4,7,28,3,1,0,DeadwindPass|Redridge,1,1
+521222,Red Mage Wand,25,20,3,2,19,26,5,3,0,BurningSteppes|Hinterlands|Redridge,1,1
+521223,Charred Spaulders,25,20,2,4,2,3,4,0,1,Barrens|StonetalonMountains,1,1
+521224,Cliffwalker Cuffs,25,20,2,4,2,9,3,1,1,StonetalonMountains,1,1
+521226,Huntress Threads,25,20,2,4,1,7,3,0,1,StonetalonMountains|Tanaris,1,1
+521227,Deepmoss Fang,25,20,2,2,15,13,2,0,1,StonetalonMountains,1,1
+521228,Windsong Shortbow,25,20,2,2,2,15,3,1,1,StonetalonMountains,1,1
+521230,Talon Idol,25,20,2,4,8,28,1,0,1,StonetalonMountains,1,1
+521231,Grimtotem Striker,25,20,2,2,4,21,3,1,1,StonetalonMountains,1,1
+521233,Wyvern Vest,25,20,2,4,2,5,3,0,1,StonetalonMountains,1,1
+521234,Helcular's Pendant,25,20,2,4,0,2,4,1,0,EasternPlaguelands|Hilsbrad|Silverpine,1,1
+521235,Darrow Silverband,25,20,2,4,0,11,3,1,0,Hilsbrad,1,1
+521237,Camouflaged Bow,25,20,2,2,2,15,3,3,0,Hilsbrad,1,1
+521238,Oracle's Fishy Staff,25,20,2,2,10,17,5,1,0|585,EasternPlaguelands|Hilsbrad|MagistersTerrace,1,1
+521239,Ray's Farmhand,25,20,2,2,0,13,4,0,0,EasternPlaguelands|Hilsbrad,1,1
+521240,Daggerspine Rod,36,31,2,2,19,26,5,2,0|585,EasternPlaguelands|Hilsbrad|MagistersTerrace,1,1
+521241,Bear Decapitator,30,25,2,2,1,17,5,1,0,EasternPlaguelands|Hilsbrad|Tirisfal,1,1
+521243,Syndicate Treads,27,22,2,4,2,8,5,1,0|585,Hilsbrad|MagistersTerrace|Silverpine,1,1
+521244,Ancient Durnholde Girdle,26,21,2,4,3,6,3,0,0,EasternPlaguelands|Hilsbrad|Tirisfal,1,1
+521245,Mismatched Shoulderpads,30,25,2,4,1,3,3,0,0,Hilsbrad,1,1
+521246,Heisen's Loop,25,20,2,4,0,11,2,1,0,Alterac,1,1
+521248,Old Dragonmaw Cleaver,28,23,2,2,0,13,2,1,0,Westfall|Wetlands,1,1
+521249,Borrowed Dark Iron Signet,26,21,2,4,0,11,2,2,0,Wetlands,1,1
+521250,Crude Bluegill Totem,26,21,2,4,9,28,2,1,0,Wetlands,1,1
+521251,Dragonmaw Ritual Staff,29,24,2,2,10,17,1,0,0,Wetlands,1,1
+521252,Dark Iron Harvester,26,21,2,2,15,13,1,1,0,Wetlands,1,1
+521253,Pilfered Stormpike Polearm,27,22,2,2,6,17,2,1,0,Wetlands,1,1
+521254,Swiftgear Sniper,28,23,2,2,3,26,2,1,0,Wetlands,1,1
+521255,Thelsamar Bow,25,20,2,2,2,15,3,0,0,Wetlands,1,1
+521256,Old Dragon Bone,26,21,2,2,4,13,2,1,0,Wetlands,1,1
+521257,Arakor Mace,26,21,2,2,4,21,2,1,0,Wetlands,1,1
+521258,Mirefin Belt,25,20,2,4,1,6,3,2,0,Wetlands,1,1
+521259,Raptor-Gnawed Cap,29,24,2,4,2,1,3,2,0,Wetlands,1,1
+521260,Vestments of the Unbound,25,20,2,4,1,20,4,3,0,Hilsbrad|Wetlands,1,1
+521261,Stubborn Dwarf Slippers,25,20,2,4,1,8,2,0,0,Wetlands,1,1
+521264,Hunter's Tunic,25,20,2,4,2,5,3,1,1,Ashenvale,1,1
+521265,Malorne's Girdle,25,20,2,4,1,6,3,0,1,Ashenvale,1,1
+521266,Rehomed Belt,25,20,2,4,1,6,3,3,0,Westfall,1,1
+521267,Leyline Channeling Rod,25,20,3,2,10,17,5,2,0,Stranglethorn|Westfall|Wetlands,1,1
+521268,Coldhewn Tanning Gloves,12,7,2,4,2,10,3,2,0,DunMorogh,1,1
+521318,Roland's Striker,25,20,2,2,7,13,3,2,0,Duskwood,1,1
+521319,Infiltrator's Shield,25,20,2,4,6,14,3,0,1,Ashenvale,1,1
+521320,Stardust Scoured Helmet,25,20,2,4,3,1,3,1,1,Ashenvale,1,1
+521321,Honed Steel Axe,25,20,2,2,1,17,4,2,0,Duskwood|echoridgemine,1,1
+521323,Brightwood Gloves,25,20,2,4,1,10,3,1,0,Duskwood|echoridgemine,1,1
+650028,Terrified Braids,17,12,2,4,0,2,3,0,1,Barrens,1,1
+650038,Highlands Kitchen Knife,30,25,2,2,15,13,3,0,0,Wetlands,1,1
+650039,Dwarven Bucket,25,20,2,4,1,1,3,0,0,Wetlands,1,1
+824378,Ancient Femur,8,3,2,2,5,17,3,2,1,SinisterLair,1,1
+824379,Voodoo Guardian,8,3,2,4,6,14,3,2,1,Durotar|valleyoftrialsstart,1,1
+824380,Triad's Spear,8,3,2,2,6,17,4,3,1,Durotar|valleyoftrialsstart,1,1
+824381,Sinister Garb,8,3,2,4,1,20,3,3,1,SinisterLair,1,1
+824382,Old Northshire Bolter,8,3,2,2,18,26,4,1,0,Elwynn|northshire,1,1
+824383,Old Gardening Gloves,8,3,2,4,2,10,4,3,0,Elwynn|northshire,1,1
+824384,Shadewell Stabber,8,3,2,2,15,13,3,1,0|1,ShadewellSpring|Winterspring,1,1
+824385,Forsaken Tome,8,3,2,4,0,23,5,0,0,Elwynn|SecretInquisitorialDungeon|Silverpine|northshire,1,1
+824386,Grimtotem Bow,8,3,2,2,2,15,2,0,1,campnarachestart,1,1
+824387,Traitor's Last Kiss,8,3,2,4,0,11,2,2,1,campnarachestart,1,1
+824388,Sun Touched Club,8,3,2,2,4,13,3,1,1,campnarachestart,1,1
+824389,Ceremonial Gloves,8,3,2,4,1,10,3,3,1,campnarachestart,1,1
+824390,Decayed Sharpshot,8,3,2,2,18,26,5,2,0,EasternPlaguelands|Tirisfal|deathknellstart,1,1
+824391,Sturdy Arrow,8,3,2,2,15,13,3,2,0,Tirisfal|deathknellstart,1,1
+824392,Cain's Oathblade,8,3,2,2,8,17,4,2,0,EasternPlaguelands|Tirisfal|deathknellstart,1,1
+824393,Deadman's Cover,8,3,2,4,6,14,4,2,0,Tirisfal|deathknellstart,1,1
+824394,Radiant Rifle,8,3,2,2,3,26,3,2,0,Arathi|coldridgevalley,1,1
+824395,Ancient Battleaxe,8,3,2,2,1,17,3,2,0,coldridgevalley,1,1
+824396,Radiant Fanatic Helmet,8,3,2,4,3,1,2,1,0,coldridgevalley,1,1
+824397,Rocket Shrapnel,8,3,2,4,6,14,4,2,0,DunMorogh|coldridgevalley,1,1
+824398,Vulture Cult Idol,8,3,2,4,8,28,2,2,1,MoonlitOssuary,1,1
+824399,Disciple String,8,3,2,2,2,15,3,1,1,shadowglenstart,1,1
+824400,Nest Thorn,8,3,2,2,6,17,3,3,1,Teldrassil|shadowglenstart,1,1
+824401,Carrion Eye,8,3,2,2,19,26,4,2,1,SinisterLair|shadowglenstart,1,1
+903016,Fel Dust,56,51,2,0,1,0,1,0,1,Winterspring,1,1
+1262811,Abomination Hook,63,58,3,2,0,13,1,0,0,WesternPlaguelands,1,1
+1378069,Lost Scout's Idol,67,60,4,4,8,28,1,0,0,Hinterlands,1,1
+1378403,Standard Cenarion Spear,67,60,4,2,6,17,1,0,1,Silithus,1,1
+1378440,Winter's Last Embrace,67,60,4,4,0,12,1,0,1,palemanerock,1,1
+1378457,Owlbeast Talon,67,60,4,4,0,12,1,0,1,tideshollow,1,1
+1378606,Rough Weathered Ring,64,60,4,4,0,11,1,0,36,TheDeadmines,1,1
+1378951,Moonbathed Necklace,64,60,4,4,0,2,1,0,645,BlackrockCaverns,1,1
+1379108,Scarlet Insignia,64,60,4,4,0,2,1,0,1,palemanerock,1,1
+1379135,Unpleasant Ring,64,60,4,4,0,11,1,0,0,Redridge,1,1
+1379233,Bogcaller Totem,64,60,4,4,9,28,1,0,1,Barrens,1,1
+1379239,Glassweb Ward Shroud,64,60,4,4,1,16,1,0,1,palemanerock,1,1
+1379324,Acid Bolter,67,60,4,2,18,26,1,0,1,Felwood,1,1
+1379356,One Ring to Flame Them All,67,60,4,4,0,11,1,0,0,Redridge,1,1
+1379472,Markri Turret,67,60,4,2,18,26,1,0,1,tideshollow,1,1
+1379520,Vilebranch Beastlance,67,60,4,2,6,17,1,0,0,Hinterlands,1,1
+1379523,Idol of the Aerie,67,60,4,4,8,28,1,0,0,Hinterlands,1,1
+1379535,Highnest Repeater,67,60,4,2,18,26,1,0,0,Hinterlands,1,1
+1379541,Desperate Defense,67,60,4,2,6,17,1,0,0,Arathi,1,1
+1379584,Lens of Questionable Visions,64,60,4,4,0,23,1,0,1,Teldrassil,1,1
+1379601,Minstrel's Magic,67,60,4,2,4,21,1,0,0,Redridge,1,1
+1380878,Nightwatch Circlet,70,60,4,4,0,11,1,0,1,tideshollow,1,1
+1388124,Flower of Tranquility,60,60,3,4,0,23,1,0,1,StonetalonMountains,1,1
+1388142,Wyrmscale Spaulders,60,60,3,4,3,3,1,0,0,Wetlands,1,1
+1388151,Abandoned Boots,60,60,3,4,2,8,1,0,1,Desolace,1,1
+1388158,Shadowprey Bag,60,1,3,1,0,18,1,1,1,Desolace,1,1
+1388162,Circlet of Desolation,60,60,3,4,3,1,1,0,1,Desolace,1,1
+1388163,Blade of Dread,60,60,3,2,7,13,1,0,1,Desolace,1,1
+1388186,Magram Hatchet,60,60,3,2,0,13,1,0,1,Desolace,1,1
+1388206,Embrace of the Fifth,60,60,4,2,19,26,1,0,0,Hilsbrad,1,1
+1388216,Frostwatch Defender,60,60,3,2,3,26,1,0,0,Alterac,1,1
+1388266,Hercular's Unstable Orb,60,60,3,4,0,23,1,0,0,Alterac,1,1
+1388286,Syndicate Crossbow,60,60,3,2,18,26,1,0,0,Alterac,1,1
+1388291,Bloodsail Longbow,60,60,3,2,2,15,1,0,0,Stranglethorn,1,1
+1388332,Witherbark Headsmasher,60,60,3,2,4,21,1,0,0,Arathi,1,1
+1388365,Mok'rash's Circlet,60,60,3,4,2,1,1,0,1,Teldrassil,1,1
+1388405,Jungle Defender,60,60,3,2,8,17,1,1,0,Stranglethorn,1,1
+1388433,Stonesplitter,60,60,3,2,0,13,1,0,0,Stranglethorn,1,1
+1388440,Coldridge Crusher,60,60,3,2,4,13,1,0,0,Alterac,1,1
+1388442,Blood Soaked Spike,60,60,3,2,15,21,1,0,0,Alterac,1,1
+1388482,Spicy Candle,60,60,3,4,0,23,1,0,0,DunMorogh,1,1
+1388483,Lost Adventurer's Ring,60,60,3,4,0,11,1,0,0,DunMorogh,1,1
+1388484,Forgotten Knapsack,60,1,3,1,0,18,1,0,0,DunMorogh,1,1
+1388485,Glinting Necklace,60,60,3,4,0,2,1,0,0,DunMorogh,1,1
+1388500,Grizlak's Candle,60,60,3,4,0,12,1,0,0,LochModan,1,1
+1388533,Wax Stained Bag,60,1,3,1,0,18,1,0,0,Elwynn,1,1
+1388567,Corroded Quel'thalas Ring,60,60,3,4,0,11,1,0,0,WesternPlaguelands,1,1
+1388594,Three Corner Carp,60,60,3,4,0,12,1,0,0,SwampOfSorrows,1,1
+1388606,Nightwatch Circlet,60,60,3,4,0,11,1,0,1,tideshollow,1,1
+1388613,The Jitters,60,60,3,4,0,11,1,0,0,Duskwood,1,1
+1388617,Alchemy Visceral Juice,60,60,3,4,0,12,1,0,0,Duskwood,1,1
+1388674,Worn Shovel,60,60,3,2,1,17,1,0,0,Elwynn,1,1
+1388679,Moonbathed Necklace,60,60,3,4,0,2,1,0,1,Teldrassil,1,1
+1388698,Quilbow,60,60,3,2,2,15,1,0,1,Durotar,1,1
+1388706,Harpy Hunter,60,60,3,2,3,26,1,1,1,Durotar,1,1
+1388715,Enchanted Kobold Lantern,60,60,3,4,0,23,1,0,0,Elwynn,1,1
+1388718,Throwing Rock,60,60,3,2,16,25,1,0,0,DunMorogh,1,1
+1388743,Jar of Spiders,60,60,3,4,0,12,1,0,1,Teldrassil,1,1
+1388745,Jack's Toothpicker,60,60,3,2,0,13,1,0,0,Elwynn,1,1
+1388757,Guide to Elven Restoration - Vol. I,60,60,3,4,0,23,1,0,1,Ashenvale,1,1
+1388789,Cursed Fire Scar Pendant,60,60,3,4,0,2,1,0,1,Ashenvale,1,1
+1388795,Echo of Aessina,60,60,3,4,0,12,1,1,1,Ashenvale,1,1
+1388808,Waterlogged Musket,60,60,3,2,5,17,1,0,1,Dustwallow,1,1
+1388811,Sharpened Pike,60,60,3,2,6,17,1,0,1,Ashenvale,1,1
+1388821,Misplaced Pitchfork,60,60,3,2,6,17,1,0,0,Hilsbrad,1,1
+1388868,Shen'dralar Staff,60,60,3,2,10,17,1,0,1,Feralas,1,1
+1388911,Durn's Loot Bag,60,1,3,1,0,18,1,1,1,Dustwallow,1,1
+1388927,Emberscale Greatsword,60,60,4,2,8,17,1,0,1,Dustwallow,1,1
+1388938,Primitive Murloc Skewer,60,60,3,2,15,13,1,0,1,Dustwallow,1,1
+1388987,Hidden Stash,60,1,3,1,0,18,1,0,1,Desolace,1,1
+1388998,Lunar Tome,60,60,3,4,0,23,1,0,1,Teldrassil,1,1
+1389009,Rock Smasher,60,60,3,2,5,17,1,0,1,StonetalonMountains,1,1
+1389020,Deadman's Signet,60,60,3,4,0,11,1,0,1,ThousandNeedles,1,1
+1389030,Cloud Serpent Feather,60,60,3,4,0,12,1,0,1,ThousandNeedles,1,1
+1389036,Pip's Rad Stone,60,60,3,4,0,12,1,0,0,Redridge,1,1
+1389058,Quarry Sledge,60,60,3,2,5,17,1,1,0,Westfall,1,1
+1389072,Floodworn Shoulderguards,60,60,3,4,3,3,1,0,0,Hinterlands,1,1
+1389073,Hexcall Gavel,60,60,3,2,4,13,1,0,0,Hinterlands,1,1
+1389081,Betrayer's Blade,60,60,3,2,8,17,1,0,1,Tanaris,1,1
+1389093,Winkey's Misplaced Wrench,60,60,3,2,4,13,1,1,1,Tanaris,1,1
+1389105,Stylish Racing Hat,60,60,3,4,2,1,1,0,1,Tanaris,1,1
+1389106,Sandfury Ritual Mace,60,60,3,2,4,21,1,1,1,Tanaris,1,1
+1389108,Sorrow Bolter,60,60,3,2,18,26,1,0,1,Tanaris,1,1
+1389115,Executioner's Axe,60,60,3,2,1,17,1,0,1,Tanaris,1,1
+1389354,Dark Iron Harvester,60,60,3,2,15,13,1,0,0,Wetlands,1,1
+1389379,Elven Militia Crown,60,60,3,4,1,1,1,0,1,Ashenvale,1,1
+1389380,Pristine Tortoise Carapace,60,60,3,4,6,14,1,0,1,Ashenvale,1,1
+1389903,Traitor's Last Kiss,60,58,3,4,0,11,1,0,1,Teldrassil,1,1
+1393584,Lens of Questionable Visions,73,60,4,4,0,23,1,1,0,Stranglethorn,1,1
+1450513,Adventurer's Lost Sack,10,1,2,1,0,18,23,15,0|1|530,BurningSteppes|EversongWoods|Mulgore|SinisterLair|Teldrassil|campnarachestart|coldridgepass|deathknellstart|northshire|shadowglenstart|shadowthreadcave|valleyoftrialsstart,1,1
+3595662,Dwarven Crossbow,43,38,3,2,18,26,3,0,1|349,Maraudon|maraudonorange|maraudonpurple,1,1
+4050651,Sunken Zoram Spear,24,19,3,2,6,17,2,0,1,Ashenvale,1,1
+4050652,Elven Militia Crown,24,19,3,4,1,1,3,0,1,Ashenvale,1,1
+4050653,Pristine Tortoise Carapace,21,16,3,4,6,14,3,3,1,Ashenvale,1,1
