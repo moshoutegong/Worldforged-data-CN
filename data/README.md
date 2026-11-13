@@ -36,3 +36,14 @@
 | `name_has_all_7_tiers` | 该名称是否收录完整 7 档，1 为齐全，0 为不齐全 |
 
 [地图边界表](worldmaparea_bounds_captured.csv)用于坐标换算。[lootsmith/](lootsmith/) 存放社区地图、世界铸造标记和升级链 JSON。[provenance/](provenance/) 保留 ZIP 来源的提取结果，适合追查数据出处。
+
+## 中文对照表
+
+| 文件 | 关联方式与范围 |
+|---|---|
+| [地图名对照](zone_names_zhCN.csv) | 按 `wma_id` 关联采集的地图边界。优先沿用 AscensionCN 的地图译名，再查 LootCollector。缺少译名时保留原始名称，`name_zhCN` 留空。 |
+| [物品名对照](item_names_zhCN.csv) | 覆盖物品汇总表和 Exiles 升级表的物品 ID。优先按 ID 查 AscensionCN，再用该插件的英文词典精确匹配名称。译名来自插件参考表，尚未逐条在 ArdenWoW 验证。空白表示未匹配到。 |
+| [社区地图拾取备注](atlas_pickup_notes_zhCN.csv) | 仅收录 Bisbeard 地图中有备注的世界铸造标记。`marker_index` 从 0 开始，对应原 JSON 的 `markers` 数组下标。`zone_index` 对应该 JSON 的 `zones` 数组。拾取物件保留英文关键词，便于在英文客户端辨认。 |
+
+中文表使用 UTF-8，保留英文名称、物品 ID、区域 ID 和原始坐标。物品名和地图名的 `translation_source` 标注所用的译名来源。社区地图里的位置和物件名称来自历史记录，可能有截断或误差。
+

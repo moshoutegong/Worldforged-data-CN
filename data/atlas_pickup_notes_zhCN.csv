@@ -1,0 +1,1010 @@
+marker_index,zone_index,zone_en,item_name_en,x,y,note_en,note_zhCN,translation_status
+344,32,Silverpine Forest,Arcane Crystal,57.8,70.2,Item that gives Arcane Cascade mystic enchant.,可获得 Arcane Cascade 神秘附魔的物品。,translated
+347,32,Silverpine Forest,Cold Crystal,63.6,65.4,Lootable crystal that gives the Biting Frost enchant for mages,可拾取的水晶，为法师提供 Biting Frost 附魔。,translated
+534,45,Westfall,Defias Sprig,10.1,84.3,"Found in: The Deadmines Coords: (0.41, 0.82)","拾取区域：死亡矿井。坐标：(0.41, 0.82)",location
+535,13,Desolace,Strider Waist Piece,23.1,55.3,"Found in: Maraudon Coords: (0.37, 0.35)","拾取区域：玛拉顿。坐标：(0.37, 0.35)",location
+536,13,Desolace,Long-Clawed Gnoll Paw,21.9,58,"Found in: Maraudon Coords: (0.74, 0.62)","拾取区域：玛拉顿。坐标：(0.74, 0.62)",location
+537,13,Desolace,Bug Catchers,24.1,54.9,"Found in: Maraudon Coords: (0.74, 0.65)","拾取区域：玛拉顿。坐标：(0.74, 0.65)",location
+538,13,Desolace,Logsplitter,21.9,55,"Found in: Maraudon Coords: (0.44, 0.30)","拾取区域：玛拉顿。坐标：(0.44, 0.30)",location
+539,13,Desolace,Icon of Khan Maraudos,25.4,60.3,"Found in: Maraudon Coords: (0.17, 0.45)","拾取区域：玛拉顿。坐标：(0.17, 0.45)",location
+540,13,Desolace,Shen'dralar Slicer,24.1,56.3,"Found in: Maraudon Coords: (0.55, 0.48)","拾取区域：玛拉顿。坐标：(0.55, 0.48)",location
+541,13,Desolace,Sentinel Wrap,22.4,55.3,"Found in: Maraudon Coords: (0.46, 0.66)","拾取区域：玛拉顿。坐标：(0.46, 0.66)",location
+542,13,Desolace,Champion's Band,21.8,57.6,"Found in: Maraudon Coords: (0.38, 0.46)","拾取区域：玛拉顿。坐标：(0.38, 0.46)",location
+543,13,Desolace,Orb of Isildien Echoes,21.9,57.2,"Found in: Maraudon Coords: (0.61, 0.55)","拾取区域：玛拉顿。坐标：(0.61, 0.55)",location
+544,13,Desolace,Greataxe of Kolk,23.4,56.8,"Found in: Maraudon Coords: (0.38, 0.58)","拾取区域：玛拉顿。坐标：(0.38, 0.58)",location
+545,13,Desolace,Zapping Rod,21.1,55,"Found in: Maraudon Coords: (0.45, 0.43)","拾取区域：玛拉顿。坐标：(0.45, 0.43)",location
+546,13,Desolace,Silithid Husk Shield,23.6,57.3,"Found in: Maraudon Coords: (0.79, 0.63)","拾取区域：玛拉顿。坐标：(0.79, 0.63)",location
+547,13,Desolace,Moon-Infused Breeches,24.8,57.3,"Found in: Maraudon Coords: (0.60, 0.46)","拾取区域：玛拉顿。坐标：(0.60, 0.46)",location
+548,38,The Barrens,Abandoned Peon's Sack,92.3,16.3,"Found in: Wailing Caverns Coords: (0.54, 0.49)","拾取区域：哀嚎洞穴。坐标：(0.54, 0.49)",location
+549,38,The Barrens,Wailing Sapphire Gem,90.8,15.9,"Found in: Wailing Caverns Coords: (0.52, 0.56)","拾取区域：哀嚎洞穴。坐标：(0.52, 0.56)",location
+550,21,Feralas,Belt of the Shen'dralar,55.5,40.9,"Found in: Dire Maul Coords: (0.44, 0.67)","拾取区域：厄运之槌。坐标：(0.44, 0.67)",location
+551,5,Badlands,Dwarven Crossbow,37.8,12.7,"Found in: Uldaman Coords: (0.27, 0.23)","拾取区域：奥达曼。坐标：(0.27, 0.23)",location
+552,38,The Barrens,Worn Grunt Axe,90.7,16.4,"Found in: Wailing Caverns Coords: (0.34, 0.67)","拾取区域：哀嚎洞穴。坐标：(0.34, 0.67)",location
+554,34,Stranglethorn Vale,Worldforge Drops (9 items),28.1,75.3,Items found in this area: • Necklace of the Sunken Empire (Armor) • Pip's Rad Stone (Armor) • Three Corner Carp (Armor) • Defias Honorcode Memento (Armor) • Crystallized Amulet (Armor) • Owlbeast Talon (Armor) • Talon Ripper (Polearm) • One Ring to Flame Th...,此区域记录的物品：Necklace of the Sunken Empire（护甲）；皮普的酷炫之石（护甲）；三角鲤鱼（护甲）；迪菲亚荣誉准则纪念物（护甲）；Crystallized Amulet（护甲）；枭兽利爪（护甲）；Talon Ripper（长柄武器）；One Ring to Flame Th...,area_items
+555,34,Stranglethorn Vale,Mok'rash's Circlet,24,72,Possible lootable world object names are: Mokrash's Ring,可能可拾取的场景物件（可按英文名查找）：Mokrash's Ring,object_names_retained
+556,34,Stranglethorn Vale,Ravaged Shoulderpads,32,17,Possible lootable world object names are: Gore Coated Pauldrons,可能可拾取的场景物件（可按英文名查找）：Gore Coated Pauldrons,object_names_retained
+557,34,Stranglethorn Vale,Depleted Elemental Lodestone,22,25,Possible lootable world object names are: Unstable Water Lodestone,可能可拾取的场景物件（可按英文名查找）：Unstable Water Lodestone,object_names_retained
+558,34,Stranglethorn Vale,Kurzen Madness Blade,46,11,"Possible lootable world object names are: Shimmer Dust, Humming Blade","可能可拾取的场景物件（可按英文名查找）：Shimmer Dust, Humming Blade",object_names_retained
+559,34,Stranglethorn Vale,Alchemist's Ladel,38,62,Possible lootable world object names are: Ladel,可能可拾取的场景物件（可按英文名查找）：Ladel,object_names_retained
+561,34,Stranglethorn Vale,Ring of Accurate Endeavors,32.8,71.8,Possible lootable world object names are: Raided Cadaver,可能可拾取的场景物件（可按英文名查找）：Raided Cadaver,object_names_retained
+562,34,Stranglethorn Vale,Jose's Best Slacks,28.9,59,Possible lootable world object names are: Dead Explorer's Pack,可能可拾取的场景物件（可按英文名查找）：Dead Explorer's Pack,object_names_retained
+563,34,Stranglethorn Vale,Premium Banana,35,61,Possible lootable world object names are: Baby Gorilla Bait,可能可拾取的场景物件（可按英文名查找）：Baby Gorilla Bait,object_names_retained
+564,34,Stranglethorn Vale,Blackwater Booty Band,35,79,Possible lootable world object names are: Overboard Treasure,可能可拾取的场景物件（可按英文名查找）：Overboard Treasure,object_names_retained
+565,34,Stranglethorn Vale,Gurubashi Trainee Hatchet,48.9,18.9,Possible lootable world object names are: Gurubashi Throwing Axe,可能可拾取的场景物件（可按英文名查找）：Gurubashi Throwing Axe,object_names_retained
+566,34,Stranglethorn Vale,Zul'Kunda Tribe Trophy,26,12.1,Possible lootable world object names are: Death Trophy,可能可拾取的场景物件（可按英文名查找）：Death Trophy,object_names_retained
+567,34,Stranglethorn Vale,Mosh'Ogg Stave,37.1,31,Possible lootable world object names are: Witchdoctor Effigy,可能可拾取的场景物件（可按英文名查找）：Witchdoctor Effigy,object_names_retained
+568,34,Stranglethorn Vale,Jungle Broadblade,45,12,Possible lootable world object names are: Heavy Jungle Chopper,可能可拾取的场景物件（可按英文名查找）：Heavy Jungle Chopper,object_names_retained
+569,34,Stranglethorn Vale,Bloodscalp Skullpiercer,25,10,Possible lootable world object names are: Bloodscalp Bow,可能可拾取的场景物件（可按英文名查找）：Bloodscalp Bow,object_names_retained
+570,34,Stranglethorn Vale,Buccaneer Shiv,27,70,Possible lootable world object names are: Buccaneer's Shiv,可能可拾取的场景物件（可按英文名查找）：Buccaneer's Shiv,object_names_retained
+571,34,Stranglethorn Vale,Grom'gol Hunting Rifle,31,23.9,Possible lootable world object names are: Unfired Rifle,可能可拾取的场景物件（可按英文名查找）：Unfired Rifle,object_names_retained
+572,34,Stranglethorn Vale,Gorlash's Seaweed Salad,36.1,69,Possible lootable world object names are: Gorlash's Stash,可能可拾取的场景物件（可按英文名查找）：Gorlash's Stash,object_names_retained
+573,34,Stranglethorn Vale,Witchdoctor Mixing Gloves,47,5,Possible lootable world object names are: Kurzen Officer's Trunk,可能可拾取的场景物件（可按英文名查找）：Kurzen Officer's Trunk,object_names_retained
+574,34,Stranglethorn Vale,Thunder Fur Cloak,48,38,Possible lootable world object names are: Finished Fur Cloak,可能可拾取的场景物件（可按英文名查找）：Finished Fur Cloak,object_names_retained
+575,34,Stranglethorn Vale,The Compliance Crusher,40,17,Possible lootable world object names are: Dangerously Loose Machine Part,可能可拾取的场景物件（可按英文名查找）：Dangerously Loose Machine Part,object_names_retained
+576,34,Stranglethorn Vale,Wizard Cuffs,20.1,12,Possible lootable world object names are: Stolen Property,可能可拾取的场景物件（可按英文名查找）：Stolen Property,object_names_retained
+577,34,Stranglethorn Vale,Naga Throwing Trident,28.2,64.6,Possible lootable world object names are: Well Used Trident,可能可拾取的场景物件（可按英文名查找）：Well Used Trident,object_names_retained
+578,34,Stranglethorn Vale,Bloodscalp Cord,34,16,Possible lootable world object names are: Bloodscalp Tribute Chest,可能可拾取的场景物件（可按英文名查找）：Bloodscalp Tribute Chest,object_names_retained
+579,34,Stranglethorn Vale,Sky Shot Cloak,31,13,Possible lootable world object names are: Tattered Goblin Cargo Sack,可能可拾取的场景物件（可按英文名查找）：Tattered Goblin Cargo Sack,object_names_retained
+580,34,Stranglethorn Vale,Tamas's Black Powder Pouch,33.5,88,Possible lootable world object names are: Black Powder Sack,可能可拾取的场景物件（可按英文名查找）：Black Powder Sack,object_names_retained
+581,34,Stranglethorn Vale,South Sea Dress,42,85,Possible lootable world object names are: Half Buried Shipment,可能可拾取的场景物件（可按英文名查找）：Half Buried Shipment,object_names_retained
+582,34,Stranglethorn Vale,Traveler's Lost Bag,38,37,Possible lootable world object names are: Clawed Up Bag,可能可拾取的场景物件（可按英文名查找）：Clawed Up Bag,object_names_retained
+583,34,Stranglethorn Vale,Jubuwal Witchdoctor Amulet,35,52,Possible lootable world object names are: Suspiciously Cool Amulet,可能可拾取的场景物件（可按英文名查找）：Suspiciously Cool Amulet,object_names_retained
+585,34,Stranglethorn Vale,Zul'Kunda Scout Vest,24,13,Possible lootable world object names are: Scout's Stash,可能可拾取的场景物件（可按英文名查找）：Scout's Stash,object_names_retained
+586,34,Stranglethorn Vale,Nesingwary Tracking Boots,35,10,"Possible lootable world object names are: Left Behind Boots, Target Dummy","可能可拾取的场景物件（可按英文名查找）：Left Behind Boots, Target Dummy",object_names_retained
+587,34,Stranglethorn Vale,Fifth Staff of Mosh'Ogg Magic Circle,50,30.5,Possible lootable world object names are: Fifth Staff of Mosh'Ogg Circle,可能可拾取的场景物件（可按英文名查找）：Fifth Staff of Mosh'Ogg Circle,object_names_retained
+588,34,Stranglethorn Vale,Tribal Pads,36.7,34,Possible lootable world object names are: Tribal Runners,可能可拾取的场景物件（可按英文名查找）：Tribal Runners,object_names_retained
+589,34,Stranglethorn Vale,Ancient Sea-dweller Charm,28,39,Possible lootable world object names are: Charm,可能可拾取的场景物件（可按英文名查找）：Charm,object_names_retained
+590,34,Stranglethorn Vale,Martyr Cross Book,44,45,Possible lootable world object names are: Ritual Tome,可能可拾取的场景物件（可按英文名查找）：Ritual Tome,object_names_retained
+591,34,Stranglethorn Vale,Kal'ai Jewel,35,24,Possible lootable world object names are: Glinting Silt-Encrusted Necklace,可能可拾取的场景物件（可按英文名查找）：Glinting Silt-Encrusted Necklace,object_names_retained
+592,34,Stranglethorn Vale,Mosh'Ogg Totem,49,27,Possible lootable world object names are: Mosh'Ogg Protection Totem,可能可拾取的场景物件（可按英文名查找）：Mosh'Ogg Protection Totem,object_names_retained
+593,34,Stranglethorn Vale,Panther Shredders,28,15,Possible lootable world object names are: Panther Claw,可能可拾取的场景物件（可按英文名查找）：Panther Claw,object_names_retained
+594,34,Stranglethorn Vale,Keelhaul's Saber,29,89,Possible lootable world object names are: Pirate Sabre,可能可拾取的场景物件（可按英文名查找）：Pirate Sabre,object_names_retained
+595,34,Stranglethorn Vale,Mystic Druid Idol,42,36,Possible lootable world object names are: Dead Druid's Relic,可能可拾取的场景物件（可按英文名查找）：Dead Druid's Relic,object_names_retained
+597,34,Stranglethorn Vale,Cogwheel Band,42,19,Possible lootable world object names are: Loose Gear,可能可拾取的场景物件（可按英文名查找）：Loose Gear,object_names_retained
+598,34,Stranglethorn Vale,Pilfered Plate Pants,39,59,Possible lootable world object names are: Stolen Armor Shipment,可能可拾取的场景物件（可按英文名查找）：Stolen Armor Shipment,object_names_retained
+599,34,Stranglethorn Vale,Mind's Eye Fragment,53,28,Possible lootable world object names are: Mai'Zoth's Artifact,可能可拾取的场景物件（可按英文名查找）：Mai'Zoth's Artifact,object_names_retained
+600,34,Stranglethorn Vale,A Guide to a Succubus' Darkest Secrets,24.5,53.5,Possible lootable world object names are: Strange Book,可能可拾取的场景物件（可按英文名查找）：Strange Book,object_names_retained
+601,34,Stranglethorn Vale,Nature's Defiance,46.1,28.1,Possible lootable world object names are: Ring of the Jungle,可能可拾取的场景物件（可按英文名查找）：Ring of the Jungle,object_names_retained
+602,34,Stranglethorn Vale,Jungle Medicine Compendium,44.5,9.2,Possible lootable world object names are: Kurzen Medicine Compendium,可能可拾取的场景物件（可按英文名查找）：Kurzen Medicine Compendium,object_names_retained
+603,34,Stranglethorn Vale,Axe Swingers,44,18,Possible lootable world object names are: Venture Co. Gear,可能可拾取的场景物件（可按英文名查找）：Venture Co. Gear,object_names_retained
+604,34,Stranglethorn Vale,Mangled Wraps,25,59,Possible lootable world object names are: Murdered Fisherman,可能可拾取的场景物件（可按英文名查找）：Murdered Fisherman,object_names_retained
+605,34,Stranglethorn Vale,Pristine Tethis Feather,28.9,45,Possible lootable world object names are: Pristine Feather,可能可拾取的场景物件（可按英文名查找）：Pristine Feather,object_names_retained
+606,34,Stranglethorn Vale,Tinkering Belt,42,45,Possible lootable world object names are: Venture Co Supplies,可能可拾取的场景物件（可按英文名查找）：Venture Co Supplies,object_names_retained
+607,34,Stranglethorn Vale,Special Seashell,32,82,Possible lootable world object names are: Brilliant Shell,可能可拾取的场景物件（可按英文名查找）：Brilliant Shell,object_names_retained
+608,34,Stranglethorn Vale,Sea Cleaver,26,86,Possible lootable world object names are: Pirate's Lost Axe,可能可拾取的场景物件（可按英文名查找）：Pirate's Lost Axe,object_names_retained
+609,34,Stranglethorn Vale,Gorilla Pelt,38,81,Possible lootable world object names are: Tanning Rack,可能可拾取的场景物件（可按英文名查找）：Tanning Rack,object_names_retained
+610,34,Stranglethorn Vale,Sharpened Raptor Tooth,23,49,Possible lootable world object names are: Razorsharp Tooth,可能可拾取的场景物件（可按英文名查找）：Razorsharp Tooth,object_names_retained
+611,34,Stranglethorn Vale,Rebel Runners,39,4,Possible lootable world object names are: Rugged Leather Runners,可能可拾取的场景物件（可按英文名查找）：Rugged Leather Runners,object_names_retained
+612,34,Stranglethorn Vale,Cannon Loaders,31,89,Possible lootable world object names are: Cannon Master's Belongings,可能可拾取的场景物件（可按英文名查找）：Cannon Master's Belongings,object_names_retained
+613,17,Dustwallow Marsh,Corrupted Dragon Eye,50.1,69,Possible lootable world object names are: Evil Jewel,可能可拾取的场景物件（可按英文名查找）：Evil Jewel,object_names_retained
+615,17,Dustwallow Marsh,Worldforge Drops (2 items),32,66,Items found in this area: • Bloodfen Prowler Vest (Leather Armor) • Bloodfen Talon (Dagger) Possible lootable world object names are: Abandoned Crate,此区域记录的物品：Bloodfen Prowler Vest（皮甲）；Bloodfen Talon（匕首）。可能可拾取的场景物件（英文名）：Abandoned Crate,area_items
+616,17,Dustwallow Marsh,Greedy Fool's Potion,53.9,15.9,Possible lootable world object names are: Useful Potion,可能可拾取的场景物件（可按英文名查找）：Useful Potion,object_names_retained
+617,17,Dustwallow Marsh,Marshfall Mantle,36.2,41.1,Possible lootable world object names are: Waterlogged Crate,可能可拾取的场景物件（可按英文名查找）：Waterlogged Crate,object_names_retained
+618,17,Dustwallow Marsh,Dive's Instruction Manual,51,78,Possible lootable world object names are: Singed Booklet,可能可拾取的场景物件（可按英文名查找）：Singed Booklet,object_names_retained
+619,17,Dustwallow Marsh,Deserter's Last Resort,36,54,Possible lootable world object names are: Secret Stash,可能可拾取的场景物件（可按英文名查找）：Secret Stash,object_names_retained
+620,17,Dustwallow Marsh,Salt Scoured Boarding Axe,58.7,45.9,Possible lootable world object names are: Shipwreck Axe,可能可拾取的场景物件（可按英文名查找）：Shipwreck Axe,object_names_retained
+621,17,Dustwallow Marsh,Swamplight Concoction,55.9,26,Possible lootable world object names are: Mordant Grimsby's Unwanted Gift,可能可拾取的场景物件（可按英文名查找）：Mordant Grimsby's Unwanted Gift,object_names_retained
+622,17,Dustwallow Marsh,Stonemaul Crusher’s Girdle,44,67,Possible lootable world object names are: Ogre Supply Crate,可能可拾取的场景物件（可按英文名查找）：Ogre Supply Crate,object_names_retained
+623,17,Dustwallow Marsh,Mudcrush Shoulders,35,38,Possible lootable world object names are: Mudcrush's Stolen Goods,可能可拾取的场景物件（可按英文名查找）：Mudcrush's Stolen Goods,object_names_retained
+624,17,Dustwallow Marsh,Bogcaller Totem,41.2,10.6,Possible lootable world object names are: Strange Carvings,可能可拾取的场景物件（可按英文名查找）：Strange Carvings,object_names_retained
+625,17,Dustwallow Marsh,Theramore Girdle,47,24.8,Possible lootable world object names are: Theramore Equipment,可能可拾取的场景物件（可按英文名查找）：Theramore Equipment,object_names_retained
+626,17,Dustwallow Marsh,Old Theramore Guard Plate,44,60,Possible lootable world object names are: Old Theramore Barrel,可能可拾取的场景物件（可按英文名查找）：Old Theramore Barrel,object_names_retained
+628,17,Dustwallow Marsh,Wheel of Misfortune,59.9,68.9,Possible lootable world object names are: Ship Wheel,可能可拾取的场景物件（可按英文名查找）：Ship Wheel,object_names_retained
+629,17,Dustwallow Marsh,Drywallow Gloves,39.8,34.1,Possible lootable world object names are: Abandoned Barrel,可能可拾取的场景物件（可按英文名查找）：Abandoned Barrel,object_names_retained
+630,17,Dustwallow Marsh,Buzzcoil Tongs,53.9,56,Possible lootable world object names are: Moxie's Tool Bucket,可能可拾取的场景物件（可按英文名查找）：Moxie's Tool Bucket,object_names_retained
+631,17,Dustwallow Marsh,Seed of Overgrowth,35,43,Possible lootable world object names are: Large Glowing Seed,可能可拾取的场景物件（可按英文名查找）：Large Glowing Seed,object_names_retained
+632,17,Dustwallow Marsh,Scorched Bindings,50,72,Possible lootable world object names are: Shallow Grave,可能可拾取的场景物件（可按英文名查找）：Shallow Grave,object_names_retained
+633,17,Dustwallow Marsh,Northpoint Helmet,48.8,18,Possible lootable world object names are: Half-Buried Barrel,可能可拾取的场景物件（可按英文名查找）：Half-Buried Barrel,object_names_retained
+634,17,Dustwallow Marsh,Tidefury Cutlass,56,63,"Possible lootable world object names are: Shipwreck Barrel, Tidal Treasure","可能可拾取的场景物件（可按英文名查找）：Shipwreck Barrel, Tidal Treasure",object_names_retained
+635,17,Dustwallow Marsh,Beezil's Pants,54.9,53.1,Possible lootable world object names are: Zeppelin Wreckage,可能可拾取的场景物件（可按英文名查找）：Zeppelin Wreckage,object_names_retained
+637,17,Dustwallow Marsh,Inscribed Sash,46,57,Possible lootable world object names are: Runic Belt,可能可拾取的场景物件（可按英文名查找）：Runic Belt,object_names_retained
+638,17,Dustwallow Marsh,Singed Flintlock,30,49,"Possible lootable world object names are: ""Evidence""","可能可拾取的场景物件（可按英文名查找）：""Evidence""",object_names_retained
+639,17,Dustwallow Marsh,Enchanted Dragon Bone,44,78,Possible lootable world object names are: Humming Bone,可能可拾取的场景物件（可按英文名查找）：Humming Bone,object_names_retained
+640,17,Dustwallow Marsh,Venomsilk Spellblade,30.5,20.5,Possible lootable world object names are: Darkmist Widow's Previous Meal,可能可拾取的场景物件（可按英文名查找）：Darkmist Widow's Previous Meal,object_names_retained
+641,17,Dustwallow Marsh,Burnt Spaulders,40,67,Possible lootable world object names are: Scorched Shoulders,可能可拾取的场景物件（可按英文名查找）：Scorched Shoulders,object_names_retained
+642,17,Dustwallow Marsh,Denflame Channeler,37,69,Possible lootable world object names are: Firemane Effigy,可能可拾取的场景物件（可按英文名查找）：Firemane Effigy,object_names_retained
+644,0,Alterac Mountains,Alteraci Band,34,54,Possible lootable world object names are: Weathered Chest,可能可拾取的场景物件（可按英文名查找）：Weathered Chest,object_names_retained
+645,0,Alterac Mountains,Shredder's Medallion,33,48,Possible lootable world object names are: Snowy Grave,可能可拾取的场景物件（可按英文名查找）：Snowy Grave,object_names_retained
+647,0,Alterac Mountains,Battleplate of Crimson Resolve,48,32.3,Possible lootable world object names are: Crushridge Chest,可能可拾取的场景物件（可按英文名查找）：Crushridge Chest,object_names_retained
+649,0,Alterac Mountains,Chain of the Forgotten Prisoner,21.5,85.5,Possible lootable world object names are: Bound Remains,可能可拾取的场景物件（可按英文名查找）：Bound Remains,object_names_retained
+651,0,Alterac Mountains,Runed Pantaloons,15,75.9,Possible lootable world object names are: Dust-Covered Trunk,可能可拾取的场景物件（可按英文名查找）：Dust-Covered Trunk,object_names_retained
+653,0,Alterac Mountains,Antique Alteraci Skirt,39,42,Possible lootable world object names are: Preserved Wardrobe,可能可拾取的场景物件（可按英文名查找）：Preserved Wardrobe,object_names_retained
+654,0,Alterac Mountains,Totem of the Flowing River,80,63,Possible lootable world object names are: Idol of the Flowing River,可能可拾取的场景物件（可按英文名查找）：Idol of the Flowing River,object_names_retained
+655,0,Alterac Mountains,Feline's Grasp,39,91,Possible lootable world object names are: Missing Alliance Supplies,可能可拾取的场景物件（可按英文名查找）：Missing Alliance Supplies,object_names_retained
+657,0,Alterac Mountains,Ice-Forged Gauntlets,43,62,Possible lootable world object names are: Icy Grave,可能可拾取的场景物件（可按英文名查找）：Icy Grave,object_names_retained
+660,0,Alterac Mountains,Forgotten Warrior's Pauldrons,47,46,"Possible lootable world object names are: Cannon Ball, Frost Coated Pauldrons","可能可拾取的场景物件（可按英文名查找）：Cannon Ball, Frost Coated Pauldrons",object_names_retained
+661,0,Alterac Mountains,Grandpa's Scarlet Blade,32.1,33,Possible lootable world object names are: Scarlet Sword,可能可拾取的场景物件（可按英文名查找）：Scarlet Sword,object_names_retained
+663,0,Alterac Mountains,Crushridge Fingerguards,54,46.1,Possible lootable world object names are: Hanging Ogre Bag,可能可拾取的场景物件（可按英文名查找）：Hanging Ogre Bag,object_names_retained
+664,0,Alterac Mountains,Frozen Alterac Banner,37.7,40,Possible lootable world object names are: Odd Snow Pile,可能可拾取的场景物件（可按英文名查找）：Odd Snow Pile,object_names_retained
+665,0,Alterac Mountains,Enchanted Scribe's Feather,18.9,74.1,Possible lootable world object names are: Runed Quill Plume,可能可拾取的场景物件（可按英文名查找）：Runed Quill Plume,object_names_retained
+666,0,Alterac Mountains,Charred Greaves,13,76,Possible lootable world object names are: Soot-Covered Flames,可能可拾取的场景物件（可按英文名查找）：Soot-Covered Flames,object_names_retained
+669,0,Alterac Mountains,Worldforge Drops (2 items),60,44,"Items found in this area: • Heisen’s Loop (Armor) • Syndicate Crossbow (Crossbow) Possible lootable world object names are: Syndicate Crossbow, Blue Crystal Powder","此区域记录的物品：海森之环（护甲）；Syndicate Crossbow（弩）。可能可拾取的场景物件（英文名）：Syndicate Crossbow, Blue Crystal Powder",area_items
+670,0,Alterac Mountains,Dusty Sorcerer Hat,18,58,"Possible lootable world object names are: Dusty Hat, Temporal Foci","可能可拾取的场景物件（可按英文名查找）：Dusty Hat, Temporal Foci",object_names_retained
+671,0,Alterac Mountains,Crater's Silk Drape,22,64,Possible lootable world object names are: Silk Drape,可能可拾取的场景物件（可按英文名查找）：Silk Drape,object_names_retained
+672,0,Alterac Mountains,Dalaran Mage Garb,18.4,83.4,Possible lootable world object names are: Chest,可能可拾取的场景物件（可按英文名查找）：Chest,object_names_retained
+674,45,Westfall,Old Defias Gun,41.1,66.5,Possible lootable world object names are: Defias Rusty Gun Rack,可能可拾取的场景物件（可按英文名查找）：Defias Rusty Gun Rack,object_names_retained
+679,45,Westfall,Worldforge Drops (2 items),56,31,"Items found in this area: • Field Trousers (Leather Armor) • Salma's Summer Dress (Cloth Armor) Possible lootable world object names are: Unlocked Chest, Salma's Summer Wardrobe","此区域记录的物品：Field Trousers（皮甲）；Salma's Summer Dress（布甲）。可能可拾取的场景物件（英文名）：Unlocked Chest, Salma's Summer Wardrobe",area_items
+681,45,Westfall,Stolen Thunderbrew Flask,53.1,79,Possible lootable world object names are: Stolen Brew,可能可拾取的场景物件（可按英文名查找）：Stolen Brew,object_names_retained
+686,45,Westfall,Burial Blade,57,80,Possible lootable world object names are: Dirt Covered Sword,可能可拾取的场景物件（可按英文名查找）：Dirt Covered Sword,object_names_retained
+695,45,Westfall,Rehomed Belt,56.9,67,Possible lootable world object names are: Stolen Supplies,可能可拾取的场景物件（可按英文名查找）：Stolen Supplies,object_names_retained
+696,45,Westfall,People's Militia Crossbow,43,88.1,"Possible lootable world object names are: The Law of Light, People's Militia Armaments","可能可拾取的场景物件（可按英文名查找）：The Law of Light, People's Militia Armaments",object_names_retained
+700,45,Westfall,Defias Honorcode Memento,40,68,Possible lootable world object names are: Defias Remains,可能可拾取的场景物件（可按英文名查找）：Defias Remains,object_names_retained
+701,45,Westfall,Defias Apothecary Pants,70,75,Possible lootable world object names are: Klaven's Wardrobe,可能可拾取的场景物件（可按英文名查找）：Klaven's Wardrobe,object_names_retained
+706,45,Westfall,Flexible Gloves,28,60,Possible lootable world object names are: Salvaged Goods,可能可拾取的场景物件（可按英文名查找）：Salvaged Goods,object_names_retained
+707,45,Westfall,Rusty Quel'thalas Circlet,26,74,Possible lootable world object names are: Quel'Thalas Sunken Treasure Chest,可能可拾取的场景物件（可按英文名查找）：Quel'Thalas Sunken Treasure Chest,object_names_retained
+709,45,Westfall,Worldforge Drops (2 items),84,82,Items found in this area: • Isolated Inventor's Bulk (Shield Armor) • Goblin Racing Boots (Cloth Armor),此区域记录的物品：Isolated Inventor's Bulk（盾牌）；Goblin Racing Boots（布甲）,area_items
+710,45,Westfall,Soldier's Mail,63.1,21.5,Possible lootable world object names are: Forgotten Shipment,可能可拾取的场景物件（可按英文名查找）：Forgotten Shipment,object_names_retained
+711,45,Westfall,Rower's Jerkin,36,90,Possible lootable world object names are: Rower's Footlocker,可能可拾取的场景物件（可按英文名查找）：Rower's Footlocker,object_names_retained
+713,45,Westfall,Harvest Golem Scythe,45,36,Possible lootable world object names are: Harvest Scythe,可能可拾取的场景物件（可按英文名查找）：Harvest Scythe,object_names_retained
+716,45,Westfall,Blessed Mail Wraps,58.9,43.2,Possible lootable world object names are: Charred Strongbox,可能可拾取的场景物件（可按英文名查找）：Charred Strongbox,object_names_retained
+717,45,Westfall,Heavy Boots,46,59,Possible lootable world object names are: Heavy Stompers,可能可拾取的场景物件（可按英文名查找）：Heavy Stompers,object_names_retained
+718,45,Westfall,Terrible Defias Mixture,71,74,"Possible lootable world object names are: Poison Vial, Madness Cursed Notes","可能可拾取的场景物件（可按英文名查找）：Poison Vial, Madness Cursed Notes",object_names_retained
+719,45,Westfall,Abandoned Moonshine,71.2,73,Possible lootable world object names are: Madness Cursed Notes,可能可拾取的场景物件（可按英文名查找）：Madness Cursed Notes,object_names_retained
+721,7,Burning Steppes,Ancient Whetstone,70.9,35.9,Possible lootable world object names are: Blackened Object,可能可拾取的场景物件（可按英文名查找）：Blackened Object,object_names_retained
+722,7,Burning Steppes,Blackrock Side Blade,43.1,55,Possible lootable world object names are: Hellforge Shortsword,可能可拾取的场景物件（可按英文名查找）：Hellforge Shortsword,object_names_retained
+723,7,Burning Steppes,Blackrock Hatchet,40.6,33.9,Possible lootable world object names are: Sulfurspike Hatchet,可能可拾取的场景物件（可按英文名查找）：Sulfurspike Hatchet,object_names_retained
+724,7,Burning Steppes,Charred Signet,30,39,"Possible lootable world object names are: ""Free"" Sample","可能可拾取的场景物件（可按英文名查找）：""Free"" Sample",object_names_retained
+726,7,Burning Steppes,Emberstep Sabatons,48.8,34.8,Possible lootable world object names are: Dead Orc,可能可拾取的场景物件（可按英文名查找）：Dead Orc,object_names_retained
+727,7,Burning Steppes,Flamescale Spire,21.1,46.1,Possible lootable world object names are: Draconic Spire,可能可拾取的场景物件（可按英文名查找）：Draconic Spire,object_names_retained
+728,7,Burning Steppes,Embershard Choker,30,44,Possible lootable world object names are: Flamescale Necklace,可能可拾取的场景物件（可按英文名查找）：Flamescale Necklace,object_names_retained
+730,7,Burning Steppes,Ashendawn Bow,88.8,23,Possible lootable world object names are: Spare Bow,可能可拾取的场景物件（可按英文名查找）：Spare Bow,object_names_retained
+731,7,Burning Steppes,Flamescale Leggings,30,71,Possible lootable world object names are: Flamescale Equipment Cache,可能可拾取的场景物件（可按英文名查找）：Flamescale Equipment Cache,object_names_retained
+732,7,Burning Steppes,Spiked Maul,39.4,39.7,Possible lootable world object names are: Pyrebloom Maul,可能可拾取的场景物件（可按英文名查找）：Pyrebloom Maul,object_names_retained
+733,7,Burning Steppes,Ashfall Vambraces,77.1,62,Possible lootable world object names are: Dark Iron Supplies,可能可拾取的场景物件（可按英文名查找）：Dark Iron Supplies,object_names_retained
+734,7,Burning Steppes,Bloodspire Staff,13,39.1,Possible lootable world object names are: Thar'zul's Staff,可能可拾取的场景物件（可按英文名查找）：Thar'zul's Staff,object_names_retained
+735,7,Burning Steppes,Worldforge Drops (2 items),89,35,Items found in this area: • Firegut Emblem (Armor) • Flamefist Claw (Fist Weapon),此区域记录的物品：火腹徽记（护甲）；Flamefist Claw（拳套）,area_items
+736,7,Burning Steppes,Ashen Cape,63,23,Possible lootable world object names are: Heatshimmer Cape,可能可拾取的场景物件（可按英文名查找）：Heatshimmer Cape,object_names_retained
+738,7,Burning Steppes,Flame-Kissed Wraps,65.3,69.3,Possible lootable world object names are: Fire-Resistant Lockbox,可能可拾取的场景物件（可按英文名查找）：Fire-Resistant Lockbox,object_names_retained
+739,7,Burning Steppes,Volcanic Aegis,61.2,38.1,Possible lootable world object names are: Ashen Shield,可能可拾取的场景物件（可按英文名查找）：Ashen Shield,object_names_retained
+740,7,Burning Steppes,Madness Crown,51,61,Possible lootable world object names are: Madness Cowl,可能可拾取的场景物件（可按英文名查找）：Madness Cowl,object_names_retained
+741,7,Burning Steppes,Dark Iron Handwraps,31.1,62,Possible lootable world object names are: Fallen Dark Iron Soldier,可能可拾取的场景物件（可按英文名查找）：Fallen Dark Iron Soldier,object_names_retained
+742,7,Burning Steppes,Ashenpeak Band,47.1,54,Possible lootable world object names are: Glinting Metal,可能可拾取的场景物件（可按英文名查找）：Glinting Metal,object_names_retained
+745,7,Burning Steppes,Infernal Fang,13,31,Possible lootable world object names are: Ritual Dagger,可能可拾取的场景物件（可按英文名查找）：Ritual Dagger,object_names_retained
+746,7,Burning Steppes,Smolderwing Decapitator,55.1,54,Possible lootable world object names are: Blackrock Greataxe,可能可拾取的场景物件（可按英文名查找）：Blackrock Greataxe,object_names_retained
+747,7,Burning Steppes,Searwind Wand,86.9,55.1,Possible lootable world object names are: Radiating Charred Branch,可能可拾取的场景物件（可按英文名查找）：Radiating Charred Branch,object_names_retained
+748,7,Burning Steppes,Charfall Mantle,81.8,47.9,Possible lootable world object names are: Stashed Shoulderpads,可能可拾取的场景物件（可按英文名查找）：Stashed Shoulderpads,object_names_retained
+749,7,Burning Steppes,Magmaweave Pantaloons,36,48.1,Possible lootable world object names are: Stolen Crate,可能可拾取的场景物件（可按英文名查找）：Stolen Crate,object_names_retained
+750,7,Burning Steppes,Inferno Gavel,54.2,40.8,Possible lootable world object names are: Gavel of the Ruined Court,可能可拾取的场景物件（可按英文名查找）：Gavel of the Ruined Court,object_names_retained
+751,7,Burning Steppes,Darkflight Totem,92.2,55.9,Possible lootable world object names are: Black Dragon Totem,可能可拾取的场景物件（可按英文名查找）：Black Dragon Totem,object_names_retained
+752,7,Burning Steppes,Magma Poker,52,51,Possible lootable world object names are: Extremely Hot Poker,可能可拾取的场景物件（可按英文名查找）：Extremely Hot Poker,object_names_retained
+753,7,Burning Steppes,Moltenflow Tome,57.7,22.2,Possible lootable world object names are: Collector's Shelves,可能可拾取的场景物件（可按英文名查找）：Collector's Shelves,object_names_retained
+754,7,Burning Steppes,Ashstone Robes,16,26,Possible lootable world object names are: Warlock's Supplies,可能可拾取的场景物件（可按英文名查找）：Warlock's Supplies,object_names_retained
+756,7,Burning Steppes,Blazing Ember,35.4,57.8,Possible lootable world object names are: Fragment of Bokk,可能可拾取的场景物件（可按英文名查找）：Fragment of Bokk,object_names_retained
+757,7,Burning Steppes,Cinderstrike Mace,84.1,27.8,Possible lootable world object names are: Dragonflame Torch,可能可拾取的场景物件（可按英文名查找）：Dragonflame Torch,object_names_retained
+758,7,Burning Steppes,Burning Vanguard Hauberk,95,31.3,Possible lootable world object names are: Draconic Chest,可能可拾取的场景物件（可按英文名查找）：Draconic Chest,object_names_retained
+760,7,Burning Steppes,Blackrock Pike,43.2,34.2,Possible lootable world object names are: Incinerator Pike,可能可拾取的场景物件（可按英文名查找）：Incinerator Pike,object_names_retained
+761,7,Burning Steppes,Blisterhide Headguard,92.7,46.2,Possible lootable world object names are: Dragonspawn Headguard,可能可拾取的场景物件（可按英文名查找）：Dragonspawn Headguard,object_names_retained
+762,7,Burning Steppes,Firebrand Libram,34,51,Possible lootable world object names are: Officer's Libram,可能可拾取的场景物件（可按英文名查找）：Officer's Libram,object_names_retained
+763,7,Burning Steppes,Wyrmkin Shiv,87.1,60.2,Possible lootable world object names are: Blackrock Shiv,可能可拾取的场景物件（可按英文名查找）：Blackrock Shiv,object_names_retained
+765,39,The Hinterlands,Aerie Faith Vambraces,46,39.1,Possible lootable world object names are: Undelivered Shipment,可能可拾取的场景物件（可按英文名查找）：Undelivered Shipment,object_names_retained
+766,39,The Hinterlands,Worldforge Drops (2 items),61,35,Items found in this area: • Nightmarish Bracers (Plate Armor) • Excavator's Pick (One-Handed Axe) Possible lootable world object names are: Fallen Hero,此区域记录的物品：Nightmarish Bracers（板甲）；Excavator's Pick（单手斧）。可能可拾取的场景物件（英文名）：Fallen Hero,area_items
+769,39,The Hinterlands,Bloodthread Leggings,63.2,60,Possible lootable world object names are: Witch Doctor's Stash,可能可拾取的场景物件（可按英文名查找）：Witch Doctor's Stash,object_names_retained
+770,39,The Hinterlands,Slime Coated Cloak,53.9,39.8,Possible lootable world object names are: Carefully Folded Cloak,可能可拾取的场景物件（可按英文名查找）：Carefully Folded Cloak,object_names_retained
+772,39,The Hinterlands,Libram of Resolute Light,57.1,84,Possible lootable world object names are: Slain Paladin's Libram,可能可拾取的场景物件（可按英文名查找）：Slain Paladin's Libram,object_names_retained
+774,39,The Hinterlands,Fractured Shoulderpads,39,51,Possible lootable world object names are: Elven Shoulderpads,可能可拾取的场景物件（可按英文名查找）：Elven Shoulderpads,object_names_retained
+777,39,The Hinterlands,Oozling Thoughtcore,65,65,Possible lootable world object names are: Oozing Thoughtcore,可能可拾取的场景物件（可按英文名查找）：Oozing Thoughtcore,object_names_retained
+778,39,The Hinterlands,Highvale Ranger Bow,32,43,Possible lootable world object names are: Highvale Ranger's Bow,可能可拾取的场景物件（可按英文名查找）：Highvale Ranger's Bow,object_names_retained
+779,39,The Hinterlands,Zul Warder’s Cloak,47,70,Possible lootable world object names are: Warder's Cache,可能可拾取的场景物件（可按英文名查找）：Warder's Cache,object_names_retained
+783,39,The Hinterlands,Broodsilk Gloves,40,66,Possible lootable world object names are: Offering Chest,可能可拾取的场景物件（可按英文名查找）：Offering Chest,object_names_retained
+785,39,The Hinterlands,Drowned Link Belt,48,36,Possible lootable world object names are: Sunken Chest,可能可拾取的场景物件（可按英文名查找）：Sunken Chest,object_names_retained
+786,39,The Hinterlands,Hexweave Robes,24.9,65.9,Possible lootable world object names are: Ritual Chest,可能可拾取的场景物件（可按英文名查找）：Ritual Chest,object_names_retained
+787,39,The Hinterlands,Anchorfoot Greaves,30,45,Possible lootable world object names are: Heavy Boots,可能可拾取的场景物件（可按英文名查找）：Heavy Boots,object_names_retained
+788,39,The Hinterlands,Ring of the Sunken Courier,57.6,61.4,Possible lootable world object names are: Glinting Object,可能可拾取的场景物件（可按英文名查找）：Glinting Object,object_names_retained
+789,39,The Hinterlands,Fleshcarver Athame,59,67,Possible lootable world object names are: Ritual Knife,可能可拾取的场景物件（可按英文名查找）：Ritual Knife,object_names_retained
+790,39,The Hinterlands,Dwarven Drinking Pants,27,49,Possible lootable world object names are: Drinkin' Pants,可能可拾取的场景物件（可按英文名查找）：Drinkin' Pants,object_names_retained
+791,39,The Hinterlands,Vilebranch Ritual Dagger,60,78,Possible lootable world object names are: Vilebranch Neck Opener,可能可拾取的场景物件（可按英文名查找）：Vilebranch Neck Opener,object_names_retained
+795,39,The Hinterlands,Idol of the Broodmother,34,73,Possible lootable world object names are: Totem of the Broodmother,可能可拾取的场景物件（可按英文名查找）：Totem of the Broodmother,object_names_retained
+796,39,The Hinterlands,Zipcoil’s Zapper Cap,34,38,Possible lootable world object names are: Outdated Zapper Cap,可能可拾取的场景物件（可按英文名查找）：Outdated Zapper Cap,object_names_retained
+798,39,The Hinterlands,Tome of Sundered Souls,67.7,78,Possible lootable world object names are: Ritual Tome,可能可拾取的场景物件（可按英文名查找）：Ritual Tome,object_names_retained
+799,39,The Hinterlands,Hide Piercer,32,58,Possible lootable world object names are: Ritual Hideskinner,可能可拾取的场景物件（可按英文名查找）：Ritual Hideskinner,object_names_retained
+800,39,The Hinterlands,Sash of Contemplation,47,51.1,Possible lootable world object names are: Highvale Scouting Supplies,可能可拾取的场景物件（可按英文名查找）：Highvale Scouting Supplies,object_names_retained
+801,39,The Hinterlands,Elder Highpeak’s Keepsake,49.9,48.6,Possible lootable world object names are: Elder Highpeak's Keepsake Box,可能可拾取的场景物件（可按英文名查找）：Elder Highpeak's Keepsake Box,object_names_retained
+804,39,The Hinterlands,Blood Drinker,63.6,83.6,Possible lootable world object names are: Bloody Cleaver,可能可拾取的场景物件（可按英文名查找）：Bloody Cleaver,object_names_retained
+807,39,The Hinterlands,Ancient Vilebranch Gloves,57,56,Possible lootable world object names are: Sunken Stash,可能可拾取的场景物件（可按英文名查找）：Sunken Stash,object_names_retained
+808,39,The Hinterlands,Soothsayer Shroud,53,39,Possible lootable world object names are: Carefully Folded Cloak,可能可拾取的场景物件（可按英文名查找）：Carefully Folded Cloak,object_names_retained
+809,39,The Hinterlands,Brood Caller’s Raiment,32,67,Possible lootable world object names are: Witherbark Chest,可能可拾取的场景物件（可按英文名查找）：Witherbark Chest,object_names_retained
+810,39,The Hinterlands,Featherbeard’s Bulwark Blaster,13,55,Possible lootable world object names are: Pillow Gun,可能可拾取的场景物件（可按英文名查找）：Pillow Gun,object_names_retained
+811,39,The Hinterlands,Seabreeze Hauberk,79,71,Possible lootable world object names are: Undelivered Package,可能可拾取的场景物件（可按英文名查找）：Undelivered Package,object_names_retained
+812,20,Felwood,Crystal of Cruel Corruption,56,6,Possible lootable world object names are: Darazzal's Chest,可能可拾取的场景物件（可按英文名查找）：Darazzal's Chest,object_names_retained
+813,20,Felwood,Heart of the Warpwood,58.2,18,Possible lootable world object names are: Worshipped Warpwood Growth,可能可拾取的场景物件（可按英文名查找）：Worshipped Warpwood Growth,object_names_retained
+814,20,Felwood,Silverhand Spaulders,38.6,50.3,Possible lootable world object names are: Silverhand Spaulder,可能可拾取的场景物件（可按英文名查找）：Silverhand Spaulder,object_names_retained
+815,20,Felwood,Worldforge Drops (2 items),55,26.1,"Items found in this area: • Necklace of Purity (Armor) • Ring of Purity (Armor) Possible lootable world object names are: Silvery Ring, Shining Necklace","此区域记录的物品：Necklace of Purity（护甲）；纯净之戒（护甲）。可能可拾取的场景物件（英文名）：Silvery Ring, Shining Necklace",area_items
+818,20,Felwood,Sindelle's Fuzzy Cuffs,48,40,Possible lootable world object names are: Prized Lockbox,可能可拾取的场景物件（可按英文名查找）：Prized Lockbox,object_names_retained
+819,20,Felwood,Fallen Sentinel's Leggings,39,22.1,Possible lootable world object names are: Satyr Basket,可能可拾取的场景物件（可按英文名查找）：Satyr Basket,object_names_retained
+820,20,Felwood,Bitterbranch Claymore,41,27.7,Possible lootable world object names are: Embedded Claymore,可能可拾取的场景物件（可按英文名查找）：Embedded Claymore,object_names_retained
+822,20,Felwood,Fel Cleaver,41.8,35.5,"Possible lootable world object names are: Fel Axe, Wild Felfire","可能可拾取的场景物件（可按英文名查找）：Fel Axe, Wild Felfire",object_names_retained
+823,20,Felwood,Emerald Circle Charm,51,81,Possible lootable world object names are: Small Emerald,可能可拾取的场景物件（可按英文名查找）：Small Emerald,object_names_retained
+824,20,Felwood,Rotwood Sabre,43.1,14.7,Possible lootable world object names are: Rotwood Rapier,可能可拾取的场景物件（可按英文名查找）：Rotwood Rapier,object_names_retained
+825,20,Felwood,Lost Shipment Wristguards,44.8,72.8,Possible lootable world object names are: Drowned Chest,可能可拾取的场景物件（可按英文名查找）：Drowned Chest,object_names_retained
+826,20,Felwood,Felhound Tendril,38.6,61.7,Possible lootable world object names are: Felhound Corpse,可能可拾取的场景物件（可按英文名查找）：Felhound Corpse,object_names_retained
+827,20,Felwood,Niby's Training Collar,41.3,44.9,Possible lootable world object names are: Spiked Collar,可能可拾取的场景物件（可按英文名查找）：Spiked Collar,object_names_retained
+828,20,Felwood,Bottled Oozeling,42.1,47.2,Possible lootable world object names are: Shimmering Bottle,可能可拾取的场景物件（可按英文名查找）：Shimmering Bottle,object_names_retained
+829,20,Felwood,Bubbling Fel Mixture,35.1,61,Possible lootable world object names are: Fel Cauldron,可能可拾取的场景物件（可按英文名查找）：Fel Cauldron,object_names_retained
+830,20,Felwood,Xorothian Slippers,35.9,44.2,Possible lootable world object names are: Demonic Portal,可能可拾取的场景物件（可按英文名查找）：Demonic Portal,object_names_retained
+831,20,Felwood,Timelost Vestments ,57,86,Possible lootable world object names are: Heavy Chest,可能可拾取的场景物件（可按英文名查找）：Heavy Chest,object_names_retained
+832,20,Felwood,Umbral Stalker's Tarp,45.2,34.1,Possible lootable world object names are: Tattered Cloth,可能可拾取的场景物件（可按英文名查找）：Tattered Cloth,object_names_retained
+834,20,Felwood,Jadefire Bone Breaker,38.9,83,Possible lootable world object names are: Jadefire Bone Hatchet,可能可拾取的场景物件（可按英文名查找）：Jadefire Bone Hatchet,object_names_retained
+835,20,Felwood,Minstrel's Magic,43.1,78,Possible lootable world object names are: Minstrel's Banjo,可能可拾取的场景物件（可按英文名查找）：Minstrel's Banjo,object_names_retained
+836,20,Felwood,Highborne Carver,37.7,52.6,Possible lootable world object names are: Old Blade,可能可拾取的场景物件（可按英文名查找）：Old Blade,object_names_retained
+837,13,Desolace,Kodo Hide Cloak,48,62,Possible lootable world object names are: Sack of Kodo Hides,可能可拾取的场景物件（可按英文名查找）：Sack of Kodo Hides,object_names_retained
+838,13,Desolace,Worldforge Drops (2 items),62,39,"Items found in this area: • Caravan Guard Vest (Leather Armor) • Dustscour Courier Belt (Leather Armor) Possible lootable world object names are: Caravan Guard's Supplies, Unloaded Shipment","此区域记录的物品：Caravan Guard Vest（皮甲）；Dustscour Courier Belt（皮甲）。可能可拾取的场景物件（英文名）：Caravan Guard's Supplies, Unloaded Shipment",area_items
+840,13,Desolace,Ring of Korvaix,47,13,Possible lootable world object names are: Overlook Cache,可能可拾取的场景物件（可按英文名查找）：Overlook Cache,object_names_retained
+842,13,Desolace,Ring of Arakosh,81,39,Possible lootable world object names are: Hidden Stash,可能可拾取的场景物件（可按英文名查找）：Hidden Stash,object_names_retained
+844,13,Desolace,Wind Ritual Staff,73.2,41.8,Possible lootable world object names are: Kolkar Staff,可能可拾取的场景物件（可按英文名查找）：Kolkar Staff,object_names_retained
+845,13,Desolace,Gloves of Patience,61,69,Possible lootable world object names are: The Waiting Fisher,可能可拾取的场景物件（可按英文名查找）：The Waiting Fisher,object_names_retained
+846,13,Desolace,Pillaged Legguards,36,92,Possible lootable world object names are: Pillaged Crate,可能可拾取的场景物件（可按英文名查找）：Pillaged Crate,object_names_retained
+847,13,Desolace,Lost Mariner Leggings,33,33.1,Possible lootable world object names are: Barrel of Goods,可能可拾取的场景物件（可按英文名查找）：Barrel of Goods,object_names_retained
+848,13,Desolace,Lost Mariner Bracers,36,30,Possible lootable world object names are: Washed-Up Chest,可能可拾取的场景物件（可按英文名查找）：Washed-Up Chest,object_names_retained
+850,13,Desolace,Warcaster Slippers,35,81,Possible lootable world object names are: Intercepted Package,可能可拾取的场景物件（可按英文名查找）：Intercepted Package,object_names_retained
+851,13,Desolace,Ritual Robes,55,27.2,Possible lootable world object names are: Sack of Ritual Attire,可能可拾取的场景物件（可按英文名查找）：Sack of Ritual Attire,object_names_retained
+852,13,Desolace,Buried Bracers,44,53.9,Possible lootable world object names are: Suspicious Dirt Pile,可能可拾取的场景物件（可按英文名查找）：Suspicious Dirt Pile,object_names_retained
+853,13,Desolace,Shoulderpads of the Conjuror,56.8,18,Possible lootable world object names are: Caravan Crate,可能可拾取的场景物件（可按英文名查找）：Caravan Crate,object_names_retained
+855,42,Un'goro Crater,Cenarion Dreamcatcher,32,15,Possible lootable world object names are: Dreamcatcher,可能可拾取的场景物件（可按英文名查找）：Dreamcatcher,object_names_retained
+857,42,Un'goro Crater,Shifting Form,68.7,57,Possible lootable world object names are: Mutated Threshadon Heart,可能可拾取的场景物件（可按英文名查找）：Mutated Threshadon Heart,object_names_retained
+859,42,Un'goro Crater,Mystic Geode,80.9,61,Possible lootable world object names are: Amethyst Shard,可能可拾取的场景物件（可按英文名查找）：Amethyst Shard,object_names_retained
+860,42,Un'goro Crater,Caravan Utility Hammer,45,62,Possible lootable world object names are: Abandoned Mallet,可能可拾取的场景物件（可按英文名查找）：Abandoned Mallet,object_names_retained
+861,42,Un'goro Crater,Idol of the Terror Claw,20.5,57.6,Possible lootable world object names are: Ancient Earth Idol,可能可拾取的场景物件（可按英文名查找）：Ancient Earth Idol,object_names_retained
+862,42,Un'goro Crater,Tawana's Spare Axe,72.9,51.8,Possible lootable world object names are: Sharpened Hatchet,可能可拾取的场景物件（可按英文名查找）：Sharpened Hatchet,object_names_retained
+863,42,Un'goro Crater,Blaze Runners,49.6,45.1,Possible lootable world object names are: Blaze Runners,可能可拾取的场景物件（可按英文名查找）：Blaze Runners,object_names_retained
+864,42,Un'goro Crater,Worldforge Drops (2 items),54.9,76.6,"Items found in this area: • Hexed Staff (Staff) • Hexweave Gloves (Cloth Armor) Possible lootable world object names are: Fallen Adventurer, Hexed Staff","此区域记录的物品：Hexed Staff（法杖）；Hexweave Gloves（布甲）。可能可拾取的场景物件（英文名）：Fallen Adventurer, Hexed Staff",area_items
+865,42,Un'goro Crater,Fossilized Smasher,65,24,Possible lootable world object names are: Hefty Bone,可能可拾取的场景物件（可按英文名查找）：Hefty Bone,object_names_retained
+866,42,Un'goro Crater,Boom-Bling Choker,69,85,Possible lootable world object names are: Shareholder's Coffer,可能可拾取的场景物件（可按英文名查找）：Shareholder's Coffer,object_names_retained
+867,42,Un'goro Crater,Bonechipper Dagger,69.2,35,Possible lootable world object names are: Bone Scraper,可能可拾取的场景物件（可按英文名查找）：Bone Scraper,object_names_retained
+868,42,Un'goro Crater,Talon Ripper,20.2,42.8,Possible lootable world object names are: Spear of a Slain Hunter,可能可拾取的场景物件（可按英文名查找）：Spear of a Slain Hunter,object_names_retained
+870,42,Un'goro Crater,Elegantly Designed Cuffs,37,51.1,Possible lootable world object names are: Beautifully Crafted Bracelets,可能可拾取的场景物件（可按英文名查找）：Beautifully Crafted Bracelets,object_names_retained
+871,42,Un'goro Crater,Serpent Spine Pauldrons,80,49.9,Possible lootable world object names are: Shallow Grave,可能可拾取的场景物件（可按英文名查找）：Shallow Grave,object_names_retained
+872,42,Un'goro Crater,Sparkshard Necklace,77.2,50,Possible lootable world object names are: Charging Box,可能可拾取的场景物件（可按英文名查找）：Charging Box,object_names_retained
+873,42,Un'goro Crater,Molten Fang,49,44,Possible lootable world object names are: Glowing Blade,可能可拾取的场景物件（可按英文名查找）：Glowing Blade,object_names_retained
+874,42,Un'goro Crater,Expedition Bracers,38,34,Possible lootable world object names are: Slime-Covered Bracers,可能可拾取的场景物件（可按英文名查找）：Slime-Covered Bracers,object_names_retained
+875,42,Un'goro Crater,Marsh Treaders,63.1,68.8,Possible lootable world object names are: Failed Delivery,可能可拾取的场景物件（可按英文名查找）：Failed Delivery,object_names_retained
+876,42,Un'goro Crater,Carapace Plated Chest,54.8,69.1,Possible lootable world object names are: Sealed Shipping Crate,可能可拾取的场景物件（可按英文名查找）：Sealed Shipping Crate,object_names_retained
+877,42,Un'goro Crater,Cord of Living Vines,32.2,40.4,Possible lootable world object names are: Bert's Box of Success,可能可拾取的场景物件（可按英文名查找）：Bert's Box of Success,object_names_retained
+878,42,Un'goro Crater,Campsite Shrapnel,68.2,37,Possible lootable world object names are: Campsite Shrapnel,可能可拾取的场景物件（可按英文名查找）：Campsite Shrapnel,object_names_retained
+879,42,Un'goro Crater,Qiarji Stinger,49.7,75.4,Possible lootable world object names are: Stinger,可能可拾取的场景物件（可按英文名查找）：Stinger,object_names_retained
+880,42,Un'goro Crater,Doomfall Spark,44.1,91.1,Possible lootable world object names are: Small Meteor,可能可拾取的场景物件（可按英文名查找）：Small Meteor,object_names_retained
+881,42,Un'goro Crater,Slightly Sticky Cloak,48,36,Possible lootable world object names are: Tar Stuck Wrap,可能可拾取的场景物件（可按英文名查找）：Tar Stuck Wrap,object_names_retained
+882,42,Un'goro Crater,Brand New Bikini,25.8,50.6,Possible lootable world object names are: Beach Bag,可能可拾取的场景物件（可按英文名查找）：Beach Bag,object_names_retained
+883,42,Un'goro Crater,Bug Repellant,38.8,65.9,Possible lootable world object names are: Strongly Scented Bottle,可能可拾取的场景物件（可按英文名查找）：Strongly Scented Bottle,object_names_retained
+884,42,Un'goro Crater,Libram of Ancient Warding,46.2,7.8,Possible lootable world object names are: Ancient Libram,可能可拾取的场景物件（可按英文名查找）：Ancient Libram,object_names_retained
+885,42,Un'goro Crater,Pylon Charged Staff,56.7,12.6,Possible lootable world object names are: Crystal Encased Staff,可能可拾取的场景物件（可按英文名查找）：Crystal Encased Staff,object_names_retained
+886,42,Un'goro Crater,Lost Fighter's Crossbow,45.9,14.1,Possible lootable world object names are: Abandoned Crate,可能可拾取的场景物件（可按英文名查找）：Abandoned Crate,object_names_retained
+887,42,Un'goro Crater,Goblin Plant Slicer,60,32.5,Possible lootable world object names are: Improvised Lever,可能可拾取的场景物件（可按英文名查找）：Improvised Lever,object_names_retained
+890,42,Un'goro Crater,Ember Crown,50,50.2,Possible lootable world object names are: Volcano Heated Crown,可能可拾取的场景物件（可按英文名查找）：Volcano Heated Crown,object_names_retained
+891,42,Un'goro Crater,Ringo's Star,52.1,50.1,Possible lootable world object names are: Ringo's Throwing Star,可能可拾取的场景物件（可按英文名查找）：Ringo's Throwing Star,object_names_retained
+892,42,Un'goro Crater,Thunderstomp Scale,39.2,75.2,Possible lootable world object names are: Preserved Dermal Plate,可能可拾取的场景物件（可按英文名查找）：Preserved Dermal Plate,object_names_retained
+893,42,Un'goro Crater,Totem of Scorching Sparks,52.5,53,Possible lootable world object names are: Totem of Scorching Sparks,可能可拾取的场景物件（可按英文名查找）：Totem of Scorching Sparks,object_names_retained
+894,42,Un'goro Crater,Cardinal Power Crystal,81,39.1,Possible lootable world object names are: Strange Glowing Crystal,可能可拾取的场景物件（可按英文名查找）：Strange Glowing Crystal,object_names_retained
+895,42,Un'goro Crater,Marsh Shooter,72,74.1,Possible lootable world object names are: Well Loved Bow,可能可拾取的场景物件（可按英文名查找）：Well Loved Bow,object_names_retained
+896,42,Un'goro Crater,Ravasaur Talon,67,67.7,Possible lootable world object names are: Ravasaur Claw,可能可拾取的场景物件（可按英文名查找）：Ravasaur Claw,object_names_retained
+897,42,Un'goro Crater,Dinosaur Tranquilizer,70,84,Possible lootable world object names are: Polished Rifle,可能可拾取的场景物件（可按英文名查找）：Polished Rifle,object_names_retained
+898,42,Un'goro Crater,Golakka Scoured Legguards,30.8,50.3,Possible lootable world object names are: Hot Springs Scouring Basket,可能可拾取的场景物件（可按英文名查找）：Hot Springs Scouring Basket,object_names_retained
+900,42,Un'goro Crater,Lucky Fisherman's Breeches,34.7,24.8,Possible lootable world object names are: Wooden Chest,可能可拾取的场景物件（可按英文名查找）：Wooden Chest,object_names_retained
+901,42,Un'goro Crater,Spring Shard,40.9,49.9,Possible lootable world object names are: Spring Blade,可能可拾取的场景物件（可按英文名查找）：Spring Blade,object_names_retained
+902,42,Un'goro Crater,Silverback Cape,65.9,18.3,Possible lootable world object names are: Silverback Cape,可能可拾取的场景物件（可按英文名查找）：Silverback Cape,object_names_retained
+903,42,Un'goro Crater,One Ring to Flame Them All,48.8,47.3,Possible lootable world object names are: Precious Ring,可能可拾取的场景物件（可按英文名查找）：Precious Ring,object_names_retained
+904,42,Un'goro Crater,Wrangler's Cord,33,73.8,Possible lootable world object names are: Kodo Riding Harness,可能可拾取的场景物件（可按英文名查找）：Kodo Riding Harness,object_names_retained
+905,42,Un'goro Crater,Caravaneer's Machete,59,49,Possible lootable world object names are: Heating Blade,可能可拾取的场景物件（可按英文名查找）：Heating Blade,object_names_retained
+906,42,Un'goro Crater,Tongs of Miscalibration,67.5,17,Possible lootable world object names are: Engineer's Tongs,可能可拾取的场景物件（可按英文名查找）：Engineer's Tongs,object_names_retained
+907,42,Un'goro Crater,Pterrodax Scale Cloak,57,91,Possible lootable world object names are: Feeding Pile,可能可拾取的场景物件（可按英文名查找）：Feeding Pile,object_names_retained
+908,42,Un'goro Crater,Water Dredger's Wrap,46,43,Possible lootable world object names are: Waterlogged Chest,可能可拾取的场景物件（可按英文名查找）：Waterlogged Chest,object_names_retained
+909,42,Un'goro Crater,Ballast Laden Pauldrons,33,56,Possible lootable world object names are: Ballast Laden Pauldrons,可能可拾取的场景物件（可按英文名查找）：Ballast Laden Pauldrons,object_names_retained
+910,42,Un'goro Crater,Dino Wacker,31.1,77.8,Possible lootable world object names are: Protruding Bone,可能可拾取的场景物件（可按英文名查找）：Protruding Bone,object_names_retained
+911,42,Un'goro Crater,Silithid Ritual Robe,44.3,74.2,Possible lootable world object names are: Ritual Chest,可能可拾取的场景物件（可按英文名查找）：Ritual Chest,object_names_retained
+912,32,Silverpine Forest,Worldforge Drops (4 items),65.3,23.7,"Items found in this area: • Ravenous Eye (Armor) • Gnoll Subjugator (Wand) • Thule's Curse Parchment (Armor) • Rot Hide Mantle (Cloth Armor) Possible lootable world object names are: Gnoll Subdue Wand, Rot Hide Stash, Thule's Curse Parchment, Cursed Fang Re...","此区域记录的物品：Ravenous Eye（护甲）；Gnoll Subjugator（魔杖）；图勒的诅咒卷轴（护甲）；Rot Hide Mantle（布甲）。可能可拾取的场景物件（英文名）：Gnoll Subdue Wand, Rot Hide Stash, Thule's Curse Parchment, Cursed Fang Re...",area_items
+915,32,Silverpine Forest,Small Claw of the Meat Wagon,37,18.1,Possible lootable world object names are: Meat Wagon Small Claw,可能可拾取的场景物件（可按英文名查找）：Meat Wagon Small Claw,object_names_retained
+917,32,Silverpine Forest,Poison Unguent Extract,36,8,Possible lootable world object names are: Victim's Empty jar,可能可拾取的场景物件（可按英文名查找）：Victim's Empty jar,object_names_retained
+919,32,Silverpine Forest,Gilnean Bolter,57.1,17.1,Possible lootable world object names are: Old Crossbow,可能可拾取的场景物件（可按英文名查找）：Old Crossbow,object_names_retained
+920,32,Silverpine Forest,Gilnean Monocle,37,29,"Possible lootable world object names are: Lost Gilnean Cache, Gilnean Crate","可能可拾取的场景物件（可按英文名查找）：Lost Gilnean Cache, Gilnean Crate",object_names_retained
+922,32,Silverpine Forest,Lordamere Cuffs,60,34,Possible lootable world object names are: Floating Debris,可能可拾取的场景物件（可按英文名查找）：Floating Debris,object_names_retained
+924,32,Silverpine Forest,Ancient Lordaeron Jewel,73,16,Possible lootable world object names are: Stolen Lordaeron Jewel,可能可拾取的场景物件（可按英文名查找）：Stolen Lordaeron Jewel,object_names_retained
+925,32,Silverpine Forest,Old Valgan Slippers,53,25,Possible lootable world object names are: Old Slippers,可能可拾取的场景物件（可按英文名查找）：Old Slippers,object_names_retained
+926,32,Silverpine Forest,Alchemy Research Notes,68,26,"Possible lootable world object names are: Cultivated Blazethorn, Dusty Book","可能可拾取的场景物件（可按英文名查找）：Cultivated Blazethorn, Dusty Book",object_names_retained
+927,32,Silverpine Forest,Chain Belt of the Elements,37,43,Possible lootable world object names are: Cargo Crate,可能可拾取的场景物件（可按英文名查找）：Cargo Crate,object_names_retained
+928,32,Silverpine Forest,Rot Hide Harness,68,24,"Possible lootable world object names are: Rot Hide Supplies, Black Powder Barrel","可能可拾取的场景物件（可按英文名查找）：Rot Hide Supplies, Black Powder Barrel",object_names_retained
+929,32,Silverpine Forest,Gilnean Lance,43.9,52,"Possible lootable world object names are: Old Gilnean Lance, Device Installation Point","可能可拾取的场景物件（可按英文名查找）：Old Gilnean Lance, Device Installation Point",object_names_retained
+932,32,Silverpine Forest,Arcane Glinting Shard,73,37,Possible lootable world object names are: Post-Explosion Magic Debris,可能可拾取的场景物件（可按英文名查找）：Post-Explosion Magic Debris,object_names_retained
+935,10,Darkshore,Hunk of Darkshore Driftwood,36,58,Possible lootable world object names are: Waterlogged Driftwood,可能可拾取的场景物件（可按英文名查找）：Waterlogged Driftwood,object_names_retained
+936,10,Darkshore,Auberdine Scimitar,41,72,Possible lootable world object names are: Teldrassil Skewer,可能可拾取的场景物件（可按英文名查找）：Teldrassil Skewer,object_names_retained
+937,10,Darkshore,Faulty Stone Golem,36.1,87,Possible lootable world object names are: Cracked Stone Golemn,可能可拾取的场景物件（可按英文名查找）：Cracked Stone Golemn,object_names_retained
+938,10,Darkshore,Twilight Vale,38.1,94.9,Possible lootable world object names are: Twilight Drape,可能可拾取的场景物件（可按英文名查找）：Twilight Drape,object_names_retained
+939,10,Darkshore,Fanatic's Cursed Blade,56.1,27.1,"Possible lootable world object names are: Cursed Blade, Maddening Aura","可能可拾取的场景物件（可按英文名查找）：Cursed Blade, Maddening Aura",object_names_retained
+940,10,Darkshore,Highborne Trousers,41,62,"Possible lootable world object names are: Disturbed Dirt, Owl Relic","可能可拾取的场景物件（可按英文名查找）：Disturbed Dirt, Owl Relic",object_names_retained
+941,10,Darkshore,Stormscale Guard,59,22,Possible lootable world object names are: Stormscale Supplies,可能可拾取的场景物件（可按英文名查找）：Stormscale Supplies,object_names_retained
+943,10,Darkshore,Tide Turner,33,84,Possible lootable world object names are: Old Ship Wheel,可能可拾取的场景物件（可按英文名查找）：Old Ship Wheel,object_names_retained
+946,10,Darkshore,Windshaper Wraps,40,54,Possible lootable world object names are: Blackwood Chest,可能可拾取的场景物件（可按英文名查找）：Blackwood Chest,object_names_retained
+947,10,Darkshore,Shipwrecked Crate,40,27,Possible lootable world object names are: Shipwreck Crate,可能可拾取的场景物件（可按英文名查找）：Shipwreck Crate,object_names_retained
+948,10,Darkshore,Ancient Family Heirloom,30,48,Possible lootable world object names are: Dusted Sword,可能可拾取的场景物件（可按英文名查找）：Dusted Sword,object_names_retained
+949,10,Darkshore,Moon-knawed Bone Spire,43.2,67.9,Possible lootable world object names are: Gnawed Remains,可能可拾取的场景物件（可按英文名查找）：Gnawed Remains,object_names_retained
+952,10,Darkshore,Uncovered Highborne Scroll,38,45.1,Possible lootable world object names are: Faded Scroll,可能可拾取的场景物件（可按英文名查找）：Faded Scroll,object_names_retained
+953,10,Darkshore,Relicseeker Staff,39,33,Possible lootable world object names are: Giant Gnomish Staff,可能可拾取的场景物件（可按英文名查找）：Giant Gnomish Staff,object_names_retained
+954,10,Darkshore,Washed Ashore Bottle,50,23,Possible lootable world object names are: Glass Bottle on the Shore,可能可拾取的场景物件（可按英文名查找）：Glass Bottle on the Shore,object_names_retained
+955,10,Darkshore,Suspicious Deathcap,56,36,"Possible lootable world object names are: Mysterious Mushroom, Siren's Supplies","可能可拾取的场景物件（可按英文名查找）：Mysterious Mushroom, Siren's Supplies",object_names_retained
+957,10,Darkshore,Moonrest Slippers,37,65,"Possible lootable world object names are: Light and Shadow Vol: 1, Moonrest Supplies","可能可拾取的场景物件（可按英文名查找）：Light and Shadow Vol: 1, Moonrest Supplies",object_names_retained
+958,10,Darkshore,Furbolg War-drum,52,34,Possible lootable world object names are: Small War Drum,可能可拾取的场景物件（可按英文名查找）：Small War Drum,object_names_retained
+959,10,Darkshore,Worldforge Drops (2 items),46,39,Items found in this area: • Aerie Faith Vambraces (Mail Armor) • Evil-Infused Cuffs (Leather Armor),此区域记录的物品：Aerie Faith Vambraces（锁甲）；Evil-Infused Cuffs（皮甲）,area_items
+961,10,Darkshore,Twilight Bands,39.1,87.1,Possible lootable world object names are: Frayed Cuffs,可能可拾取的场景物件（可按英文名查找）：Frayed Cuffs,object_names_retained
+962,10,Darkshore,Unpleasant Ring,43,49,Possible lootable world object names are: Moonkin Nest,可能可拾取的场景物件（可按英文名查找）：Moonkin Nest,object_names_retained
+963,10,Darkshore,Wild Longbow,41,74,Possible lootable world object names are: Fisherman's Longbow,可能可拾取的场景物件（可按英文名查找）：Fisherman's Longbow,object_names_retained
+964,10,Darkshore,Blackwood Jerkin,45,87,"Possible lootable world object names are: Stolen Elf Crate, Crackling Totem","可能可拾取的场景物件（可按英文名查找）：Stolen Elf Crate, Crackling Totem",object_names_retained
+965,10,Darkshore,Shorebreeze Sabatons,36,78,Possible lootable world object names are: Old Caravan Crate,可能可拾取的场景物件（可按英文名查找）：Old Caravan Crate,object_names_retained
+966,10,Darkshore,Ancient Highborne Tome,57,23,Possible lootable world object names are: Dusty Tome,可能可拾取的场景物件（可按英文名查找）：Dusty Tome,object_names_retained
+967,10,Darkshore,Enchanted Flora Waist,62.8,8,Possible lootable world object names are: Sturdy Flora,可能可拾取的场景物件（可按英文名查找）：Sturdy Flora,object_names_retained
+968,41,Tirisfal Glades,Old Arcanus Robe,68,42,Possible lootable world object names are: Gunther's Lockbox,可能可拾取的场景物件（可按英文名查找）：Gunther's Lockbox,object_names_retained
+970,41,Tirisfal Glades,Waterlogged Sparkler,35,43.1,Possible lootable world object names are: Floating Barrel,可能可拾取的场景物件（可按英文名查找）：Floating Barrel,object_names_retained
+971,41,Tirisfal Glades,Scarlet Insignia,51,68,Possible lootable world object names are: Old Insignia,可能可拾取的场景物件（可按英文名查找）：Old Insignia,object_names_retained
+974,41,Tirisfal Glades,Rattlecage Warplate,50,43,Possible lootable world object names are: Broken Rattlecage,可能可拾取的场景物件（可按英文名查找）：Broken Rattlecage,object_names_retained
+975,41,Tirisfal Glades,Agamand Sharpshooter,46,30,Possible lootable world object names are: Old Crossbow,可能可拾取的场景物件（可按英文名查找）：Old Crossbow,object_names_retained
+976,41,Tirisfal Glades,Ghostmoor Cloak,57,50,Possible lootable world object names are: Shallow Grave,可能可拾取的场景物件（可按英文名查找）：Shallow Grave,object_names_retained
+977,41,Tirisfal Glades,Old Waterlogged Boots,68.5,51,Possible lootable world object names are: Barnaby's Booties,可能可拾取的场景物件（可按英文名查找）：Barnaby's Booties,object_names_retained
+979,41,Tirisfal Glades,Maggot Eye Musket,58.9,31.3,Possible lootable world object names are: Rusty Shotgun,可能可拾取的场景物件（可按英文名查找）：Rusty Shotgun,object_names_retained
+980,41,Tirisfal Glades,Apothecary's Lantern,44,39.8,Possible lootable world object names are: Flickering Lantern,可能可拾取的场景物件（可按英文名查找）：Flickering Lantern,object_names_retained
+982,41,Tirisfal Glades,Nightfallen Jerkin,66,59.3,Possible lootable world object names are: Forsaken Cart Crate,可能可拾取的场景物件（可按英文名查找）：Forsaken Cart Crate,object_names_retained
+983,41,Tirisfal Glades,Gravedigger's Delight,44,65,Possible lootable world object names are: Forgotten Shovel,可能可拾取的场景物件（可按英文名查找）：Forgotten Shovel,object_names_retained
+984,41,Tirisfal Glades,Solliden Family Broom,38,50,Possible lootable world object names are: Old Family Broom,可能可拾取的场景物件（可按英文名查找）：Old Family Broom,object_names_retained
+985,41,Tirisfal Glades,Wailing Sash,71,64,"Possible lootable world object names are: Offering For the Dead, Preach Compendium - Let the Light Shine Through, Gravestone","可能可拾取的场景物件（可按英文名查找）：Offering For the Dead, Preach Compendium - Let the Light Shine Through, Gravestone",object_names_retained
+986,41,Tirisfal Glades,Faded Gravecloth Cuffs,75.1,72.1,Possible lootable world object names are: Edwin's Chest,可能可拾取的场景物件（可按英文名查找）：Edwin's Chest,object_names_retained
+987,41,Tirisfal Glades,Coastline Vest,67,26,Possible lootable world object names are: Coastline Crate,可能可拾取的场景物件（可按英文名查找）：Coastline Crate,object_names_retained
+988,41,Tirisfal Glades,Puddle-jumper Dagger,61,27,Possible lootable world object names are: Shoddy Blade,可能可拾取的场景物件（可按英文名查找）：Shoddy Blade,object_names_retained
+989,41,Tirisfal Glades,Old Wagon Wheel,53,57.9,Possible lootable world object names are: Wheel,可能可拾取的场景物件（可按英文名查找）：Wheel,object_names_retained
+990,41,Tirisfal Glades,Haunted Ring,55,43,Possible lootable world object names are: Unearthed Ring,可能可拾取的场景物件（可按英文名查找）：Unearthed Ring,object_names_retained
+991,41,Tirisfal Glades,Agamand Farmer Trousers,49.3,36,Possible lootable world object names are: Agamand Dresser,可能可拾取的场景物件（可按英文名查找）：Agamand Dresser,object_names_retained
+992,41,Tirisfal Glades,Haunted Mace,79,60,"Possible lootable world object names are: Ceremonial Mace, Invincible's Gravestone","可能可拾取的场景物件（可按英文名查找）：Ceremonial Mace, Invincible's Gravestone",object_names_retained
+993,41,Tirisfal Glades,Ulag's Cleaver,60,48,Possible lootable world object names are: Ulag's Other Cleaver,可能可拾取的场景物件（可按英文名查找）：Ulag's Other Cleaver,object_names_retained
+994,41,Tirisfal Glades,Adventurer Gloves,73,26,Possible lootable world object names are: Murloc Plunder,可能可拾取的场景物件（可按英文名查找）：Murloc Plunder,object_names_retained
+995,41,Tirisfal Glades,Docile Night Web Hatchling,87.6,51.3,Possible lootable world object names are: Nightweb Spider Egg,可能可拾取的场景物件（可按英文名查找）：Nightweb Spider Egg,object_names_retained
+996,46,Wetlands,Ancient Dark Iron Mace,50.1,8,Possible lootable world object names are: Sunken Mace,可能可拾取的场景物件（可按英文名查找）：Sunken Mace,object_names_retained
+1003,46,Wetlands,Vestments of the Unbound,48,26,"Possible lootable world object names are: Mercenary Camp Supplies, Big Mace","可能可拾取的场景物件（可按英文名查找）：Mercenary Camp Supplies, Big Mace",object_names_retained
+1004,46,Wetlands,Mirefin Belt,56.1,40.9,Possible lootable world object names are: Wilted Plant,可能可拾取的场景物件（可按英文名查找）：Wilted Plant,object_names_retained
+1005,46,Wetlands,Worldforge Drops (2 items),50.1,38,"Items found in this area: • Kixxle's Experimental Potion (Consumable) • Recipe: Kixxle's Experimental Potion (Recipe) Possible lootable world object names are: Kixxle's Experimental Potion, Disorganized Alchemy Notes","此区域记录的物品：Kixxle's Experimental Potion（消耗品）；Recipe: Kixxle's Experimental Potion（配方）。可能可拾取的场景物件（英文名）：Kixxle's Experimental Potion, Disorganized Alchemy Notes",area_items
+1006,46,Wetlands,Cursed Legguards of the Intrepid,14.9,30,Possible lootable world object names are: Snellig's Footlocker,可能可拾取的场景物件（可按英文名查找）：Snellig's Footlocker,object_names_retained
+1007,46,Wetlands,Worldforge Drops (2 items),52.8,26.3,Items found in this area: • Agamand Walking Stick (Staff) • Pilfered Stormpike Polearm (Polearm) Possible lootable world object names are: Pilfered Stormpike Polearm,此区域记录的物品：Agamand Walking Stick（法杖）；Pilfered Stormpike Polearm（长柄武器）。可能可拾取的场景物件（英文名）：Pilfered Stormpike Polearm,area_items
+1008,46,Wetlands,Mossy Hide Armor,31.8,30,Possible lootable world object names are: Stack of Hides,可能可拾取的场景物件（可按英文名查找）：Stack of Hides,object_names_retained
+1009,46,Wetlands,Stubborn Dwarf Slippers,57.9,53.2,Possible lootable world object names are: Ranch Supplies,可能可拾取的场景物件（可按英文名查找）：Ranch Supplies,object_names_retained
+1011,46,Wetlands,Dwarven Demolition Kit,47,18,Possible lootable world object names are: Spare Dwarven Dynamite,可能可拾取的场景物件（可按英文名查找）：Spare Dwarven Dynamite,object_names_retained
+1012,46,Wetlands,Ironbeard's Axe,45,24.9,"Possible lootable world object names are: Forgotten Dwarven Axe, Icon of Ironbeard","可能可拾取的场景物件（可按英文名查找）：Forgotten Dwarven Axe, Icon of Ironbeard",object_names_retained
+1013,46,Wetlands,Waterlogged Musket,50,60,Possible lootable world object names are: Waterlogged Rifle,可能可拾取的场景物件（可按英文名查找）：Waterlogged Rifle,object_names_retained
+1014,46,Wetlands,Miner Handwraps,69.9,33.9,Possible lootable world object names are: Miner's Satchel,可能可拾取的场景物件（可按英文名查找）：Miner's Satchel,object_names_retained
+1015,46,Wetlands,Cursed Cape of the Wave Mistress,15,24.9,Possible lootable world object names are: Fitzsimmons' Footlocker,可能可拾取的场景物件（可按英文名查找）：Fitzsimmons' Footlocker,object_names_retained
+1016,46,Wetlands,Etched Tablet,35,49,Possible lootable world object names are: Partially Buried Tablet,可能可拾取的场景物件（可按英文名查找）：Partially Buried Tablet,object_names_retained
+1033,29,Searing Gorge,Fire Poker,23,55.1,Possible lootable world object names are: Scorching Dagger,可能可拾取的场景物件（可按英文名查找）：Scorching Dagger,object_names_retained
+1034,29,Searing Gorge,Magma Petting Mittens,56,81,Possible lootable world object names are: Important Belongings,可能可拾取的场景物件（可按英文名查找）：Important Belongings,object_names_retained
+1035,29,Searing Gorge,Dark Iron Wristbands,41.1,21.7,Possible lootable world object names are: Broken Chain,可能可拾取的场景物件（可按英文名查找）：Broken Chain,object_names_retained
+1037,29,Searing Gorge,Golem Chunk,69.2,33.9,Possible lootable world object names are: Iron Hammer,可能可拾取的场景物件（可按英文名查找）：Iron Hammer,object_names_retained
+1040,29,Searing Gorge,Zamael's Corrupted Twilight,29.9,26.1,Possible lootable world object names are: Twilight Axe,可能可拾取的场景物件（可按英文名查找）：Twilight Axe,object_names_retained
+1042,29,Searing Gorge,Contraband Magician Rod,35,52,Possible lootable world object names are: Magic Staff,可能可拾取的场景物件（可按英文名查找）：Magic Staff,object_names_retained
+1043,29,Searing Gorge,Overseer's Mystic Wrench,40.9,35.1,Possible lootable world object names are: Wrench,可能可拾取的场景物件（可按英文名查找）：Wrench,object_names_retained
+1044,29,Searing Gorge,Elder Pipe,45.8,28.8,Possible lootable world object names are: Elder's Pipe,可能可拾取的场景物件（可按英文名查找）：Elder's Pipe,object_names_retained
+1045,29,Searing Gorge,Cogbolt's Special,40.2,49,Possible lootable world object names are: Two-Handed Axe,可能可拾取的场景物件（可按英文名查找）：Two-Handed Axe,object_names_retained
+1046,29,Searing Gorge,Shoulderpads of Deep Thinking,71.3,17.5,Possible lootable world object names are: Silkwrapped Object,可能可拾取的场景物件（可按英文名查找）：Silkwrapped Object,object_names_retained
+1047,29,Searing Gorge,Glassweb Ward Shroud,65.8,44.8,Possible lootable world object names are: Spider Silk,可能可拾取的场景物件（可按英文名查找）：Spider Silk,object_names_retained
+1048,29,Searing Gorge,Dark Iron Scorcher,55,48,Possible lootable world object names are: Hot Poker,可能可拾取的场景物件（可按英文名查找）：Hot Poker,object_names_retained
+1052,29,Searing Gorge,Heavy War Golem Rune,32,51,Possible lootable world object names are: Rune Circle,可能可拾取的场景物件（可按英文名查找）：Rune Circle,object_names_retained
+1054,29,Searing Gorge,Incendosaur Bone String,45,19,Possible lootable world object names are: Pile of Bones,可能可拾取的场景物件（可按英文名查找）：Pile of Bones,object_names_retained
+1055,29,Searing Gorge,Scorched Mail Tunic,38.1,54.8,Possible lootable world object names are: Lost Mail Armor,可能可拾取的场景物件（可按英文名查找）：Lost Mail Armor,object_names_retained
+1056,29,Searing Gorge,Disciplinary Rifle,49,55,Possible lootable world object names are: Scoped Rifle,可能可拾取的场景物件（可按英文名查找）：Scoped Rifle,object_names_retained
+1057,29,Searing Gorge,Slave Worker Pantaloons,39.8,54.1,Possible lootable world object names are: Dead Slave,可能可拾取的场景物件（可按英文名查找）：Dead Slave,object_names_retained
+1058,29,Searing Gorge,Shadowsilk Seared Cuirass,58.9,29.5,Possible lootable world object names are: Burning Corpse,可能可拾取的场景物件（可按英文名查找）：Burning Corpse,object_names_retained
+1060,29,Searing Gorge,Break-time Gloves,46,49.5,"Possible lootable world object names are: Travel Sack, Burning Rocks","可能可拾取的场景物件（可按英文名查找）：Travel Sack, Burning Rocks",object_names_retained
+1061,29,Searing Gorge,Dark Iron Leatherpads,51,67,Possible lootable world object names are: Dark Iron Supplies,可能可拾取的场景物件（可按英文名查找）：Dark Iron Supplies,object_names_retained
+1062,29,Searing Gorge,Stomped Diary,74.1,74.1,Possible lootable world object names are: Stomped Tome,可能可拾取的场景物件（可按英文名查找）：Stomped Tome,object_names_retained
+1063,29,Searing Gorge,Dark Iron Legplates,42.5,30.9,Possible lootable world object names are: Dwarf Corpse,可能可拾取的场景物件（可按英文名查找）：Dwarf Corpse,object_names_retained
+1064,29,Searing Gorge,Molten Fang Tooth,48,19,Possible lootable world object names are: Incendosaur Tooth,可能可拾取的场景物件（可按英文名查找）：Incendosaur Tooth,object_names_retained
+1066,29,Searing Gorge,Scorching Lodepebble,39,72.5,Possible lootable world object names are: Lava Hardened Rock,可能可拾取的场景物件（可按英文名查找）：Lava Hardened Rock,object_names_retained
+1067,29,Searing Gorge,Sharp Chain Belt,45.3,39,Possible lootable world object names are: Bag of Disciplinary Tools,可能可拾取的场景物件（可按英文名查找）：Bag of Disciplinary Tools,object_names_retained
+1068,33,Stonetalon Mountains,Deepmoss Fang,64,61,Possible lootable world object names are: Deepmoss Spider Pod,可能可拾取的场景物件（可按英文名查找）：Deepmoss Spider Pod,object_names_retained
+1070,33,Stonetalon Mountains,Vengeful Heart,49,40,Possible lootable world object names are: Slain Traveler,可能可拾取的场景物件（可按英文名查找）：Slain Traveler,object_names_retained
+1071,33,Stonetalon Mountains,Windsong Shortbow,30,74,Possible lootable world object names are: Dryad's Bow,可能可拾取的场景物件（可按英文名查找）：Dryad's Bow,object_names_retained
+1072,33,Stonetalon Mountains,Huntress Threads,60,67,Possible lootable world object names are: Kaela's Chest,可能可拾取的场景物件（可按英文名查找）：Kaela's Chest,object_names_retained
+1073,33,Stonetalon Mountains,Charred Spaulders,37,67,Possible lootable world object names are: Lost Shipment,可能可拾取的场景物件（可按英文名查找）：Lost Shipment,object_names_retained
+1074,33,Stonetalon Mountains,Cliffwalker Cuffs,45,47,Possible lootable world object names are: Fallen Nest,可能可拾取的场景物件（可按英文名查找）：Fallen Nest,object_names_retained
+1075,33,Stonetalon Mountains,Boulder Greaves,65,97,Possible lootable world object names are: Stolen Boots,可能可拾取的场景物件（可按英文名查找）：Stolen Boots,object_names_retained
+1077,33,Stonetalon Mountains,Barrel Smasher,41,46,Possible lootable world object names are: Rock Smasher,可能可拾取的场景物件（可按英文名查找）：Rock Smasher,object_names_retained
+1078,33,Stonetalon Mountains,Breastplate of the Current,63,40,Possible lootable world object names are: Appropriated Goods,可能可拾取的场景物件（可按英文名查找）：Appropriated Goods,object_names_retained
+1079,33,Stonetalon Mountains,Grim Sorcerer Totem,75,89,Possible lootable world object names are: Grimtotem Totem,可能可拾取的场景物件（可按英文名查找）：Grimtotem Totem,object_names_retained
+1080,33,Stonetalon Mountains,Venture Co. Logging Axe,67,51,Possible lootable world object names are: Overseer's Axe,可能可拾取的场景物件（可按英文名查找）：Overseer's Axe,object_names_retained
+1081,33,Stonetalon Mountains,Wyvern Vest,54,44,Possible lootable world object names are: Wyvern Cache,可能可拾取的场景物件（可按英文名查找）：Wyvern Cache,object_names_retained
+1082,36,Tanaris,Duneshot Armguards,64,40,Possible lootable world object names are: Stolen Caravan Crate,可能可拾取的场景物件（可按英文名查找）：Stolen Caravan Crate,object_names_retained
+1083,36,Tanaris,Dunemaul Warbelt,39,52.3,Possible lootable world object names are: Dunemaul Crate,可能可拾取的场景物件（可按英文名查找）：Dunemaul Crate,object_names_retained
+1084,36,Tanaris,Desert Gambeson,53.1,33.1,Possible lootable world object names are: Desert Cache,可能可拾取的场景物件（可按英文名查找）：Desert Cache,object_names_retained
+1085,36,Tanaris,Desert Trader's Pants,54.1,54,Possible lootable world object names are: Abandoned Trader Crate,可能可拾取的场景物件（可按英文名查找）：Abandoned Trader Crate,object_names_retained
+1086,36,Tanaris,Sandstalker,53.9,47.1,Possible lootable world object names are: Buried Wood,可能可拾取的场景物件（可按英文名查找）：Buried Wood,object_names_retained
+1087,36,Tanaris,Worldforge Drops (2 items),59,62.7,Items found in this area: • Ziz's Alchemy Goggles (Cloth Armor) • Ancient Wagon Wheel (Shield Armor) Possible lootable world object names are: Ancient Wagon Wheel,此区域记录的物品：Ziz's Alchemy Goggles（布甲）；Ancient Wagon Wheel（盾牌）。可能可拾取的场景物件（英文名）：Ancient Wagon Wheel,area_items
+1089,36,Tanaris,Worldforge Drops (2 items),40,29,"Items found in this area: • Wand of the Sands (Wand) • Sandfury Ritual Mace (One-Handed Mace) Possible lootable world object names are: Sandfury Ritual Mace, Zazera's Wand","此区域记录的物品：Wand of the Sands（魔杖）；Sandfury Ritual Mace（单手锤）。可能可拾取的场景物件（英文名）：Sandfury Ritual Mace, Zazera's Wand",area_items
+1090,36,Tanaris,Lens of Questionable Visions,65.2,18.7,Possible lootable world object names are: Magnify Glass,可能可拾取的场景物件（可按英文名查找）：Magnify Glass,object_names_retained
+1093,36,Tanaris,Dunemaul Crusher,41.4,57.8,Possible lootable world object names are: Dunemaul Champion Hammer,可能可拾取的场景物件（可按英文名查找）：Dunemaul Champion Hammer,object_names_retained
+1094,36,Tanaris,Treads of the Verdant Threshold,26,54,Possible lootable world object names are: Hidden Cache,可能可拾取的场景物件（可按英文名查找）：Hidden Cache,object_names_retained
+1095,36,Tanaris,Worldforge Drops (2 items),75.8,45.2,"Items found in this area: • Diving Boots (Plate Armor) • Sea Legs (Cloth Armor) Possible lootable world object names are: Southsea Chest, Pilfered Backpack","此区域记录的物品：Diving Boots（板甲）；Sea Legs（布甲）。可能可拾取的场景物件（英文名）：Southsea Chest, Pilfered Backpack",area_items
+1096,36,Tanaris,Dustwhisper Legguards,34,60,Possible lootable world object names are: Disturbed Sand,可能可拾取的场景物件（可按英文名查找）：Disturbed Sand,object_names_retained
+1097,36,Tanaris,Sky Guard's Cuirass,30.2,74.1,Possible lootable world object names are: Zepplin Crate,可能可拾取的场景物件（可按英文名查找）：Zepplin Crate,object_names_retained
+1098,36,Tanaris,Cyclok's Sanity,41,54,Possible lootable world object names are: Damp Ring,可能可拾取的场景物件（可按英文名查找）：Damp Ring,object_names_retained
+1100,36,Tanaris,Treasure Seeker's Gloves,47.2,65,Possible lootable world object names are: Disturbed Sand Pile,可能可拾取的场景物件（可按英文名查找）：Disturbed Sand Pile,object_names_retained
+1101,36,Tanaris,Wave Wraps,68,43,Possible lootable world object names are: Shallow Grave,可能可拾取的场景物件（可按英文名查找）：Shallow Grave,object_names_retained
+1102,36,Tanaris,Sand Stompers,49,43,Possible lootable world object names are: Sandy Chest,可能可拾取的场景物件（可按英文名查找）：Sandy Chest,object_names_retained
+1103,36,Tanaris,Wastewander Alchemist’s Robe,59,39,Possible lootable world object names are: Alchemist Cache,可能可拾取的场景物件（可按英文名查找）：Alchemist Cache,object_names_retained
+1104,36,Tanaris,Lid of the Dead,41,40,Possible lootable world object names are: Sturdy Coffin Lid,可能可拾取的场景物件（可按英文名查找）：Sturdy Coffin Lid,object_names_retained
+1106,36,Tanaris,Blister Chain,49,53,Possible lootable world object names are: Sun Ritual Necklace,可能可拾取的场景物件（可按英文名查找）：Sun Ritual Necklace,object_names_retained
+1107,36,Tanaris,Ancestral Warblade,63.4,48,Possible lootable world object names are: Ancient Horde Blade,可能可拾取的场景物件（可按英文名查找）：Ancient Horde Blade,object_names_retained
+1108,36,Tanaris,Treasure Seeking Lodestone,55.1,90.9,Possible lootable world object names are: Ancient Elven Chest,可能可拾取的场景物件（可按英文名查找）：Ancient Elven Chest,object_names_retained
+1109,36,Tanaris,Worldforge Drops (2 items),48.8,54,Items found in this area: • Special Seashell (Armor) • Pip's Rad Stone (Armor) Possible lootable world object names are: Sun Ritual Necklace,此区域记录的物品：特殊贝壳（护甲）；皮普的酷炫之石（护甲）。可能可拾取的场景物件（英文名）：Sun Ritual Necklace,area_items
+1110,36,Tanaris,Inventor's Sand Band,70,52,Possible lootable world object names are: Goblin Cache,可能可拾取的场景物件（可按英文名查找）：Goblin Cache,object_names_retained
+1112,36,Tanaris,Shellsplitter Girdle,50,85,Possible lootable world object names are: Lost Southsea Loot,可能可拾取的场景物件（可按英文名查找）：Lost Southsea Loot,object_names_retained
+1113,36,Tanaris,Chitinous Chest,55.9,77.3,Possible lootable world object names are: Odd Silithid Larva,可能可拾取的场景物件（可按英文名查找）：Odd Silithid Larva,object_names_retained
+1114,36,Tanaris,Sun Cover,63,71.1,Possible lootable world object names are: Loose Barrel,可能可拾取的场景物件（可按英文名查找）：Loose Barrel,object_names_retained
+1115,36,Tanaris,Sand Polished Pauldrons,43,49,Possible lootable world object names are: Unfortunate Shoulderpad,可能可拾取的场景物件（可按英文名查找）：Unfortunate Shoulderpad,object_names_retained
+1116,36,Tanaris,Sandswept Binding,44,40,Possible lootable world object names are: Dead Adventurer,可能可拾取的场景物件（可按英文名查找）：Dead Adventurer,object_names_retained
+1117,19,Elwynn Forest,Field Rations,48.1,87.1,Possible lootable world object names are: Dockmaster's Stolen Supplies,可能可拾取的场景物件（可按英文名查找）：Dockmaster's Stolen Supplies,object_names_retained
+1118,19,Elwynn Forest,Billy Bag,43.8,85,Possible lootable world object names are: Billy's Bag,可能可拾取的场景物件（可按英文名查找）：Billy's Bag,object_names_retained
+1119,19,Elwynn Forest,Smuggled Stormwind Choker,57,79,Possible lootable world object names are: Stolen Belongings,可能可拾取的场景物件（可按英文名查找）：Stolen Belongings,object_names_retained
+1121,19,Elwynn Forest,Bones to Gnaw,25,94,Possible lootable world object names are: Riverpaw Pack Chieftain's Lunch,可能可拾取的场景物件（可按英文名查找）：Riverpaw Pack Chieftain's Lunch,object_names_retained
+1123,19,Elwynn Forest,Plundered Goldshire Vanguard,36,66,Possible lootable world object names are: Stolen Cargo,可能可拾取的场景物件（可按英文名查找）：Stolen Cargo,object_names_retained
+1124,19,Elwynn Forest,Eastvale Buckler,85.1,70,Possible lootable world object names are: Old Buckler,可能可拾取的场景物件（可按英文名查找）：Old Buckler,object_names_retained
+1125,19,Elwynn Forest,Traveler's Forest Cloak,71.8,71.1,Possible lootable world object names are: Traveling Cloth,可能可拾取的场景物件（可按英文名查找）：Traveling Cloth,object_names_retained
+1126,19,Elwynn Forest,Boar Harvester,34.1,83,Possible lootable world object names are: Homer's Boar Harvester,可能可拾取的场景物件（可按英文名查找）：Homer's Boar Harvester,object_names_retained
+1128,19,Elwynn Forest,Thunderfall Wand,17.1,69,Possible lootable world object names are: Thunder Falls Enchanted Branches,可能可拾取的场景物件（可按英文名查找）：Thunder Falls Enchanted Branches,object_names_retained
+1129,19,Elwynn Forest,Fisherman's Jerkin,34.7,64,Possible lootable world object names are: Fishing Box,可能可拾取的场景物件（可按英文名查找）：Fishing Box,object_names_retained
+1131,19,Elwynn Forest,Party Pants,24,73,Possible lootable world object names are: Morale Boosters,可能可拾取的场景物件（可按英文名查找）：Morale Boosters,object_names_retained
+1132,19,Elwynn Forest,Gardening Gloves,40,48,Possible lootable world object names are: Spare Equipment,可能可拾取的场景物件（可按英文名查找）：Spare Equipment,object_names_retained
+1136,19,Elwynn Forest,Lexicon Ring,65,70,Possible lootable world object names are: Lexicon of Azora - Part I: Mage Inscriptions,可能可拾取的场景物件（可按英文名查找）：Lexicon of Azora - Part I: Mage Inscriptions,object_names_retained
+1137,19,Elwynn Forest,Mauled Armplates,72,65,Possible lootable world object names are: Mauled Skeleton,可能可拾取的场景物件（可按英文名查找）：Mauled Skeleton,object_names_retained
+1138,19,Elwynn Forest,Stormwind Memento,75,51,Possible lootable world object names are: Stormwind Memento Offering,可能可拾取的场景物件（可按英文名查找）：Stormwind Memento Offering,object_names_retained
+1139,19,Elwynn Forest,Murloc Voodoo Doll,78,86,Possible lootable world object names are: Murloc Voodoo Toy,可能可拾取的场景物件（可按英文名查找）：Murloc Voodoo Toy,object_names_retained
+1140,19,Elwynn Forest,Heavy Logsplitter,82,64,Possible lootable world object names are: Embedded Axe,可能可拾取的场景物件（可按英文名查找）：Embedded Axe,object_names_retained
+1141,19,Elwynn Forest,Poacher's Crossbow,24,80,"Possible lootable world object names are: Confiscated Crossbow, Black Powder Barrel","可能可拾取的场景物件（可按英文名查找）：Confiscated Crossbow, Black Powder Barrel",object_names_retained
+1142,19,Elwynn Forest,Murloc Ritual Staff,55,67,Possible lootable world object names are: Murloc Ritual Stick,可能可拾取的场景物件（可按英文名查找）：Murloc Ritual Stick,object_names_retained
+1143,19,Elwynn Forest,Decayed Breeches,39,60,Possible lootable world object names are: Loose Dirt,可能可拾取的场景物件（可按英文名查找）：Loose Dirt,object_names_retained
+1144,19,Elwynn Forest,Bones to Munch,68,45,Possible lootable world object names are: Riverpaw Pack Second in Command's Lunch,可能可拾取的场景物件（可按英文名查找）：Riverpaw Pack Second in Command's Lunch,object_names_retained
+1145,19,Elwynn Forest,Enchanted Straw Appendage,69,79,Possible lootable world object names are: Scarecrow Arm,可能可拾取的场景物件（可按英文名查找）：Scarecrow Arm,object_names_retained
+1146,19,Elwynn Forest,The Vanishing Strap,25.1,72.1,Possible lootable world object names are: Box of Smoke Bombs,可能可拾取的场景物件（可按英文名查找）：Box of Smoke Bombs,object_names_retained
+1148,18,Eastern Plaguelands,Bubbling Blood of Heroes,23,57,Possible lootable world object names are: Pool of Blood of Heroes,可能可拾取的场景物件（可按英文名查找）：Pool of Blood of Heroes,object_names_retained
+1149,18,Eastern Plaguelands,Havenfire Crown,22,13,Possible lootable world object names are: Golden Circlet,可能可拾取的场景物件（可按英文名查找）：Golden Circlet,object_names_retained
+1151,18,Eastern Plaguelands,Spiritwoven Vestments,76.3,41,Possible lootable world object names are: Adventurer's Corpse,可能可拾取的场景物件（可按英文名查找）：Adventurer's Corpse,object_names_retained
+1152,18,Eastern Plaguelands,Ring of Memorial,35.1,86.7,Possible lootable world object names are: Glowing Ring,可能可拾取的场景物件（可按英文名查找）：Glowing Ring,object_names_retained
+1153,18,Eastern Plaguelands,Fungal Cleaver,36,43.9,Possible lootable world object names are: Fungal Axe,可能可拾取的场景物件（可按英文名查找）：Fungal Axe,object_names_retained
+1154,18,Eastern Plaguelands,Wailing Spirit Amulet,16,56,Possible lootable world object names are: Glinting Pendant,可能可拾取的场景物件（可按英文名查找）：Glinting Pendant,object_names_retained
+1155,18,Eastern Plaguelands,Scarlet Doctrine,78,73,Possible lootable world object names are: Scarlet Libram,可能可拾取的场景物件（可按英文名查找）：Scarlet Libram,object_names_retained
+1156,18,Eastern Plaguelands,Shadowgrasp Sash,46,32.5,Possible lootable world object names are: Impaled Corpse,可能可拾取的场景物件（可按英文名查找）：Impaled Corpse,object_names_retained
+1157,18,Eastern Plaguelands,Tainted Wasteblade,48,62,Possible lootable world object names are: Tainted Blade,可能可拾取的场景物件（可按英文名查找）：Tainted Blade,object_names_retained
+1159,18,Eastern Plaguelands,Plague Fiend Chain,34.9,69.2,"Possible lootable world object names are: Mossy Bag, Mossy Belt","可能可拾取的场景物件（可按英文名查找）：Mossy Bag, Mossy Belt",object_names_retained
+1160,18,Eastern Plaguelands,Gravecall Staff,35.1,29.2,Possible lootable world object names are: Flaming Rod,可能可拾取的场景物件（可按英文名查找）：Flaming Rod,object_names_retained
+1161,18,Eastern Plaguelands,Scorched Runeblade,81.5,43,Possible lootable world object names are: Runeblade,可能可拾取的场景物件（可按英文名查找）：Runeblade,object_names_retained
+1162,18,Eastern Plaguelands,Deathwhisper Wand,18.9,31.1,Possible lootable world object names are: Necromancer's Corpse,可能可拾取的场景物件（可按英文名查找）：Necromancer's Corpse,object_names_retained
+1163,18,Eastern Plaguelands,Adon's Second Blade,53.5,12.1,Possible lootable world object names are: Stuck Rapier,可能可拾取的场景物件（可按英文名查找）：Stuck Rapier,object_names_retained
+1164,18,Eastern Plaguelands,Malleus Haereticorum,82.2,79.3,Possible lootable world object names are: Scarlet Gavel,可能可拾取的场景物件（可按英文名查找）：Scarlet Gavel,object_names_retained
+1165,18,Eastern Plaguelands,Mushroom Pickin' Bag,38.1,17.1,Possible lootable world object names are: Empty Bag,可能可拾取的场景物件（可按英文名查找）：Empty Bag,object_names_retained
+1166,18,Eastern Plaguelands,Cryptsilk Cuffs,67,30.1,Possible lootable world object names are: Murkied Bracers,可能可拾取的场景物件（可按英文名查找）：Murkied Bracers,object_names_retained
+1167,18,Eastern Plaguelands,Plague Purger,65,14,Possible lootable world object names are: Lit Torch,可能可拾取的场景物件（可按英文名查找）：Lit Torch,object_names_retained
+1168,18,Eastern Plaguelands,The Silver Blade,46.4,44.2,Possible lootable world object names are: Holy Sword,可能可拾取的场景物件（可按英文名查找）：Holy Sword,object_names_retained
+1169,18,Eastern Plaguelands,Red Metal Pauldrons,11.2,25.9,Possible lootable world object names are: Rusty Pauldrons,可能可拾取的场景物件（可按英文名查找）：Rusty Pauldrons,object_names_retained
+1170,18,Eastern Plaguelands,Quel'thalas Commander Aegis,48.1,13.9,Possible lootable world object names are: Quel'thalas Relic,可能可拾取的场景物件（可按英文名查找）：Quel'thalas Relic,object_names_retained
+1171,18,Eastern Plaguelands,Scarlet Crossbow,71.2,75.7,Possible lootable world object names are: Defense Crossbow,可能可拾取的场景物件（可按英文名查找）：Defense Crossbow,object_names_retained
+1172,18,Eastern Plaguelands,Ravenridge Shotgun,74.1,58.8,Possible lootable world object names are: Buried Shotgun,可能可拾取的场景物件（可按英文名查找）：Buried Shotgun,object_names_retained
+1173,18,Eastern Plaguelands,Idol of Breathing Life,72.9,53,Possible lootable world object names are: Sack of Relics,可能可拾取的场景物件（可按英文名查找）：Sack of Relics,object_names_retained
+1174,18,Eastern Plaguelands,Blight Bomber,22.2,68.1,"Possible lootable world object names are: Plagued Bow, Ranger Tactics Manual","可能可拾取的场景物件（可按英文名查找）：Plagued Bow, Ranger Tactics Manual",object_names_retained
+1175,18,Eastern Plaguelands,Ghost Buster,58.7,55.1,"Possible lootable world object names are: Crusader's Mace, Crusader's Chest","可能可拾取的场景物件（可按英文名查找）：Crusader's Mace, Crusader's Chest",object_names_retained
+1176,18,Eastern Plaguelands,Junior Mallet,5,38.2,Possible lootable world object names are: Spare Hammer,可能可拾取的场景物件（可按英文名查找）：Spare Hammer,object_names_retained
+1177,18,Eastern Plaguelands,Sorrow Leggings,33.3,51,Possible lootable world object names are: Lost Goods,可能可拾取的场景物件（可按英文名查找）：Lost Goods,object_names_retained
+1178,18,Eastern Plaguelands,Bleakfang Handwraps,72,45,Possible lootable world object names are: Dusty Crate,可能可拾取的场景物件（可按英文名查找）：Dusty Crate,object_names_retained
+1179,18,Eastern Plaguelands,Deadcapitator,65,24.4,Possible lootable world object names are: Executioner's Axe,可能可拾取的场景物件（可按英文名查找）：Executioner's Axe,object_names_retained
+1180,18,Eastern Plaguelands,Assisting Hand,33.1,15,Possible lootable world object names are: Assistant's Remains,可能可拾取的场景物件（可按英文名查找）：Assistant's Remains,object_names_retained
+1181,18,Eastern Plaguelands,Revival Garments,24.1,78.2,Possible lootable world object names are: Mossflayer Corpse,可能可拾取的场景物件（可按英文名查找）：Mossflayer Corpse,object_names_retained
+1182,18,Eastern Plaguelands,Eboncrypt Band,27,16.3,Possible lootable world object names are: Glinting Sack,可能可拾取的场景物件（可按英文名查找）：Glinting Sack,object_names_retained
+1183,18,Eastern Plaguelands,Borelgore's Chewtoy,51,27,Possible lootable world object names are: Chewed Knuckle,可能可拾取的场景物件（可按英文名查找）：Chewed Knuckle,object_names_retained
+1184,18,Eastern Plaguelands,Resilient Stompers,46,52,Possible lootable world object names are: Adventurer's Boots,可能可拾取的场景物件（可按英文名查找）：Adventurer's Boots,object_names_retained
+1185,18,Eastern Plaguelands,Scarlet Cauterizer,75,79,"Possible lootable world object names are: Scarlet Chest, Cauterizing Needle","可能可拾取的场景物件（可按英文名查找）：Scarlet Chest, Cauterizing Needle",object_names_retained
+1186,18,Eastern Plaguelands,Gravewood Belt,56.3,73.7,Possible lootable world object names are: Fisherman Bag,可能可拾取的场景物件（可按英文名查找）：Fisherman Bag,object_names_retained
+1187,18,Eastern Plaguelands,Watchman Helm,72.1,70.1,Possible lootable world object names are: Praetorian Helmet,可能可拾取的场景物件（可按英文名查找）：Praetorian Helmet,object_names_retained
+1188,18,Eastern Plaguelands,Argent Sentry Pauldrons,34,64.2,Possible lootable world object names are: Fallen Sentry Armor,可能可拾取的场景物件（可按英文名查找）：Fallen Sentry Armor,object_names_retained
+1189,18,Eastern Plaguelands,Ghoulbane Gauntlets,56,43,Possible lootable world object names are: Chainmail Gauntlets,可能可拾取的场景物件（可按英文名查找）：Chainmail Gauntlets,object_names_retained
+1190,18,Eastern Plaguelands,Scourge Cloak,23.8,29.9,Possible lootable world object names are: Scourge Banner Scrap,可能可拾取的场景物件（可按英文名查找）：Scourge Banner Scrap,object_names_retained
+1191,18,Eastern Plaguelands,Ghost-thread Shroud,34.3,79.2,Possible lootable world object names are: Darrowshire Cloak,可能可拾取的场景物件（可按英文名查找）：Darrowshire Cloak,object_names_retained
+1192,18,Eastern Plaguelands,Deathguard Vambraces,62,44,Possible lootable world object names are: Broken Box of War Supplies,可能可拾取的场景物件（可按英文名查找）：Broken Box of War Supplies,object_names_retained
+1196,1,Arathi Highlands,Interlinked Fingerguards,47,61,Possible lootable world object names are: Hidden Stash,可能可拾取的场景物件（可按英文名查找）：Hidden Stash,object_names_retained
+1197,1,Arathi Highlands,Arcane Impaler,70.1,53.9,Possible lootable world object names are: Arcane Blade,可能可拾取的场景物件（可按英文名查找）：Arcane Blade,object_names_retained
+1198,1,Arathi Highlands,Earth Reverent's Sash,62.8,37.2,Possible lootable world object names are: Reverent of Earth,可能可拾取的场景物件（可按英文名查找）：Reverent of Earth,object_names_retained
+1199,1,Arathi Highlands,Worldforge Drops (2 items),31,26,Items found in this area: • Syndiclap (Fist Weapon) • Musty Horse Blanket (Cloth Armor) Possible lootable world object names are: Clothing Crate,此区域记录的物品：Syndiclap（拳套）；Musty Horse Blanket（布甲）。可能可拾取的场景物件（英文名）：Clothing Crate,area_items
+1203,1,Arathi Highlands,Brumn's Unfinished Project,28.3,45.5,Possible lootable world object names are: Brumn's Discarded Project,可能可拾取的场景物件（可按英文名查找）：Brumn's Discarded Project,object_names_retained
+1207,1,Arathi Highlands,Stolen War Pendant,84.1,28.1,Possible lootable world object names are: Shiny Kobold Treasure,可能可拾取的场景物件（可按英文名查找）：Shiny Kobold Treasure,object_names_retained
+1208,1,Arathi Highlands,Worldforge Drops (2 items),26.2,65.7,Items found in this area: • Blade of the Syndicate Lord (One-Handed Sword) • Watchguard's Prized Plate (Mail Armor) Possible lootable world object names are: Lordly Blade,此区域记录的物品：Blade of the Syndicate Lord（单手剑）；Watchguard's Prized Plate（锁甲）。可能可拾取的场景物件（英文名）：Lordly Blade,area_items
+1209,1,Arathi Highlands,Deadweight Pauldrons,61.1,64.1,Possible lootable world object names are: Muck Coated Pauldrons,可能可拾取的场景物件（可按英文名查找）：Muck Coated Pauldrons,object_names_retained
+1211,1,Arathi Highlands,Stromgarde Buckler,22.1,59,Possible lootable world object names are: Stormguard,可能可拾取的场景物件（可按英文名查找）：Stormguard,object_names_retained
+1212,1,Arathi Highlands,Ancient Dark Iron Mace,44.3,93,Possible lootable world object names are: Sunken Mace,可能可拾取的场景物件（可按英文名查找）：Sunken Mace,object_names_retained
+1213,1,Arathi Highlands,Silken Travel Gloves,56,68,Possible lootable world object names are: Abandoned Camp Storage,可能可拾取的场景物件（可按英文名查找）：Abandoned Camp Storage,object_names_retained
+1217,1,Arathi Highlands,Muffled Boots,27,65,Possible lootable world object names are: Thief's Stash,可能可拾取的场景物件（可按英文名查找）：Thief's Stash,object_names_retained
+1218,1,Arathi Highlands,Stromgarde Spell Tome,26.9,61,Possible lootable world object names are: Syndicate Spell Tome,可能可拾取的场景物件（可按英文名查找）：Syndicate Spell Tome,object_names_retained
+1219,1,Arathi Highlands,Heavy Tempered Blade,31,43,Possible lootable world object names are: Heat Tempered Sword,可能可拾取的场景物件（可按英文名查找）：Heat Tempered Sword,object_names_retained
+1220,1,Arathi Highlands,Withered Trollkin Shoulders,31.3,46,Possible lootable world object names are: Witherbark Cache,可能可拾取的场景物件（可按英文名查找）：Witherbark Cache,object_names_retained
+1221,1,Arathi Highlands,Rough Weathered Ring,67,29,Possible lootable world object names are: Valuable Offering,可能可拾取的场景物件（可按英文名查找）：Valuable Offering,object_names_retained
+1222,1,Arathi Highlands,Mountain Climbers,38,22,Possible lootable world object names are: Climbing Boots,可能可拾取的场景物件（可按英文名查找）：Climbing Boots,object_names_retained
+1223,1,Arathi Highlands,Earth Infused Offering,36,57.1,Possible lootable world object names are: Offering,可能可拾取的场景物件（可按英文名查找）：Offering,object_names_retained
+1224,1,Arathi Highlands,Ancient Wavepiercer,20.7,89.7,Possible lootable world object names are: Ancient Naga Trident,可能可拾取的场景物件（可按英文名查找）：Ancient Naga Trident,object_names_retained
+1227,1,Arathi Highlands,Water Drawing Cap,30,64,Possible lootable world object names are: Well Worn Hat,可能可拾取的场景物件（可按英文名查找）：Well Worn Hat,object_names_retained
+1228,1,Arathi Highlands,Forgotten Fitted Pants,42.1,61.1,Possible lootable world object names are: Warm Dry Pants,可能可拾取的场景物件（可按英文名查找）：Warm Dry Pants,object_names_retained
+1230,1,Arathi Highlands,Hammerfall Wristguards,63,56,Possible lootable world object names are: Equipment Barrel,可能可拾取的场景物件（可按英文名查找）：Equipment Barrel,object_names_retained
+1231,1,Arathi Highlands,Suprisingly Sturdy Helm,20.9,46.9,Possible lootable world object names are: Intact Plate Helm,可能可拾取的场景物件（可按英文名查找）：Intact Plate Helm,object_names_retained
+1233,1,Arathi Highlands,Commode Cleaver,57,36,Possible lootable world object names are: Embedded Axe,可能可拾取的场景物件（可按英文名查找）：Embedded Axe,object_names_retained
+1234,1,Arathi Highlands,Abandonded Wristguard,49,56,Possible lootable world object names are: Decayed Corpse,可能可拾取的场景物件（可按英文名查找）：Decayed Corpse,object_names_retained
+1235,1,Arathi Highlands,Grave Spite,64.1,49,Possible lootable world object names are: Throwing Dagger,可能可拾取的场景物件（可按英文名查找）：Throwing Dagger,object_names_retained
+1236,1,Arathi Highlands,The Withered Totem,70.9,69.9,Possible lootable world object names are: Witherbark Totem,可能可拾取的场景物件（可按英文名查找）：Witherbark Totem,object_names_retained
+1237,1,Arathi Highlands,Skullknocker,37,45,Possible lootable world object names are: Fallen Adventurer's Mace,可能可拾取的场景物件（可按英文名查找）：Fallen Adventurer's Mace,object_names_retained
+1238,1,Arathi Highlands,Versatile Fishing Blanket,29,54,Possible lootable world object names are: Abandoned Supplies,可能可拾取的场景物件（可按英文名查找）：Abandoned Supplies,object_names_retained
+1239,1,Arathi Highlands,Boarder's Axe,21,84.9,Possible lootable world object names are: Barnacle-Crusted Boarder's Axe,可能可拾取的场景物件（可按英文名查找）：Barnacle-Crusted Boarder's Axe,object_names_retained
+1241,1,Arathi Highlands,Loose Treasure Pants,45,75,Possible lootable world object names are: Waterproof Trunk,可能可拾取的场景物件（可按英文名查找）：Waterproof Trunk,object_names_retained
+1243,47,Winterspring,Worldforge Drops (5 items),61.2,38.3,Items found in this area: • Hope for Atonement (Libram Armor) • Staff of the Twisted Spirit (Staff) • Shadowhide Claw (Armor) • Sturdy Spectral Ring (Armor) • Ravencrest Signet (Armor),此区域记录的物品：Hope for Atonement（圣契）；Staff of the Twisted Spirit（法杖）；影皮爪（护甲）；坚固幽灵之戒（护甲）；拉文凯斯徽记（护甲）,area_items
+1244,47,Winterspring,Frostglade Saber,51.9,41.8,Possible lootable world object names are: Frozen Saber,可能可拾取的场景物件（可按英文名查找）：Frozen Saber,object_names_retained
+1245,47,Winterspring,Winter's Last Embrace,50,46,Possible lootable world object names are: Highborne Momento,可能可拾取的场景物件（可按英文名查找）：Highborne Momento,object_names_retained
+1246,47,Winterspring,Wintergale Cloak,52.8,27.2,Possible lootable world object names are: Heavy Fur,可能可拾取的场景物件（可按英文名查找）：Heavy Fur,object_names_retained
+1247,47,Winterspring,Winterfall Dagger,67,36,Possible lootable world object names are: Frozen Dagger,可能可拾取的场景物件（可按英文名查找）：Frozen Dagger,object_names_retained
+1248,47,Winterspring,Snowstalker Rifle,50.8,17.8,Possible lootable world object names are: Dwarven Rifle,可能可拾取的场景物件（可按英文名查找）：Dwarven Rifle,object_names_retained
+1249,47,Winterspring,Winterbite Legguards,67.8,27.4,Possible lootable world object names are: Crate,可能可拾取的场景物件（可按英文名查找）：Crate,object_names_retained
+1250,47,Winterspring,Aurorawhirl Pick,53,50,Possible lootable world object names are: Climbing Pick,可能可拾取的场景物件（可按英文名查找）：Climbing Pick,object_names_retained
+1252,47,Winterspring,Owlbeast Talon,64.9,18.8,Possible lootable world object names are: Owl Talon,可能可拾取的场景物件（可按英文名查找）：Owl Talon,object_names_retained
+1253,47,Winterspring,Fel Dust,54,87,Possible lootable world object names are: Sample Box,可能可拾取的场景物件（可按英文名查找）：Sample Box,object_names_retained
+1254,47,Winterspring,Thermal Pendant,29,36,Possible lootable world object names are: Frozen Pendant,可能可拾取的场景物件（可按英文名查找）：Frozen Pendant,object_names_retained
+1255,47,Winterspring,Winter Band,59,10.8,Possible lootable world object names are: Jack's Stash,可能可拾取的场景物件（可按英文名查找）：Jack's Stash,object_names_retained
+1257,47,Winterspring,Chillhammer,69.9,41.8,Possible lootable world object names are: Frozen Mace,可能可拾取的场景物件（可按英文名查找）：Frozen Mace,object_names_retained
+1258,47,Winterspring,Non-Slip Winter Boots,58,22,Possible lootable world object names are: Gnomish Chest,可能可拾取的场景物件（可按英文名查找）：Gnomish Chest,object_names_retained
+1259,47,Winterspring,Starfall Longbow,64,68.9,Possible lootable world object names are: Elven Bow,可能可拾取的场景物件（可按英文名查找）：Elven Bow,object_names_retained
+1260,47,Winterspring,Ice Shaver,63.2,70.1,Possible lootable world object names are: Whizzpin's Sword,可能可拾取的场景物件（可按英文名查找）：Whizzpin's Sword,object_names_retained
+1261,47,Winterspring,Cold Wristguards,67,37,Possible lootable world object names are: Stolen Supplies,可能可拾取的场景物件（可按英文名查找）：Stolen Supplies,object_names_retained
+1262,47,Winterspring,Snowtalon Crossbow,67.1,51,Possible lootable world object names are: Frost Covered Crossbow,可能可拾取的场景物件（可按英文名查找）：Frost Covered Crossbow,object_names_retained
+1263,47,Winterspring,Eversleet Handguards,59,60,Possible lootable world object names are: Dun Mandarr Crate,可能可拾取的场景物件（可按英文名查找）：Dun Mandarr Crate,object_names_retained
+1264,47,Winterspring,Fur-Lined Vest,37.5,38.8,Possible lootable world object names are: Chest of Warm Clothes,可能可拾取的场景物件（可按英文名查找）：Chest of Warm Clothes,object_names_retained
+1265,47,Winterspring,Hyjal Protector's Knuckleduster,51,84,Possible lootable world object names are: Hyjal Fist Weapon,可能可拾取的场景物件（可按英文名查找）：Hyjal Fist Weapon,object_names_retained
+1266,47,Winterspring,Aurora Orb,54.6,51.3,Possible lootable world object names are: Blue Dragon Crystal,可能可拾取的场景物件（可按英文名查找）：Blue Dragon Crystal,object_names_retained
+1267,47,Winterspring,Snowpeak Claymore,53.1,56.7,Possible lootable world object names are: Icy Blade,可能可拾取的场景物件（可按英文名查找）：Icy Blade,object_names_retained
+1268,47,Winterspring,Timbermaw Idol,27.9,34,Possible lootable world object names are: Timbermaw Shrine,可能可拾取的场景物件（可按英文名查找）：Timbermaw Shrine,object_names_retained
+1269,47,Winterspring,Researcher's Dish,29.9,47,Possible lootable world object names are: Expedition Satchel,可能可拾取的场景物件（可按英文名查找）：Expedition Satchel,object_names_retained
+1270,47,Winterspring,Horror Horns,61,30,Possible lootable world object names are: Owlbeast Corpse,可能可拾取的场景物件（可按英文名查找）：Owlbeast Corpse,object_names_retained
+1271,47,Winterspring,Icemaw Greatmaul,45.2,40.7,Possible lootable world object names are: Primitive Offering Box,可能可拾取的场景物件（可按英文名查找）：Primitive Offering Box,object_names_retained
+1273,47,Winterspring,Lonely Gauntlets,49.3,30.3,Possible lootable world object names are: Night Elf Crate,可能可拾取的场景物件（可按英文名查找）：Night Elf Crate,object_names_retained
+1274,47,Winterspring,Owlbeast Pantaloons,63.1,17.8,Possible lootable world object names are: Cenarion Crate,可能可拾取的场景物件（可按英文名查找）：Cenarion Crate,object_names_retained
+1275,47,Winterspring,Ice Thistle Cape,71,37.7,Possible lootable world object names are: Yeti Cave Cloak,可能可拾取的场景物件（可按英文名查找）：Yeti Cave Cloak,object_names_retained
+1276,47,Winterspring,Azure Focusing Staff,57.4,48.3,Possible lootable world object names are: Pulsating Staff,可能可拾取的场景物件（可按英文名查找）：Pulsating Staff,object_names_retained
+1277,47,Winterspring,Flattened Shoulderpad,46.2,37,Possible lootable world object names are: Help Victim,可能可拾取的场景物件（可按英文名查找）：Help Victim,object_names_retained
+1278,47,Winterspring,Stormchill Spaulders,53,54,Possible lootable world object names are: Scalebane Corpse,可能可拾取的场景物件（可按英文名查找）：Scalebane Corpse,object_names_retained
+1279,47,Winterspring,Coldsnap Girdle,58.3,12.7,Possible lootable world object names are: Supply Cache,可能可拾取的场景物件（可按英文名查找）：Supply Cache,object_names_retained
+1281,44,Western Plaguelands,Scarlet Pauldrons,45,45,Possible lootable world object names are: Slightly-Damaged Chest,可能可拾取的场景物件（可按英文名查找）：Slightly-Damaged Chest,object_names_retained
+1282,44,Western Plaguelands,Scourgestalker’s Girdle,60.9,72.1,Possible lootable world object names are: Fishing Box,可能可拾取的场景物件（可按英文名查找）：Fishing Box,object_names_retained
+1283,44,Western Plaguelands,Decayed Grippers,61.7,35.1,Possible lootable world object names are: Behemoth Victim,可能可拾取的场景物件（可按英文名查找）：Behemoth Victim,object_names_retained
+1284,44,Western Plaguelands,Flesh Flayer Hook,39.5,68.5,Possible lootable world object names are: Abomination Hook,可能可拾取的场景物件（可按英文名查找）：Abomination Hook,object_names_retained
+1285,44,Western Plaguelands,Scarlet Slicer,53.1,36.9,Possible lootable world object names are: Scarlet Knight Sword,可能可拾取的场景物件（可按英文名查找）：Scarlet Knight Sword,object_names_retained
+1287,44,Western Plaguelands,Scarlet Robe,45,15,Possible lootable world object names are: Scarlet Chest,可能可拾取的场景物件（可按英文名查找）：Scarlet Chest,object_names_retained
+1288,44,Western Plaguelands,Worldforge Drops (2 items),80.2,74,Items found in this area: • Abomination Hook (One-Handed Axe) • Apothecary Cowl (Cloth Armor) Possible lootable world object names are: Apothecary Sack,此区域记录的物品：Abomination Hook（单手斧）；Apothecary Cowl（布甲）。可能可拾取的场景物件（英文名）：Apothecary Sack,area_items
+1289,44,Western Plaguelands,Wagon Sack,53.8,55.9,Possible lootable world object names are: Empty Sack,可能可拾取的场景物件（可按英文名查找）：Empty Sack,object_names_retained
+1290,44,Western Plaguelands,Plagued Cloak,40,79,Possible lootable world object names are: Druidic Chest,可能可拾取的场景物件（可按英文名查找）：Druidic Chest,object_names_retained
+1291,44,Western Plaguelands,Infantry Gauntlets,68.1,78.1,Possible lootable world object names are: Infantry Equipment,可能可拾取的场景物件（可按英文名查找）：Infantry Equipment,object_names_retained
+1292,44,Western Plaguelands,Blightbloom Talisman,53,66,Possible lootable world object names are: Corrupted Flower,可能可拾取的场景物件（可按英文名查找）：Corrupted Flower,object_names_retained
+1293,44,Western Plaguelands,Maddening Signet,58,37,Possible lootable world object names are: Radley's Special Scope,可能可拾取的场景物件（可按英文名查找）：Radley's Special Scope,object_names_retained
+1294,44,Western Plaguelands,Fetid Mace,63.9,57,Possible lootable world object names are: Fetid Blade,可能可拾取的场景物件（可按英文名查找）：Fetid Blade,object_names_retained
+1295,44,Western Plaguelands,Bloodied Pants,55,24,Possible lootable world object names are: Scarlet Supplies,可能可拾取的场景物件（可按英文名查找）：Scarlet Supplies,object_names_retained
+1296,44,Western Plaguelands,Manacles of Eternal Shadow,69,74,Possible lootable world object names are: Harvester's Chest,可能可拾取的场景物件（可按英文名查找）：Harvester's Chest,object_names_retained
+1297,44,Western Plaguelands,Staff of the Twisted Spirit,75,84,Possible lootable world object names are: Morvanth's Chest,可能可拾取的场景物件（可按英文名查找）：Morvanth's Chest,object_names_retained
+1298,31,Silithus,Runaway's Tunic,67.1,69.7,Possible lootable world object names are: Box of Offerings,可能可拾取的场景物件（可按英文名查找）：Box of Offerings,object_names_retained
+1299,31,Silithus,Rockstalker Silk Robe,33.1,75.9,Possible lootable world object names are: Rock Stalker Egg Sacks,可能可拾取的场景物件（可按英文名查找）：Rock Stalker Egg Sacks,object_names_retained
+1300,31,Silithus,The Eternal's Journal,70.2,25.4,Possible lootable world object names are: Eternal Watcher's Log,可能可拾取的场景物件（可按英文名查找）：Eternal Watcher's Log,object_names_retained
+1303,31,Silithus,Bravecrest Chain,80.8,20.9,Possible lootable world object names are: Wethered Amulet,可能可拾取的场景物件（可按英文名查找）：Wethered Amulet,object_names_retained
+1304,31,Silithus,Bracers of the Bound Storm,31.2,20.4,Possible lootable world object names are: Elemental Bracer,可能可拾取的场景物件（可按英文名查找）：Elemental Bracer,object_names_retained
+1306,31,Silithus,Idol of Shifting Sands,47.3,54.5,Possible lootable world object names are: Draconian Relic Sediment,可能可拾取的场景物件（可按英文名查找）：Draconian Relic Sediment,object_names_retained
+1308,31,Silithus,Soldier's Bulwark,44,79,Possible lootable world object names are: Solider's Bulwark,可能可拾取的场景物件（可按英文名查找）：Solider's Bulwark,object_names_retained
+1309,31,Silithus,Carapace Clasps,36,71.1,Possible lootable world object names are: Scorpion Corpse,可能可拾取的场景物件（可按英文名查找）：Scorpion Corpse,object_names_retained
+1311,31,Silithus,Qiraji Scale Greaves,43.9,13.9,Possible lootable world object names are: Fresh Hive'Ashi Corpse,可能可拾取的场景物件（可按英文名查找）：Fresh Hive'Ashi Corpse,object_names_retained
+1312,31,Silithus,Sandreaver Longbow,20.3,20.6,Possible lootable world object names are: Rough Longbow,可能可拾取的场景物件（可按英文名查找）：Rough Longbow,object_names_retained
+1313,31,Silithus,Lost Cenarion Bolter,55.1,48,Possible lootable world object names are: Lost Crossbow,可能可拾取的场景物件（可按英文名查找）：Lost Crossbow,object_names_retained
+1314,31,Silithus,Purple Steppers,29,31,Possible lootable world object names are: Twilight Post Supplies,可能可拾取的场景物件（可按英文名查找）：Twilight Post Supplies,object_names_retained
+1315,31,Silithus,Twilight Prophet Staff,35.9,29.5,Possible lootable world object names are: Twilight Stave,可能可拾取的场景物件（可按英文名查找）：Twilight Stave,object_names_retained
+1316,31,Silithus,Southwind Defender,59.4,62,Possible lootable world object names are: Sunken Sword,可能可拾取的场景物件（可按英文名查找）：Sunken Sword,object_names_retained
+1317,31,Silithus,Scorpionscale Mantle,45,92.5,Possible lootable world object names are: Scorpion Scale,可能可拾取的场景物件（可按英文名查找）：Scorpion Scale,object_names_retained
+1318,31,Silithus,Ancient Sentinel Headdress,63.2,55.9,Possible lootable world object names are: Ancient Sentinel Guard,可能可拾取的场景物件（可按英文名查找）：Ancient Sentinel Guard,object_names_retained
+1319,31,Silithus,Torn Cloak,67.3,83,Possible lootable world object names are: Lost Hero's Remains,可能可拾取的场景物件（可按英文名查找）：Lost Hero's Remains,object_names_retained
+1320,31,Silithus,Brigade Blunderbuss,26.2,55.1,Possible lootable world object names are: Fallen Blunderbuss,可能可拾取的场景物件（可按英文名查找）：Fallen Blunderbuss,object_names_retained
+1321,31,Silithus,Wand of Twilight,68,17,Possible lootable world object names are: Twilight Infusion,可能可拾取的场景物件（可按英文名查找）：Twilight Infusion,object_names_retained
+1322,31,Silithus,Chitin Thread Wraps,45.9,29.1,Possible lootable world object names are: Lost Supplies,可能可拾取的场景物件（可按英文名查找）：Lost Supplies,object_names_retained
+1353,28,Redridge Mountains,Mongrel Blade,43.3,70.8,Possible lootable world object names are: Gnollish Sword,可能可拾取的场景物件（可按英文名查找）：Gnollish Sword,object_names_retained
+1354,28,Redridge Mountains,Alther's Chain Wrap,52,45.2,Possible lootable world object names are: Web-Covered Belt,可能可拾取的场景物件（可按英文名查找）：Web-Covered Belt,object_names_retained
+1355,28,Redridge Mountains,Rusty Redridge Rifle,21,55,Possible lootable world object names are: Capsized Rifle,可能可拾取的场景物件（可按英文名查找）：Capsized Rifle,object_names_retained
+1356,28,Redridge Mountains,Tidecaller's Hammer,58,52,Possible lootable world object names are: Improvised Murloc Hammer,可能可拾取的场景物件（可按英文名查找）：Improvised Murloc Hammer,object_names_retained
+1357,28,Redridge Mountains,Dragon Matriarch Cloak,43,31,Possible lootable world object names are: Burning Scales of the Black Dragonflight Matriarch,可能可拾取的场景物件（可按英文名查找）：Burning Scales of the Black Dragonflight Matriarch,object_names_retained
+1359,28,Redridge Mountains,Three Corner Carp,18.9,92.8,Possible lootable world object names are: Chocked Fish Corpse,可能可拾取的场景物件（可按英文名查找）：Chocked Fish Corpse,object_names_retained
+1360,28,Redridge Mountains,Ring of the Lexicon,80,49,Possible lootable world object names are: Lexicon of Azora - Part II: Warlock Rituals,可能可拾取的场景物件（可按英文名查找）：Lexicon of Azora - Part II: Warlock Rituals,object_names_retained
+1361,28,Redridge Mountains,Aqualon's Bolt,57.5,56.5,Possible lootable world object names are: Aqualon's Core,可能可拾取的场景物件（可按英文名查找）：Aqualon's Core,object_names_retained
+1362,28,Redridge Mountains,Shadowhide Claw,72,59.2,Possible lootable world object names are: Shadowhide Treasure,可能可拾取的场景物件（可按英文名查找）：Shadowhide Treasure,object_names_retained
+1363,28,Redridge Mountains,Blackrock Waraxe,47.1,32.8,Possible lootable world object names are: Lost Axe,可能可拾取的场景物件（可按英文名查找）：Lost Axe,object_names_retained
+1364,28,Redridge Mountains,Old Redridge Buckler,88,73,Possible lootable world object names are: Redwood Buckler,可能可拾取的场景物件（可按英文名查找）：Redwood Buckler,object_names_retained
+1365,28,Redridge Mountains,Adventurer's Crossbow,52.9,35.9,Possible lootable world object names are: Cocooned Adventurer,可能可拾取的场景物件（可按英文名查找）：Cocooned Adventurer,object_names_retained
+1366,28,Redridge Mountains,Stonewatch Handwraps,69,53,Possible lootable world object names are: Stonewatch Chest,可能可拾取的场景物件（可按英文名查找）：Stonewatch Chest,object_names_retained
+1367,28,Redridge Mountains,Blackrock Summoner's Garb,37,9,Possible lootable world object names are: Blackrock Armor Supplies,可能可拾取的场景物件（可按英文名查找）：Blackrock Armor Supplies,object_names_retained
+1370,28,Redridge Mountains,Gnoll Crafted Spaulder,17,63,Possible lootable world object names are: Gnollish Shoulderpad,可能可拾取的场景物件（可按英文名查找）：Gnollish Shoulderpad,object_names_retained
+1372,28,Redridge Mountains,Gnoll Cap,39,33,Possible lootable world object names are: Gnollish Headwear,可能可拾取的场景物件（可按英文名查找）：Gnollish Headwear,object_names_retained
+1373,28,Redridge Mountains,Mrrrllrl Stick,81.1,60.9,Possible lootable world object names are: Unique Pole,可能可拾取的场景物件（可按英文名查找）：Unique Pole,object_names_retained
+1374,28,Redridge Mountains,Old War Tome,30.2,67.8,Possible lootable world object names are: Free Book,可能可拾取的场景物件（可按英文名查找）：Free Book,object_names_retained
+1376,28,Redridge Mountains,Three Corner Coil,66,72,Possible lootable world object names are: Blackrock Smuggled Goods,可能可拾取的场景物件（可按英文名查找）：Blackrock Smuggled Goods,object_names_retained
+1378,28,Redridge Mountains,Everstill Claymore,43,54,Possible lootable world object names are: Sunken Claymore,可能可拾取的场景物件（可按英文名查找）：Sunken Claymore,object_names_retained
+1381,2,Ashenvale,Malorne's Girdle,51,55,Possible lootable world object names are: Gift of Malorne,可能可拾取的场景物件（可按英文名查找）：Gift of Malorne,object_names_retained
+1382,2,Ashenvale,Bathran's Cursed Twig,32,20.3,Possible lootable world object names are: Bathran's Cursed Branch,可能可拾取的场景物件（可按英文名查找）：Bathran's Cursed Branch,object_names_retained
+1386,2,Ashenvale,Blade of Severed Souls,76,75,Possible lootable world object names are: Ierie Broadsword,可能可拾取的场景物件（可按英文名查找）：Ierie Broadsword,object_names_retained
+1390,2,Ashenvale,Infiltrator's Shield,77.1,74.5,"Possible lootable world object names are: Forgotten Supplies, Ierie Broadsword","可能可拾取的场景物件（可按英文名查找）：Forgotten Supplies, Ierie Broadsword",object_names_retained
+1393,2,Ashenvale,Bleakheart Piercer,81.1,50.5,Possible lootable world object names are: Bleakheart Heartpiercer,可能可拾取的场景物件（可按英文名查找）：Bleakheart Heartpiercer,object_names_retained
+1397,2,Ashenvale,Fine Silk Wraps,61,39,Possible lootable world object names are: Woven Silk Band,可能可拾取的场景物件（可按英文名查找）：Woven Silk Band,object_names_retained
+1398,2,Ashenvale,Rock Smasher,54,64,Possible lootable world object names are: Hammer of the Earthshaper,可能可拾取的场景物件（可按英文名查找）：Hammer of the Earthshaper,object_names_retained
+1399,2,Ashenvale,Fel Infused Band,83,70,Possible lootable world object names are: Fel Infused Fragment,可能可拾取的场景物件（可按英文名查找）：Fel Infused Fragment,object_names_retained
+1400,2,Ashenvale,Mystral Compass,53,71,Possible lootable world object names are: Mystra's Forgotten Compass,可能可拾取的场景物件（可按英文名查找）：Mystra's Forgotten Compass,object_names_retained
+1405,2,Ashenvale,Sunken Zoram Spear,7,13.1,Possible lootable world object names are: Elven Spear of Zoram,可能可拾取的场景物件（可按英文名查找）：Elven Spear of Zoram,object_names_retained
+1406,2,Ashenvale,Rosebud Ring,56,49,Possible lootable world object names are: Ring of Druidic Whispers,可能可拾取的场景物件（可按英文名查找）：Ring of Druidic Whispers,object_names_retained
+1408,2,Ashenvale,Felforged Meteor Fragment,17,20,Possible lootable world object names are: Felforged Meteor Fragment Remnant,可能可拾取的场景物件（可按英文名查找）：Felforged Meteor Fragment Remnant,object_names_retained
+1409,2,Ashenvale,Hunter's Tunic,76,58,Possible lootable world object names are: Hunter's Lockbox,可能可拾取的场景物件（可按英文名查找）：Hunter's Lockbox,object_names_retained
+1410,4,Azshara,Hydraxian Staff,79.1,73.8,Possible lootable world object names are: Duke's Staff,可能可拾取的场景物件（可按英文名查找）：Duke's Staff,object_names_retained
+1411,4,Azshara,Sacrificial Carver,61,25,Possible lootable world object names are: Bloody Knife,可能可拾取的场景物件（可按英文名查找）：Bloody Knife,object_names_retained
+1412,4,Azshara,Legashi Hellmail,51.9,19.4,Possible lootable world object names are: Woven Legashi Basket,可能可拾取的场景物件（可按英文名查找）：Woven Legashi Basket,object_names_retained
+1413,4,Azshara,Azure Will,42.4,83.9,Possible lootable world object names are: Draconic Wand,可能可拾取的场景物件（可按英文名查找）：Draconic Wand,object_names_retained
+1414,4,Azshara,Lyre of the Grand Scribe,90.4,35.1,Possible lootable world object names are: Eldara's Lyre,可能可拾取的场景物件（可按英文名查找）：Eldara's Lyre,object_names_retained
+1416,4,Azshara,Deep Hydra's Scales,57,52,Possible lootable world object names are: Shed Hydra Scales,可能可拾取的场景物件（可按英文名查找）：Shed Hydra Scales,object_names_retained
+1417,4,Azshara,Hydra Hide Belt,62.1,93.8,Possible lootable world object names are: Buried Cage,可能可拾取的场景物件（可按英文名查找）：Buried Cage,object_names_retained
+1418,4,Azshara,Vanessa's Eyepatch,53.9,88.1,Possible lootable world object names are: Advanced Pirate Medical Device,可能可拾取的场景物件（可按英文名查找）：Advanced Pirate Medical Device,object_names_retained
+1419,4,Azshara,Cliffwalker Legplates,83.9,17,Possible lootable world object names are: Heavy Furbolg Basket,可能可拾取的场景物件（可按英文名查找）：Heavy Furbolg Basket,object_names_retained
+1420,4,Azshara,Shahiar's Lost Horn,60,66,Possible lootable world object names are: Fel Hunter's Spike,可能可拾取的场景物件（可按英文名查找）：Fel Hunter's Spike,object_names_retained
+1421,4,Azshara,Beth'Amara Shard,39,64,Possible lootable world object names are: Glowing Shard,可能可拾取的场景物件（可按英文名查找）：Glowing Shard,object_names_retained
+1422,4,Azshara,Cilkeck's Gloves,45.1,91,"Possible lootable world object names are: Cilkeck's Toolbox, Mysterious Barrel","可能可拾取的场景物件（可按英文名查找）：Cilkeck's Toolbox, Mysterious Barrel",object_names_retained
+1423,4,Azshara,Vigilant Glaive,20.9,62,Possible lootable world object names are: Fallen Glaive,可能可拾取的场景物件（可按英文名查找）：Fallen Glaive,object_names_retained
+1424,4,Azshara,Claws of the Lion,26.3,76.6,Possible lootable world object names are: Lion's Claws,可能可拾取的场景物件（可按英文名查找）：Lion's Claws,object_names_retained
+1425,4,Azshara,The Bear Feet,35.6,35.5,Possible lootable world object names are: Bare Shoes,可能可拾取的场景物件（可按英文名查找）：Bare Shoes,object_names_retained
+1426,4,Azshara,On the Importance of Arcane Foci,29.1,40,"Possible lootable world object names are: Arcane Tome, Apprentice's Wardrobe, Mysterious Arcane Book","可能可拾取的场景物件（可按英文名查找）：Arcane Tome, Apprentice's Wardrobe, Mysterious Arcane Book",object_names_retained
+1427,4,Azshara,Claws of the Bear,25,66,Possible lootable world object names are: Buried Statue,可能可拾取的场景物件（可按英文名查找）：Buried Statue,object_names_retained
+1428,4,Azshara,Elune's Glow,49,46.6,Possible lootable world object names are: Moonwashed Bow,可能可拾取的场景物件（可按英文名查找）：Moonwashed Bow,object_names_retained
+1429,4,Azshara,Ravencrest Signet,72,85,Possible lootable world object names are: Glinting Signet Stone,可能可拾取的场景物件（可按英文名查找）：Glinting Signet Stone,object_names_retained
+1430,4,Azshara,Spitelash Waistguards,66.3,77.1,Possible lootable world object names are: Spitelash Supply Barrel,可能可拾取的场景物件（可按英文名查找）：Spitelash Supply Barrel,object_names_retained
+1431,4,Azshara,Eldara's Stargazer,54.2,10.8,Possible lootable world object names are: Stargazer,可能可拾取的场景物件（可按英文名查找）：Stargazer,object_names_retained
+1432,4,Azshara,Stormslicer,59,41,Possible lootable world object names are: Giant's Storm Dagger,可能可拾取的场景物件（可按英文名查找）：Giant's Storm Dagger,object_names_retained
+1433,4,Azshara,Ruinbreaker,28.6,81.3,Possible lootable world object names are: Ruin Excavator,可能可拾取的场景物件（可按英文名查找）：Ruin Excavator,object_names_retained
+1434,4,Azshara,Markri Turret,40,46.5,Possible lootable world object names are: Pinned Crossbow,可能可拾取的场景物件（可按英文名查找）：Pinned Crossbow,object_names_retained
+1435,4,Azshara,Legashi Bracers,66,17,Possible lootable world object names are: Legashi Equipment,可能可拾取的场景物件（可按英文名查找）：Legashi Equipment,object_names_retained
+1436,4,Azshara,Scalebeard's Old Shell,55,48,Possible lootable world object names are: Old Shell,可能可拾取的场景物件（可按英文名查找）：Old Shell,object_names_retained
+1439,4,Azshara,Necklace of Unbroken Waves,55.9,71.3,Possible lootable world object names are: Beached Necklace,可能可拾取的场景物件（可按英文名查找）：Beached Necklace,object_names_retained
+1440,4,Azshara,Burning Band,49.5,41.6,Possible lootable world object names are: Offering,可能可拾取的场景物件（可按英文名查找）：Offering,object_names_retained
+1441,4,Azshara,Idol of the Ocean's Depths,76,40,Possible lootable world object names are: Arkkoran Idol,可能可拾取的场景物件（可按英文名查找）：Arkkoran Idol,object_names_retained
+1442,4,Azshara,Totem of Venc,45,22,Possible lootable world object names are: Ursolan Totem,可能可拾取的场景物件（可按英文名查找）：Ursolan Totem,object_names_retained
+1444,26,Mulgore,Hawkrunner Bracers,52.1,29,Possible lootable world object names are: Weaver's Baskets,可能可拾取的场景物件（可按英文名查找）：Weaver's Baskets,object_names_retained
+1445,26,Mulgore,Thunderwalk Breastplate,51.1,21.1,Possible lootable world object names are: Abandoned Crate,可能可拾取的场景物件（可按英文名查找）：Abandoned Crate,object_names_retained
+1448,26,Mulgore,Dakota Steppe Greaves,62,64,Possible lootable world object names are: Reff's Sample Stash,可能可拾取的场景物件（可按英文名查找）：Reff's Sample Stash,object_names_retained
+1451,26,Mulgore,Sunchaser Blade,36,42,Possible lootable world object names are: Fallen Tauren's Blade,可能可拾取的场景物件（可按英文名查找）：Fallen Tauren's Blade,object_names_retained
+1453,26,Mulgore,Steppereaver Hatchet,43,14,Possible lootable world object names are: Venture Co. Axe,可能可拾取的场景物件（可按英文名查找）：Venture Co. Axe,object_names_retained
+1454,26,Mulgore,Windfury Harpy Claw,66,69.1,Possible lootable world object names are: Matriarch Windfury Claw,可能可拾取的场景物件（可按英文名查找）：Matriarch Windfury Claw,object_names_retained
+1455,26,Mulgore,Swiftfoot Slippers,35,16,Possible lootable world object names are: Satinka's Spare Slippers,可能可拾取的场景物件（可按英文名查找）：Satinka's Spare Slippers,object_names_retained
+1457,26,Mulgore,Bloodied Torn Bracers,34,62,Possible lootable world object names are: Chewed Up Bones,可能可拾取的场景物件（可按英文名查找）：Chewed Up Bones,object_names_retained
+1458,26,Mulgore,Kodo Beast Idol,51,38.8,Possible lootable world object names are: Covered Relic,可能可拾取的场景物件（可按英文名查找）：Covered Relic,object_names_retained
+1459,26,Mulgore,Galak Smasher,61,54,Possible lootable world object names are: Galak Smashing Hammer,可能可拾取的场景物件（可按英文名查找）：Galak Smashing Hammer,object_names_retained
+1460,26,Mulgore,Pilfered Bloodhoof Bow,33,48,Possible lootable world object names are: Dwarven Bow,可能可拾取的场景物件（可按英文名查找）：Dwarven Bow,object_names_retained
+1461,26,Mulgore,Golden Plains Crossbow,29,23,Possible lootable world object names are: Withered Crossbow,可能可拾取的场景物件（可按英文名查找）：Withered Crossbow,object_names_retained
+1462,26,Mulgore,Bristleback Quill,40,16,Possible lootable world object names are: Sharpened Stone Blade,可能可拾取的场景物件（可按英文名查找）：Sharpened Stone Blade,object_names_retained
+1463,26,Mulgore,Skychaser Wand,28.3,21.1,Possible lootable world object names are: Wind Control Rod,可能可拾取的场景物件（可按英文名查找）：Wind Control Rod,object_names_retained
+1464,26,Mulgore,Plainsblade,42,56,Possible lootable world object names are: Leaning Greatsword,可能可拾取的场景物件（可按英文名查找）：Leaning Greatsword,object_names_retained
+1465,26,Mulgore,Windhoof Totem,46.8,48.8,Possible lootable world object names are: Odd Totem,可能可拾取的场景物件（可按英文名查找）：Odd Totem,object_names_retained
+1468,16,Duskwood,Worldforge Drops (2 items),74,79,Items found in this area: • Roland's Striker (One-Handed Sword) • Gutspill Cloak (Cloth Armor) Possible lootable world object names are: Roland's Striker,此区域记录的物品：Roland's Striker（单手剑）；Gutspill Cloak（布甲）。可能可拾取的场景物件（英文名）：Roland's Striker,area_items
+1469,16,Duskwood,Darkest Night Loop,17.4,33.2,"Possible lootable world object names are: Darkest Night Ring, Unlit Twilight Candle","可能可拾取的场景物件（可按英文名查找）：Darkest Night Ring, Unlit Twilight Candle",object_names_retained
+1470,16,Duskwood,Suspiciously Brown Trousers,81.7,60.9,Possible lootable world object names are: Suspiciously Brown Discarded Pants,可能可拾取的场景物件（可按英文名查找）：Suspiciously Brown Discarded Pants,object_names_retained
+1471,16,Duskwood,Honed Steel Axe,37.1,84.9,Possible lootable world object names are: Fallen Warrior's Axe,可能可拾取的场景物件（可按英文名查找）：Fallen Warrior's Axe,object_names_retained
+1472,16,Duskwood,Sack of Regenerating Provisions,72.2,56.1,Possible lootable world object names are: Leftover Provisions,可能可拾取的场景物件（可按英文名查找）：Leftover Provisions,object_names_retained
+1473,16,Duskwood,Tiloa's Flowers,77.9,36,Possible lootable world object names are: Tilloa's Flowers,可能可拾取的场景物件（可按英文名查找）：Tilloa's Flowers,object_names_retained
+1475,16,Duskwood,Defias Night Blade,51,77.1,Possible lootable world object names are: Defias Night Blade Blade,可能可拾取的场景物件（可按英文名查找）：Defias Night Blade Blade,object_names_retained
+1476,16,Duskwood,Hope for Atonement,90.9,30.9,Possible lootable world object names are: Atonement,可能可拾取的场景物件（可按英文名查找）：Atonement,object_names_retained
+1478,16,Duskwood,Venom Sample,14.2,66.8,Possible lootable world object names are: Spider Ichor Sample,可能可拾取的场景物件（可按英文名查找）：Spider Ichor Sample,object_names_retained
+1479,16,Duskwood,Raven Hill Backscratcher,21,47,Possible lootable world object names are: Skeleton Hand,可能可拾取的场景物件（可按英文名查找）：Skeleton Hand,object_names_retained
+1482,16,Duskwood,Silky Spaulders,86,47,Possible lootable world object names are: Silk Covered Spaulders,可能可拾取的场景物件（可按英文名查找）：Silk Covered Spaulders,object_names_retained
+1483,16,Duskwood,Hazard Mantle,24.7,32.3,Possible lootable world object names are: Catacomb Grave Dirt Pile,可能可拾取的场景物件（可按英文名查找）：Catacomb Grave Dirt Pile,object_names_retained
+1484,16,Duskwood,Munitions Delivery Package,48,63,Possible lootable world object names are: Munitions Crate,可能可拾取的场景物件（可按英文名查找）：Munitions Crate,object_names_retained
+1485,16,Duskwood,Brightwood Gloves,58,30,Possible lootable world object names are: Clawed Chest,可能可拾取的场景物件（可按英文名查找）：Clawed Chest,object_names_retained
+1486,16,Duskwood,Poisoned Pendant,26,35.7,Possible lootable world object names are: Sharp Bone Necklace,可能可拾取的场景物件（可按英文名查找）：Sharp Bone Necklace,object_names_retained
+1488,14,Dun Morogh,Thawed Boots,57,45,Possible lootable world object names are: Frozen Boots,可能可拾取的场景物件（可按英文名查找）：Frozen Boots,object_names_retained
+1490,14,Dun Morogh,Rabbit's Paw,35,43,Possible lootable world object names are: Wolf Droppings,可能可拾取的场景物件（可按英文名查找）：Wolf Droppings,object_names_retained
+1491,14,Dun Morogh,Frozen Finger,38.7,54.1,Possible lootable world object names are: Ice Beard's Furled Finger,可能可拾取的场景物件（可按英文名查找）：Ice Beard's Furled Finger,object_names_retained
+1492,14,Dun Morogh,Magnus' Mug,47.9,52.9,"Possible lootable world object names are: Cup of Rhapsody Malt, Warm Mug","可能可拾取的场景物件（可按英文名查找）：Cup of Rhapsody Malt, Warm Mug",object_names_retained
+1493,14,Dun Morogh,Gnomeregan Spanner,27,43,Possible lootable world object names are: Well Kept Tools,可能可拾取的场景物件（可按英文名查找）：Well Kept Tools,object_names_retained
+1494,14,Dun Morogh,Bone Needle,62,49,Possible lootable world object names are: A Really Pointy Bone,可能可拾取的场景物件（可按英文名查找）：A Really Pointy Bone,object_names_retained
+1495,14,Dun Morogh,Claw Scarred Mail,39,44,Possible lootable world object names are: Dwarf Remains,可能可拾取的场景物件（可按英文名查找）：Dwarf Remains,object_names_retained
+1496,14,Dun Morogh,Intact Wagon Wheel,37,36.5,Possible lootable world object names are: Reinforced Spare Wheel,可能可拾取的场景物件（可按英文名查找）：Reinforced Spare Wheel,object_names_retained
+1497,14,Dun Morogh,Snow Shovel,51,53,Possible lootable world object names are: Abandoned Shovel,可能可拾取的场景物件（可按英文名查找）：Abandoned Shovel,object_names_retained
+1498,14,Dun Morogh,Coldhewn Tanning Gloves,64,58,Possible lootable world object names are: Tundrid Supply Cabinet,可能可拾取的场景物件（可按英文名查找）：Tundrid Supply Cabinet,object_names_retained
+1499,14,Dun Morogh,Dark Iron Vest,77,61,Possible lootable world object names are: Dark Iron Traitor,可能可拾取的场景物件（可按英文名查找）：Dark Iron Traitor,object_names_retained
+1500,14,Dun Morogh,Salvaged Cannon,41,66,Possible lootable world object names are: Discarded Hand Cannon,可能可拾取的场景物件（可按英文名查找）：Discarded Hand Cannon,object_names_retained
+1501,14,Dun Morogh,Lumber Axe,45,66,Possible lootable world object names are: Sturdy Axe,可能可拾取的场景物件（可按英文名查找）：Sturdy Axe,object_names_retained
+1502,14,Dun Morogh,Frostmane Axe,21.8,52,Possible lootable world object names are: Axe of the Frostmane,可能可拾取的场景物件（可按英文名查找）：Axe of the Frostmane,object_names_retained
+1503,14,Dun Morogh,Sailor's Ring,77,52.2,Possible lootable world object names are: Lost Ring,可能可拾取的场景物件（可按英文名查找）：Lost Ring,object_names_retained
+1504,14,Dun Morogh,Repelling Necklace,41.8,59,Possible lootable world object names are: Bear Left Overs,可能可拾取的场景物件（可按英文名查找）：Bear Left Overs,object_names_retained
+1505,14,Dun Morogh,Rider's Ring,65,50,Possible lootable world object names are: Something Shiny,可能可拾取的场景物件（可按英文名查找）：Something Shiny,object_names_retained
+1506,21,Feralas,Worldforge Drops (2 items),45.8,66.7,Items found in this area: • Gordunni Thumbtack (Mail Armor) • Sentinel Wrap (Mail Armor) Possible lootable world object names are: Lost Feathermoon Provisions,此区域记录的物品：Gordunni Thumbtack（锁甲）；Sentinel Wrap（锁甲）。可能可拾取的场景物件（英文名）：Lost Feathermoon Provisions,area_items
+1507,21,Feralas,Moonlight Infused Band,89,39,Possible lootable world object names are: Accumulated Moonlight,可能可拾取的场景物件（可按英文名查找）：Accumulated Moonlight,object_names_retained
+1508,21,Feralas,Night Sentinel's Aim,52,28,Possible lootable world object names are: Huntress Bow,可能可拾取的场景物件（可按英文名查找）：Huntress Bow,object_names_retained
+1509,21,Feralas,Bug Catchers,74.5,65,Possible lootable world object names are: Adventurer's Backpack,可能可拾取的场景物件（可按英文名查找）：Adventurer's Backpack,object_names_retained
+1510,21,Feralas,Crown of Stone,40.2,23.2,Possible lootable world object names are: Crystalline Crown,可能可拾取的场景物件（可按英文名查找）：Crystalline Crown,object_names_retained
+1511,21,Feralas,Forgotten Wristguards,42.4,22.4,Possible lootable world object names are: Hunter's Cache,可能可拾取的场景物件（可按英文名查找）：Hunter's Cache,object_names_retained
+1512,21,Feralas,Tanner Gloves,51.1,34,Possible lootable world object names are: Tanner's Chest,可能可拾取的场景物件（可按英文名查找）：Tanner's Chest,object_names_retained
+1513,21,Feralas,Bloodscorn Ritual Kris,54.7,32,Possible lootable world object names are: Sacrifical Dagger,可能可拾取的场景物件（可按英文名查找）：Sacrifical Dagger,object_names_retained
+1514,21,Feralas,Worldforge Drops (2 items),78.1,62.9,"Items found in this area: • Ambercoil Pendant (Armor) • Silithid Husk Shield (Shield Armor) Possible lootable world object names are: Chip of Amber, Hivemother's Carapace","此区域记录的物品：Ambercoil Pendant（护甲）；Silithid Husk Shield（盾牌）。可能可拾取的场景物件（英文名）：Chip of Amber, Hivemother's Carapace",area_items
+1515,21,Feralas,Stolen Highborne Spaulders,73.9,35.4,Possible lootable world object names are: Hanging Ogre Pouch,可能可拾取的场景物件（可按英文名查找）：Hanging Ogre Pouch,object_names_retained
+1516,21,Feralas,Shimmering Silithid Carapace,76.3,66.9,Possible lootable world object names are: Unearthed Treasures,可能可拾取的场景物件（可按英文名查找）：Unearthed Treasures,object_names_retained
+1517,21,Feralas,Ogre Kneepad,58.5,68,Possible lootable world object names are: Bulging Sack,可能可拾取的场景物件（可按英文名查找）：Bulging Sack,object_names_retained
+1518,21,Feralas,Solarsal Pendant,26.1,51.8,Possible lootable world object names are: Glint of Metal,可能可拾取的场景物件（可按英文名查找）：Glint of Metal,object_names_retained
+1519,21,Feralas,Staff of Twin Blossoms,37,25.2,"Possible lootable world object names are: Druidic Staff, Druidic Insights Vol. VI","可能可拾取的场景物件（可按英文名查找）：Druidic Staff, Druidic Insights Vol. VI",object_names_retained
+1520,21,Feralas,Grasping Claw,75.1,32.8,Possible lootable world object names are: Large Bone,可能可拾取的场景物件（可按英文名查找）：Large Bone,object_names_retained
+1521,21,Feralas,Worldforge Drops (2 items),69.8,38.9,"Items found in this area: • Grimtotem Outrider’s Vest (Leather Armor) • Grimtotem Relic (Idol Armor) Possible lootable world object names are: Relic of Grim Wrath, Tanned Tunic","此区域记录的物品：Grimtotem Outrider’s Vest（皮甲）；Grimtotem Relic（神像）。可能可拾取的场景物件（英文名）：Relic of Grim Wrath, Tanned Tunic",area_items
+1522,21,Feralas,Moon-Infused Breeches,60.1,46.2,"Possible lootable world object names are: Moonstone, Ogre Laundry Pouch","可能可拾取的场景物件（可按英文名查找）：Moonstone, Ogre Laundry Pouch",object_names_retained
+1523,21,Feralas,Necklace of the Sunken Empire,53,76,Possible lootable world object names are: Ancient Necklace,可能可拾取的场景物件（可按英文名查找）：Ancient Necklace,object_names_retained
+1524,21,Feralas,Lakebottom Treads,78.9,48,Possible lootable world object names are: Mud-Covered Boots,可能可拾取的场景物件（可按英文名查找）：Mud-Covered Boots,object_names_retained
+1525,21,Feralas,Tidebaron’s Sigil,24.9,66,Possible lootable world object names are: Strange Glowing Object,可能可拾取的场景物件（可按英文名查找）：Strange Glowing Object,object_names_retained
+1526,21,Feralas,Gnoll Stompers,74.5,54.8,Possible lootable world object names are: Woodpaw Chest,可能可拾取的场景物件（可按英文名查找）：Woodpaw Chest,object_names_retained
+1527,21,Feralas,Buccaneer's Barrier,49.1,53.9,Possible lootable world object names are: Old Ship Wheel,可能可拾取的场景物件（可按英文名查找）：Old Ship Wheel,object_names_retained
+1528,21,Feralas,Heartwood Cleaver,81,39.7,Possible lootable world object names are: Logging Axe,可能可拾取的场景物件（可按英文名查找）：Logging Axe,object_names_retained
+1529,21,Feralas,Beastpile Drape,73.4,63.9,Possible lootable world object names are: Tattered Fur Remains,可能可拾取的场景物件（可按英文名查找）：Tattered Fur Remains,object_names_retained
+1531,21,Feralas,Wild Tracker Bindings,84,37,Possible lootable world object names are: Abandoned Supplies,可能可拾取的场景物件（可按英文名查找）：Abandoned Supplies,object_names_retained
+1532,21,Feralas,Rotted Yolk,53.7,64.7,Possible lootable world object names are: Sickly-Looking Egg,可能可拾取的场景物件（可按英文名查找）：Sickly-Looking Egg,object_names_retained
+1533,21,Feralas,Tome of the Valiant,80.2,34.1,Possible lootable world object names are: Stolen Tome,可能可拾取的场景物件（可按英文名查找）：Stolen Tome,object_names_retained
+1534,21,Feralas,Runestone Figurine,58.4,71.3,"Possible lootable world object names are: Mysterious Angel Feather, Ancient Statue","可能可拾取的场景物件（可按英文名查找）：Mysterious Angel Feather, Ancient Statue",object_names_retained
+1535,21,Feralas,Zapping Rod,45,43.2,Possible lootable world object names are: Zorbin's Backup Wrench,可能可拾取的场景物件（可按英文名查找）：Zorbin's Backup Wrench,object_names_retained
+1536,21,Feralas,Isildien Tender's Wand,57,69,Possible lootable world object names are: Highborne Wand,可能可拾取的场景物件（可按英文名查找）：Highborne Wand,object_names_retained
+1537,21,Feralas,Denrunner Tomahawk,65.8,51.8,Possible lootable world object names are: Gnoll Throwing Axe,可能可拾取的场景物件（可按英文名查找）：Gnoll Throwing Axe,object_names_retained
+1538,21,Feralas,Band of Scales,29.1,50.8,Possible lootable world object names are: Lodged Artifact,可能可拾取的场景物件（可按英文名查找）：Lodged Artifact,object_names_retained
+1539,21,Feralas,Strider Waist Piece,37.3,34.9,Possible lootable world object names are: Busted Buckler,可能可拾取的场景物件（可按英文名查找）：Busted Buckler,object_names_retained
+1540,21,Feralas,Savage Crossbow,76.9,54,Possible lootable world object names are: Gnollish Artillery,可能可拾取的场景物件（可按英文名查找）：Gnollish Artillery,object_names_retained
+1541,21,Feralas,Ancient Elvish Bag,38,10.1,Possible lootable world object names are: Ancient Bag of Scrolls,可能可拾取的场景物件（可按英文名查找）：Ancient Bag of Scrolls,object_names_retained
+1542,21,Feralas,Orb of Isildien Echoes,61,55,Possible lootable world object names are: Strange Glowing Orb,可能可拾取的场景物件（可按英文名查找）：Strange Glowing Orb,object_names_retained
+1543,21,Feralas,Shen'dralar Slicer,55,48,Possible lootable world object names are: Fallen's Sword,可能可拾取的场景物件（可按英文名查找）：Fallen's Sword,object_names_retained
+1544,21,Feralas,Torn Hide Spaulders,65.5,53.7,Possible lootable world object names are: Unsavory Scraps,可能可拾取的场景物件（可按英文名查找）：Unsavory Scraps,object_names_retained
+1545,21,Feralas,Thunderfur Cloak,45,26,Possible lootable world object names are: Gregan Tanning Rack,可能可拾取的场景物件（可按英文名查找）：Gregan Tanning Rack,object_names_retained
+1546,21,Feralas,Gilded Stone Bulwark,40.9,12.1,Possible lootable world object names are: Highborne Relic,可能可拾取的场景物件（可按英文名查找）：Highborne Relic,object_names_retained
+1547,21,Feralas,Long-Clawed Gnoll Paw,74.1,62,Possible lootable world object names are: Half-Eaten Gnoll,可能可拾取的场景物件（可按英文名查找）：Half-Eaten Gnoll,object_names_retained
+1548,21,Feralas,Bench Breaker,71.1,56,Possible lootable world object names are: Freshly Sharpened Axe,可能可拾取的场景物件（可按英文名查找）：Freshly Sharpened Axe,object_names_retained
+1549,21,Feralas,Worn Angler Cord,76,46,Possible lootable world object names are: Tightly Sealed Lockbox,可能可拾取的场景物件（可按英文名查找）：Tightly Sealed Lockbox,object_names_retained
+1550,21,Feralas,Ravenwind Fangblade,44.3,10.1,Possible lootable world object names are: Pruning Knife,可能可拾取的场景物件（可按英文名查找）：Pruning Knife,object_names_retained
+1551,21,Feralas,Zaetar's Lost Heirloom,46,3,Possible lootable world object names are: Slightly Scorched Supplies,可能可拾取的场景物件（可按英文名查找）：Slightly Scorched Supplies,object_names_retained
+1552,40,Thousand Needles,Centaur Mining Axe,44,33,Possible lootable world object names are: Rusty Hatchet,可能可拾取的场景物件（可按英文名查找）：Rusty Hatchet,object_names_retained
+1553,40,Thousand Needles,Silithid Bug Blaster,64,87,Possible lootable world object names are: Silithid Wall Creeper,可能可拾取的场景物件（可按英文名查找）：Silithid Wall Creeper,object_names_retained
+1554,40,Thousand Needles,Grimtotem Darkblade,39,42,Possible lootable world object names are: Grimtotem Blade,可能可拾取的场景物件（可按英文名查找）：Grimtotem Blade,object_names_retained
+1555,40,Thousand Needles,Highlands Vest,54,42,Possible lootable world object names are: Highlands Chest,可能可拾取的场景物件（可按英文名查找）：Highlands Chest,object_names_retained
+1556,40,Thousand Needles,Highperch Necklace,18,41,Possible lootable world object names are: Frayed Cord,可能可拾取的场景物件（可按英文名查找）：Frayed Cord,object_names_retained
+1557,40,Thousand Needles,Worldforge Drops (2 items),88,66,"Items found in this area: • Survivor's Trousers (Cloth Armor) • Sizzling Potion (Consumable) Possible lootable world object names are: Abandoned Trousers, Sizzling Bottle","此区域记录的物品：Survivor's Trousers（布甲）；Sizzling Potion（消耗品）。可能可拾取的场景物件（英文名）：Abandoned Trousers, Sizzling Bottle",area_items
+1559,40,Thousand Needles,Galak Chicken Smasher,19,21,Possible lootable world object names are: Galak Smasher,可能可拾取的场景物件（可按英文名查找）：Galak Smasher,object_names_retained
+1560,40,Thousand Needles,Cursed Elemental Scepter,39,26,Possible lootable world object names are: Cursed Scepter,可能可拾取的场景物件（可按英文名查找）：Cursed Scepter,object_names_retained
+1561,40,Thousand Needles,U.L.T.R.A Racing Goggles,74,58,Possible lootable world object names are: Racing Goggles,可能可拾取的场景物件（可按英文名查找）：Racing Goggles,object_names_retained
+1562,40,Thousand Needles,Freewind Gloves,41.1,48.1,Possible lootable world object names are: Lost Shipment,可能可拾取的场景物件（可按英文名查找）：Lost Shipment,object_names_retained
+1563,40,Thousand Needles,Engine Safety Belt,80,77,Possible lootable world object names are: Useless Racing Parts,可能可拾取的场景物件（可按英文名查找）：Useless Racing Parts,object_names_retained
+1564,40,Thousand Needles,Pirate's Mail,82,55,Possible lootable world object names are: Pirate's Booty,可能可拾取的场景物件（可按英文名查找）：Pirate's Booty,object_names_retained
+1565,40,Thousand Needles,Worldforge Drops (2 items),84,82,"Items found in this area: • Isolated Inventor's Bulk (Shield Armor) • Goblin Racing Boots (Cloth Armor) Possible lootable world object names are: Racing Boots, Rickety Invention","此区域记录的物品：Isolated Inventor's Bulk（盾牌）；Goblin Racing Boots（布甲）。可能可拾取的场景物件（英文名）：Racing Boots, Rickety Invention",area_items
+1566,40,Thousand Needles,Worldforge Drops (3 items),42.1,33.2,"Items found in this area: • Scuba Slayer's Blade (One-Handed Sword) • Drowned Diver's Ring (Armor) • Drowned Diver's Helm (Cloth Armor) Possible lootable world object names are: Drowned Diver's Signet, Drowned Diver's Helmet, Scuba Slayer's Blade","此区域记录的物品：Scuba Slayer's Blade（单手剑）；溺亡潜水者之戒（护甲）；Drowned Diver's Helm（布甲）。可能可拾取的场景物件（英文名）：Drowned Diver's Signet, Drowned Diver's Helmet, Scuba Slayer's Blade",area_items
+1567,40,Thousand Needles,Failed Parachute,31.6,24.9,Possible lootable world object names are: Tattered Remains,可能可拾取的场景物件（可按英文名查找）：Tattered Remains,object_names_retained
+1568,40,Thousand Needles,Slightly Magical Kodo Bone,21,38,Possible lootable world object names are: Gnawed Kodo Bone,可能可拾取的场景物件（可按英文名查找）：Gnawed Kodo Bone,object_names_retained
+1569,40,Thousand Needles,Caravaner's Bracers,23,25,Possible lootable world object names are: Caravaner's Chest,可能可拾取的场景物件（可按英文名查找）：Caravaner's Chest,object_names_retained
+1570,40,Thousand Needles,Pip's Rad Stone,78.9,62.3,Possible lootable world object names are: Radiating Green Stone,可能可拾取的场景物件（可按英文名查找）：Radiating Green Stone,object_names_retained
+1572,40,Thousand Needles,The Tickler,26.7,56.2,Possible lootable world object names are: Harpy Feather,可能可拾取的场景物件（可按英文名查找）：Harpy Feather,object_names_retained
+1573,40,Thousand Needles,Ancient Jeweler's Staff,71,85,Possible lootable world object names are: Rustmaul Artifact,可能可拾取的场景物件（可按英文名查找）：Rustmaul Artifact,object_names_retained
+1574,40,Thousand Needles,Staff of the Wind Sisters,31,46,Possible lootable world object names are: Infused Staff,可能可拾取的场景物件（可按英文名查找）：Infused Staff,object_names_retained
+1575,40,Thousand Needles,Pack Kodo Satchel,21,33,Possible lootable world object names are: Stray Pack Kodo Satchel,可能可拾取的场景物件（可按英文名查找）：Stray Pack Kodo Satchel,object_names_retained
+1576,40,Thousand Needles,Darkcloud Braid,36,35,Possible lootable world object names are: Strange Trinket,可能可拾取的场景物件（可按英文名查找）：Strange Trinket,object_names_retained
+1577,40,Thousand Needles,Kodo War Drum,68,64.7,Possible lootable world object names are: Leftover Kodo War Drum,可能可拾取的场景物件（可按英文名查找）：Leftover Kodo War Drum,object_names_retained
+1578,40,Thousand Needles,Tahonda Gauntlets,78.8,88.5,Possible lootable world object names are: Tahonda Chest,可能可拾取的场景物件（可按英文名查找）：Tahonda Chest,object_names_retained
+1582,11,Deadwind Pass,Ariden's Circlet,52,34,Possible lootable world object names are: Long-Abandoned Circlet,可能可拾取的场景物件（可按英文名查找）：Long-Abandoned Circlet,object_names_retained
+1583,11,Deadwind Pass,Branch of Mourning,48.3,25.1,Possible lootable world object names are: Cursed Branch,可能可拾取的场景物件（可按英文名查找）：Cursed Branch,object_names_retained
+1584,11,Deadwind Pass,Ashen Boots,48.7,78,Possible lootable world object names are: Intact Boots,可能可拾取的场景物件（可按英文名查找）：Intact Boots,object_names_retained
+1585,11,Deadwind Pass,Axe of Slaughter,54.2,55.8,Possible lootable world object names are: Ogrish Handaxe,可能可拾取的场景物件（可按英文名查找）：Ogrish Handaxe,object_names_retained
+1586,11,Deadwind Pass,Volkmar's Enchanting Rod,50,74.8,Possible lootable world object names are: Shining Wand,可能可拾取的场景物件（可按英文名查找）：Shining Wand,object_names_retained
+1587,11,Deadwind Pass,Banner of the Dark Riders,37.7,30.6,Possible lootable world object names are: Foreboding Banner,可能可拾取的场景物件（可按英文名查找）：Foreboding Banner,object_names_retained
+1588,11,Deadwind Pass,Leyline Research,41,64,Possible lootable world object names are: Ancient Formula,可能可拾取的场景物件（可按英文名查找）：Ancient Formula,object_names_retained
+1589,11,Deadwind Pass,Reverence of the Ancient Ones,36.9,66.8,Possible lootable world object names are: Reverent Ring,可能可拾取的场景物件（可按英文名查找）：Reverent Ring,object_names_retained
+1590,11,Deadwind Pass,Pauldrons of Shadow,43,45.5,Possible lootable world object names are: Fallen Traveler's Pauldrons,可能可拾取的场景物件（可按英文名查找）：Fallen Traveler's Pauldrons,object_names_retained
+1593,11,Deadwind Pass,"Kire, Exaltation of the Ancient Ones",32.9,65.3,Possible lootable world object names are: Blade of the Faithful,可能可拾取的场景物件（可按英文名查找）：Blade of the Faithful,object_names_retained
+1594,11,Deadwind Pass,Bastion of the Fallen,39.9,72,Possible lootable world object names are: Fallen Hero's Shield,可能可拾取的场景物件（可按英文名查找）：Fallen Hero's Shield,object_names_retained
+1595,11,Deadwind Pass,Faded Promise Ring,53.3,72.9,Possible lootable world object names are: Memento Ring,可能可拾取的场景物件（可按英文名查找）：Memento Ring,object_names_retained
+1596,11,Deadwind Pass,Vulture Hide Leggings,52.3,61.2,Possible lootable world object names are: Plundered Shipment,可能可拾取的场景物件（可按英文名查找）：Plundered Shipment,object_names_retained
+1597,11,Deadwind Pass,The Master's Bottle,55.2,73.2,Possible lootable world object names are: Wine Bottle,可能可拾取的场景物件（可按英文名查找）：Wine Bottle,object_names_retained
+1598,11,Deadwind Pass,Fragment of K'aresh,43.9,79.4,Possible lootable world object names are: Otherworldly Stone,可能可拾取的场景物件（可按英文名查找）：Otherworldly Stone,object_names_retained
+1599,11,Deadwind Pass,Betrayal's Edge,36,35,Possible lootable world object names are: Dark Scythe,可能可拾取的场景物件（可按英文名查找）：Dark Scythe,object_names_retained
+1600,11,Deadwind Pass,Worldforge Drops (3 items),42.6,74.5,Items found in this area: • Girdle of the Shadowslayer (Mail Armor) • Celsalia's Luxorious Robes (Cloth Armor) • Shorean's Ironwood Longbow (Bow),此区域记录的物品：Girdle of the Shadowslayer（锁甲）；Celsalia's Luxorious Robes（布甲）；Shorean's Ironwood Longbow（弓）,area_items
+1601,11,Deadwind Pass,Veneration to the Ancient Ones,36.3,69.7,Possible lootable world object names are: Venerable Necklace,可能可拾取的场景物件（可按英文名查找）：Venerable Necklace,object_names_retained
+1603,11,Deadwind Pass,Aion of Desolation,43.2,29.3,Possible lootable world object names are: Coalescence of Agony,可能可拾取的场景物件（可按英文名查找）：Coalescence of Agony,object_names_retained
+1604,11,Deadwind Pass,Bloodied Gauntlets,64.7,74.1,Possible lootable world object names are: Blood-soaked Bag,可能可拾取的场景物件（可按英文名查找）：Blood-soaked Bag,object_names_retained
+1605,11,Deadwind Pass,Vintner's Wristguards,56.1,81.1,Possible lootable world object names are: Cellar Rubble,可能可拾取的场景物件（可按英文名查找）：Cellar Rubble,object_names_retained
+1622,22,Hillsbrad Foothills,Mudsnout Effigy,63.5,61.5,Possible lootable world object names are: Crude Effigy,可能可拾取的场景物件（可按英文名查找）：Crude Effigy,object_names_retained
+1623,22,Hillsbrad Foothills,Helcular's Pendant,44,27.9,"Possible lootable world object names are: Yeti Loot Hoard, Missing Alliance Supplies","可能可拾取的场景物件（可按英文名查找）：Yeti Loot Hoard, Missing Alliance Supplies",object_names_retained
+1624,22,Hillsbrad Foothills,Darrow Silverband,30,42,Possible lootable world object names are: Hidden Ring,可能可拾取的场景物件（可按英文名查找）：Hidden Ring,object_names_retained
+1625,22,Hillsbrad Foothills,Ray's Farmhand,33.1,35,Possible lootable world object names are: Well Kept Hatchet,可能可拾取的场景物件（可按英文名查找）：Well Kept Hatchet,object_names_retained
+1629,22,Hillsbrad Foothills,Syndicate Treads,78,46.8,Possible lootable world object names are: Syndicate Boots,可能可拾取的场景物件（可按英文名查找）：Syndicate Boots,object_names_retained
+1630,22,Hillsbrad Foothills,Deathstalker Cloak,21,48.3,Possible lootable world object names are: Deathstalker Cape,可能可拾取的场景物件（可按英文名查找）：Deathstalker Cape,object_names_retained
+1631,22,Hillsbrad Foothills,Tarantula Hunter Rifle,32,66,Possible lootable world object names are: Hunter's Rifle,可能可拾取的场景物件（可按英文名查找）：Hunter's Rifle,object_names_retained
+1632,22,Hillsbrad Foothills,Old Snapjaw Shell,60,45,Possible lootable world object names are: Turtle Shell,可能可拾取的场景物件（可按英文名查找）：Turtle Shell,object_names_retained
+1634,22,Hillsbrad Foothills,Oracle's Fishy Staff,36,69,"Possible lootable world object names are: A ""Fishy"" Staff","可能可拾取的场景物件（可按英文名查找）：A ""Fishy"" Staff",object_names_retained
+1635,22,Hillsbrad Foothills,Mismatched Shoulderpads,68.9,23.9,Possible lootable world object names are: Old Shoulderpad,可能可拾取的场景物件（可按英文名查找）：Old Shoulderpad,object_names_retained
+1636,22,Hillsbrad Foothills,Bear Decapitator,42,54,Possible lootable world object names are: Alder's Axe,可能可拾取的场景物件（可按英文名查找）：Alder's Axe,object_names_retained
+1637,22,Hillsbrad Foothills,Daggerspine Rod,57,67,Possible lootable world object names are: Siren's Wand,可能可拾取的场景物件（可按英文名查找）：Siren's Wand,object_names_retained
+1638,22,Hillsbrad Foothills,Dwarven Explosive Barrel,72.8,81,Possible lootable world object names are: Sealed Barrel,可能可拾取的场景物件（可按英文名查找）：Sealed Barrel,object_names_retained
+1643,22,Hillsbrad Foothills,Timelost Captain Shield,79.1,61,Possible lootable world object names are: Ancient Shield,可能可拾取的场景物件（可按英文名查找）：Ancient Shield,object_names_retained
+1644,22,Hillsbrad Foothills,Ancient Durnholde Girdle,61,33,Possible lootable world object names are: Old Crate,可能可拾取的场景物件（可按英文名查找）：Old Crate,object_names_retained
+1661,5,Badlands,Worldforge Drops (2 items),41,26,"Items found in this area: • Shadowforged Deflector (Shield Armor) • Shadowforge Shotgun (Gun) Possible lootable world object names are: Shadowforge Shotgun, Shadowforged Deflector","此区域记录的物品：Shadowforged Deflector（盾牌）；Shadowforge Shotgun（枪械）。可能可拾取的场景物件（英文名）：Shadowforge Shotgun, Shadowforged Deflector",area_items
+1662,5,Badlands,Focusing Spirit Band,8,96,Possible lootable world object names are: Half Buried Chest,可能可拾取的场景物件（可按英文名查找）：Half Buried Chest,object_names_retained
+1663,5,Badlands,Tomb Seeker,53.9,43.2,Possible lootable world object names are: Lit Lantern,可能可拾取的场景物件（可按英文名查找）：Lit Lantern,object_names_retained
+1664,5,Badlands,Wand of the Ancients,54,54.8,Possible lootable world object names are: Ancient Wand,可能可拾取的场景物件（可按英文名查找）：Ancient Wand,object_names_retained
+1665,5,Badlands,Dustbringer,6,91,Possible lootable world object names are: Ogre Throwing Axe,可能可拾取的场景物件（可按英文名查找）：Ogre Throwing Axe,object_names_retained
+1669,5,Badlands,Sandworn Arcanist Staff,18,51,Possible lootable world object names are: Gnawed Stave,可能可拾取的场景物件（可按英文名查找）：Gnawed Stave,object_names_retained
+1671,5,Badlands,Bone Carver,15.9,60.9,Possible lootable world object names are: Warning Dagger,可能可拾取的场景物件（可按英文名查找）：Warning Dagger,object_names_retained
+1672,5,Badlands,Earth Bindings,45,85,Possible lootable world object names are: Tattered Sack,可能可拾取的场景物件（可按英文名查找）：Tattered Sack,object_names_retained
+1673,5,Badlands,Spellpiercing Cloak,51,77,Possible lootable world object names are: Extra Crate,可能可拾取的场景物件（可按英文名查找）：Extra Crate,object_names_retained
+1674,5,Badlands,Cracked Earth Vest,23,43,Possible lootable world object names are: Buried Chest,可能可拾取的场景物件（可按英文名查找）：Buried Chest,object_names_retained
+1675,5,Badlands,Unearthed Pauldrons,43.8,11.6,Possible lootable world object names are: Precarious Treasure,可能可拾取的场景物件（可按英文名查找）：Precarious Treasure,object_names_retained
+1676,5,Badlands,Ragescorn Circlet,57,40,Possible lootable world object names are: Barbarian King's Circlet,可能可拾取的场景物件（可按英文名查找）：Barbarian King's Circlet,object_names_retained
+1677,5,Badlands,Staff of the Earth Guardian,77,55,Possible lootable world object names are: Charred Staff,可能可拾取的场景物件（可按英文名查找）：Charred Staff,object_names_retained
+1678,5,Badlands,Stonebloom Idol,10.5,88.3,Possible lootable world object names are: Druidic Stone,可能可拾取的场景物件（可按英文名查找）：Druidic Stone,object_names_retained
+1679,5,Badlands,Worldforge Drops (2 items),67,23.8,"Items found in this area: • Bloodstained Pendant (Armor) • Bloodstained Helm (Plate Armor) Possible lootable world object names are: Blood Covered Metal, Blood Covered Helm","此区域记录的物品：Bloodstained Pendant（护甲）；Bloodstained Helm（板甲）。可能可拾取的场景物件（英文名）：Blood Covered Metal, Blood Covered Helm",area_items
+1680,5,Badlands,Sunscorched Thrower,42.1,53,Possible lootable world object names are: Scorched Knife,可能可拾取的场景物件（可按英文名查找）：Scorched Knife,object_names_retained
+1681,5,Badlands,Stonewalker's Totem,51,68,Possible lootable world object names are: Ancient Relic,可能可拾取的场景物件（可按英文名查找）：Ancient Relic,object_names_retained
+1682,5,Badlands,Duelist Gloves,10,82,Possible lootable world object names are: Stolen Goods,可能可拾取的场景物件（可按英文名查找）：Stolen Goods,object_names_retained
+1683,5,Badlands,Rock Runners,56,82,"Possible lootable world object names are: Ramshackled Crate, Capacitor Totem","可能可拾取的场景物件（可按英文名查找）：Ramshackled Crate, Capacitor Totem",object_names_retained
+1684,5,Badlands,Toe Hammer,53,34,Possible lootable world object names are: Awkwardly Placed Hammer,可能可拾取的场景物件（可按英文名查找）：Awkwardly Placed Hammer,object_names_retained
+1685,5,Badlands,Garek's Comfortable Robe,62.9,54,Possible lootable world object names are: Gareks Personal Belongings,可能可拾取的场景物件（可按英文名查找）：Gareks Personal Belongings,object_names_retained
+1686,5,Badlands,Wind-Worn Longbow,31,65,Possible lootable world object names are: Windhorn Longbow,可能可拾取的场景物件（可按英文名查找）：Windhorn Longbow,object_names_retained
+1687,5,Badlands,Duststorm Sash,9,65,Possible lootable world object names are: Dusty Sack,可能可拾取的场景物件（可按英文名查找）：Dusty Sack,object_names_retained
+1689,5,Badlands,Cowl of the Stone Summoner,2,83,Possible lootable world object names are: Strange Helm,可能可拾取的场景物件（可按英文名查找）：Strange Helm,object_names_retained
+1690,5,Badlands,Safety Gloves,26,44.1,Possible lootable world object names are: Box of Safety Equipment,可能可拾取的场景物件（可按英文名查找）：Box of Safety Equipment,object_names_retained
+1691,24,Loch Modan,Mountaineer Hatchet,24.9,18,Possible lootable world object names are: Dwarven Hatchet,可能可拾取的场景物件（可按英文名查找）：Dwarven Hatchet,object_names_retained
+1693,24,Loch Modan,Brother's Special Gift,53,69,Possible lootable world object names are: Boom Barrel,可能可拾取的场景物件（可按英文名查找）：Boom Barrel,object_names_retained
+1694,24,Loch Modan,Tattered Shoulders,47.1,64.1,Possible lootable world object names are: Muddy Shoulderpad,可能可拾取的场景物件（可按英文名查找）：Muddy Shoulderpad,object_names_retained
+1695,24,Loch Modan,Drowned Pendant,58,28.9,Possible lootable world object names are: Muck Coated Pendant,可能可拾取的场景物件（可按英文名查找）：Muck Coated Pendant,object_names_retained
+1697,24,Loch Modan,Stolen Mountaineer Chest,35,77,Possible lootable world object names are: Trogg Crate,可能可拾取的场景物件（可按英文名查找）：Trogg Crate,object_names_retained
+1699,24,Loch Modan,Lost Traveler's Ring,54,54,Possible lootable world object names are: Open Wound,可能可拾取的场景物件（可按英文名查找）：Open Wound,object_names_retained
+1700,24,Loch Modan,Vermin Staff,26,32,"Possible lootable world object names are: Mysterious Burning Corpse, Vermin Cane","可能可拾取的场景物件（可按英文名查找）：Mysterious Burning Corpse, Vermin Cane",object_names_retained
+1702,24,Loch Modan,Dwarven Sandals,18.1,83.1,Possible lootable world object names are: Caravan Barrel,可能可拾取的场景物件（可按英文名查找）：Caravan Barrel,object_names_retained
+1705,24,Loch Modan,Earthenwind Band,55,27,Possible lootable world object names are: Plundered Ring,可能可拾取的场景物件（可按英文名查找）：Plundered Ring,object_names_retained
+1706,24,Loch Modan,Spider Silk Vestments,80,52,Possible lootable world object names are: Solid Chest,可能可拾取的场景物件（可按英文名查找）：Solid Chest,object_names_retained
+1707,24,Loch Modan,Frenzy Fin,48,19,Possible lootable world object names are: Broken Bobber,可能可拾取的场景物件（可按英文名查找）：Broken Bobber,object_names_retained
+1709,24,Loch Modan,Stoneflow Handwraps,78,43,Possible lootable world object names are: Special Brewing Gear,可能可拾取的场景物件（可按英文名查找）：Special Brewing Gear,object_names_retained
+1710,24,Loch Modan,Dwarven Mail Gauntlets,26.1,57.1,Possible lootable world object names are: Stolen Shipment,可能可拾取的场景物件（可按英文名查找）：Stolen Shipment,object_names_retained
+1712,24,Loch Modan,Scrap Shield,63,48,Possible lootable world object names are: Wreckage Piece,可能可拾取的场景物件（可按英文名查找）：Wreckage Piece,object_names_retained
+1713,24,Loch Modan,Old Stitched Bindings,40,39,Possible lootable world object names are: Storage Crate,可能可拾取的场景物件（可按英文名查找）：Storage Crate,object_names_retained
+1714,24,Loch Modan,Frayed Backwrap,25,43,Possible lootable world object names are: Tattered Cloth Roll,可能可拾取的场景物件（可按英文名查找）：Tattered Cloth Roll,object_names_retained
+1715,38,The Barrens,Venture Co. Dirk,55,6,"Possible lootable world object names are: Venture Co. Warning, Target List","可能可拾取的场景物件（可按英文名查找）：Venture Co. Warning, Target List",object_names_retained
+1716,38,The Barrens,Venture Co. Boots,62,4,Possible lootable world object names are: Venture Co. Exclusive Footwear,可能可拾取的场景物件（可按英文名查找）：Venture Co. Exclusive Footwear,object_names_retained
+1717,38,The Barrens,Grunt's Chain Leggings,39,11,Possible lootable world object names are: Stolen Crossroads Shipment,可能可拾取的场景物件（可按英文名查找）：Stolen Crossroads Shipment,object_names_retained
+1724,38,The Barrens,Kodo Stompers,47.1,67.2,Possible lootable world object names are: Kodo Supplies,可能可拾取的场景物件（可按英文名查找）：Kodo Supplies,object_names_retained
+1725,38,The Barrens,Affray Cuirras,69,48.2,Possible lootable world object names are: Affray Mail Armor,可能可拾取的场景物件（可按英文名查找）：Affray Mail Armor,object_names_retained
+1727,38,The Barrens,Forgotten Trunks,45.1,22,"Possible lootable world object names are: Forgotten Pool Trunks, Prosperity Bloom","可能可拾取的场景物件（可按英文名查找）：Forgotten Pool Trunks, Prosperity Bloom",object_names_retained
+1729,38,The Barrens,Blackthorn Splitter,45.8,82.8,Possible lootable world object names are: Blackthorn Splitter,可能可拾取的场景物件（可按英文名查找）：Blackthorn Splitter,object_names_retained
+1730,38,The Barrens,Loded Ring,60,3,Possible lootable world object names are: Bone Piece,可能可拾取的场景物件（可按英文名查找）：Bone Piece,object_names_retained
+1731,38,The Barrens,Bristleback Thorn,53,54,Possible lootable world object names are: Thrown Dagger,可能可拾取的场景物件（可按英文名查找）：Thrown Dagger,object_names_retained
+1732,38,The Barrens,Steelrider Girdle,56,19.9,Possible lootable world object names are: Grol'dom Belt,可能可拾取的场景物件（可按英文名查找）：Grol'dom Belt,object_names_retained
+1733,38,The Barrens,Muck Trudgers,63,59,Possible lootable world object names are: Tauren Crate,可能可拾取的场景物件（可按英文名查找）：Tauren Crate,object_names_retained
+1735,38,The Barrens,Stormcall Totem,48,58,Possible lootable world object names are: Abandoned Totem,可能可拾取的场景物件（可按英文名查找）：Abandoned Totem,object_names_retained
+1736,38,The Barrens,Captain's Spyglass,65,45,Possible lootable world object names are: Captain's Spyglass,可能可拾取的场景物件（可按英文名查找）：Captain's Spyglass,object_names_retained
+1737,38,The Barrens,Bloody Wedding Ring,49.3,50.2,Possible lootable world object names are: Bloody Wedding Ring,可能可拾取的场景物件（可按英文名查找）：Bloody Wedding Ring,object_names_retained
+1740,38,The Barrens,Conscript's Wraps,61,21,Possible lootable world object names are: Conscription Supplies,可能可拾取的场景物件（可按英文名查找）：Conscription Supplies,object_names_retained
+1743,38,The Barrens,Honor Blade,39.8,24.5,Possible lootable world object names are: Honor Blade,可能可拾取的场景物件（可按英文名查找）：Honor Blade,object_names_retained
+1745,38,The Barrens,Razorthorn Claymore,43.2,90.1,Possible lootable world object names are: Embedded Claymore,可能可拾取的场景物件（可按英文名查找）：Embedded Claymore,object_names_retained
+1746,38,The Barrens,Plainstalker Vest,44,30,Possible lootable world object names are: Sunrock Supplies,可能可拾取的场景物件（可按英文名查找）：Sunrock Supplies,object_names_retained
+1747,38,The Barrens,Giant Qiraji Scale,44,72.9,Possible lootable world object names are: Silithid Scale,可能可拾取的场景物件（可按英文名查找）：Silithid Scale,object_names_retained
+1748,38,The Barrens,Venture Co. Spaulders,52.9,11,Possible lootable world object names are: Greasy Pauldrons,可能可拾取的场景物件（可按英文名查找）：Greasy Pauldrons,object_names_retained
+1749,38,The Barrens,Waterlogged Gloves,55,42,Possible lootable world object names are: Lost Oasis Crate,可能可拾取的场景物件（可按英文名查找）：Lost Oasis Crate,object_names_retained
+1750,38,The Barrens,Thornweaver Mace,44.8,51.2,Possible lootable world object names are: Thornweaver Mace,可能可拾取的场景物件（可按英文名查找）：Thornweaver Mace,object_names_retained
+1752,38,The Barrens,Vial of Dread Water,48,19,"Possible lootable world object names are: Cultivated Blazethorn, Vial of Dread Enhanced Water","可能可拾取的场景物件（可按英文名查找）：Cultivated Blazethorn, Vial of Dread Enhanced Water",object_names_retained
+1753,38,The Barrens,Stylish Cloak,42,39,Possible lootable world object names are: Stylish Cloak,可能可拾取的场景物件（可按英文名查找）：Stylish Cloak,object_names_retained
+1754,38,The Barrens,Takar's Old Wand,49.9,57,Possible lootable world object names are: Discarded Wand,可能可拾取的场景物件（可按英文名查找）：Discarded Wand,object_names_retained
+1755,38,The Barrens,Peon Motivator,57,32,Possible lootable world object names are: Peon Motivator,可能可拾取的场景物件（可按英文名查找）：Peon Motivator,object_names_retained
+1756,38,The Barrens,Savannah Cowl,48,33,Possible lootable world object names are: Laundry Basket,可能可拾取的场景物件（可按英文名查找）：Laundry Basket,object_names_retained
+1757,38,The Barrens,Northwatch Hand Cannon,62,53,Possible lootable world object names are: Northwatch Hand Gun Rack,可能可拾取的场景物件（可按英文名查找）：Northwatch Hand Gun Rack,object_names_retained
+1759,38,The Barrens,Stump Biter,49,77,Possible lootable world object names are: Embedded Axe,可能可拾取的场景物件（可按英文名查找）：Embedded Axe,object_names_retained
+1760,38,The Barrens,Drudger Smash,56.1,8.9,Possible lootable world object names are: Drudger Smash,可能可拾取的场景物件（可按英文名查找）：Drudger Smash,object_names_retained
+1761,38,The Barrens,Swashbuckler's Chain,62,45,Possible lootable world object names are: Captain's Chain,可能可拾取的场景物件（可按英文名查找）：Captain's Chain,object_names_retained
+1762,38,The Barrens,Venture Co. Sabatons,43,23.9,"Possible lootable world object names are: Plundered Boots, Crackling Totem","可能可拾取的场景物件（可按英文名查找）：Plundered Boots, Crackling Totem",object_names_retained
+1764,15,Durotar,Kul Tiras Handwraps,63,98.1,Possible lootable world object names are: Floating Barrel,可能可拾取的场景物件（可按英文名查找）：Floating Barrel,object_names_retained
+1765,15,Durotar,String of Ears,68,83,Possible lootable world object names are: Bloody Necklace,可能可拾取的场景物件（可按英文名查找）：Bloody Necklace,object_names_retained
+1766,15,Durotar,Voodoo Kilt,61,66,Possible lootable world object names are: Makashar's Belongings,可能可拾取的场景物件（可按英文名查找）：Makashar's Belongings,object_names_retained
+1767,15,Durotar,Sturdy Peon Blanket,41.2,72.7,Possible lootable world object names are: Non-work Approved Bedroll,可能可拾取的场景物件（可按英文名查找）：Non-work Approved Bedroll,object_names_retained
+1768,15,Durotar,Retired Grunt's Chainmail,40.9,35.1,Possible lootable world object names are: Scorched Equipment Cache,可能可拾取的场景物件（可按英文名查找）：Scorched Equipment Cache,object_names_retained
+1769,15,Durotar,Bramble Shield,42.8,39,Possible lootable world object names are: Looted Shield,可能可拾取的场景物件（可按英文名查找）：Looted Shield,object_names_retained
+1772,15,Durotar,Wristguards of the Elements,44,78,Possible lootable world object names are: Pile of Rocks,可能可拾取的场景物件（可按英文名查找）：Pile of Rocks,object_names_retained
+1773,15,Durotar,Grunt's Old Knife,49,75,Possible lootable world object names are: Shabby Knife,可能可拾取的场景物件（可按英文名查找）：Shabby Knife,object_names_retained
+1774,15,Durotar,Sailor's Cuffs,62,45,Possible lootable world object names are: Floating Cargo,可能可拾取的场景物件（可按英文名查找）：Floating Cargo,object_names_retained
+1775,15,Durotar,Thunder Hide Tailspike,44,24,Possible lootable world object names are: Broken Tail Spike,可能可拾取的场景物件（可按英文名查找）：Broken Tail Spike,object_names_retained
+1776,15,Durotar,Redrock Sash,53.1,74.1,Possible lootable world object names are: Lost Goods,可能可拾取的场景物件（可按英文名查找）：Lost Goods,object_names_retained
+1777,15,Durotar,Bloodtalon Vestments,60,90,Possible lootable world object names are: Dead Adventurer,可能可拾取的场景物件（可按英文名查找）：Dead Adventurer,object_names_retained
+1778,15,Durotar,Ravine Sack,49,29,Possible lootable world object names are: Pillaged Sack,可能可拾取的场景物件（可按英文名查找）：Pillaged Sack,object_names_retained
+1779,15,Durotar,Charred Battlegreaves,59,45,Possible lootable world object names are: Abandoned Crate,可能可拾取的场景物件（可按英文名查找）：Abandoned Crate,object_names_retained
+1781,15,Durotar,Raptorscale Cloak,65,74,Possible lootable world object names are: Abandoned Banner,可能可拾取的场景物件（可按英文名查找）：Abandoned Banner,object_names_retained
+1782,15,Durotar,Dustrunner Bindings,39,54,Possible lootable world object names are: Loot Basket,可能可拾取的场景物件（可按英文名查找）：Loot Basket,object_names_retained
+1783,15,Durotar,Sturdy Fishing Pole,60,22,Possible lootable world object names are: Fishy Fishing Pole,可能可拾取的场景物件（可按英文名查找）：Fishy Fishing Pole,object_names_retained
+1784,15,Durotar,Treasured Cutlass,63,57,Possible lootable world object names are: Embedded Sword,可能可拾取的场景物件（可按英文名查找）：Embedded Sword,object_names_retained
+1785,15,Durotar,Earthshatterer Gavel,49,34.9,Possible lootable world object names are: Shiny Hammer,可能可拾取的场景物件（可按英文名查找）：Shiny Hammer,object_names_retained
+1786,15,Durotar,Margoz' Spare Stompers,57,20,Possible lootable world object names are: Spare Boots,可能可拾取的场景物件（可按英文名查找）：Spare Boots,object_names_retained
+1787,15,Durotar,Kul Tiras Armplates,60,59,Possible lootable world object names are: Broken Crate,可能可拾取的场景物件（可按英文名查找）：Broken Crate,object_names_retained
+1788,15,Durotar,Farm Hands,48,16,Possible lootable world object names are: Farmer's Old Gear,可能可拾取的场景物件（可按英文名查找）：Farmer's Old Gear,object_names_retained
+1799,35,Swamp of Sorrows,Grave Leggings,82.8,45.9,Possible lootable world object names are: Sorrowmurk Shrine Barrel,可能可拾取的场景物件（可按英文名查找）：Sorrowmurk Shrine Barrel,object_names_retained
+1801,35,Swamp of Sorrows,Khazno's Shotgun,15.1,37,Possible lootable world object names are: Gnomish Shotgun,可能可拾取的场景物件（可按英文名查找）：Gnomish Shotgun,object_names_retained
+1802,35,Swamp of Sorrows,Planned Strike Cord,30.1,58,Possible lootable world object names are: Broken Crate,可能可拾取的场景物件（可按英文名查找）：Broken Crate,object_names_retained
+1803,35,Swamp of Sorrows,Signet of Lire'kes,70.3,96.7,Possible lootable world object names are: Forbidding Locker,可能可拾取的场景物件（可按英文名查找）：Forbidding Locker,object_names_retained
+1804,35,Swamp of Sorrows,Scout's Bracers,37,29.8,Possible lootable world object names are: Scout's Supplies,可能可拾取的场景物件（可按英文名查找）：Scout's Supplies,object_names_retained
+1806,35,Swamp of Sorrows,Itharius's Bracers,13.9,68.9,Possible lootable world object names are: Itharius's Jar,可能可拾取的场景物件（可按英文名查找）：Itharius's Jar,object_names_retained
+1807,35,Swamp of Sorrows,Axe of the Lost,49,29.2,Possible lootable world object names are: Draenic Axe,可能可拾取的场景物件（可按英文名查找）：Draenic Axe,object_names_retained
+1808,35,Swamp of Sorrows,Cape of the Mire,5.5,31.3,Possible lootable world object names are: Mire Leaves,可能可拾取的场景物件（可按英文名查找）：Mire Leaves,object_names_retained
+1810,35,Swamp of Sorrows,Marsh Adventurer Boots,47.9,39.9,Possible lootable world object names are: Marsh Adventurer's Boots,可能可拾取的场景物件（可按英文名查找）：Marsh Adventurer's Boots,object_names_retained
+1812,35,Swamp of Sorrows,Distant Wanderer Pack,88.9,78.4,Possible lootable world object names are: Distant Wanderer's Pack,可能可拾取的场景物件（可按英文名查找）：Distant Wanderer's Pack,object_names_retained
+1813,35,Swamp of Sorrows,Nightmare's Edge,89,57,Possible lootable world object names are: Crimson Blade,可能可拾取的场景物件（可按英文名查找）：Crimson Blade,object_names_retained
+1814,35,Swamp of Sorrows,Kreil's Gauntlets,64.9,18.9,Possible lootable world object names are: Half-Buried Crate,可能可拾取的场景物件（可按英文名查找）：Half-Buried Crate,object_names_retained
+1818,35,Swamp of Sorrows,Crocolisk Hunter's Bow,71,17.8,Possible lootable world object names are: Gore Covered Bow,可能可拾取的场景物件（可按英文名查找）：Gore Covered Bow,object_names_retained
+1820,35,Swamp of Sorrows,Bracers of Emerald Will,82,81,Possible lootable world object names are: Misty Reed Barrel,可能可拾取的场景物件（可按英文名查找）：Misty Reed Barrel,object_names_retained
+1821,35,Swamp of Sorrows,Giant Ruby Eye,63,52.9,Possible lootable world object names are: Ruby Giant's Eye,可能可拾取的场景物件（可按英文名查找）：Ruby Giant's Eye,object_names_retained
+1822,35,Swamp of Sorrows,Sorrow's Light,75.8,45,Possible lootable world object names are: Lantern of Endless Sorrow,可能可拾取的场景物件（可按英文名查找）：Lantern of Endless Sorrow,object_names_retained
+1823,35,Swamp of Sorrows,Biggs's Spare Legguards,27,59.8,Possible lootable world object names are: Biggs's Spare Equipment,可能可拾取的场景物件（可按英文名查找）：Biggs's Spare Equipment,object_names_retained
+1824,35,Swamp of Sorrows,Robe of Woven Dreams,77,26,Possible lootable world object names are: Loose Stone,可能可拾取的场景物件（可按英文名查找）：Loose Stone,object_names_retained
+1825,35,Swamp of Sorrows,Cartographer's Cape,50,49,Possible lootable world object names are: Cartographer's Supplies,可能可拾取的场景物件（可按英文名查找）：Cartographer's Supplies,object_names_retained
+1826,35,Swamp of Sorrows,Fallow Tunic,61.1,23.1,Possible lootable world object names are: Fallow Basket,可能可拾取的场景物件（可按英文名查找）：Fallow Basket,object_names_retained
+1828,35,Swamp of Sorrows,Splinterspear Belt,17.1,50.9,Possible lootable world object names are: Splinterspear Armor Crate,可能可拾取的场景物件（可按英文名查找）：Splinterspear Armor Crate,object_names_retained
+1829,35,Swamp of Sorrows,Atal'ai Angler Boots,64.2,49.1,Possible lootable world object names are: Atal'ai Fisher's Boots,可能可拾取的场景物件（可按英文名查找）：Atal'ai Fisher's Boots,object_names_retained
+1843,37,Teldrassil,Timber Maul,54,70,Possible lootable world object names are: Wooden Maul,可能可拾取的场景物件（可按英文名查找）：Wooden Maul,object_names_retained
+1845,37,Teldrassil,Chipped Sentinel Blade,46.1,51.1,Possible lootable world object names are: Stuck Scimitar,可能可拾取的场景物件（可按英文名查找）：Stuck Scimitar,object_names_retained
+1848,37,Teldrassil,Rootbark Girdle,67.2,57.1,Possible lootable world object names are: Underbed Glint,可能可拾取的场景物件（可按英文名查找）：Underbed Glint,object_names_retained
+1849,37,Teldrassil,Groveprowler Gloves,51.1,46,Possible lootable world object names are: Leather Scraps,可能可拾取的场景物件（可按英文名查找）：Leather Scraps,object_names_retained
+1850,37,Teldrassil,Moonwell Cane,63,58,Possible lootable world object names are: Forgotten Cane,可能可拾取的场景物件（可按英文名查找）：Forgotten Cane,object_names_retained
+1852,37,Teldrassil,Patched Verdant Cloak,69,53,Possible lootable world object names are: Hanged Pelt,可能可拾取的场景物件（可按英文名查找）：Hanged Pelt,object_names_retained
+1854,37,Teldrassil,Whisperwind Boots,60,68,Possible lootable world object names are: Whisperwind's Wayfinders,可能可拾取的场景物件（可按英文名查找）：Whisperwind's Wayfinders,object_names_retained
+1855,37,Teldrassil,Adventurer's Lost Sack,61.3,48.2,Possible lootable world object names are: Forgotten Sack,可能可拾取的场景物件（可按英文名查找）：Forgotten Sack,object_names_retained
+1856,37,Teldrassil,Teldrassil Begonias,73,61.1,Possible lootable world object names are: Herbalist's Stash,可能可拾取的场景物件（可按英文名查找）：Herbalist's Stash,object_names_retained
+1858,37,Teldrassil,Lifesap Blade,34,28,Possible lootable world object names are: Ritual Blade,可能可拾取的场景物件（可按英文名查找）：Ritual Blade,object_names_retained
+1861,37,Teldrassil,Timberbane Axe,47,27,Possible lootable world object names are: Timberbane's Old Hatchet,可能可拾取的场景物件（可按英文名查找）：Timberbane's Old Hatchet,object_names_retained
+1862,37,Teldrassil,Bloodfeather Wand,34,35,Possible lootable world object names are: Small Branch,可能可拾取的场景物件（可按英文名查找）：Small Branch,object_names_retained
+1863,37,Teldrassil,Wildwood Shortbow,46,46,Possible lootable world object names are: Mossy Shortbow,可能可拾取的场景物件（可按英文名查找）：Mossy Shortbow,object_names_retained
+1865,37,Teldrassil,Timberling Dagger,54,75,Possible lootable world object names are: Timberling Ritual Blade,可能可拾取的场景物件（可按英文名查找）：Timberling Ritual Blade,object_names_retained
+1866,37,Teldrassil,Whisperwind Heirloom,56,91,Possible lootable world object names are: Heirloom of the Whisperwind,可能可拾取的场景物件（可按英文名查找）：Heirloom of the Whisperwind,object_names_retained
+1867,37,Teldrassil,Blade of the Submerged Moon,57,56,Possible lootable world object names are: Submerged Crescent Blade,可能可拾取的场景物件（可按英文名查找）：Submerged Crescent Blade,object_names_retained
+1868,37,Teldrassil,Thornpaw Trousers,39,80,Possible lootable world object names are: Gnarlpine Basket,可能可拾取的场景物件（可按英文名查找）：Gnarlpine Basket,object_names_retained
+1872,37,Teldrassil,Harpy Feather Drape,37,43,Possible lootable world object names are: Red Plumage,可能可拾取的场景物件（可按英文名查找）：Red Plumage,object_names_retained
+1874,37,Teldrassil,Starfall Edge,36,55,Possible lootable world object names are: Celestial Edge of Starfall,可能可拾取的场景物件（可按英文名查找）：Celestial Edge of Starfall,object_names_retained
+1875,37,Teldrassil,Dewleaf Piercer,43,42,Possible lootable world object names are: Lazy Crossbow,可能可拾取的场景物件（可按英文名查找）：Lazy Crossbow,object_names_retained
+1876,37,Teldrassil,Furbolg War Drum,66,64,Possible lootable world object names are: Well Worn Drum,可能可拾取的场景物件（可按英文名查找）：Well Worn Drum,object_names_retained
+1908,34,Stranglethorn Vale,Bloodscalp Beastmastery Amulet,25.3,8.2,Possible lootable world object names are: Drowned Man's Necklace,可能可拾取的场景物件（可按英文名查找）：Drowned Man's Necklace,object_names_retained
+1913,38,The Barrens,Worldforge Drops (2 items),62.7,45.8,Items found in this area: - Claw of Vagash (Fist Weapon) - Swashbuckler's Chain (Armor),此区域记录的物品：Claw of Vagash（拳套）；Swashbuckler's Chain（护甲）,area_items
+1916,38,The Barrens,Worldforge Drops (2 items),49,57,Items found in this area: - Untouched Cactus Fruit (Consumable) - Takar's Old Wand (Wand),此区域记录的物品：Untouched Cactus Fruit（消耗品）；Takar's Old Wand（魔杖）,area_items
+1922,38,The Barrens,Worldforge Drops (2 items),48.9,32.9,Items found in this area: - Harpy Hunter (Gun) - Savannah Cowl (Cloth Armor),此区域记录的物品：Harpy Hunter（枪械）；Savannah Cowl（布甲）,area_items
+1933,38,The Barrens,Worldforge Drops (2 items),39,54,Items found in this area: - Dustrunner Bindings (Cloth Armor) - Frozen Finger (Armor),此区域记录的物品：Dustrunner Bindings（布甲）；冰封之指（护甲）,area_items
+1956,1,Arathi Highlands,Worldforge Drops (3 items),26.1,65.1,Items found in this area: - Watchguard's Prized Plate (Mail Armor) - Blade of the Syndicate Lord (One-Handed Sword) - Muffled Boots (Leather Armor),此区域记录的物品：Watchguard's Prized Plate（锁甲）；Blade of the Syndicate Lord（单手剑）；Muffled Boots（皮甲）,area_items
+1960,1,Arathi Highlands,Worldforge Drops (2 items),78.1,62.9,Items found in this area: - Ambercoil Pendant (Armor) - Silithid Husk Shield (Shield Armor),此区域记录的物品：Ambercoil Pendant（护甲）；Silithid Husk Shield（盾牌）,area_items
+2039,15,Durotar,Recruit's Life Saving Potion,40.5,67.9,"Possible lootable world object names are: Fallen Recruit Footlocker, Worn Axe","可能可拾取的场景物件（可按英文名查找）：Fallen Recruit Footlocker, Worn Axe",object_names_retained
+2042,15,Durotar,Worldforge Drops (2 items),49.1,57.1,Items found in this area: - Untouched Cactus Fruit (Consumable) - Charbite Mace (One-Handed Mace) Possible lootable world object names are: Untouched Cactus Fruit,此区域记录的物品：Untouched Cactus Fruit（消耗品）；Charbite Mace（单手锤）。可能可拾取的场景物件（英文名）：Untouched Cactus Fruit,area_items
+2045,44,Western Plaguelands,Scarlet Overalls,48.9,31.7,Possible lootable world object names are: Garmet Supplies,可能可拾取的场景物件（可按英文名查找）：Garmet Supplies,object_names_retained
+2061,46,Wetlands,Worldforge Drops (2 items),14.1,47.8,Items found in this area: - Darkest Night Loop (Armor) - Fel Infused Band (Armor),此区域记录的物品：至暗之夜环戒（护甲）；邪能灌注之戒（护甲）,area_items
+2066,45,Westfall,Worldforge Drops (2 items),42,48,Items found in this area: - Wizard Wraps (Cloth Armor) - Freewind Gloves (Leather Armor),此区域记录的物品：Wizard Wraps（布甲）；Freewind Gloves（皮甲）,area_items
+2071,45,Westfall,Worldforge Drops (2 items),56.3,30.3,Items found in this area: - Salma's Summer Dress (Cloth Armor) - Field Trousers (Leather Armor),此区域记录的物品：Salma's Summer Dress（布甲）；Field Trousers（皮甲）,area_items
+2072,45,Westfall,Worldforge Drops (2 items),45.1,36,Items found in this area: - Harvest Golem Scythe (Two-Handed Sword) - Harvest Scythe (Polearm),此区域记录的物品：Harvest Golem Scythe（双手剑）；Harvest Scythe（长柄武器）,area_items
+2079,45,Westfall,Worldforge Drops (3 items),71.7,73.8,Items found in this area: - Madness Cursed Notes (Armor) - Abandoned Moonshine (Armor) - Terrible Defias Mixture (Armor),此区域记录的物品：疯狂诅咒乐谱（护甲）；Abandoned Moonshine（护甲）；可怕的迪菲亚混合物（护甲）,area_items
+2100,45,Westfall,Pumpkin Smashers,48.5,20.3,Possible lootable world object names are: Storage Crate,可能可拾取的场景物件（可按英文名查找）：Storage Crate,object_names_retained
+2147,35,Swamp of Sorrows,Worldforge Drops (2 items),46.1,54.7,Items found in this area: - Sentinel Wrap (Mail Armor) - Ravasaur Talon (Armor),此区域记录的物品：Sentinel Wrap（锁甲）；暴掠龙利爪（护甲）,area_items
+2150,35,Swamp of Sorrows,Worldforge Drops (2 items),42.7,74.3,Items found in this area: - Shorean's Ironwood Longbow (Bow) - Celsalia's Luxorious Robes (Cloth Armor),此区域记录的物品：Shorean's Ironwood Longbow（弓）；Celsalia's Luxorious Robes（布甲）,area_items
+2162,19,Elwynn Forest,Vengeful Heart,49,40,Possible lootable world object names are: Eagan's Water Pouch,可能可拾取的场景物件（可按英文名查找）：Eagan's Water Pouch,object_names_retained
+2182,0,Alterac Mountains,Muckrake's Soup Bowl,38.7,46.7,Possible lootable world object names are: Muckrake's Soup Scooper,可能可拾取的场景物件（可按英文名查找）：Muckrake's Soup Scooper,object_names_retained
+2189,0,Alterac Mountains,Worldforge Drops (2 items),40,48,Items found in this area: - Gardening Gloves (Cloth Armor) - Ogre Toothpick (Two-Handed Sword) Possible lootable world object names are: Ogre Toothpick,此区域记录的物品：Gardening Gloves（布甲）；Ogre Toothpick（双手剑）。可能可拾取的场景物件（英文名）：Ogre Toothpick,area_items
+2236,2,Ashenvale,Expedition Bracers,38,34,Possible lootable world object names are: Thistlefur Fur Shroud,可能可拾取的场景物件（可按英文名查找）：Thistlefur Fur Shroud,object_names_retained
+2246,4,Azshara,Worldforge Drops (2 items),29.3,39.9,Items found in this area: - On the Importance of Arcane Foci (Armor) - Bear's Head Apprentice Robe (Cloth Armor),此区域记录的物品：On the Importance of Arcane Foci（护甲）；Bear's Head Apprentice Robe（布甲）,area_items
+2247,4,Azshara,Imitation of Zin-Eldari,36.7,75.7,Possible lootable world object names are: Ancient Ring,可能可拾取的场景物件（可按英文名查找）：Ancient Ring,object_names_retained
+2248,4,Azshara,Spitelash Warbanner,47.1,59.6,Possible lootable world object names are: Warbanner,可能可拾取的场景物件（可按英文名查找）：Warbanner,object_names_retained
+2251,17,Dustwallow Marsh,Worldforge Drops (2 items),65,28.1,Items found in this area: - Ziz's Alchemy Goggles (Cloth Armor) - Everdark Shard (Quest) Possible lootable world object names are: Everdark Shard,此区域记录的物品：Ziz's Alchemy Goggles（布甲）；Everdark Shard（Quest）。可能可拾取的场景物件（英文名）：Everdark Shard,area_items
+2253,17,Dustwallow Marsh,Hope for Atonement,39.3,31.7,Possible lootable world object names are: Atonement,可能可拾取的场景物件（可按英文名查找）：Atonement,object_names_retained
+2256,17,Dustwallow Marsh,Crokolisk Hunter,34.2,34.2,Possible lootable world object names are: Dropped Polearm,可能可拾取的场景物件（可按英文名查找）：Dropped Polearm,object_names_retained
+2257,26,Mulgore,Worldforge Drops (2 items),42.7,74.4,Items found in this area: - Celsalia's Luxorious Robes (Cloth Armor) - Shorean's Ironwood Longbow (Bow),此区域记录的物品：Celsalia's Luxorious Robes（布甲）；Shorean's Ironwood Longbow（弓）,area_items
+2258,26,Mulgore,Windstamp Gloves,62.6,71.3,Possible lootable world object names are: Adventurer's Corpse,可能可拾取的场景物件（可按英文名查找）：Adventurer's Corpse,object_names_retained
+2262,26,Mulgore,Bag of Folding,45.2,77,Possible lootable world object names are: Kawnie's Water Pouch,可能可拾取的场景物件（可按英文名查找）：Kawnie's Water Pouch,object_names_retained
+2266,26,Mulgore,Bael'dun Waraxe,31.3,49.1,Possible lootable world object names are: Rough Axe,可能可拾取的场景物件（可按英文名查找）：Rough Axe,object_names_retained
+2267,26,Mulgore,Adventurer's Lost Sack,37.9,81.3,Possible lootable world object names are: Forgotten Sack,可能可拾取的场景物件（可按英文名查找）：Forgotten Sack,object_names_retained
+2269,7,Burning Steppes,Worldforge Drops (2 items),88.2,35.5,Items found in this area: - Firegut Emblem (Armor) - Flamefist Claw (Fist Weapon),此区域记录的物品：火腹徽记（护甲）；Flamefist Claw（拳套）,area_items
+2297,13,Desolace,Zelyn'Theris,37.5,14.3,Possible lootable world object names are: Rusted Sword,可能可拾取的场景物件（可按英文名查找）：Rusted Sword,object_names_retained
+2298,13,Desolace,Maraudine Cape,34.9,61.2,Possible lootable world object names are: Maraudine Basket,可能可拾取的场景物件（可按英文名查找）：Maraudine Basket,object_names_retained
+2299,13,Desolace,Burning Gauntlets,53.7,31.1,Possible lootable world object names are: Crate of Mining Supplies,可能可拾取的场景物件（可按英文名查找）：Crate of Mining Supplies,object_names_retained
+2321,21,Feralas,Strider Shot,40.3,34.3,Possible lootable world object names are: Giant Stalker Rifle,可能可拾取的场景物件（可按英文名查找）：Giant Stalker Rifle,object_names_retained
+2324,24,Loch Modan,Worldforge Drops (2 items),66,24,Items found in this area: - Rot Hide Mantle (Cloth Armor) - Ravenous Eye (Armor),此区域记录的物品：Rot Hide Mantle（布甲）；Ravenous Eye（护甲）,area_items
+2329,24,Loch Modan,Worldforge Drops (2 items),34.2,27,"Items found in this area: - Grizlak's Candle (Armor) - Miner's League Vest (Leather Armor) Possible lootable world object names are: Grizlak's Candle, Miner's League Vest","此区域记录的物品：格里兹拉克的蜡烛（护甲）；Miner's League Vest（皮甲）。可能可拾取的场景物件（英文名）：Grizlak's Candle, Miner's League Vest",area_items
+2339,20,Felwood,Ironwood Cap,48.8,25.1,Possible lootable world object names are: Reinforced Helmet,可能可拾取的场景物件（可按英文名查找）：Reinforced Helmet,object_names_retained
+2340,36,Tanaris,Worldforge Drops (5 items),49,53.3,Items found in this area: - Blister Chain (Armor) - Special Seashell (Armor) - Pip's Rad Stone (Armor) - Totem of Venc (Totem Armor) - Oozling Thoughtcore (Armor),此区域记录的物品：Blister Chain（护甲）；特殊贝壳（护甲）；皮普的酷炫之石（护甲）；Totem of Venc（图腾）；软泥怪思维核心（护甲）,area_items
+2341,36,Tanaris,Forbidden Fruit,51.8,28.6,Possible lootable world object names are: Mysterious Bone Pile,可能可拾取的场景物件（可按英文名查找）：Mysterious Bone Pile,object_names_retained
+2342,31,Silithus,Worldforge Drops (3 items),51.3,38.2,Items found in this area: - Dark Iron Loop (Armor) - Necklace of the Sunken Empire (Armor) - Lid of the Dead (Shield Armor),此区域记录的物品：黑铁环戒（护甲）；Necklace of the Sunken Empire（护甲）；Lid of the Dead（盾牌）,area_items
+2353,22,Hillsbrad Foothills,Ghostflame Scripture,16.3,82.2,Possible lootable world object names are: Ancient Scripture,可能可拾取的场景物件（可按英文名查找）：Ancient Scripture,object_names_retained
+2362,5,Badlands,Worldforge Drops (2 items),63.2,57.5,Items found in this area: - Treasured Cutlass (One-Handed Sword) - Thorkaf's Prototype (Mail Armor) Possible lootable world object names are: Throkaf's Project,此区域记录的物品：Treasured Cutlass（单手剑）；Thorkaf's Prototype（锁甲）。可能可拾取的场景物件（英文名）：Throkaf's Project,area_items
+2363,5,Badlands,Worldforge Drops (2 items),67,23.1,Items found in this area: - Bloodstained Helm (Plate Armor) - Bloodstained Pendant (Armor),此区域记录的物品：Bloodstained Helm（板甲）；Bloodstained Pendant（护甲）,area_items
+2371,43,Valley of Trials,Worldforge Drops (2 items),54.6,76.7,Items found in this area: - Hexweave Gloves (Cloth Armor) - Hexed Staff (Staff),此区域记录的物品：Hexweave Gloves（布甲）；Hexed Staff（法杖）,area_items
+2383,6,Blasted Lands,Worldforge Drops (2 items),61.5,39.4,Items found in this area: - Dustscour Courier Belt (Leather Armor) - Caravan Guard Vest (Leather Armor),此区域记录的物品：Dustscour Courier Belt（皮甲）；Caravan Guard Vest（皮甲）,area_items
+2387,37,Teldrassil,Worldforge Drops (2 items),57,59.1,Items found in this area: - Glen Guardian (Two-Handed Sword) - Spirited Cane (Armor),此区域记录的物品：Glen Guardian（双手剑）；Spirited Cane（护甲）,area_items
+2409,37,Teldrassil,Worldforge Drops (2 items),33.2,34.8,Items found in this area: - Wendigo Fur Cloak (Cloth Armor) - Bloodfeather Wand (Wand),此区域记录的物品：Wendigo Fur Cloak（布甲）；Bloodfeather Wand（魔杖）,area_items
+2440,3,Azeroth,Worldforge Drops (6 items),54,79.5,Items found in this area: - Defiled Necklace (Armor) - Atal'ai Alchemy Gloves (Leather Armor) - Dragoncarver (Two-Handed Axe) - Sharpened Dragon Bone (Dagger) - Kazkaz's Ceremonial Mask (Cloth Armor) - Pauldrons of the Ancient Prophet (Mail Armor),此区域记录的物品：Defiled Necklace（护甲）；Atal'ai Alchemy Gloves（皮甲）；Dragoncarver（双手斧）；Sharpened Dragon Bone（匕首）；Kazkaz's Ceremonial Mask（布甲）；Pauldrons of the Ancient Prophet（锁甲）,area_items
+2453,32,Silverpine Forest,Thule's Curse Parchment,66.1,24.1,Possible lootable world object names are: Snarl's Cache,可能可拾取的场景物件（可按英文名查找）：Snarl's Cache,object_names_retained
+2457,28,Redridge Mountains,Three Corner Cape,19,96.3,Possible lootable world object names are: Adventurer's Cloak,可能可拾取的场景物件（可按英文名查找）：Adventurer's Cloak,object_names_retained

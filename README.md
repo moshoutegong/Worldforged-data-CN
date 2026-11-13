@@ -91,3 +91,6 @@
 - [点位分析报告](docs/DISCORD-DUMP-lootcollector-lens.md)
 - [隐私检查记录](PRIVACY-GATE.md)
 - [数据文件与字段说明](data/README.md)
+
+- [中文名称与拾取备注](data/README.md#中文对照表)
+- [工具使用说明](tools/README.md)
