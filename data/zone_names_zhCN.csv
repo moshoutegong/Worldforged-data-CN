@@ -165,9 +165,9 @@ wma_id,name_en,display_name_en,name_zhCN,translation_source
 798,MagistersTerrace,Magisters' Terrace,魔导师平台,AscensionCN.Dict
 799,Karazhan,Karazhan,卡拉赞,AscensionCN.Dict
 800,Stormwind,Stormwind,暴风城,AscensionCN.Dict
-801,Ogrimmar,Ogrimmar,,
-820,HillsbradFoothillsBG,HillsbradFoothillsBG,,
-856,TempleofKotmogu,TempleofKotmogu,,
+801,Ogrimmar,Ogrimmar,奥格瑞玛,地图暂译
+820,HillsbradFoothillsBG,HillsbradFoothillsBG,希尔斯布莱德丘陵战场,地图暂译
+856,TempleofKotmogu,TempleofKotmogu,寇魔古寺,地图暂译
 1000,RedridgeMountainsManastorm,RedridgeMountainsManastorm,赤脊山(魔法风暴),LootCollector.L10n
 1001,AlteracMountainsManastorm,AlteracMountainsManastorm,奥特兰克山脉(魔法风暴),LootCollector.L10n
 1002,BlastedLandsManastorm,BlastedLandsManastorm,诅咒之地(魔法风暴),LootCollector.L10n
@@ -235,7 +235,7 @@ wma_id,name_en,display_name_en,name_zhCN,translation_source
 2002,warsonggulchupdate,Warsong Gulch (Updated),战歌峡谷(更新),LootCollector.L10n
 2003,arathibasinupdate,Arathi Basin (Updated),阿拉希盆地(更新),LootCollector.L10n
 2004,StormwindSewers,Stormwind Sewers,暴风城下水道,AscensionCN.Dict
-2005,osrs4,osrs4,,
+2005,osrs4,osrs4,osrs4（内部地图）,地图暂译
 2007,TirisFortress,Tiris Fortress,提里斯堡垒,LootCollector.L10n
 2008,zamasucombat,zamasucombat,扎马斯战斗,LootCollector.L10n
 2009,AzzarFaire,AzzarFaire,阿扎尔集市,LootCollector.L10n
@@ -261,51 +261,51 @@ wma_id,name_en,display_name_en,name_zhCN,translation_source
 2029,SinisterLair,Sinister Lair,险恶巢穴,AscensionCN.Dict
 2030,MoonlitOssuary,Moonlit Ossuary,月光藏骨堂,AscensionCN.Dict
 2031,Xorthal's Lair,Xorthal's Lair,索萨尔的巢穴,AscensionCN.Dict
-2032,DeepInquisitorialVaults,DeepInquisitorialVaults,,
-2033,VoodooRoadToDeOtherSide,VoodooRoadToDeOtherSide,,
-2034,Silithusboss,Silithusboss,,
-2035,Aszharaboss,Aszharaboss,,
-2036,kazzakbossmap,kazzakbossmap,,
-2037,soggothbossmap,soggothbossmap,,
-2038,DepthbreakerHollow,DepthbreakerHollow,,
-2039,DepthbreakerHollow,DepthbreakerHollow,,
-2040,Emerissbossmap,Emerissbossmap,,
-2041,Taerarbossmap,Taerarbossmap,,
-2042,Ysondrebossmap,Ysondrebossmap,,
-2043,Lethonbossmap,Lethonbossmap,,
-2044,Minigamesmap,Minigamesmap,,
-2045,Rainbowrace,Rainbowrace,,
-2046,MinigamesWonka,MinigamesWonka,,
-2047,Minigamesvoid,Minigamesvoid,,
-2048,MinigamesDuckHunt,MinigamesDuckHunt,,
-2049,MinigamesBulletRomper,MinigamesBulletRomper,,
-2050,MinigamesVerticalAscend,MinigamesVerticalAscend,,
-2051,MinigamesKulTiranAscent,MinigamesKulTiranAscent,,
-2052,MinigamesMechagnomicAscent,MinigamesMechagnomicAscent,,
-2053,MinigamesVolcanicAscent,MinigamesVolcanicAscent,,
-2054,MinigamesNagaAscent,MinigamesNagaAscent,,
-2055,MinigamesZandalariAscent,MinigamesZandalariAscent,,
-2056,MinigamesLegionAscent,MinigamesLegionAscent,,
-2057,MinigamesDarkIronAscent,MinigamesDarkIronAscent,,
-2058,MinigamesEmeraldAscent,MinigamesEmeraldAscent,,
-2059,MinigamesTitanicAscent,MinigamesTitanicAscent,,
-2060,Frostgiantnbossmap,Frostgiantnbossmap,,
-2061,EasternPlaguelandsboss,EasternPlaguelandsboss,,
-2062,Scadeald,Scadeald,,
-2063,Palehorn,Palehorn,,
+2032,DeepInquisitorialVaults,DeepInquisitorialVaults,深层审判地窟,地图暂译
+2033,VoodooRoadToDeOtherSide,VoodooRoadToDeOtherSide,通往彼界的巫毒之路,地图暂译
+2034,Silithusboss,Silithusboss,希利苏斯首领地图,地图暂译
+2035,Aszharaboss,Aszharaboss,艾萨拉首领地图,地图暂译
+2036,kazzakbossmap,kazzakbossmap,卡扎克首领地图,地图暂译
+2037,soggothbossmap,soggothbossmap,索苟斯首领地图,地图暂译
+2038,DepthbreakerHollow,DepthbreakerHollow,破渊者洞穴,地图暂译
+2039,DepthbreakerHollow,DepthbreakerHollow,破渊者洞穴,地图暂译
+2040,Emerissbossmap,Emerissbossmap,艾莫莉丝首领地图,地图暂译
+2041,Taerarbossmap,Taerarbossmap,泰拉尔首领地图,地图暂译
+2042,Ysondrebossmap,Ysondrebossmap,伊森德雷首领地图,地图暂译
+2043,Lethonbossmap,Lethonbossmap,莱索恩首领地图,地图暂译
+2044,Minigamesmap,Minigamesmap,迷你游戏地图,地图暂译
+2045,Rainbowrace,Rainbowrace,彩虹竞速,地图暂译
+2046,MinigamesWonka,MinigamesWonka,旺卡迷你游戏,地图暂译
+2047,Minigamesvoid,Minigamesvoid,虚空迷你游戏,地图暂译
+2048,MinigamesDuckHunt,MinigamesDuckHunt,猎鸭迷你游戏,地图暂译
+2049,MinigamesBulletRomper,MinigamesBulletRomper,弹幕迷你游戏,地图暂译
+2050,MinigamesVerticalAscend,MinigamesVerticalAscend,垂直攀登,地图暂译
+2051,MinigamesKulTiranAscent,MinigamesKulTiranAscent,库尔提拉斯攀登,地图暂译
+2052,MinigamesMechagnomicAscent,MinigamesMechagnomicAscent,机械侏儒攀登,地图暂译
+2053,MinigamesVolcanicAscent,MinigamesVolcanicAscent,火山攀登,地图暂译
+2054,MinigamesNagaAscent,MinigamesNagaAscent,纳迦攀登,地图暂译
+2055,MinigamesZandalariAscent,MinigamesZandalariAscent,赞达拉攀登,地图暂译
+2056,MinigamesLegionAscent,MinigamesLegionAscent,军团攀登,地图暂译
+2057,MinigamesDarkIronAscent,MinigamesDarkIronAscent,黑铁攀登,地图暂译
+2058,MinigamesEmeraldAscent,MinigamesEmeraldAscent,翡翠攀登,地图暂译
+2059,MinigamesTitanicAscent,MinigamesTitanicAscent,泰坦攀登,地图暂译
+2060,Frostgiantnbossmap,Frostgiantnbossmap,冰霜巨人首领地图,地图暂译
+2061,EasternPlaguelandsboss,EasternPlaguelandsboss,东瘟疫之地首领地图,地图暂译
+2062,Scadeald,Scadeald,斯卡迪尔德,地图暂译
+2063,Palehorn,Palehorn,苍角,地图暂译
 2064,AdtDevMap,AdtDevMap,ADT开发地图,AscensionCN.Dict
-2065,FadingIsland,FadingIsland,,
-2066,DunKazad,DunKazad,,
-2067,ShadowboneDepths,ShadowboneDepths,,
+2065,FadingIsland,FadingIsland,渐隐之岛,地图暂译
+2066,DunKazad,DunKazad,丹卡扎德,地图暂译
+2067,ShadowboneDepths,ShadowboneDepths,影骨深窟,地图暂译
 2068,Underworld,Underworld,冥界,AscensionCN.Dict
 2069,Underworld,Underworld,冥界,AscensionCN.Dict
-2070,Underworld2,Underworld2,,
-2071,dreamlikedream,dreamlikedream,,
-2072,dreamlikedungeon,dreamlikedungeon,,
-2073,Templeofembers,Templeofembers,,
-2074,Drukthar,Drukthar,,
-3039,DepthbreakerHollow,DepthbreakerHollow,,
-3040,CoaSpellVisuals,CoaSpellVisuals,,
-3041,Zanzasisle,Zanzasisle,,
+2070,Underworld2,Underworld2,地下世界 2,地图暂译
+2071,dreamlikedream,dreamlikedream,如梦幻境,地图暂译
+2072,dreamlikedungeon,dreamlikedungeon,如梦地城,地图暂译
+2073,Templeofembers,Templeofembers,余烬神殿,地图暂译
+2074,Drukthar,Drukthar,德鲁克萨尔,地图暂译
+3039,DepthbreakerHollow,DepthbreakerHollow,破渊者洞穴,地图暂译
+3040,CoaSpellVisuals,CoaSpellVisuals,CoA 法术视觉测试地图,地图暂译
+3041,Zanzasisle,Zanzasisle,赞扎之岛,地图暂译
 3042,Akhen City Ruins,Akhen City Ruins,阿肯城废墟,AscensionCN.Dict
-3043,DepthbreakerHollow,DepthbreakerHollow,,
+3043,DepthbreakerHollow,DepthbreakerHollow,破渊者洞穴,地图暂译
