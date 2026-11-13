@@ -85,3 +85,9 @@
 - 每个新增物品 ID 都需要在客户端 `Item.dbc` 中添加一行，否则装备后无法显示（AD7）。
 - 拾取物件的生成点无法按职业限制。若世界铸造物件只在 2 号服务器出现，需要使用位面机制或该服专用地图。
 - 档次解锁可沿用已启用的 `mod-individual-progression`，对应 MC、BWL、AQ40 和 Naxx。
+
+## 相关文档
+
+- [点位分析报告](docs/DISCORD-DUMP-lootcollector-lens.md)
+- [隐私检查记录](PRIVACY-GATE.md)
+- [数据文件与字段说明](data/README.md)

@@ -1,46 +1,38 @@
-# Dump lens: LootCollector SavedVariables = Worldforged item locations
+# LootCollector 存档分析：世界铸造物品拾取点位
 
-Source: `D:\ascension data till 10-9 11 am\` — `Account.zip`, `Account (1).zip`, `Account (2).zip`.
-Every archive was read **in memory** (Python `zipfile`); nothing was extracted and the dump was not modified.
-Scripts: `build/design/dump-lootcollector-scripts/` (they print aggregates only).
-Sidecars: `dump-lootcollector-wf-locations.csv` (4,284 unique WF pins with server X/Y) and
-`dump-lootcollector-wf-items.csv` (1,755 WF items). Both carry game data only: item, zone, coordinates, GO entry.
+**简体中文** · [English](DISCORD-DUMP-lootcollector-lens.en.md)
 
-> **Privacy.** LootCollector records **who** found each item. This report gives only the **existence and
-> counts** of those fields (§9). Account folders are `<acct>` and character keys are `<char>`. Before
-> commit, every output file was scanned against the 2,723 distinct person-name values in the SVs (§9).
+上游作者从 Discord 收集了三个玩家备份，分别是 `Account.zip`、`Account (1).zip` 和 `Account (2).zip`。英文原文中的 `D:\ascension data till 10-9 11 am\` 是作者当时的本地路径。原始压缩包未随仓库发布，查看成品 CSV 无需这些压缩包。作者用 Python 的 `zipfile` 在内存中读取数据，未解压到磁盘或修改备份。原分析脚本位于作者工作区的 `build/design/dump-lootcollector-scripts/`，只输出汇总统计。
 
----
+报告对应的 ZIP 提取结果已随仓库提供：[4,284 个拾取点位](../data/provenance/dump_zips_wf_locations.csv)和 [1,755 个物品 ID](../data/provenance/dump_zips_wf_items.csv)。结果只含物品、区域、坐标、场景物件模板 ID 等游戏数据。合并其他来源的结果见[点位总表](../data/wf_pins_union.csv)。
 
-## 0. Bottom line
+> 原始存档会记录发现者。报告只给出字段和计数，账号目录以 `<acct>` 代称，角色键以 `<char>` 代称。发布前用存档里的 2,723 个不同姓名值扫描了输出文件，见第 9 节。
 
-| | measured |
+## 0. 主要结果
+
+| 项目 | 结果 |
 |---|---|
-| LootCollector SV files | **6**: one `LootCollector.lua` and one `.lua.bak` in each of the 3 account zips |
-| raw discovery records | **18,123** (plus 129 black-market-vendor records) |
-| after dedupe on (realm, GUID) | **10,391**; **4,700** distinct GUIDs across realms |
-| distinct item ids | **2,065** |
-| distinct (item, zone, x, y) locations | **4,699** (4,678 distinct spots if the item is ignored) |
-| **Worldforged** (`dt = 1`) | **9,264** deduped records → **1,755 items**, **4,284 unique pins** (cross-realm) |
-| Mystic Scroll (`dt = 2`) | 1,119 records, 309 items |
-| WF items in our 55,454 cached item ids | **1,745 / 1,755** (all Ascension-only; **0** in the live `item_template`) |
-| WF items in the dump's harvest itemcache TSV | **1,740 / 1,755** (names, ilvl, reqLevel) |
-| WF item level | min 0 / median **42** / max **73**; reqLevel 1 / 36 / 60 |
-| server maps of the WF pins | map 0: **2,389**, map 1: **1,775**, map 530: 54, instances: 66 over 19 maps; **Northrend 0, Pale Reach 0** |
-| map → server conversion | exact inverse of the client projection; checked on **32,485** dump spawns (median error 1.4–1.7 yd, which is entirely their own 1-dp input rounding) |
-| accuracy of a pin vs. the real spawn | median **3.5 yd** against maintainer-verified coordinates (60 records); tail 10–54 yd; **2 of 11** verified items have pins **670–750 yd** off |
-| a dump gameobject within 5 yd of the pin | **1,548 / 4,108** pins (37.7%); within 10 yd **2,328** (56.7%) |
-| height (Z) | **ABSENT**: LootCollector stores no Z |
+| LootCollector 存档文件 | 三个 ZIP 各有一份 `LootCollector.lua` 和一份 `.lua.bak`，共 **6 份** |
+| 原始发现记录 | **18,123 条**，另有 129 条黑市商人记录 |
+| 按服务器和 GUID 去重 | **10,391 条**，跨服有 **4,700 个不同 GUID** |
+| 不同物品 ID | **2,065 个** |
+| 不同的物品、区域、X/Y 组合 | **4,699 个**，忽略物品后是 4,678 个坐标 |
+| 世界铸造（`dt = 1`） | 去重后 **9,264 条**，跨服汇总为 **1,755 个物品、4,284 个点位** |
+| 神秘卷轴（`dt = 2`） | 1,119 条记录，309 个物品 |
+| 对照作者的 55,454 个物品缓存 ID | 世界铸造物品匹配 1,745 个，均为飞升独有，作者当时的 `item_template` 匹配 0 个 |
+| 对照备份附带的物品缓存 TSV | 匹配 1,740 个世界铸造物品，可查名称、物品等级及需求等级 |
+| 世界铸造物品等级 | 最低 0、中位数 42、最高 73，需求等级分别为 1、36、60 |
+| 服务器地图分布 | 地图 0 有 2,389 个，地图 1 有 1,775 个，外域 54 个，19 张副本地图共 66 个。诺森德和 Pale Reach 均为 0 |
+| 地图坐标转换 | 对 32,485 条生成记录验证，误差中位数 1.4–1.7 码，符合输入坐标保留一位小数的误差 |
+| 拾取点与生成点 | 对照维护者核实的坐标，60 条记录的偏差中位数为 3.5 码，部分偏差 10–54 码。核实的 11 件物品里有 2 件偏离约 670–750 码 |
+| 附近场景物件 | 摘要口径下，4,108 个点位中有 1,548 个在 5 码内找到场景物件，占 37.7%。10 码内有 2,328 个，占 56.7% |
+| Z（高度） | LootCollector 未记录 |
 
-**Delta over what we held.** Before this dump we had **zero** Worldforged spawn locations. We now have 4,284
-WF pins with server X/Y for 1,755 items. 37.7% of them sit within 5 yd of a dump gameobject, which gives
-999 candidate spawn-object entries (571 of them Ascension-only GO templates already in our WDB cache).
+这批备份为作者补充了 1,755 个物品的 4,284 个拾取点。5 码内的近邻关联涉及 999 个候选场景物件模板，其中 571 个是作者 WDB 缓存中的飞升独有模板。
 
----
+## 1. 文件
 
-## 1. Files
-
-| zip | file | bytes | discovery records | realms present (records) |
+| 压缩包 | 文件 | 字节 | 发现记录 | 服务器与记录数 |
 |---|---|---:|---:|---|
 | Account.zip | `<acct>/SavedVariables/LootCollector.lua` | 8,034,390 | 5,680 | Area 52 - Free-Pick 2,047 · Dawnrise - Season 10 Freepick 2,078 · Vol'jin - Conquest of Azeroth 1,552 · Bronzebeard - Warcraft Reborn 3 |
 | Account.zip | `….lua.bak` | 2,569,062 | 2,464 | Vol'jin 2,464 |
@@ -49,251 +41,196 @@ WF pins with server X/Y for 1,755 items. 37.7% of them sit within 5 yd of a dump
 | Account (2).zip | `<acct>/SavedVariables/LootCollector.lua` | 3,286,414 | 1,545 | Vol'jin 1,545 |
 | Account (2).zip | `….lua.bak` | 1,885,227 | 1,619 | Vol'jin 1,619 |
 
-Each zip has exactly one account folder containing LootCollector. `wtf.zip` has none. `.rar` files were not read (no extractor on this machine).
-Top-level variable: `LootCollectorDB_Asc` (AceDB layout: `char`, `profileKeys`, `profiles`, `global`, `schemaVersion`).
-Parser: a purpose-written Lua-table tokenizer and recursive-descent parser (`luasv.py`). All 6 files parsed with 0 errors.
+每个 ZIP 含一个带 LootCollector 存档的账号目录。`wtf.zip` 不含该插件存档。这次 ZIP 分析未读取 RAR，当时的机器缺少相应解包工具。六份文件都以 `LootCollectorDB_Asc` 为顶层变量，采用 AceDB 布局。作者用 `luasv.py` 的 Lua 表分词器和递归下降解析器读取，解析错误为 0。
 
-**Semantics source.** The field meanings below are confirmed against the addon's own source in **our** installed
-client: `D:\games\ascension-live\Interface\AddOns\LootCollector` v1.0.6 (`Modules/Core.lua`, `Detect.lua`,
-`Constants.lua`, `CoordAuthority.lua`). That source is **not from the dump**; I used it only as documentation.
-13 records carry `av = 1.0.4r-beta`, so the dump was written by an older build of the same addon.
+字段含义另外用作者客户端中 LootCollector v1.0.6 的 `Core.lua`、`Detect.lua`、`Constants.lua`、`CoordAuthority.lua` 核对。备份里有 13 条记录标记为 `av = 1.0.4r-beta`。
 
-## 2. Schema
+## 2. 数据结构
 
-```
-LootCollectorDB_Asc
- ├─ char["<char> - <realm>"]        48 entries over 6 files: looted{GUID→ts} (890), mapFilters, migration flags
- ├─ profileKeys                     48 entries (character keys; counted only)
- ├─ profiles                        UI settings
- └─ global
-     ├─ realms["<realm>"]
-     │    ├─ discoveries[GUID] = { discovery record, see below }
-     │    └─ blackmarketVendors[key] = { c,z,iz,xy,i,il,q,s,st,t0,ls,dt,fp,o,g,mid,
-     │                                   vendorName, vendorType, vendorItems[n]{itemID,link,name,price,stack,costs,…} }
-     ├─ scannerData[itemLink] = { isWF, isCollected, reqLevel }   per-item tooltip-scan cache, 2,320 item ids
-     ├─ newWorldforgedItems[itemId] = true                         306 ids
-     ├─ deletedCache[mid] = { payload{c,z,iz,i,il,mid,xy,t0}, deletedAt, expiresAt, … }
-     ├─ aoeTombstones[n] = { c,z,iz,x,y,radius,expires,name,dt }  42 rows
-     └─ cacheQueue, migration flags
-```
-
-### Discovery record fields (from 18,123 raw records)
-
-| key | type | meaning | evidence |
-|---|---|---|---|
-| `g` | str | GUID `c-z-iz-i-x-y` (identical to the table key) | 18,123/18,123 equal |
-| `c` | int | addon's **logical continent**: 1 Kalimdor, 2 Eastern Kingdoms, 3 Outland, 0 unknown | code; values 0/1/2/3 = 9/8,228/9,883/3 raw |
-| `z` | int | `GetCurrentMapAreaID()` = **WorldMapArea.dbc ID + 1** | code; §4 |
-| `iz` | int | instance zone: 0 when the zone is in the addon's ZoneList, otherwise = mapAreaID | code; ≠0 in 8 deduped records (all z=2022, Atal'Hakkar) |
-| `i` | int | item id | 18,123/18,123 equal to the GUID's 4th part |
-| `il` | str | item link (`|cff…|Hitem:…|h[Name]|h|r`), which names the item | 100% present |
-| `xy.x`, `xy.y` | float | `GetPlayerMapPosition("player")` at loot time, rounded to 4 dp, normalised 0..1 within WMA(z−1) | code; all values ≤4 dp; x 0.0192–0.9614, y 0.0131–0.9997 |
-| `dt` | int | discovery type: 1 WORLDFORGED, 2 MYSTIC_SCROLL, 3 BLACKMARKET (vendors table); **4 is not in the addon's enum** | `Constants.DISCOVERY_TYPE` |
-| `q` | int | item quality | 0–7 |
-| `it`, `ist` | int | addon's item type / subtype ids | code |
-| `cl` | str | **item's** class-restriction abbreviation (`wa`,`ma`,`lo`=warlock,…; `cl` = no class token) — **not** the finder's class | `GetItemClassAbbr` |
-| `s` | str | status: CONFIRMED / UNCONFIRMED / FADING / STALE (decay) | 4 values |
-| `t0`, `ls`, `st` | int | first seen / last seen / status-change unix time | t0 2025-10-03 → 2026-08-20, ls ≤ 2026-09-04 |
-| `mc` | int | merge/confirmation count, capped at 1000 | code; 1–1370 observed |
-| `ac`, `at`, `nd`, `adc`, `pendingAnnounce` | int | announce/sync bookkeeping | not needed |
-| `src` | int/str | loot source: `world_loot`=0 / `npc_gossip`=1 / `emote_event`=2 / `direct`=3 (MS only) | `Constants.AcceptedLootSrc*` |
-| `mid` | str | 8-hex message id; **1:1 with `g`** (4,700 ↔ 4,700, no collisions either way) | measured. The code says FNV-1a-32 over `BuildDiscoveryMidPayload`; my reconstruction with the default payload matched 0/10,391, so **the hash input was NOT reproduced** |
-| `fp`, `o`, `fp_votes{name→{score,t0}}`, `ack_votes`, `s_flag` | | finder / originator / voter **names** | **§9: counted only** |
-| `_ln`, `_lz`, `_rawC`, `_rawZ`, `_rawIz`, `_rawIl` | | legacy-import fields (1,597–1,611 records). `_lz` holds "stranglethorn vale" for 77 different z, so it is **unreliable** | measured |
-
-## 3. The composite key `<a>-<b>-<c>-<itemId>-<x>-<y>`
-
-`GUID = c - z - iz - itemId - x - y` (`L:GenerateGUID(c, z, iz, i, x, y)`, x/y formatted `%.4f`).
-
-- **a = `c` = the addon's logical continent**. It is **not faction** and **not the server map**. Measured: the
-  addon puts the map-530 zones on the continent their players reach them from (Azuremyst/Bloodmyst → `c=1`,
-  Eversong/Ghostlands → `c=2`), and dungeons carry the continent of their entrance.
-  **Take the server map from `WMA(z−1).MapID`, never from `c`.**
-- **b = `z` = mapAreaID** (WorldMapArea ID + 1).
-- **c = `iz` = instance zone** (0 in the open world).
-- There is **no faction and no realm in the key**. Realm is the parent table. Faction is **ABSENT** from records.
-- Key x/y vs the stored `xy`: identical for **9,310 / 10,391** deduped records. Otherwise median 0.00, p90 0.34,
-  p99 99.7, max 372.8 yd. The addon's deduplicator and CoordAuthority move the stored `xy` while the GUID keeps the
-  first-seen point. **Use `xy`, not the key.**
-
-## 4. Counts and dedupe
-
-| step | count |
-|---|---:|
-| raw discovery records (6 files) | 18,123 |
-| distinct (realm, GUID) | **10,391** |
-| … from `.lua` only | 7,706 (`.bak` adds **2,685** that were later pruned from the live file) |
-| (realm, GUID) seen in 1 / 2 / 3 accounts | 6,821 / 2,005 / 1,565 |
-| distinct GUID across realms | **4,700** — on 1 realm 2,655 · 2 realms 40 · 3 realms 364 · 4 realms 1,641 |
-| deduped per realm | Vol'jin 4,250 · Dawnrise 2,078 · Area 52 2,055 · Darkmoon 2,005 · Bronzebeard 3 |
-| distinct items | 2,065 |
-| distinct (item, z, x4, y4) | 4,699 |
-| distinct (item, z, x2, y2) (~1% grid) | 3,322 |
-| deduped status | FADING 4,862 · CONFIRMED 4,754 · STALE 732 · UNCONFIRMED 43 |
-| deduped `dt` | 1 (WF) 9,264 · 2 (MS) 1,119 · 4 (undocumented) 8 = 2 items: *Frightened Kitten*, *Prophecy of the Arcanist* |
-
-**These are not independent observations.** 1,641 GUIDs appear identically on 4 realms, and `fp_votes` holds
-29,390 voter entries from 2,064 distinct voters. The data is **crowd-synced** across the addon's channel and
-starter DB. It is not what three players looted themselves.
-
-## 5. Worldforged
-
-Definition: `dt = 1` (`DISCOVERY_TYPE.WORLDFORGED`; the addon sets it from a tooltip "Worldforged" scan plus a curated id list).
-
-| check | result |
-|---|---:|
-| WF items (dt=1) | **1,755** |
-| … `scannerData.isWF = true` | 1,736 (19 scanned `false`: they qualified via the curated list) |
-| … in `global.newWorldforgedItems` | 106 of its 306 ids |
-| scanner `isWF=true` items **without** a pin | 164 |
-| installed addon's `WorldforgedList.lua` (our client, not the dump) | 1,834 ids; 1,636 overlap the dump's 1,755; **198 listed WF ids have no pin** |
-| unique WF pins (item, z, x4, y4), merged across realms | **4,284** |
-
-**Item level** (harvest itemcache TSV `itemcache-dawnrise-2026-09-01c.tsv`, 548,496 rows; 1,740 of 1,755 WF items matched):
-
-| ilvl | 0–9 | 10–19 | 20–29 | 30–39 | 40–49 | 50–59 | 60–69 | 70–79 |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| items | 82 | 305 | 232 | 169 | 310 | 373 | 267 | 2 |
-
-Quality (TSV): common 5 · uncommon 758 · rare 920 · epic 54 · quality 6: 3. The invTypes cover every armour/weapon
-slot (most common: 17 two-hand 231, 13 one-hand 172, 12 trinket 118, 26 ranged 112, 11 finger 99).
-Id bands (`id // 100000`): 3xxxxx 237 · 4xxxxx 682 · 5xxxxx 687 · 13xxxxx 87 (Worldforged Scrolls) · others ≤ 24.
-WF items missing from the TSV (15): 100369, 131059, 132418, 132426, 132599, 132626, 132636, 132637, 132690,
-132693, 132698, 132704, 132723, 134869, 201537. Their names still come from `il`.
-**The full id / name / ilvl / reqLevel / pin list is in `dump-lootcollector-wf-items.csv`.**
-
-### Item-id joins
-
-| set | n | in our 55,454 cached ids | Ascension-only (cached − live) | in live `item_template` | in harvest TSV | in none |
-|---|---:|---:|---:|---:|---:|---:|
-| all LootCollector items | 2,065 | 1,746 | 1,746 | **0** | 1,743 | 309 (307 are Mystic Scrolls) |
-| Worldforged | 1,755 | 1,745 | 1,745 | **0** | 1,740 | 2 |
-
-Every WF item has to be **created** in `item_template` (none exist live). 1,745 of them already have an enumerated id in our cache.
-
-## 6. Zone distribution
-
-`z − 1` resolves to a row of the captured `WorldMapArea.dbc` for **111 / 111** WF zone values (0 unmapped).
-That DBC (md5 `385136e3…`, 310 rows) is **byte-identical** to the one extracted from Ascension's `patch-M.MPQ`.
-47 of the zones are stock WMA rows; **64 are Ascension-custom** (starting areas, caves, mines, secret dungeons, WMA 1200–1245 / 2021–2030).
-
-Unique WF pins by server map: **0 → 2,389 · 1 → 1,775 · 530 → 54** (Eversong, Ghostlands, Azuremyst,
-Bloodmyst, Exodar, Silvermoon, Sunstrider/Ammen starts) · instances 66 pins over 19 maps (Maraudon 19,
-Deadmines 12, Magisters' Terrace 10, Atal'Hakkar 5, …). **Northrend (571): 0. Pale Reach (WMA 2062 / z 2063): 0 — ABSENT.**
-
-Top 30 zones by unique WF pins (`go≤5` = pins with a dump gameobject within 5 yd):
-
-| z | WMA | name | map | WMA source | pins | items | go≤5 |
-|---:|---:|---|---:|---|---:|---:|---:|
-| 38 | 37 | Stranglethorn | 0 | stock | 195 | 103 | 63 |
-| 40 | 39 | Westfall | 0 | stock | 130 | 67 | 44 |
-| 27 | 26 | Hinterlands | 0 | stock | 128 | 82 | 35 |
-| 12 | 11 | Barrens | 1 | stock | 128 | 75 | 25 |
-| 17 | 16 | Arathi | 0 | stock | 126 | 68 | 59 |
-| 16 | 15 | Alterac | 0 | stock | 122 | 73 | 56 |
-| 41 | 40 | Wetlands | 0 | stock | 116 | 79 | 24 |
-| 142 | 141 | Dustwallow | 1 | stock | 114 | 59 | 39 |
-| 102 | 101 | Desolace | 1 | stock | 114 | 58 | 46 |
-| 122 | 121 | Feralas | 1 | stock | 114 | 66 | 27 |
-| 24 | 23 | EasternPlaguelands | 0 | stock | 112 | 82 | 35 |
-| 162 | 161 | Tanaris | 1 | stock | 111 | 64 | 23 |
-| 202 | 201 | UngoroCrater | 1 | stock | 111 | 60 | 63 |
-| 35 | 34 | Duskwood | 0 | stock | 109 | 65 | 35 |
-| 31 | 30 | Elwynn | 0 | stock | 105 | 52 | 36 |
-| 5 | 4 | Durotar | 1 | stock | 103 | 52 | 46 |
-| 44 | 43 | Ashenvale | 1 | stock | 101 | 53 | 25 |
-| 62 | 61 | ThousandNeedles | 1 | stock | 101 | 41 | 39 |
-| 21 | 20 | Tirisfal | 0 | stock | 95 | 47 | 38 |
-| 18 | 17 | Badlands | 0 | stock | 95 | 59 | 47 |
-| 43 | 42 | Darkshore | 1 | stock | 93 | 54 | 15 |
-| 30 | 29 | BurningSteppes | 0 | stock | 93 | 67 | 39 |
-| 39 | 38 | SwampOfSorrows | 0 | stock | 92 | 61 | 47 |
-| 29 | 28 | SearingGorge | 0 | stock | 86 | 54 | 47 |
-| 36 | 35 | LochModan | 0 | stock | 83 | 38 | 32 |
-| 42 | 41 | Teldrassil | 1 | stock | 83 | 52 | 18 |
-| 23 | 22 | WesternPlaguelands | 0 | stock | 81 | 44 | 34 |
-| 28 | 27 | DunMorogh | 0 | stock | 77 | 44 | 21 |
-| 37 | 36 | Redridge | 0 | stock | 75 | 36 | 40 |
-| 182 | 181 | Aszhara | 1 | stock | 72 | 46 | 36 |
-
-Ascension-custom zones carry 524 pins; the largest (deduped records, realm-counted) are *campnarachestart* 80,
-*northshire* 74, *deathknellstart* 71, *shadowglenstart* 70, *valleyoftrialsstart* 65, *coldridgevalley* 56.
-
-## 7. Normalised x/y → server X/Y
-
-```
-row      = WorldMapArea[z - 1]              # captured DBC == Ascension patch-M; NOT the stock 3.3.5 DBC
-map      = row.MapID
-server_X = row.LocTop  - y * (row.LocTop  - row.LocBottom)     # top/bottom are X
-server_Y = row.LocLeft - x * (row.LocLeft - row.LocRight)      # left/right are Y
-server_Z = ABSENT (not recorded) -> take nearest GO z (CSV column) or query terrain/vmap height
-```
-
-Use `xy` (not the GUID's x/y) and average `xy` over the copies of a pin (that is what the locations CSV does).
-
-### How accurate, measured separately
-
-| source of error | measured |
+| 路径 | 含义 |
 |---|---|
-| **formula** (the exact inverse of the client projection), tested on the dump's own spawn records that carry both MapX/MapY and internal X/Y: 21,931 GO + 3,436 NPC + 7,118 Bronzebeard GO = **32,485** | median error 1.43 / 1.65 / 1.56 yd; p99 4.3–5.1 yd. The RMS **expected** from those records' 1-decimal MapX/MapY rounding is 1.49 / 1.83 / 1.57 yd, so the formula contributes **~0 error**. (Skipped: 767 records with MapX/MapY outside 0–100, 92 on a map mismatch, 964 with unmatched map names.) |
-| LootCollector's 4-dp quantisation | half-step median **0.20 yd**, max 1.84 yd (largest zones) |
-| using the stock 3.3.5 WMA bounds instead of Ascension's (Ascension rounded the bounds to whole yards) | shift median 0.61, p99 1.02, max 1.19 yd. **Use the captured/patch-M bounds**, since the client projected with them |
-| **what the point is**: `GetPlayerMapPosition` when the loot window opened = the **player**, not the object | against the 11 maintainer "stand-on-spawn" rows in the addon's `CoordAuthority.lua` (our client): 60 dump records for those items, **median 3.5 yd**. For 9 items the closest copy is 0.0–3.5 yd and the worst copy 9.8–53.7 yd. **2 items (410154, 515415) are 673–750 yd off in every copy**; these are the wrong pins the maintainer later overrode |
-| same-map nearest **dump gameobject** to each WF pin (4,108 pins on maps with GO coverage) | median **7.8 yd** (p25 3.4, p75 19.8, p90 80.0); ≤3 yd 871 · ≤5 yd **1,538** · ≤10 yd 2,328 · ≤25 yd 3,241. Stock-WMA zones median 7.9, Ascension-custom zones median 7.6: the custom bounds convert as well as the stock ones |
-| nearest dump NPC | median 76.6 yd (only 213 pins have any NPC coverage), consistent with WF items being object pick-ups, not creature drops |
-| instance maps (66 pins) | WMA bounds applied, but multi-floor dungeons use per-floor DungeonMap bounds and LootCollector records no floor, so these are **UNVERIFIED** |
+| `char["<char> - <realm>"]` | 六份文件中共 48 项，包含 890 条角色拾取标记、地图筛选及迁移标志 |
+| `profileKeys` / `profiles` | 48 个角色键及界面配置 |
+| `global.realms[<realm>].discoveries[GUID]` | 按服务器保存的发现记录 |
+| `global.realms[<realm>].blackmarketVendors` | 商人坐标、名称、类型和商品列表。商品含 ID、链接、价格、堆叠数量等 |
+| `global.scannerData[itemLink]` | 物品提示扫描缓存，含 `isWF`、`isCollected`、`reqLevel`，覆盖 2,320 个物品 ID |
+| `global.newWorldforgedItems` | 新发现的世界铸造 ID，共 306 个 |
+| `global.deletedCache` / `global.aoeTombstones` | 删除与范围屏蔽记录。范围屏蔽共 42 条 |
+| `global.cacheQueue` | 缓存队列，另有迁移标志 |
 
-**Honest summary:** the conversion is exact. A pin is where a player stood when looting, typically within
-~2–8 yd of the spawn, with a long tail and a small share of plainly wrong pins. Status FADING/STALE and
-`mc = 1` pins deserve less trust. Snapping each pin to the nearest dump gameobject within ≤5 yd is the
-recommended refinement where one exists.
+### 发现记录字段
 
-### What sits under the pins (candidate WF spawn objects)
+| 字段 | 含义及验证结果 |
+|---|---|
+| `g` | GUID，与表键逐一相同，18,123 条均吻合 |
+| `c` | 插件逻辑大陆。0 未知、1 卡利姆多、2 东部王国、3 外域，原始记录分别为 9、8,228、9,883、3 条 |
+| `z` | `GetCurrentMapAreaID()`，即 WorldMapArea ID + 1 |
+| `iz` | 副本区域 ID。区域在插件 ZoneList 内时为 0，否则取 mapAreaID。去重后有 8 条非零记录，均为 `z = 2022`，阿塔哈卡神庙 |
+| `i` / `il` | 物品 ID 和物品链接。ID 与 GUID 第四段完全吻合，链接在原始记录中均存在 |
+| `xy.x` / `xy.y` | 拾取时玩家在地图上的 0–1 比例坐标，最多四位小数。X 范围 0.0192–0.9614，Y 范围 0.0131–0.9997 |
+| `dt` | 发现类型。1 世界铸造、2 神秘卷轴、3 黑市商人。类型 4 未在插件枚举中定义 |
+| `q` / `it` / `ist` | 品质 0–7，以及插件的物品类型和子类型 ID |
+| `cl` | 物品职业限制缩写，例如 `lo` 为术士，`cl` 表示无职业标记 |
+| `s` | 状态，含 CONFIRMED、UNCONFIRMED、FADING、STALE |
+| `t0` / `ls` / `st` | 首次发现、最后发现、状态变更的 Unix 时间。首次发现为 2025-10-03 至 2026-08-20，最后发现最晚 2026-09-04 |
+| `mc` | 合并或确认次数。代码上限为 1,000，备份实际观察值为 1–1,370 |
+| `ac` / `at` / `nd` / `adc` / `pendingAnnounce` | 广播和同步状态字段 |
+| `src` | 神秘卷轴来源。0 世界拾取、1 NPC 对话、2 表情事件、3 直接获取 |
+| `mid` | 八位十六进制消息 ID。与 GUID 一一对应，共 4,700 对。代码使用 FNV-1a-32，作者用默认负载重算时 10,391 条均未匹配，实际哈希输入未复现 |
+| `fp` / `o` / `fp_votes` / `ack_votes` / `s_flag` | 发现者、发起者、投票等相关字段，报告只统计数量 |
+| `_ln` / `_lz` / `_rawC` / `_rawZ` / `_rawIz` / `_rawIl` | 旧版导入字段，出现于约 1,597–1,611 条记录。`_lz` 在 77 个不同区域 ID 下都可写作荆棘谷，可靠性较低 |
 
-Within 5 yd: **1,548 pins → 999 distinct GO entries**. 611 of those entries are in our WDB GO-template cache and
-**571 are Ascension-only**. 979 of the 999 are nearest to exactly one WF item, 20 to more than one, which suggests
-roughly one spawn object per item. The GO names are world-prop pick-ups (*Forgotten Sack*, *Stuck Sword*,
-*Adventurer's Corpse*, *Disturbed Dirt*, *Abandoned Bag*, *Travel Sack*, *Stolen Supplies*, …).
-**CLAIM, not verified:** the Bronzebeard CSV `Type` column labels 1,154 of them "Door" and 133 "Chest";
-I did not validate that column's enum. **Nearest is not the same as source.** The GO→item binding is a lead, not a fact.
+## 3. GUID 的组成
 
-## 8. Black-market vendors (side table)
+`GUID = c-z-iz-itemId-x-y`，由 `L:GenerateGUID(c, z, iz, i, x, y)` 生成，X/Y 格式为 `%.4f`。服务器由 GUID 外层的表区分，记录没有阵营字段。
 
-129 raw records (`vendorType`: BM 107 · MS 14 · EX 8), same `c/z/iz/xy` layout. `vendorItems`: 517 entries
-covering 130 item ids. The vendor NPC name field exists (§9). These give vendor positions, not WF drops; not pursued further.
+- `c` 是插件逻辑大陆。外域地图 530 上的秘蓝岛、秘血岛记为 `c=1`，永歌森林、幽魂之地记为 `c=2`。副本沿用入口所在的逻辑大陆。**服务器地图 ID 要从 `WMA(z−1).MapID` 取得。**
+- `z` 是 WorldMapArea ID + 1。`iz` 是副本区域字段，野外通常为 0。
+- 10,391 条去重记录中，有 9,310 条的 GUID 坐标与当前 `xy` 完全一致。其余偏差中位数约 0.00 码，第 90 百分位 0.34 码，第 99 百分位 99.7 码，最大 372.8 码。合并和 CoordAuthority 会调整 `xy`，GUID 保留首次坐标，所以应读取 **`xy`**。
 
-## 9. Privacy: fields that can hold person names (existence and counts only)
+## 4. 计数与去重
 
-| field | occurrences | distinct values |
+| 步骤 | 计数 |
+|---|---:|
+| 六份文件的原始发现记录 | 18,123 |
+| 按服务器和 GUID 去重 | 10,391 |
+| 只算 `.lua` | 7,706。`.bak` 补出后来从正式文件清掉的 2,685 条 |
+| 在 1 / 2 / 3 个账号出现的服务器与 GUID 组合 | 6,821 / 2,005 / 1,565 |
+| 跨服不同 GUID | 4,700。分别在 1 / 2 / 3 / 4 个服出现的数量为 2,655 / 40 / 364 / 1,641 |
+| 按服去重 | Vol'jin 4,250，Dawnrise 2,078，Area 52 2,055，Darkmoon 2,005，Bronzebeard 3 |
+| 不同物品 | 2,065 |
+| 按物品、区域、四位小数坐标去重 | 4,699 |
+| 按物品、区域、两位小数坐标去重 | 3,322 |
+| 按状态 | FADING 4,862，CONFIRMED 4,754，STALE 732，UNCONFIRMED 43 |
+| 按发现类型 | 世界铸造 9,264，神秘卷轴 1,119，未定义类型 4 有 8 条，涉及 Frightened Kitten 和 Prophecy of the Arcanist |
+
+记录会通过插件频道和初始库共享，不能当作独立样本。1,641 个 GUID 在四个服完全一致，`fp_votes` 中有 29,390 条投票，涉及 2,064 个不同投票者。
+
+## 5. 世界铸造
+
+插件通过提示中的 Worldforged 标记和维护的 ID 列表认定 `dt = 1`。1,755 个物品中，扫描缓存将 1,736 个标为 `isWF=true`，另有 19 个通过列表纳入。306 个 `newWorldforgedItems` ID 中有 106 个出现在这里。扫描缓存另有 164 个标为世界铸造但没有点位的 ID。
+
+作者客户端的 `WorldforgedList.lua` 有 1,834 个 ID，与这批 ZIP 中的 1,755 个重合 1,636 个，列表有 198 个 ID 缺少点位。按物品、区域、四位小数坐标跨服合并后，有 **4,284 个点位**。
+
+物品缓存 `itemcache-dawnrise-2026-09-01c.tsv` 共 548,496 行，匹配了 1,740 个世界铸造物品。
+
+| 物品等级 | 0–9 | 10–19 | 20–29 | 30–39 | 40–49 | 50–59 | 60–69 | 70–79 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| 物品数 | 82 | 305 | 232 | 169 | 310 | 373 | 267 | 2 |
+
+品质统计为普通 5、优秀 758、精良 920、史诗 54、品质 6 有 3 件。装备部位中，双手 231、单手 172、饰品 118、远程 112、戒指 99。按 ID 区段（`id // 100000`）整理，3xxxxx 有 237 个、4xxxxx 有 682 个、5xxxxx 有 687 个、13xxxxx 有 87 个（原报告归为世界铸造卷轴），其他区段各不超过 24 个。
+
+物品 TSV 缺少以下 15 个 ID，名称仍可从 `il` 获取：100369、131059、132418、132426、132599、132626、132636、132637、132690、132693、132698、132704、132723、134869、201537。
+
+| 物品集合 | 数量 | 匹配作者的 55,454 个缓存 ID | 飞升独有 | 匹配当时的 `item_template` | 匹配采集 TSV | 所有来源均缺失 |
+|---|---:|---:|---:|---:|---:|---:|
+| LootCollector 全部物品 | 2,065 | 1,746 | 1,746 | 0 | 1,743 | 309，其中 307 个是神秘卷轴 |
+| 世界铸造 | 1,755 | 1,745 | 1,745 | 0 | 1,740 | 2 |
+
+作者当时的服务端需要在 `item_template` 中建立这些世界铸造物品。已有 1,745 个 ID 可在缓存中找到。
+
+## 6. 区域分布
+
+111 个世界铸造区域都可用 `z − 1` 在采集的 `WorldMapArea.dbc` 中找到。该表有 310 行，与飞升 `patch-M.MPQ` 中的文件逐字节一致，MD5 开头为 `385136e3`。其中 47 个区域用原版 WMA 行，64 个为飞升自定义起始区、洞穴、矿井或隐藏副本。
+
+点位分布为东部王国 2,389、卡利姆多 1,775、地图 530 有 54，另有 19 张副本地图共 66 个。诺森德（571）和 Pale Reach（WMA 2062，`z=2063`）均为 0。
+
+| z | WMA | 区域原名 | 地图 ID | WMA 来源 | 点位数 | 物品数 | 5 码内有物件 |
+|---:|---:|---|---:|---|---:|---:|---:|
+| 38 | 37 | Stranglethorn | 0 | 原版 | 195 | 103 | 63 |
+| 40 | 39 | Westfall | 0 | 原版 | 130 | 67 | 44 |
+| 27 | 26 | Hinterlands | 0 | 原版 | 128 | 82 | 35 |
+| 12 | 11 | Barrens | 1 | 原版 | 128 | 75 | 25 |
+| 17 | 16 | Arathi | 0 | 原版 | 126 | 68 | 59 |
+| 16 | 15 | Alterac | 0 | 原版 | 122 | 73 | 56 |
+| 41 | 40 | Wetlands | 0 | 原版 | 116 | 79 | 24 |
+| 142 | 141 | Dustwallow | 1 | 原版 | 114 | 59 | 39 |
+| 102 | 101 | Desolace | 1 | 原版 | 114 | 58 | 46 |
+| 122 | 121 | Feralas | 1 | 原版 | 114 | 66 | 27 |
+| 24 | 23 | EasternPlaguelands | 0 | 原版 | 112 | 82 | 35 |
+| 162 | 161 | Tanaris | 1 | 原版 | 111 | 64 | 23 |
+| 202 | 201 | UngoroCrater | 1 | 原版 | 111 | 60 | 63 |
+| 35 | 34 | Duskwood | 0 | 原版 | 109 | 65 | 35 |
+| 31 | 30 | Elwynn | 0 | 原版 | 105 | 52 | 36 |
+| 5 | 4 | Durotar | 1 | 原版 | 103 | 52 | 46 |
+| 44 | 43 | Ashenvale | 1 | 原版 | 101 | 53 | 25 |
+| 62 | 61 | ThousandNeedles | 1 | 原版 | 101 | 41 | 39 |
+| 21 | 20 | Tirisfal | 0 | 原版 | 95 | 47 | 38 |
+| 18 | 17 | Badlands | 0 | 原版 | 95 | 59 | 47 |
+| 43 | 42 | Darkshore | 1 | 原版 | 93 | 54 | 15 |
+| 30 | 29 | BurningSteppes | 0 | 原版 | 93 | 67 | 39 |
+| 39 | 38 | SwampOfSorrows | 0 | 原版 | 92 | 61 | 47 |
+| 29 | 28 | SearingGorge | 0 | 原版 | 86 | 54 | 47 |
+| 36 | 35 | LochModan | 0 | 原版 | 83 | 38 | 32 |
+| 42 | 41 | Teldrassil | 1 | 原版 | 83 | 52 | 18 |
+| 23 | 22 | WesternPlaguelands | 0 | 原版 | 81 | 44 | 34 |
+| 28 | 27 | DunMorogh | 0 | 原版 | 77 | 44 | 21 |
+| 37 | 36 | Redridge | 0 | 原版 | 75 | 36 | 40 |
+| 182 | 181 | Aszhara | 1 | 原版 | 72 | 46 | 36 |
+
+飞升自定义区域共有 524 个点位。若按服务器分别计数，较多的是 `campnarachestart` 80、`northshire` 74、`deathknellstart` 71、`shadowglenstart` 70、`valleyoftrialsstart` 65、`coldridgevalley` 56。
+
+## 7. 从地图比例坐标换算服务器坐标
+
+```text
+row      = WorldMapArea[z - 1]  # 取飞升 patch-M 采集表
+map      = row.MapID
+server_X = row.LocTop  - y * (row.LocTop  - row.LocBottom)
+server_Y = row.LocLeft - x * (row.LocLeft - row.LocRight)
+server_Z = 未记录              # 可查询地形高度，或参考最近场景物件的 Z
+```
+
+CSV 用存档中的 `xy`，并对同一点位的多个副本取平均。
+
+| 误差来源 | 测量结果 |
+|---|---|
+| 坐标换算 | 对 21,931 个场景物件、3,436 个 NPC 和 7,118 个铜须场景物件验证，共 32,485 条。误差中位数为 1.43 / 1.65 / 1.56 码，第 99 百分位 4.3–5.1 码，符合地图输入保留一位小数的精度。排除越界 767 条、地图不符 92 条、地图名未匹配 964 条 |
+| LootCollector 四位小数取整 | 半步误差中位数 0.20 码，最大 1.84 码 |
+| 误用原版 3.3.5 的地图边界 | 与飞升边界相比，偏移中位数 0.61 码、第 99 百分位 1.02 码、最大 1.19 码 |
+| 玩家站位与物件生成点 | 对照维护者的 11 个实测物品、60 条备份记录，偏差中位数 3.5 码。9 件的最近记录相差 0–3.5 码，最远记录相差 9.8–53.7 码。另两件（410154、515415）的所有记录偏离 673–750 码，后来由维护者校正 |
+| 同地图最近场景物件 | 4,108 个点位的距离中位数为 7.8 码，第 25 / 75 / 90 百分位分别为 3.4 / 19.8 / 80.0 码。3 / 5 / 10 / 25 码内分别有 871 / 1,538 / 2,328 / 3,241 个。原版和自定义区域的中位数为 7.9 和 7.6 码 |
+| 最近 NPC | 有 NPC 数据覆盖的 213 个点位中，距离中位数为 76.6 码 |
+| 副本 | 66 个点位用了 WMA 边界。多层副本使用分层 DungeonMap 边界，LootCollector 未记录楼层，故未验证 |
+
+原报告摘要及下一段将 5 码内的数量写作 1,548，这里的分项表写作 1,538，译文保留两处原始数字。点位通常距生成处约 2–8 码，但存在明显错误点。FADING、STALE 或 `mc = 1` 的记录应谨慎使用。原作者建议有候选物件时，可尝试用 5 码内最近的场景物件细化位置。
+
+### 点位附近的候选场景物件
+
+按原报告摘要的口径，5 码内的 1,548 个点位涉及 999 个不同场景物件模板。其中 611 个在作者的 WDB 模板缓存中，571 个为飞升独有。999 个模板中有 979 个只对应一件最近的世界铸造物品，另 20 个对应多件。候选物件名称包括遗忘的袋子、插地的剑、冒险者尸体、翻动过的泥土等。
+
+铜须 CSV 的 `Type` 列把其中 1,154 条标为 Door、133 条标为 Chest，该枚举未经作者验证。近邻关联仅供进一步核查。
+
+## 8. 黑市商人
+
+有 129 条原始商人记录，`vendorType` 分别是 BM 107、MS 14、EX 8。使用相同的 `c/z/iz/xy` 坐标字段。商品列表有 517 条，覆盖 130 个物品 ID。商人记录反映商人位置，报告未继续分析其物品掉落。
+
+## 9. 隐私字段统计
+
+| 字段 | 出现次数 | 不同值 |
 |---|---:|---:|
-| `discoveries.fp` (finder) | 18,123 | 1,218 |
-| `discoveries.o` (originator) | 18,123 | 1,123 |
-| `discoveries.fp_votes` keys (voters) | 29,390 | 2,064 |
+| `discoveries.fp` （发现者） | 18,123 | 1,218 |
+| `discoveries.o` （发起者） | 18,123 | 1,123 |
+| `discoveries.fp_votes` keys （投票者） | 29,390 | 2,064 |
 | `discoveries.ack_votes` keys | 4 | 3 |
-| `discoveries._ln` (legacy; shape consistent with item names, not verified) | 1,611 | 1,491 |
+| `discoveries._ln` （旧字段，格式像物品名，未经核实） | 1,611 | 1,491 |
 | `blackmarketVendors.fp` / `.o` | 129 / 129 | 12 / 12 |
 | `blackmarketVendors.vendorName` (NPC) | 129 | 21 |
 | `aoeTombstones.name` | 42 | — |
 | `char` keys (`<char> - <realm>`) / `profileKeys` | 48 / 48 | — |
-| `char.looted` GUID markers (per character) | 890 | — |
+| `char.looted` GUID 标记 （按角色） | 890 | — |
 
-No email, IP, password, token or session value exists in the LootCollector SVs. No account or character name
-appears in this report or its sidecars. Output scan: both CSVs were tokenised and matched against the 2,723
-person-name values. Every hit (51 in the locations CSV, 18 in the items CSV) was a word inside an `item_name`
-that also appears in the itemcache / WMA **game vocabulary**, i.e. a player named after an in-game word, not a leaked name.
+作者在 LootCollector 存档中未发现邮箱、IP、密码、令牌或会话值。报告及附表不公开账号和角色名。两份 CSV 拆词后与 2,723 个姓名值比对，点位表命中 51 次、物品表命中 18 次，均是物品名称中的游戏词汇，可在物品缓存或 WMA 中核实。
 
-## 10. What is ABSENT
+## 10. 数据缺口
 
-- **Z / height** for every pin.
-- **Faction**. Also no source-object or creature id: which GO or NPC dropped the item is not recorded.
-- Any pin in **Northrend** or **Pale Reach**.
-- A machine-checkable proof that a pin's nearest GO is its spawn object.
-- Independence: the records are crowd-synced (§4), so three accounts are not three samples.
+- 所有点位的高度 Z，以及阵营字段。
+- 实际提供物品的场景物件或生物 ID，以及能证明近邻物件就是生成来源的证据。
+- 诺森德和 Pale Reach 的点位。
+- 独立样本。插件记录会同步，三个账号的存档存在重叠。
 
-## 11. Method (reproducible)
+## 11. 分析步骤
 
-`luasv.py` (parser) → `skeleton.py` / `profile.py` / `fields.py` (sanitised schema; string values reduced to
-letter/digit shapes) → `keys.py` / `prec.py` (GUID decomposition) → `wma.py` (DBC + `Content/WorldMapAreaData.json`:
-the JSON's `ID` = DBC ID + 1 for 131 of 172 rows, 0 matches at offset 0, which confirms `z = WMA ID + 1`) →
-`itemjoin.py` (TSV join) → `spawns.py` (dump spawns + formula validation) → `main.py` (dedupe, WF, zones,
-conversion, nearest GO) → `authority.py` → `goids.py` → `sidecar.py` → `privcheck.py` / `privcol.py`.
+1. 用 `luasv.py` 解析，再用 `skeleton.py`、`profile.py`、`fields.py` 检查结构并将敏感字符串归纳为字母与数字格式。
+2. 用 `keys.py`、`prec.py` 拆分 GUID。用 `wma.py` 比对 DBC 和 `Content/WorldMapAreaData.json`。172 行中有 131 行满足 JSON ID = DBC ID + 1，按相同 ID 则没有匹配。
+3. 用 `itemjoin.py` 关联物品 TSV，用 `spawns.py` 验证生成点和换算公式，再用 `main.py` 完成去重、分类、区域分析、换算和近邻匹配。
+4. 依次用 `authority.py`、`goids.py`、`sidecar.py` 核对已确认坐标、关联物件、生成附表，最后用 `privcheck.py`、`privcol.py` 检查隐私字段。
