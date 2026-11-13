@@ -1,311 +1,311 @@
-wma_id,name_en,display_name_en,name_zhCN,translation_source
-4,Durotar,Durotar,杜隆塔尔,AscensionCN.Dict
-9,Mulgore,Mulgore,莫高雷,AscensionCN.Dict
-11,Barrens,The Barrens,贫瘠之地,AscensionCN.Dict
-13,Kalimdor,Kalimdor,卡利姆多,AscensionCN.Dict
-14,Azeroth,Eastern Kingdoms,东部王国,AscensionCN.Dict
-15,Alterac,Alterac Mountains,奥特兰克山脉,AscensionCN.Dict
-16,Arathi,Arathi Highlands,阿拉希高地,AscensionCN.Dict
-17,Badlands,Badlands,荒芜之地,AscensionCN.Dict
-19,BlastedLands,Blasted Lands,诅咒之地,AscensionCN.Dict
-20,Tirisfal,Tirisfal Glades,提瑞斯法林地,AscensionCN.Dict
-21,Silverpine,Silverpine Forest,银松森林,AscensionCN.Dict
-22,WesternPlaguelands,Western Plaguelands,西瘟疫之地,AscensionCN.Dict
-23,EasternPlaguelands,Eastern Plaguelands,东瘟疫之地,AscensionCN.Dict
-24,Hilsbrad,Hillsbrad Foothills,希尔斯布莱德丘陵,AscensionCN.Dict
-26,Hinterlands,The Hinterlands,辛特兰,AscensionCN.Dict
-27,DunMorogh,Dun Morogh,丹莫罗,AscensionCN.Dict
-28,SearingGorge,Searing Gorge,灼热峡谷,AscensionCN.Dict
-29,BurningSteppes,Burning Steppes,燃烧平原,AscensionCN.Dict
-30,Elwynn,Elwynn Forest,艾尔文森林,AscensionCN.Dict
-32,DeadwindPass,Deadwind Pass,逆风小径,AscensionCN.Dict
-34,Duskwood,Duskwood,暮色森林,AscensionCN.Dict
-35,LochModan,Loch Modan,洛克莫丹,AscensionCN.Dict
-36,Redridge,Redridge Mountains,赤脊山,AscensionCN.Dict
-37,Stranglethorn,Stranglethorn Vale,荆棘谷,AscensionCN.Dict
-38,SwampOfSorrows,Swamp of Sorrows,悲伤沼泽,AscensionCN.Dict
-39,Westfall,Westfall,西部荒野,AscensionCN.Dict
-40,Wetlands,Wetlands,湿地,AscensionCN.Dict
-41,Teldrassil,Teldrassil,泰达希尔,AscensionCN.Dict
-42,Darkshore,Darkshore,黑海岸,AscensionCN.Dict
-43,Ashenvale,Ashenvale,灰谷,AscensionCN.Dict
-61,ThousandNeedles,Thousand Needles,千针石林,AscensionCN.Dict
-81,StonetalonMountains,Stonetalon Mountains,石爪山脉,AscensionCN.Dict
-101,Desolace,Desolace,凄凉之地,AscensionCN.Dict
-121,Feralas,Feralas,菲拉斯,AscensionCN.Dict
-141,Dustwallow,Dustwallow Marsh,尘泥沼泽,AscensionCN.Dict
-161,Tanaris,Tanaris,塔纳利斯,AscensionCN.Dict
-181,Aszhara,Azshara,艾萨拉,AscensionCN.Dict
-182,Felwood,Felwood,费伍德森林,AscensionCN.Dict
-201,UngoroCrater,Un'Goro Crater,安戈洛环形山,AscensionCN.Dict
-241,Moonglade,Moonglade,月光林地,AscensionCN.Dict
-261,Silithus,Silithus,希利苏斯,AscensionCN.Dict
-281,Winterspring,Winterspring,冬泉谷,AscensionCN.Dict
-301,Stormwind,Stormwind City,暴风城,AscensionCN.Dict
-321,Ogrimmar,Orgrimmar,奥格瑞玛,AscensionCN.Dict
-341,Ironforge,Ironforge,铁炉堡,AscensionCN.Dict
-362,ThunderBluff,Thunder Bluff,雷霆崖,AscensionCN.Dict
-381,Darnassis,Darnassus,达纳苏斯,AscensionCN.Dict
-382,Undercity,Undercity,幽暗城,AscensionCN.Dict
-401,AlteracValley,Alterac Valley,奥特兰克山谷,AscensionCN.Dict
-443,WarsongGulch,Warsong Gulch,战歌峡谷,AscensionCN.Dict
-461,ArathiBasin,Arathi Basin,阿拉希盆地,AscensionCN.Dict
-462,EversongWoods,Eversong Woods,永歌森林,AscensionCN.Dict
-463,Ghostlands,Ghostlands,幽魂之地,AscensionCN.Dict
-464,AzuremystIsle,Azuremyst Isle,秘蓝岛,AscensionCN.Dict
-465,Hellfire,Hellfire Peninsula,地狱火半岛,AscensionCN.Dict
-466,Expansion01,Expansion01,外域,LootCollector.L10n
-467,Zangarmarsh,Zangarmarsh,赞加沼泽,AscensionCN.Dict
-471,TheExodar,The Exodar,埃索达,AscensionCN.Dict
-473,ShadowmoonValley,Shadowmoon Valley,影月谷,AscensionCN.Dict
-475,BladesEdgeMountains,Blade's Edge Mountains,刀锋山,AscensionCN.Dict
-476,BloodmystIsle,Bloodmyst Isle,秘血岛,AscensionCN.Dict
-477,Nagrand,Nagrand,纳格兰,AscensionCN.Dict
-478,TerokkarForest,Terokkar Forest,泰罗卡森林,AscensionCN.Dict
-479,Netherstorm,Netherstorm,虚空风暴,AscensionCN.Dict
-480,SilvermoonCity,Silvermoon City,银月城,AscensionCN.Dict
-481,ShattrathCity,Shattrath City,沙塔斯城,AscensionCN.Dict
-482,NetherstormArena,Netherstorm Arena,风暴尖塔竞技场,LootCollector.L10n
-485,Northrend,Northrend,诺森德,AscensionCN.Dict
-486,BoreanTundra,Borean Tundra,北风苔原,AscensionCN.Dict
-488,Dragonblight,Dragonblight,龙骨荒野,AscensionCN.Dict
-490,GrizzlyHills,Grizzly Hills,灰熊丘陵,AscensionCN.Dict
-491,HowlingFjord,Howling Fjord,嚎风峡湾,AscensionCN.Dict
-492,IcecrownGlacier,Icecrown,冰冠冰川,AscensionCN.Dict
-493,SholazarBasin,Sholazar Basin,索拉查盆地,AscensionCN.Dict
-495,TheStormPeaks,The Storm Peaks,风暴峭壁,AscensionCN.Dict
-496,ZulDrak,Zul'Drak,祖达克,AscensionCN.Dict
-499,Sunwell,Sunwell Plateau,太阳之井高地,AscensionCN.Dict
-500,Silithus,Silithus,希利苏斯,AscensionCN.Dict
-501,LakeWintergrasp,Wintergrasp,冬拥湖,AscensionCN.Dict
-502,ScarletEnclave,Plaguelands: The Scarlet Enclave,东瘟疫之地：血色领地,AscensionCN.Dict
-504,Dalaran,Dalaran,达拉然,AscensionCN.Dict
-510,CrystalsongForest,Crystalsong Forest,晶歌森林,AscensionCN.Dict
-512,StrandoftheAncients,Strand of the Ancients,远古海滩,AscensionCN.Dict
-520,TheNexus,The Nexus,魔枢,LootCollector.L10n
-521,CoTStratholme,The Culling of Stratholme,净化斯坦索姆,AscensionCN.Dict
-522,Ahnkahet,Ahn'kahet: The Old Kingdom,安卡赫特：古代王国,AscensionCN.Dict
-523,UtgardeKeep,Utgarde Keep,乌特加德城堡,AscensionCN.Dict
-524,UtgardePinnacle,Utgarde Pinnacle,乌特加德之巅,AscensionCN.Dict
-525,HallsofLightning,Halls of Lightning,闪电大厅,AscensionCN.Dict
-526,Ulduar77,Halls of Stone,岩石大厅,LootCollector.L10n
-527,TheEyeofEternity,The Eye of Eternity,永恒之眼,LootCollector.L10n
-528,Nexus80,The Oculus,魔环,AscensionCN.Dict
-529,Ulduar,Ulduar,奥杜尔,AscensionCN.Dict
-530,Gundrak,Gundrak,古达克,LootCollector.L10n
-531,TheObsidianSanctum,The Obsidian Sanctum,黑曜石圣殿,LootCollector.L10n
-532,VaultofArchavon,Vault of Archavon,阿尔卡冯的宝库,LootCollector.L10n
-533,AzjolNerub,Azjol-Nerub,艾卓-尼鲁布,AscensionCN.Dict
-534,DrakTharonKeep,Drak'Tharon Keep,达克萨隆要塞,AscensionCN.Dict
-535,Naxxramas,Naxxramas,纳克萨玛斯,AscensionCN.Dict
-536,VioletHold,The Violet Hold,紫罗兰监狱,LootCollector.L10n
-537,Naxxramas,Naxxramas,纳克萨玛斯,AscensionCN.Dict
-540,IsleofConquest,Isle of Conquest,征服之岛,AscensionCN.Dict
-541,HrothgarsLanding,Hrothgar's Landing,洛斯加尔登陆点,AscensionCN.Dict
-542,TheArgentColiseum,Trial of the Champion,冠军的试炼,AscensionCN.Dict
-543,TheArgentColiseum,Trial of the Crusader,十字军的试炼,AscensionCN.Dict
-601,TheForgeofSouls,The Forge of Souls,灵魂洪炉,LootCollector.L10n
-602,PitofSaron,Pit of Saron,萨隆矿坑,LootCollector.L10n
-603,HallsofReflection,Halls of Reflection,映像大厅,LootCollector.L10n
-604,IcecrownCitadel,Icecrown Citadel,冰冠堡垒,AscensionCN.Dict
-609,TheRubySanctum,The Ruby Sanctum,红玉圣殿,AscensionCN.Dict
-625,TwistingNetherMap,Twisting Nether,扭曲虚空,AscensionCN.Dict
-626,TwinPeaks,Twin Peaks,双子峰,AscensionCN.Dict
-666,ShadowfangKeep,Shadowfang Keep,影牙城堡,AscensionCN.Dict
-680,Ragefire,Ragefire Chasm,怒焰裂谷,LootCollector.L10n
-686,ZulFarrak,Zul'Farrak,祖尔法拉克,AscensionCN.Dict
-688,BlackfathomDeeps,Blackfathom Deeps,黑暗深渊,AscensionCN.Dict
-690,TheStockade,The Stockade,监狱,AscensionCN.Dict
-691,Gnomeregan,Gnomeregan,诺莫瑞根,AscensionCN.Dict
-692,Uldaman,Uldaman,奥达曼,AscensionCN.Dict
-696,MoltenCore,Molten Core,熔火之心,AscensionCN.Dict
-697,ZulGurub,Zul'Gurub,祖尔格拉布,AscensionCN.Dict
-699,DireMaul,Dire Maul,厄运之槌,LootCollector.L10n
-704,BlackrockDepths,Blackrock Depths,黑石深渊,LootCollector.L10n
-710,TheShatteredHalls,The Shattered Halls,破碎大厅,LootCollector.L10n
-717,RuinsofAhnQiraj,Ruins of Ahn'Qiraj,安其拉废墟,AscensionCN.Dict
-718,OnyxiasLair,Onyxia's Lair,奥妮克希亚的巢穴,LootCollector.L10n
-720,Uldum,Uldum,奥丹姆,AscensionCN.Dict
-721,BlackrockSpire,Blackrock Spire,黑石塔,LootCollector.L10n
-722,AuchenaiCrypts,Auchenai Crypts,奥金尼地穴,AscensionCN.Dict
-723,SethekkHalls,Sethekk Halls,塞泰克大厅,AscensionCN.Dict
-724,ShadowLabyrinth,Shadow Labyrinth,暗影迷宫,LootCollector.L10n
-725,TheBloodFurnace,The Blood Furnace,鲜血熔炉,LootCollector.L10n
-726,TheUnderbog,The Underbog,幽暗沼泽,LootCollector.L10n
-727,TheSteamvault,The Steamvault,蒸汽地窟,LootCollector.L10n
-728,TheSlavePens,The Slave Pens,奴隶围栏,LootCollector.L10n
-729,TheBotanica,The Botanica,生态船,LootCollector.L10n
-730,TheMechanar,The Mechanar,能源舰,LootCollector.L10n
-731,TheArcatraz,The Arcatraz,禁魔监狱,AscensionCN.Dict
-732,ManaTombs,Mana-Tombs,法力陵墓,AscensionCN.Dict
-733,CoTTheBlackMorass,The Black Morass,黑色沼泽,AscensionCN.Dict
-734,CoTHillsbradFoothills,Old Hillsbrad Foothills,旧希尔斯布莱德丘陵,AscensionCN.Dict
-749,WailingCaverns,Wailing Caverns,哀嚎洞穴,LootCollector.L10n
-750,Maraudon,Maraudon,玛拉顿,LootCollector.L10n
-753,BlackrockCaverns,Blackrock Caverns,黑石岩窟,AscensionCN.Dict
-755,BlackwingLair,Blackwing Lair,黑翼之巢,AscensionCN.Dict
-756,TheDeadmines,The Deadmines,死亡矿井,LootCollector.L10n
-760,RazorfenDowns,Razorfen Downs,剃刀高地,LootCollector.L10n
-761,RazorfenKraul,Razorfen Kraul,剃刀沼泽,LootCollector.L10n
-762,ScarletMonastery,Scarlet Monastery,血色修道院,AscensionCN.Dict
-763,Scholomance,Scholomance,通灵学院,AscensionCN.Dict
-764,ShadowfangKeep,Shadowfang Keep,影牙城堡,AscensionCN.Dict
-765,Stratholme,Stratholme,斯坦索姆,AscensionCN.Dict
-766,AhnQiraj,Temple of Ahn'Qiraj,安其拉神殿,AscensionCN.Dict
-775,CoTMountHyjal,Hyjal Summit,海加尔峰,AscensionCN.Dict
-776,GruulsLair,Gruul's Lair,格鲁尔的巢穴,LootCollector.L10n
-779,MagtheridonsLair,Magtheridon's Lair,玛瑟里顿的巢穴,LootCollector.L10n
-780,CoilfangReservoir,Serpentshrine Cavern,毒蛇神殿,LootCollector.L10n
-781,ZulAman,Zul'Aman,祖阿曼,AscensionCN.Dict
-782,TempestKeep,Tempest Keep,风暴要塞,AscensionCN.Dict
-789,SunwellPlateau,Sunwell Plateau,太阳之井高地,AscensionCN.Dict
-793,ZulGurub,Zul'Gurub,祖尔格拉布,AscensionCN.Dict
-796,BlackTemple,Black Temple,黑暗神殿,AscensionCN.Dict
-797,HellfireRamparts,Hellfire Ramparts,地狱火壁垒,LootCollector.L10n
-798,MagistersTerrace,Magisters' Terrace,魔导师平台,AscensionCN.Dict
-799,Karazhan,Karazhan,卡拉赞,AscensionCN.Dict
-800,Stormwind,Stormwind,暴风城,AscensionCN.Dict
-801,Ogrimmar,Ogrimmar,奥格瑞玛,地图暂译
-820,HillsbradFoothillsBG,HillsbradFoothillsBG,希尔斯布莱德丘陵战场,地图暂译
-856,TempleofKotmogu,TempleofKotmogu,寇魔古寺,地图暂译
-1000,RedridgeMountainsManastorm,RedridgeMountainsManastorm,赤脊山(魔法风暴),LootCollector.L10n
-1001,AlteracMountainsManastorm,AlteracMountainsManastorm,奥特兰克山脉(魔法风暴),LootCollector.L10n
-1002,BlastedLandsManastorm,BlastedLandsManastorm,诅咒之地(魔法风暴),LootCollector.L10n
-1003,EasternPlaguelandsManastorm,EasternPlaguelandsManastorm,东瘟疫之地(魔法风暴),LootCollector.L10n
-1004,FeralasManastorm,FeralasManastorm,菲拉斯(魔法风暴),LootCollector.L10n
-1005,HillsbradFoothillsManastorm,HillsbradFoothillsManastorm,希尔斯布莱德丘陵(魔法风暴),LootCollector.L10n
-1006,SilverpineForestManastorm,SilverpineForestManastorm,银松森林(魔法风暴),LootCollector.L10n
-1007,TanarisManastorm,TanarisManastorm,塔纳利斯(魔法风暴),LootCollector.L10n
-1008,WesternPlaguelandsManastorm,WesternPlaguelandsManastorm,西瘟疫之地(魔法风暴),LootCollector.L10n
-1009,WestfallManastorm,WestfallManastorm,西部荒野(魔法风暴),LootCollector.L10n
-1010,WinterSpringManastorm,WinterSpringManastorm,冬泉谷(魔法风暴),LootCollector.L10n
-1139,ArathiBasinWinter,Arathi Basin Winter,阿拉希盆地：冬季,AscensionCN.Dict
-1140,WarsongGulchWinter,Warsong Gulch Winter,战歌峡谷：冬季,AscensionCN.Dict
-1141,TwistingNetherMap,Twisting Nether Map,扭曲虚空地图,LootCollector.L10n
-1142,TwistingNetherMap,Twisting Nether Map,扭曲虚空地图,LootCollector.L10n
-1143,TwistingNetherMap,Twisting Nether Map,扭曲虚空地图,LootCollector.L10n
-1144,ForgottenMine,Forgotten Mine,遗忘矿洞,AscensionCN.Dict
-1200,wailingcavernsbarrens,Wailing Caverns (Entrance),哀嚎洞穴(入口),LootCollector.L10n
-1201,scarletmonasteryentrance,Scarlet Monastery (Entrance),血色修道院(入口),LootCollector.L10n
-1202,cavernsoftimein,Caverns of Time (Interior),时光之穴(内部),LootCollector.L10n
-1203,cavernsoftime,Caverns of Time,时光之穴,LootCollector.L10n
-1204,blackrockmountain,Blackrock Mountain,黑石山,AscensionCN.Dict
-1205,upperblackrockmountain,Upper Blackrock Mountain,黑石山上层,LootCollector.L10n
-1206,lowerblackrockmountain,Lower Blackrock Mountain,黑石山下层,LootCollector.L10n
-1207,maraudonorange,Maraudon (Orange),玛拉顿(橙色),LootCollector.L10n
-1208,maraudonpurple,Maraudon (Purple),玛拉顿(紫色),LootCollector.L10n
-1209,Uldamanin,Uldaman (Entrance),奥达曼(入口),LootCollector.L10n
-1210,stillpinehold,Stillpine Hold,止松要塞,AscensionCN.Dict
-1211,tideshollow,Tides' Hollow,海潮洞窟,AscensionCN.Dict
-1212,nightwebshollow,Night Web's Hollow,夜行蜘蛛洞穴,AscensionCN.Dict
-1213,golbolarquarry,Gol'Bolar Quarry,古博拉采掘场,AscensionCN.Dict
-1214,coldridgepass,Coldridge Pass,寒脊山小径,AscensionCN.Dict
-1215,thegrizzledden,The Grizzled Den,灰色洞穴,AscensionCN.Dict
-1216,burningbladecoven,Burning Blade Coven,火刃集会所,AscensionCN.Dict
-1217,dustwindcave,Dustwind Cave,尘风洞穴,AscensionCN.Dict
-1218,skullrock,Skull Rock,骷髅石,AscensionCN.Dict
-1219,Upperfargodeepmine,Fargodeep Mine (Upper),法戈第矿洞(上层),LootCollector.L10n
-1220,Lowerfargodeepmine,Fargodeep Mine (Lower),法戈第矿洞(下层),LootCollector.L10n
-1221,jasperlodemine,Jasperlode Mine,玉石矿洞,AscensionCN.Dict
-1222,amanicatacombs,Amani Catacombs,阿曼尼墓穴,AscensionCN.Dict
-1223,palemanerock,Palemane Rock,白鬃石,AscensionCN.Dict
-1224,theventurecomine,The Venture Co. Mine,风险投资公司矿洞,AscensionCN.Dict
-1225,echoridgemine,Echo Ridge Mine,回音山矿洞,AscensionCN.Dict
-1226,twilightsrun,Twilight's Run,暮光小径,AscensionCN.Dict
-1227,thenoxiouslair,The Noxious Lair,腐化之巢,AscensionCN.Dict
-1228,thegapingchasm,The Gaping Chasm,大裂口,AscensionCN.Dict
-1229,Upperbanethilbarrowden,Ban'ethil Barrow Den (Upper),班尼希尔兽穴(上层),LootCollector.L10n
-1230,Lowerbanethilbarrowden,Ban'ethil Barrow Den (Lower),班尼希尔兽穴(下层),LootCollector.L10n
-1231,felrock,Fel Rock,地狱石,AscensionCN.Dict
-1232,shadowthreadcave,Shadowthread Cave,黑丝洞,AscensionCN.Dict
-1233,theslitheringscar,The Slithering Scar,巨痕谷,AscensionCN.Dict
-1234,deadmineswestfall,The Deadmines (Entrance),死亡矿井(入口),LootCollector.L10n
-1235,goldcoastquarry,Gold Coast Quarry,金海岸矿洞,AscensionCN.Dict
-1236,jangolodemine,Jangolode Mine,詹戈洛德矿洞,AscensionCN.Dict
-1237,northshire,Northshire Valley,北郡山谷,AscensionCN.Dict
-1238,coldridgevalley,Coldridge Valley,寒脊山谷,AscensionCN.Dict
-1239,deathknellstart,Deathknell,丧钟镇,AscensionCN.Dict
-1240,sunstriderislestart,Sunstrider Isle,逐日岛,AscensionCN.Dict
-1241,ammenvalestart,Ammen Vale,埃门谷,AscensionCN.Dict
-1242,shadowglenstart,Shadowglen,幽影谷,AscensionCN.Dict
-1243,valleyoftrialsstart,Valley of Trials,试炼谷,AscensionCN.Dict
-1244,campnarachestart,Camp Narache,纳拉其营地,AscensionCN.Dict
-2000,SpellDevMap,SpellDevMap,法术开发地图,AscensionCN.Dict
-2001,AlvaEncounter,AlvaEncounter,阿尔瓦遭遇战,LootCollector.L10n
-2002,warsonggulchupdate,Warsong Gulch (Updated),战歌峡谷(更新),LootCollector.L10n
-2003,arathibasinupdate,Arathi Basin (Updated),阿拉希盆地(更新),LootCollector.L10n
-2004,StormwindSewers,Stormwind Sewers,暴风城下水道,AscensionCN.Dict
-2005,osrs4,osrs4,osrs4（内部地图）,地图暂译
-2007,TirisFortress,Tiris Fortress,提里斯堡垒,LootCollector.L10n
-2008,zamasucombat,zamasucombat,扎马斯战斗,LootCollector.L10n
-2009,AzzarFaire,AzzarFaire,阿扎尔集市,LootCollector.L10n
-2010,AzzarFaire2,AzzarFaire2,阿扎尔集市2,LootCollector.L10n
-2011,tolbarad,Tol Barad,托巴拉德,LootCollector.L10n
-2012,KarazhanCrypts,Karazhan Crypts,卡拉赞地下墓穴,LootCollector.L10n
-2013,TwistingNetherMap,TwistingNetherMap,扭曲虚空地图,LootCollector.L10n
-2014,BloodmystIsleManastorm,BloodmystIsleManastorm,秘血岛(魔法风暴),LootCollector.L10n
-2015,GhostlandsManastorm,GhostlandsManastorm,幽魂之地(魔法风暴),LootCollector.L10n
-2016,HellfirePeninsulaManastorm,HellfirePeninsulaManastorm,地狱火半岛(魔法风暴),LootCollector.L10n
-2017,NagrandManastorm,NagrandManastorm,纳格兰(魔法风暴),LootCollector.L10n
-2018,ShadowmoonValleyManastorm,ShadowmoonValleyManastorm,影月谷(魔法风暴),LootCollector.L10n
-2019,ZangarmarshManastorm,ZangarmarshManastorm,赞加沼泽(魔法风暴),LootCollector.L10n
-2020,OrgrimmarDepths,Orgrimmar Depths,奥格瑞玛深渊,AscensionCN.Dict
-2021,thetempleofatalhakkar,The Temple of Atal'hakkar,阿塔哈卡神庙,LootCollector.L10n
-2022,Northrend2,Northrend2,诺森德2,LootCollector.L10n
-2023,deepruntram,Deeprun Tram,矿道地铁,LootCollector.L10n
-2024,TorWatha,Tor Watha,托瓦萨,LootCollector.L10n
-2025,OrgrimmarDepthsUnderroof,Orgrimmar Depths (Underroof),奥格瑞玛深处(地下),LootCollector.L10n
-2026,StormwindSewersShade,Stormwind Sewers (Shade),暴风城下水道(暗影),LootCollector.L10n
-2027,ShadewellSpring,Shadewell Spring,影井泉,AscensionCN.Dict
-2028,SecretInquisitorialDungeon,Secret Inquisitorial Dungeon,秘密审判地牢,AscensionCN.Dict
-2029,SinisterLair,Sinister Lair,险恶巢穴,AscensionCN.Dict
-2030,MoonlitOssuary,Moonlit Ossuary,月光藏骨堂,AscensionCN.Dict
-2031,Xorthal's Lair,Xorthal's Lair,索萨尔的巢穴,AscensionCN.Dict
-2032,DeepInquisitorialVaults,DeepInquisitorialVaults,深层审判地窟,地图暂译
-2033,VoodooRoadToDeOtherSide,VoodooRoadToDeOtherSide,通往彼界的巫毒之路,地图暂译
-2034,Silithusboss,Silithusboss,希利苏斯首领地图,地图暂译
-2035,Aszharaboss,Aszharaboss,艾萨拉首领地图,地图暂译
-2036,kazzakbossmap,kazzakbossmap,卡扎克首领地图,地图暂译
-2037,soggothbossmap,soggothbossmap,索苟斯首领地图,地图暂译
-2038,DepthbreakerHollow,DepthbreakerHollow,破渊者洞穴,地图暂译
-2039,DepthbreakerHollow,DepthbreakerHollow,破渊者洞穴,地图暂译
-2040,Emerissbossmap,Emerissbossmap,艾莫莉丝首领地图,地图暂译
-2041,Taerarbossmap,Taerarbossmap,泰拉尔首领地图,地图暂译
-2042,Ysondrebossmap,Ysondrebossmap,伊森德雷首领地图,地图暂译
-2043,Lethonbossmap,Lethonbossmap,莱索恩首领地图,地图暂译
-2044,Minigamesmap,Minigamesmap,迷你游戏地图,地图暂译
-2045,Rainbowrace,Rainbowrace,彩虹竞速,地图暂译
-2046,MinigamesWonka,MinigamesWonka,旺卡迷你游戏,地图暂译
-2047,Minigamesvoid,Minigamesvoid,虚空迷你游戏,地图暂译
-2048,MinigamesDuckHunt,MinigamesDuckHunt,猎鸭迷你游戏,地图暂译
-2049,MinigamesBulletRomper,MinigamesBulletRomper,弹幕迷你游戏,地图暂译
-2050,MinigamesVerticalAscend,MinigamesVerticalAscend,垂直攀登,地图暂译
-2051,MinigamesKulTiranAscent,MinigamesKulTiranAscent,库尔提拉斯攀登,地图暂译
-2052,MinigamesMechagnomicAscent,MinigamesMechagnomicAscent,机械侏儒攀登,地图暂译
-2053,MinigamesVolcanicAscent,MinigamesVolcanicAscent,火山攀登,地图暂译
-2054,MinigamesNagaAscent,MinigamesNagaAscent,纳迦攀登,地图暂译
-2055,MinigamesZandalariAscent,MinigamesZandalariAscent,赞达拉攀登,地图暂译
-2056,MinigamesLegionAscent,MinigamesLegionAscent,军团攀登,地图暂译
-2057,MinigamesDarkIronAscent,MinigamesDarkIronAscent,黑铁攀登,地图暂译
-2058,MinigamesEmeraldAscent,MinigamesEmeraldAscent,翡翠攀登,地图暂译
-2059,MinigamesTitanicAscent,MinigamesTitanicAscent,泰坦攀登,地图暂译
-2060,Frostgiantnbossmap,Frostgiantnbossmap,冰霜巨人首领地图,地图暂译
-2061,EasternPlaguelandsboss,EasternPlaguelandsboss,东瘟疫之地首领地图,地图暂译
-2062,Scadeald,Scadeald,斯卡迪尔德,地图暂译
-2063,Palehorn,Palehorn,苍角,地图暂译
-2064,AdtDevMap,AdtDevMap,ADT开发地图,AscensionCN.Dict
-2065,FadingIsland,FadingIsland,渐隐之岛,地图暂译
-2066,DunKazad,DunKazad,丹卡扎德,地图暂译
-2067,ShadowboneDepths,ShadowboneDepths,影骨深窟,地图暂译
-2068,Underworld,Underworld,冥界,AscensionCN.Dict
-2069,Underworld,Underworld,冥界,AscensionCN.Dict
-2070,Underworld2,Underworld2,地下世界 2,地图暂译
-2071,dreamlikedream,dreamlikedream,如梦幻境,地图暂译
-2072,dreamlikedungeon,dreamlikedungeon,如梦地城,地图暂译
-2073,Templeofembers,Templeofembers,余烬神殿,地图暂译
-2074,Drukthar,Drukthar,德鲁克萨尔,地图暂译
-3039,DepthbreakerHollow,DepthbreakerHollow,破渊者洞穴,地图暂译
-3040,CoaSpellVisuals,CoaSpellVisuals,CoA 法术视觉测试地图,地图暂译
-3041,Zanzasisle,Zanzasisle,赞扎之岛,地图暂译
-3042,Akhen City Ruins,Akhen City Ruins,阿肯城废墟,AscensionCN.Dict
-3043,DepthbreakerHollow,DepthbreakerHollow,破渊者洞穴,地图暂译
+wma_id,name_en,display_name_en,name_zhCN
+4,Durotar,Durotar,杜隆塔尔
+9,Mulgore,Mulgore,莫高雷
+11,Barrens,The Barrens,贫瘠之地
+13,Kalimdor,Kalimdor,卡利姆多
+14,Azeroth,Eastern Kingdoms,东部王国
+15,Alterac,Alterac Mountains,奥特兰克山脉
+16,Arathi,Arathi Highlands,阿拉希高地
+17,Badlands,Badlands,荒芜之地
+19,BlastedLands,Blasted Lands,诅咒之地
+20,Tirisfal,Tirisfal Glades,提瑞斯法林地
+21,Silverpine,Silverpine Forest,银松森林
+22,WesternPlaguelands,Western Plaguelands,西瘟疫之地
+23,EasternPlaguelands,Eastern Plaguelands,东瘟疫之地
+24,Hilsbrad,Hillsbrad Foothills,希尔斯布莱德丘陵
+26,Hinterlands,The Hinterlands,辛特兰
+27,DunMorogh,Dun Morogh,丹莫罗
+28,SearingGorge,Searing Gorge,灼热峡谷
+29,BurningSteppes,Burning Steppes,燃烧平原
+30,Elwynn,Elwynn Forest,艾尔文森林
+32,DeadwindPass,Deadwind Pass,逆风小径
+34,Duskwood,Duskwood,暮色森林
+35,LochModan,Loch Modan,洛克莫丹
+36,Redridge,Redridge Mountains,赤脊山
+37,Stranglethorn,Stranglethorn Vale,荆棘谷
+38,SwampOfSorrows,Swamp of Sorrows,悲伤沼泽
+39,Westfall,Westfall,西部荒野
+40,Wetlands,Wetlands,湿地
+41,Teldrassil,Teldrassil,泰达希尔
+42,Darkshore,Darkshore,黑海岸
+43,Ashenvale,Ashenvale,灰谷
+61,ThousandNeedles,Thousand Needles,千针石林
+81,StonetalonMountains,Stonetalon Mountains,石爪山脉
+101,Desolace,Desolace,凄凉之地
+121,Feralas,Feralas,菲拉斯
+141,Dustwallow,Dustwallow Marsh,尘泥沼泽
+161,Tanaris,Tanaris,塔纳利斯
+181,Aszhara,Azshara,艾萨拉
+182,Felwood,Felwood,费伍德森林
+201,UngoroCrater,Un'Goro Crater,安戈洛环形山
+241,Moonglade,Moonglade,月光林地
+261,Silithus,Silithus,希利苏斯
+281,Winterspring,Winterspring,冬泉谷
+301,Stormwind,Stormwind City,暴风城
+321,Ogrimmar,Orgrimmar,奥格瑞玛
+341,Ironforge,Ironforge,铁炉堡
+362,ThunderBluff,Thunder Bluff,雷霆崖
+381,Darnassis,Darnassus,达纳苏斯
+382,Undercity,Undercity,幽暗城
+401,AlteracValley,Alterac Valley,奥特兰克山谷
+443,WarsongGulch,Warsong Gulch,战歌峡谷
+461,ArathiBasin,Arathi Basin,阿拉希盆地
+462,EversongWoods,Eversong Woods,永歌森林
+463,Ghostlands,Ghostlands,幽魂之地
+464,AzuremystIsle,Azuremyst Isle,秘蓝岛
+465,Hellfire,Hellfire Peninsula,地狱火半岛
+466,Expansion01,Expansion01,外域
+467,Zangarmarsh,Zangarmarsh,赞加沼泽
+471,TheExodar,The Exodar,埃索达
+473,ShadowmoonValley,Shadowmoon Valley,影月谷
+475,BladesEdgeMountains,Blade's Edge Mountains,刀锋山
+476,BloodmystIsle,Bloodmyst Isle,秘血岛
+477,Nagrand,Nagrand,纳格兰
+478,TerokkarForest,Terokkar Forest,泰罗卡森林
+479,Netherstorm,Netherstorm,虚空风暴
+480,SilvermoonCity,Silvermoon City,银月城
+481,ShattrathCity,Shattrath City,沙塔斯城
+482,NetherstormArena,Netherstorm Arena,风暴尖塔竞技场
+485,Northrend,Northrend,诺森德
+486,BoreanTundra,Borean Tundra,北风苔原
+488,Dragonblight,Dragonblight,龙骨荒野
+490,GrizzlyHills,Grizzly Hills,灰熊丘陵
+491,HowlingFjord,Howling Fjord,嚎风峡湾
+492,IcecrownGlacier,Icecrown,冰冠冰川
+493,SholazarBasin,Sholazar Basin,索拉查盆地
+495,TheStormPeaks,The Storm Peaks,风暴峭壁
+496,ZulDrak,Zul'Drak,祖达克
+499,Sunwell,Sunwell Plateau,太阳之井高地
+500,Silithus,Silithus,希利苏斯
+501,LakeWintergrasp,Wintergrasp,冬拥湖
+502,ScarletEnclave,Plaguelands: The Scarlet Enclave,东瘟疫之地：血色领地
+504,Dalaran,Dalaran,达拉然
+510,CrystalsongForest,Crystalsong Forest,晶歌森林
+512,StrandoftheAncients,Strand of the Ancients,远古海滩
+520,TheNexus,The Nexus,魔枢
+521,CoTStratholme,The Culling of Stratholme,净化斯坦索姆
+522,Ahnkahet,Ahn'kahet: The Old Kingdom,安卡赫特：古代王国
+523,UtgardeKeep,Utgarde Keep,乌特加德城堡
+524,UtgardePinnacle,Utgarde Pinnacle,乌特加德之巅
+525,HallsofLightning,Halls of Lightning,闪电大厅
+526,Ulduar77,Halls of Stone,岩石大厅
+527,TheEyeofEternity,The Eye of Eternity,永恒之眼
+528,Nexus80,The Oculus,魔环
+529,Ulduar,Ulduar,奥杜尔
+530,Gundrak,Gundrak,古达克
+531,TheObsidianSanctum,The Obsidian Sanctum,黑曜石圣殿
+532,VaultofArchavon,Vault of Archavon,阿尔卡冯的宝库
+533,AzjolNerub,Azjol-Nerub,艾卓-尼鲁布
+534,DrakTharonKeep,Drak'Tharon Keep,达克萨隆要塞
+535,Naxxramas,Naxxramas,纳克萨玛斯
+536,VioletHold,The Violet Hold,紫罗兰监狱
+537,Naxxramas,Naxxramas,纳克萨玛斯
+540,IsleofConquest,Isle of Conquest,征服之岛
+541,HrothgarsLanding,Hrothgar's Landing,洛斯加尔登陆点
+542,TheArgentColiseum,Trial of the Champion,冠军的试炼
+543,TheArgentColiseum,Trial of the Crusader,十字军的试炼
+601,TheForgeofSouls,The Forge of Souls,灵魂洪炉
+602,PitofSaron,Pit of Saron,萨隆矿坑
+603,HallsofReflection,Halls of Reflection,映像大厅
+604,IcecrownCitadel,Icecrown Citadel,冰冠堡垒
+609,TheRubySanctum,The Ruby Sanctum,红玉圣殿
+625,TwistingNetherMap,Twisting Nether,扭曲虚空
+626,TwinPeaks,Twin Peaks,双子峰
+666,ShadowfangKeep,Shadowfang Keep,影牙城堡
+680,Ragefire,Ragefire Chasm,怒焰裂谷
+686,ZulFarrak,Zul'Farrak,祖尔法拉克
+688,BlackfathomDeeps,Blackfathom Deeps,黑暗深渊
+690,TheStockade,The Stockade,监狱
+691,Gnomeregan,Gnomeregan,诺莫瑞根
+692,Uldaman,Uldaman,奥达曼
+696,MoltenCore,Molten Core,熔火之心
+697,ZulGurub,Zul'Gurub,祖尔格拉布
+699,DireMaul,Dire Maul,厄运之槌
+704,BlackrockDepths,Blackrock Depths,黑石深渊
+710,TheShatteredHalls,The Shattered Halls,破碎大厅
+717,RuinsofAhnQiraj,Ruins of Ahn'Qiraj,安其拉废墟
+718,OnyxiasLair,Onyxia's Lair,奥妮克希亚的巢穴
+720,Uldum,Uldum,奥丹姆
+721,BlackrockSpire,Blackrock Spire,黑石塔
+722,AuchenaiCrypts,Auchenai Crypts,奥金尼地穴
+723,SethekkHalls,Sethekk Halls,塞泰克大厅
+724,ShadowLabyrinth,Shadow Labyrinth,暗影迷宫
+725,TheBloodFurnace,The Blood Furnace,鲜血熔炉
+726,TheUnderbog,The Underbog,幽暗沼泽
+727,TheSteamvault,The Steamvault,蒸汽地窟
+728,TheSlavePens,The Slave Pens,奴隶围栏
+729,TheBotanica,The Botanica,生态船
+730,TheMechanar,The Mechanar,能源舰
+731,TheArcatraz,The Arcatraz,禁魔监狱
+732,ManaTombs,Mana-Tombs,法力陵墓
+733,CoTTheBlackMorass,The Black Morass,黑色沼泽
+734,CoTHillsbradFoothills,Old Hillsbrad Foothills,旧希尔斯布莱德丘陵
+749,WailingCaverns,Wailing Caverns,哀嚎洞穴
+750,Maraudon,Maraudon,玛拉顿
+753,BlackrockCaverns,Blackrock Caverns,黑石岩窟
+755,BlackwingLair,Blackwing Lair,黑翼之巢
+756,TheDeadmines,The Deadmines,死亡矿井
+760,RazorfenDowns,Razorfen Downs,剃刀高地
+761,RazorfenKraul,Razorfen Kraul,剃刀沼泽
+762,ScarletMonastery,Scarlet Monastery,血色修道院
+763,Scholomance,Scholomance,通灵学院
+764,ShadowfangKeep,Shadowfang Keep,影牙城堡
+765,Stratholme,Stratholme,斯坦索姆
+766,AhnQiraj,Temple of Ahn'Qiraj,安其拉神殿
+775,CoTMountHyjal,Hyjal Summit,海加尔峰
+776,GruulsLair,Gruul's Lair,格鲁尔的巢穴
+779,MagtheridonsLair,Magtheridon's Lair,玛瑟里顿的巢穴
+780,CoilfangReservoir,Serpentshrine Cavern,毒蛇神殿
+781,ZulAman,Zul'Aman,祖阿曼
+782,TempestKeep,Tempest Keep,风暴要塞
+789,SunwellPlateau,Sunwell Plateau,太阳之井高地
+793,ZulGurub,Zul'Gurub,祖尔格拉布
+796,BlackTemple,Black Temple,黑暗神殿
+797,HellfireRamparts,Hellfire Ramparts,地狱火壁垒
+798,MagistersTerrace,Magisters' Terrace,魔导师平台
+799,Karazhan,Karazhan,卡拉赞
+800,Stormwind,Stormwind,暴风城
+801,Ogrimmar,Ogrimmar,奥格瑞玛
+820,HillsbradFoothillsBG,HillsbradFoothillsBG,希尔斯布莱德丘陵战场
+856,TempleofKotmogu,TempleofKotmogu,寇魔古寺
+1000,RedridgeMountainsManastorm,RedridgeMountainsManastorm,赤脊山(魔法风暴)
+1001,AlteracMountainsManastorm,AlteracMountainsManastorm,奥特兰克山脉(魔法风暴)
+1002,BlastedLandsManastorm,BlastedLandsManastorm,诅咒之地(魔法风暴)
+1003,EasternPlaguelandsManastorm,EasternPlaguelandsManastorm,东瘟疫之地(魔法风暴)
+1004,FeralasManastorm,FeralasManastorm,菲拉斯(魔法风暴)
+1005,HillsbradFoothillsManastorm,HillsbradFoothillsManastorm,希尔斯布莱德丘陵(魔法风暴)
+1006,SilverpineForestManastorm,SilverpineForestManastorm,银松森林(魔法风暴)
+1007,TanarisManastorm,TanarisManastorm,塔纳利斯(魔法风暴)
+1008,WesternPlaguelandsManastorm,WesternPlaguelandsManastorm,西瘟疫之地(魔法风暴)
+1009,WestfallManastorm,WestfallManastorm,西部荒野(魔法风暴)
+1010,WinterSpringManastorm,WinterSpringManastorm,冬泉谷(魔法风暴)
+1139,ArathiBasinWinter,Arathi Basin Winter,阿拉希盆地：冬季
+1140,WarsongGulchWinter,Warsong Gulch Winter,战歌峡谷：冬季
+1141,TwistingNetherMap,Twisting Nether Map,扭曲虚空地图
+1142,TwistingNetherMap,Twisting Nether Map,扭曲虚空地图
+1143,TwistingNetherMap,Twisting Nether Map,扭曲虚空地图
+1144,ForgottenMine,Forgotten Mine,遗忘矿洞
+1200,wailingcavernsbarrens,Wailing Caverns (Entrance),哀嚎洞穴(入口)
+1201,scarletmonasteryentrance,Scarlet Monastery (Entrance),血色修道院(入口)
+1202,cavernsoftimein,Caverns of Time (Interior),时光之穴(内部)
+1203,cavernsoftime,Caverns of Time,时光之穴
+1204,blackrockmountain,Blackrock Mountain,黑石山
+1205,upperblackrockmountain,Upper Blackrock Mountain,黑石山上层
+1206,lowerblackrockmountain,Lower Blackrock Mountain,黑石山下层
+1207,maraudonorange,Maraudon (Orange),玛拉顿(橙色)
+1208,maraudonpurple,Maraudon (Purple),玛拉顿(紫色)
+1209,Uldamanin,Uldaman (Entrance),奥达曼(入口)
+1210,stillpinehold,Stillpine Hold,止松要塞
+1211,tideshollow,Tides' Hollow,海潮洞窟
+1212,nightwebshollow,Night Web's Hollow,夜行蜘蛛洞穴
+1213,golbolarquarry,Gol'Bolar Quarry,古博拉采掘场
+1214,coldridgepass,Coldridge Pass,寒脊山小径
+1215,thegrizzledden,The Grizzled Den,灰色洞穴
+1216,burningbladecoven,Burning Blade Coven,火刃集会所
+1217,dustwindcave,Dustwind Cave,尘风洞穴
+1218,skullrock,Skull Rock,骷髅石
+1219,Upperfargodeepmine,Fargodeep Mine (Upper),法戈第矿洞(上层)
+1220,Lowerfargodeepmine,Fargodeep Mine (Lower),法戈第矿洞(下层)
+1221,jasperlodemine,Jasperlode Mine,玉石矿洞
+1222,amanicatacombs,Amani Catacombs,阿曼尼墓穴
+1223,palemanerock,Palemane Rock,白鬃石
+1224,theventurecomine,The Venture Co. Mine,风险投资公司矿洞
+1225,echoridgemine,Echo Ridge Mine,回音山矿洞
+1226,twilightsrun,Twilight's Run,暮光小径
+1227,thenoxiouslair,The Noxious Lair,腐化之巢
+1228,thegapingchasm,The Gaping Chasm,大裂口
+1229,Upperbanethilbarrowden,Ban'ethil Barrow Den (Upper),班尼希尔兽穴(上层)
+1230,Lowerbanethilbarrowden,Ban'ethil Barrow Den (Lower),班尼希尔兽穴(下层)
+1231,felrock,Fel Rock,地狱石
+1232,shadowthreadcave,Shadowthread Cave,黑丝洞
+1233,theslitheringscar,The Slithering Scar,巨痕谷
+1234,deadmineswestfall,The Deadmines (Entrance),死亡矿井(入口)
+1235,goldcoastquarry,Gold Coast Quarry,金海岸矿洞
+1236,jangolodemine,Jangolode Mine,詹戈洛德矿洞
+1237,northshire,Northshire Valley,北郡山谷
+1238,coldridgevalley,Coldridge Valley,寒脊山谷
+1239,deathknellstart,Deathknell,丧钟镇
+1240,sunstriderislestart,Sunstrider Isle,逐日岛
+1241,ammenvalestart,Ammen Vale,埃门谷
+1242,shadowglenstart,Shadowglen,幽影谷
+1243,valleyoftrialsstart,Valley of Trials,试炼谷
+1244,campnarachestart,Camp Narache,纳拉其营地
+2000,SpellDevMap,SpellDevMap,法术开发地图
+2001,AlvaEncounter,AlvaEncounter,阿尔瓦遭遇战
+2002,warsonggulchupdate,Warsong Gulch (Updated),战歌峡谷(更新)
+2003,arathibasinupdate,Arathi Basin (Updated),阿拉希盆地(更新)
+2004,StormwindSewers,Stormwind Sewers,暴风城下水道
+2005,osrs4,osrs4,osrs4（内部地图）
+2007,TirisFortress,Tiris Fortress,提里斯堡垒
+2008,zamasucombat,zamasucombat,扎马斯战斗
+2009,AzzarFaire,AzzarFaire,阿扎尔集市
+2010,AzzarFaire2,AzzarFaire2,阿扎尔集市2
+2011,tolbarad,Tol Barad,托巴拉德
+2012,KarazhanCrypts,Karazhan Crypts,卡拉赞地下墓穴
+2013,TwistingNetherMap,TwistingNetherMap,扭曲虚空地图
+2014,BloodmystIsleManastorm,BloodmystIsleManastorm,秘血岛(魔法风暴)
+2015,GhostlandsManastorm,GhostlandsManastorm,幽魂之地(魔法风暴)
+2016,HellfirePeninsulaManastorm,HellfirePeninsulaManastorm,地狱火半岛(魔法风暴)
+2017,NagrandManastorm,NagrandManastorm,纳格兰(魔法风暴)
+2018,ShadowmoonValleyManastorm,ShadowmoonValleyManastorm,影月谷(魔法风暴)
+2019,ZangarmarshManastorm,ZangarmarshManastorm,赞加沼泽(魔法风暴)
+2020,OrgrimmarDepths,Orgrimmar Depths,奥格瑞玛深渊
+2021,thetempleofatalhakkar,The Temple of Atal'hakkar,阿塔哈卡神庙
+2022,Northrend2,Northrend2,诺森德2
+2023,deepruntram,Deeprun Tram,矿道地铁
+2024,TorWatha,Tor Watha,托瓦萨
+2025,OrgrimmarDepthsUnderroof,Orgrimmar Depths (Underroof),奥格瑞玛深处(地下)
+2026,StormwindSewersShade,Stormwind Sewers (Shade),暴风城下水道(暗影)
+2027,ShadewellSpring,Shadewell Spring,影井泉
+2028,SecretInquisitorialDungeon,Secret Inquisitorial Dungeon,秘密审判地牢
+2029,SinisterLair,Sinister Lair,险恶巢穴
+2030,MoonlitOssuary,Moonlit Ossuary,月光藏骨堂
+2031,Xorthal's Lair,Xorthal's Lair,索萨尔的巢穴
+2032,DeepInquisitorialVaults,DeepInquisitorialVaults,深层审判地窟
+2033,VoodooRoadToDeOtherSide,VoodooRoadToDeOtherSide,通往彼界的巫毒之路
+2034,Silithusboss,Silithusboss,希利苏斯首领地图
+2035,Aszharaboss,Aszharaboss,艾萨拉首领地图
+2036,kazzakbossmap,kazzakbossmap,卡扎克首领地图
+2037,soggothbossmap,soggothbossmap,索苟斯首领地图
+2038,DepthbreakerHollow,DepthbreakerHollow,破渊者洞穴
+2039,DepthbreakerHollow,DepthbreakerHollow,破渊者洞穴
+2040,Emerissbossmap,Emerissbossmap,艾莫莉丝首领地图
+2041,Taerarbossmap,Taerarbossmap,泰拉尔首领地图
+2042,Ysondrebossmap,Ysondrebossmap,伊森德雷首领地图
+2043,Lethonbossmap,Lethonbossmap,莱索恩首领地图
+2044,Minigamesmap,Minigamesmap,迷你游戏地图
+2045,Rainbowrace,Rainbowrace,彩虹竞速
+2046,MinigamesWonka,MinigamesWonka,旺卡迷你游戏
+2047,Minigamesvoid,Minigamesvoid,虚空迷你游戏
+2048,MinigamesDuckHunt,MinigamesDuckHunt,猎鸭迷你游戏
+2049,MinigamesBulletRomper,MinigamesBulletRomper,弹幕迷你游戏
+2050,MinigamesVerticalAscend,MinigamesVerticalAscend,垂直攀登
+2051,MinigamesKulTiranAscent,MinigamesKulTiranAscent,库尔提拉斯攀登
+2052,MinigamesMechagnomicAscent,MinigamesMechagnomicAscent,机械侏儒攀登
+2053,MinigamesVolcanicAscent,MinigamesVolcanicAscent,火山攀登
+2054,MinigamesNagaAscent,MinigamesNagaAscent,纳迦攀登
+2055,MinigamesZandalariAscent,MinigamesZandalariAscent,赞达拉攀登
+2056,MinigamesLegionAscent,MinigamesLegionAscent,军团攀登
+2057,MinigamesDarkIronAscent,MinigamesDarkIronAscent,黑铁攀登
+2058,MinigamesEmeraldAscent,MinigamesEmeraldAscent,翡翠攀登
+2059,MinigamesTitanicAscent,MinigamesTitanicAscent,泰坦攀登
+2060,Frostgiantnbossmap,Frostgiantnbossmap,冰霜巨人首领地图
+2061,EasternPlaguelandsboss,EasternPlaguelandsboss,东瘟疫之地首领地图
+2062,Scadeald,Scadeald,斯卡迪尔德
+2063,Palehorn,Palehorn,苍角
+2064,AdtDevMap,AdtDevMap,ADT开发地图
+2065,FadingIsland,FadingIsland,渐隐之岛
+2066,DunKazad,DunKazad,丹卡扎德
+2067,ShadowboneDepths,ShadowboneDepths,影骨深窟
+2068,Underworld,Underworld,冥界
+2069,Underworld,Underworld,冥界
+2070,Underworld2,Underworld2,地下世界 2
+2071,dreamlikedream,dreamlikedream,如梦幻境
+2072,dreamlikedungeon,dreamlikedungeon,如梦地城
+2073,Templeofembers,Templeofembers,余烬神殿
+2074,Drukthar,Drukthar,德鲁克萨尔
+3039,DepthbreakerHollow,DepthbreakerHollow,破渊者洞穴
+3040,CoaSpellVisuals,CoaSpellVisuals,CoA 法术视觉测试地图
+3041,Zanzasisle,Zanzasisle,赞扎之岛
+3042,Akhen City Ruins,Akhen City Ruins,阿肯城废墟
+3043,DepthbreakerHollow,DepthbreakerHollow,破渊者洞穴
